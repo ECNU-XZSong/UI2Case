@@ -1,0 +1,684 @@
+{
+  "Page_0": [
+    {
+      "class": "AspectRatioImageView",
+      "text": null,
+      "resource_id": "swipe_menu_activity_content",
+      "bounds": [
+        0,
+        84,
+        1440,
+        2392
+      ],
+      "clickable": false,
+      "semantic_label": null
+    },
+    {
+      "class": "o",
+      "text": null,
+      "resource_id": null,
+      "bounds": [
+        160,
+        2199,
+        1280,
+        2374
+      ],
+      "clickable": true,
+      "semantic_label": null
+    },
+    {
+      "class": "View",
+      "text": null,
+      "resource_id": null,
+      "bounds": [
+        0,
+        84,
+        1440,
+        399
+      ],
+      "clickable": false,
+      "semantic_label": null
+    },
+    {
+      "class": "ImageView",
+      "text": null,
+      "resource_id": "article_icon",
+      "bounds": [
+        4,
+        402,
+        1436,
+        1067
+      ],
+      "clickable": false,
+      "semantic_label": null
+    },
+    {
+      "class": "TextView",
+      "text": "Pelea callejera acaba de una manera inesperada",
+      "resource_id": "article_title",
+      "bounds": [
+        4,
+        1067,
+        1436,
+        1266
+      ],
+      "clickable": false,
+      "semantic_label": null
+    },
+    {
+      "class": "TextView",
+      "text": "Lupe García el 23/03/2017",
+      "resource_id": "article_subtitle",
+      "bounds": [
+        4,
+        1266,
+        1436,
+        1362
+      ],
+      "clickable": false,
+      "semantic_label": null
+    },
+    {
+      "class": "ImageView",
+      "text": null,
+      "resource_id": "arrow",
+      "bounds": [
+        4,
+        1021,
+        169,
+        1067
+      ],
+      "clickable": false,
+      "semantic_label": null
+    },
+    {
+      "class": "View",
+      "text": null,
+      "resource_id": "border_top",
+      "bounds": [
+        0,
+        398,
+        1440,
+        402
+      ],
+      "clickable": false,
+      "semantic_label": null
+    },
+    {
+      "class": "View",
+      "text": null,
+      "resource_id": "border_bottom",
+      "bounds": [
+        0,
+        1362,
+        1440,
+        1366
+      ],
+      "clickable": false,
+      "semantic_label": null
+    },
+    {
+      "class": "View",
+      "text": null,
+      "resource_id": "border_left",
+      "bounds": [
+        0,
+        398,
+        4,
+        1366
+      ],
+      "clickable": false,
+      "semantic_label": null
+    },
+    {
+      "class": "View",
+      "text": null,
+      "resource_id": "border_right",
+      "bounds": [
+        1436,
+        398,
+        1440,
+        1366
+      ],
+      "clickable": false,
+      "semantic_label": null
+    },
+    {
+      "class": "ImageView",
+      "text": null,
+      "resource_id": "article_icon",
+      "bounds": [
+        4,
+        1411,
+        1436,
+        2076
+      ],
+      "clickable": true,
+      "semantic_label": null
+    },
+    {
+      "class": "TextView",
+      "text": "Summer is Coming - Register for Camp at Gymtime",
+      "resource_id": "article_title",
+      "bounds": [
+        4,
+        2076,
+        1115,
+        2199
+      ],
+      "clickable": true,
+      "semantic_label": null
+    },
+    {
+      "class": "TextView",
+      "text": "Learn More",
+      "resource_id": "article_cta",
+      "bounds": [
+        1115,
+        2101,
+        1411,
+        2199
+      ],
+      "clickable": true,
+      "semantic_label": null
+    },
+    {
+      "class": "ImageView",
+      "text": null,
+      "resource_id": "arrow",
+      "bounds": [
+        4,
+        2030,
+        169,
+        2076
+      ],
+      "clickable": true,
+      "semantic_label": null
+    },
+    {
+      "class": "View",
+      "text": null,
+      "resource_id": "border_top",
+      "bounds": [
+        0,
+        1407,
+        1440,
+        1411
+      ],
+      "clickable": true,
+      "semantic_label": null
+    },
+    {
+      "class": "View",
+      "text": null,
+      "resource_id": "border_left",
+      "bounds": [
+        0,
+        1407,
+        4,
+        2199
+      ],
+      "clickable": true,
+      "semantic_label": null
+    },
+    {
+      "class": "View",
+      "text": null,
+      "resource_id": "border_right",
+      "bounds": [
+        1436,
+        1407,
+        1440,
+        2199
+      ],
+      "clickable": true,
+      "semantic_label": null
+    },
+    {
+      "class": "ImageView",
+      "text": null,
+      "resource_id": "under_navbar",
+      "bounds": [
+        0,
+        84,
+        1440,
+        399
+      ],
+      "clickable": false,
+      "semantic_label": null
+    },
+    {
+      "class": "CircleBandItem",
+      "text": "Todo",
+      "resource_id": null,
+      "bounds": [
+        0,
+        252,
+        245,
+        399
+      ],
+      "clickable": true,
+      "semantic_label": null
+    },
+    {
+      "class": "View",
+      "text": null,
+      "resource_id": null,
+      "bounds": [
+        245,
+        252,
+        246,
+        399
+      ],
+      "clickable": false,
+      "semantic_label": null
+    },
+    {
+      "class": "CircleBandItem",
+      "text": "Política",
+      "resource_id": null,
+      "bounds": [
+        246,
+        252,
+        491,
+        399
+      ],
+      "clickable": true,
+      "semantic_label": null
+    },
+    {
+      "class": "View",
+      "text": null,
+      "resource_id": null,
+      "bounds": [
+        491,
+        252,
+        492,
+        399
+      ],
+      "clickable": false,
+      "semantic_label": null
+    },
+    {
+      "class": "CircleBandItem",
+      "text": "Cultura",
+      "resource_id": null,
+      "bounds": [
+        492,
+        252,
+        737,
+        399
+      ],
+      "clickable": true,
+      "semantic_label": null
+    },
+    {
+      "class": "View",
+      "text": null,
+      "resource_id": null,
+      "bounds": [
+        737,
+        252,
+        738,
+        399
+      ],
+      "clickable": false,
+      "semantic_label": null
+    },
+    {
+      "class": "CircleBandItem",
+      "text": "Turismo",
+      "resource_id": null,
+      "bounds": [
+        738,
+        252,
+        983,
+        399
+      ],
+      "clickable": true,
+      "semantic_label": null
+    },
+    {
+      "class": "View",
+      "text": null,
+      "resource_id": null,
+      "bounds": [
+        983,
+        252,
+        984,
+        399
+      ],
+      "clickable": false,
+      "semantic_label": null
+    },
+    {
+      "class": "CircleBandItem",
+      "text": "Opinión",
+      "resource_id": null,
+      "bounds": [
+        984,
+        252,
+        1229,
+        399
+      ],
+      "clickable": true,
+      "semantic_label": null
+    },
+    {
+      "class": "View",
+      "text": null,
+      "resource_id": null,
+      "bounds": [
+        1229,
+        252,
+        1230,
+        399
+      ],
+      "clickable": false,
+      "semantic_label": null
+    },
+    {
+      "class": "CircleBandItem",
+      "text": "Sociedad",
+      "resource_id": null,
+      "bounds": [
+        1230,
+        252,
+        1440,
+        399
+      ],
+      "clickable": true,
+      "semantic_label": null
+    },
+    {
+      "class": "ImageView",
+      "text": null,
+      "resource_id": "template_navbar_banner",
+      "bounds": [
+        0,
+        84,
+        1440,
+        252
+      ],
+      "clickable": false,
+      "semantic_label": null
+    },
+    {
+      "class": "ImageView",
+      "text": null,
+      "resource_id": "template_navbar_title_image",
+      "bounds": [
+        495,
+        95,
+        945,
+        241
+      ],
+      "clickable": false,
+      "semantic_label": null
+    },
+    {
+      "class": "ImageView",
+      "text": null,
+      "resource_id": "navbar_button_icon",
+      "bounds": [
+        36,
+        115,
+        104,
+        220
+      ],
+      "clickable": false,
+      "semantic_label": null
+    },
+    {
+      "class": "View",
+      "text": null,
+      "resource_id": "navigationBarBackground",
+      "bounds": [
+        0,
+        2392,
+        1440,
+        2560
+      ],
+      "clickable": false,
+      "semantic_label": null
+    },
+    {
+      "class": "View",
+      "text": null,
+      "resource_id": "statusBarBackground",
+      "bounds": [
+        0,
+        0,
+        1440,
+        84
+      ],
+      "clickable": false,
+      "semantic_label": null
+    }
+  ],
+  "Page_2": [
+    {
+      "class": "AspectRatioImageView",
+      "text": null,
+      "resource_id": "main_background",
+      "bounds": [
+        0,
+        84,
+        1440,
+        2392
+      ],
+      "clickable": false,
+      "semantic_label": null
+    },
+    {
+      "class": "o",
+      "text": null,
+      "resource_id": null,
+      "bounds": [
+        160,
+        2006,
+        1280,
+        2181
+      ],
+      "clickable": true,
+      "semantic_label": null
+    },
+    {
+      "class": "ObservableWebView",
+      "text": null,
+      "resource_id": "article_webview",
+      "bounds": [
+        0,
+        84,
+        1440,
+        2006
+      ],
+      "clickable": true,
+      "semantic_label": null
+    },
+    {
+      "class": "ImageView",
+      "text": null,
+      "resource_id": "image_header",
+      "bounds": [
+        0,
+        84,
+        1440,
+        959
+      ],
+      "clickable": true,
+      "semantic_label": null
+    },
+    {
+      "class": "TextView",
+      "text": null,
+      "resource_id": "title_over_image",
+      "bounds": [
+        35,
+        858,
+        1405,
+        924
+      ],
+      "clickable": false,
+      "semantic_label": null
+    },
+    {
+      "class": "ImageView",
+      "text": null,
+      "resource_id": "template_navbar_banner",
+      "bounds": [
+        0,
+        84,
+        1440,
+        252
+      ],
+      "clickable": false,
+      "semantic_label": null
+    },
+    {
+      "class": "ImageView",
+      "text": null,
+      "resource_id": "navbar_button_icon",
+      "bounds": [
+        50,
+        115,
+        126,
+        220
+      ],
+      "clickable": false,
+      "semantic_label": null
+    },
+    {
+      "class": "ImageView",
+      "text": null,
+      "resource_id": "toolbar_background",
+      "bounds": [
+        0,
+        2199,
+        1440,
+        2392
+      ],
+      "clickable": false,
+      "semantic_label": null
+    },
+    {
+      "class": "ImageButton",
+      "text": null,
+      "resource_id": "toolbar_item",
+      "bounds": [
+        0,
+        2199,
+        720,
+        2392
+      ],
+      "clickable": true,
+      "semantic_label": null
+    },
+    {
+      "class": "ImageButton",
+      "text": null,
+      "resource_id": "toolbar_item",
+      "bounds": [
+        720,
+        2199,
+        1440,
+        2392
+      ],
+      "clickable": true,
+      "semantic_label": null
+    },
+    {
+      "class": "View",
+      "text": null,
+      "resource_id": "navigationBarBackground",
+      "bounds": [
+        0,
+        2392,
+        1440,
+        2560
+      ],
+      "clickable": false,
+      "semantic_label": null
+    },
+    {
+      "class": "View",
+      "text": null,
+      "resource_id": "statusBarBackground",
+      "bounds": [
+        0,
+        0,
+        1440,
+        84
+      ],
+      "clickable": false,
+      "semantic_label": null
+    }
+  ],
+  "Page_3": [
+    {
+      "class": "ImageView",
+      "text": null,
+      "resource_id": "favicon",
+      "bounds": [
+        54,
+        119,
+        166,
+        231
+      ],
+      "clickable": false,
+      "semantic_label": null
+    },
+    {
+      "class": "UrlInputView",
+      "text": "https://m.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fjamar.mobley.3%2Fvideos%2F1838493693071980%2F&show_text=0&width=560",
+      "resource_id": "url",
+      "bounds": [
+        187,
+        84,
+        1072,
+        266
+      ],
+      "clickable": true,
+      "semantic_label": null
+    },
+    {
+      "class": "ImageButton",
+      "text": null,
+      "resource_id": "tab_switcher",
+      "bounds": [
+        1104,
+        84,
+        1272,
+        266
+      ],
+      "clickable": true,
+      "semantic_label": null
+    },
+    {
+      "class": "ImageButton",
+      "text": null,
+      "resource_id": "more",
+      "bounds": [
+        1272,
+        84,
+        1440,
+        266
+      ],
+      "clickable": true,
+      "semantic_label": null
+    },
+    {
+      "class": "BrowserWebView",
+      "text": null,
+      "resource_id": null,
+      "bounds": [
+        0,
+        266,
+        1440,
+        2392
+      ],
+      "clickable": true,
+      "semantic_label": null
+    }
+  ]
+}

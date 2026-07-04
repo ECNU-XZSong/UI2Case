@@ -1,0 +1,274 @@
+{
+  "Page_0": [
+    {
+      "action": "Click the ImageButton",
+      "target_element": "ImageButton",
+      "target_text": null,
+      "target_resid": null,
+      "bounds": [
+        0,
+        84,
+        196,
+        280
+      ],
+      "exercised": false,
+      "expected_next_page": null
+    },
+    {
+      "action": "Click the action_timer",
+      "target_element": "ActionMenuItemView",
+      "target_text": null,
+      "target_resid": "action_timer",
+      "bounds": [
+        1048,
+        98,
+        1244,
+        266
+      ],
+      "exercised": false,
+      "expected_next_page": null
+    },
+    {
+      "action": "Click the action_alarm",
+      "target_element": "ActionMenuItemView",
+      "target_text": null,
+      "target_resid": "action_alarm",
+      "bounds": [
+        1244,
+        98,
+        1440,
+        266
+      ],
+      "exercised": false,
+      "expected_next_page": null
+    }
+  ],
+  "Page_1": [
+    {
+      "action": "Click the playBtn",
+      "target_element": "t",
+      "target_text": null,
+      "target_resid": "playBtn",
+      "bounds": [
+        597,
+        628,
+        842,
+        873
+      ],
+      "exercised": false,
+      "expected_next_page": null
+    },
+    {
+      "action": "Click the channelImg",
+      "target_element": "v",
+      "target_text": null,
+      "target_resid": "channelImg",
+      "bounds": [
+        580,
+        1417,
+        860,
+        1558
+      ],
+      "exercised": false,
+      "expected_next_page": null
+    },
+    {
+      "action": "Click the timelineBtn",
+      "target_element": "t",
+      "target_text": null,
+      "target_resid": "timelineBtn",
+      "bounds": [
+        0,
+        2217,
+        175,
+        2392
+      ],
+      "exercised": false,
+      "expected_next_page": null
+    },
+    {
+      "action": "Click the favoriteBtn",
+      "target_element": "t",
+      "target_text": null,
+      "target_resid": "favoriteBtn",
+      "bounds": [
+        1265,
+        2217,
+        1440,
+        2392
+      ],
+      "exercised": false,
+      "expected_next_page": null
+    }
+  ],
+  "Page_2": [
+    {
+      "action": "Click the ImageButton",
+      "target_element": "ImageButton",
+      "target_text": null,
+      "target_resid": null,
+      "bounds": [
+        0,
+        84,
+        196,
+        280
+      ],
+      "exercised": false,
+      "expected_next_page": null
+    },
+    {
+      "action": "Click the shareBtn",
+      "target_element": "t",
+      "target_text": null,
+      "target_resid": "shareBtn",
+      "bounds": [
+        1229,
+        378,
+        1440,
+        553
+      ],
+      "exercised": false,
+      "expected_next_page": null
+    },
+    {
+      "action": "Click the infoBtn",
+      "target_element": "t",
+      "target_text": null,
+      "target_resid": "infoBtn",
+      "bounds": [
+        1229,
+        553,
+        1440,
+        728
+      ],
+      "exercised": false,
+      "expected_next_page": null
+    },
+    {
+      "action": "Click the shareBtn",
+      "target_element": "t",
+      "target_text": null,
+      "target_resid": "shareBtn",
+      "bounds": [
+        1229,
+        762,
+        1440,
+        937
+      ],
+      "exercised": false,
+      "expected_next_page": null
+    },
+    {
+      "action": "Click the infoBtn",
+      "target_element": "t",
+      "target_text": null,
+      "target_resid": "infoBtn",
+      "bounds": [
+        1229,
+        937,
+        1440,
+        1112
+      ],
+      "exercised": false,
+      "expected_next_page": null
+    },
+    {
+      "action": "Click the shareBtn",
+      "target_element": "t",
+      "target_text": null,
+      "target_resid": "shareBtn",
+      "bounds": [
+        1229,
+        1146,
+        1440,
+        1321
+      ],
+      "exercised": false,
+      "expected_next_page": null
+    },
+    {
+      "action": "Click the infoBtn",
+      "target_element": "t",
+      "target_text": null,
+      "target_resid": "infoBtn",
+      "bounds": [
+        1229,
+        1321,
+        1440,
+        1496
+      ],
+      "exercised": false,
+      "expected_next_page": null
+    },
+    {
+      "action": "Click the shareBtn",
+      "target_element": "t",
+      "target_text": null,
+      "target_resid": "shareBtn",
+      "bounds": [
+        1229,
+        1530,
+        1440,
+        1705
+      ],
+      "exercised": false,
+      "expected_next_page": null
+    },
+    {
+      "action": "Click the infoBtn",
+      "target_element": "t",
+      "target_text": null,
+      "target_resid": "infoBtn",
+      "bounds": [
+        1229,
+        1705,
+        1440,
+        1880
+      ],
+      "exercised": false,
+      "expected_next_page": null
+    },
+    {
+      "action": "Click the shareBtn",
+      "target_element": "t",
+      "target_text": null,
+      "target_resid": "shareBtn",
+      "bounds": [
+        1229,
+        1914,
+        1440,
+        2089
+      ],
+      "exercised": false,
+      "expected_next_page": null
+    },
+    {
+      "action": "Click the infoBtn",
+      "target_element": "t",
+      "target_text": null,
+      "target_resid": "infoBtn",
+      "bounds": [
+        1229,
+        2089,
+        1440,
+        2264
+      ],
+      "exercised": false,
+      "expected_next_page": null
+    },
+    {
+      "action": "Click the shareBtn",
+      "target_element": "t",
+      "target_text": null,
+      "target_resid": "shareBtn",
+      "bounds": [
+        1229,
+        2298,
+        1440,
+        2392
+      ],
+      "exercised": false,
+      "expected_next_page": null
+    }
+  ]
+}

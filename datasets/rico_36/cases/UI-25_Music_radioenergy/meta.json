@@ -1,0 +1,41 @@
+{
+  "case_id": "UI-25_Music_radioenergy",
+  "category": "Music & Audio",
+  "complexity": "Simple",
+  "app_package": "radioenergy.app",
+  "play_store_name": "Energy (NRJ) Radio",
+  "trace": "trace_0",
+  "entry_page": "Page_0",
+  "n_screens": 3,
+  "dropped_screens": [],
+  "pages": [
+    {
+      "page": "Page_0",
+      "orig_screenshot_id": 31,
+      "activity": "radioenergy.app/radioenergy.app.activities.MainActivity",
+      "is_keyboard": false,
+      "n_elements": 31,
+      "n_clickable": 3,
+      "n_clickable_human": 12
+    },
+    {
+      "page": "Page_1",
+      "orig_screenshot_id": 89,
+      "activity": "radioenergy.app/radioenergy.app.activities.RadioActivity",
+      "is_keyboard": false,
+      "n_elements": 14,
+      "n_clickable": 4,
+      "n_clickable_human": 4
+    },
+    {
+      "page": "Page_2",
+      "orig_screenshot_id": 115,
+      "activity": "radioenergy.app/radioenergy.app.activities.TimelineActivity",
+      "is_keyboard": false,
+      "n_elements": 59,
+      "n_clickable": 12,
+      "n_clickable_human": 18
+    }
+  ],
+  "replacement": true
+}

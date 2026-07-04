@@ -1,0 +1,250 @@
+{
+  "Page_0": [
+    {
+      "action": "Click the Start",
+      "target_element": "AppCompatButton",
+      "target_text": "Start",
+      "target_resid": "getstart",
+      "bounds": [
+        210,
+        2049,
+        1230,
+        2217
+      ],
+      "exercised": false,
+      "expected_next_page": null
+    },
+    {
+      "action": "Click the By continuing you accept Privacy Policy",
+      "target_element": "AppCompatTextView",
+      "target_text": "By continuing you accept Privacy Policy",
+      "target_resid": "myprivacytext",
+      "bounds": [
+        352,
+        2265,
+        1087,
+        2322
+      ],
+      "exercised": false,
+      "expected_next_page": null
+    }
+  ],
+  "Page_1": [
+    {
+      "action": "Click the o",
+      "target_element": "o",
+      "target_text": null,
+      "target_resid": null,
+      "bounds": [
+        0,
+        280,
+        1440,
+        455
+      ],
+      "exercised": false,
+      "expected_next_page": null
+    },
+    {
+      "action": "Click the sharemysoul",
+      "target_element": "AppCompatButton",
+      "target_text": null,
+      "target_resid": "sharemysoul",
+      "bounds": [
+        0,
+        2224,
+        720,
+        2392
+      ],
+      "exercised": false,
+      "expected_next_page": null
+    },
+    {
+      "action": "Click the mapclick",
+      "target_element": "AppCompatButton",
+      "target_text": null,
+      "target_resid": "mapclick",
+      "bounds": [
+        720,
+        2224,
+        1440,
+        2392
+      ],
+      "exercised": false,
+      "expected_next_page": null
+    }
+  ],
+  "Page_2": [
+    {
+      "action": "Click the liveloc",
+      "target_element": "AppCompatButton",
+      "target_text": null,
+      "target_resid": "liveloc",
+      "bounds": [
+        264,
+        940,
+        1176,
+        1204
+      ],
+      "exercised": false,
+      "expected_next_page": null
+    },
+    {
+      "action": "Click the addfinder",
+      "target_element": "AppCompatButton",
+      "target_text": null,
+      "target_resid": "addfinder",
+      "bounds": [
+        264,
+        1204,
+        1176,
+        1468
+      ],
+      "exercised": false,
+      "expected_next_page": null
+    },
+    {
+      "action": "Click the mobinfo",
+      "target_element": "AppCompatButton",
+      "target_text": null,
+      "target_resid": "mobinfo",
+      "bounds": [
+        264,
+        1468,
+        1176,
+        1732
+      ],
+      "exercised": false,
+      "expected_next_page": null
+    },
+    {
+      "action": "Click the o",
+      "target_element": "o",
+      "target_text": null,
+      "target_resid": null,
+      "bounds": [
+        0,
+        2217,
+        1440,
+        2392
+      ],
+      "exercised": false,
+      "expected_next_page": null
+    },
+    {
+      "action": "Click the action_share",
+      "target_element": "ActionMenuItemView",
+      "target_text": null,
+      "target_resid": "action_share",
+      "bounds": [
+        1244,
+        98,
+        1440,
+        266
+      ],
+      "exercised": false,
+      "expected_next_page": null
+    }
+  ],
+  "Page_4": [
+    {
+      "action": "Click the 2674395082",
+      "target_element": "AppCompatEditText",
+      "target_text": "2674395082",
+      "target_resid": "editTxt",
+      "bounds": [
+        189,
+        385,
+        1099,
+        537
+      ],
+      "exercised": false,
+      "expected_next_page": null
+    },
+    {
+      "action": "Click the contactpicker",
+      "target_element": "AppCompatImageView",
+      "target_text": null,
+      "target_resid": "contactpicker",
+      "bounds": [
+        1099,
+        385,
+        1251,
+        537
+      ],
+      "exercised": false,
+      "expected_next_page": null
+    },
+    {
+      "action": "Click the btn",
+      "target_element": "AppCompatImageView",
+      "target_text": null,
+      "target_resid": "btn",
+      "bounds": [
+        414,
+        572,
+        1025,
+        735
+      ],
+      "exercised": false,
+      "expected_next_page": null
+    }
+  ],
+  "Page_5": [
+    {
+      "action": "Click the z",
+      "target_element": "z",
+      "target_text": null,
+      "target_resid": null,
+      "bounds": [
+        0,
+        280,
+        1440,
+        2392
+      ],
+      "exercised": false,
+      "expected_next_page": null
+    },
+    {
+      "action": "Click the ImageView",
+      "target_element": "ImageView",
+      "target_text": null,
+      "target_resid": null,
+      "bounds": [
+        1258,
+        315,
+        1405,
+        462
+      ],
+      "exercised": false,
+      "expected_next_page": null
+    },
+    {
+      "action": "Click the ImageView",
+      "target_element": "ImageView",
+      "target_text": null,
+      "target_resid": null,
+      "bounds": [
+        1258,
+        2059,
+        1405,
+        2197
+      ],
+      "exercised": false,
+      "expected_next_page": null
+    },
+    {
+      "action": "Click the ImageView",
+      "target_element": "ImageView",
+      "target_text": null,
+      "target_resid": null,
+      "bounds": [
+        1258,
+        2197,
+        1405,
+        2339
+      ],
+      "exercised": false,
+      "expected_next_page": null
+    }
+  ]
+}

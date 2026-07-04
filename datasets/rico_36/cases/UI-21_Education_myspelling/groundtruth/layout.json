@@ -1,0 +1,1160 @@
+{
+  "Page_0": [
+    {
+      "class": "EditText",
+      "text": "Update Words & Save All",
+      "resource_id": "editTextHeading",
+      "bounds": [
+        56,
+        308,
+        1384,
+        427
+      ],
+      "clickable": true,
+      "semantic_label": null
+    },
+    {
+      "class": "EditText",
+      "text": null,
+      "resource_id": "editText1",
+      "bounds": [
+        56,
+        461,
+        997,
+        544
+      ],
+      "clickable": true,
+      "semantic_label": null
+    },
+    {
+      "class": "Button",
+      "text": "X",
+      "resource_id": "button1",
+      "bounds": [
+        1004,
+        431,
+        1384,
+        587
+      ],
+      "clickable": true,
+      "semantic_label": null
+    },
+    {
+      "class": "EditText",
+      "text": null,
+      "resource_id": "editText2",
+      "bounds": [
+        56,
+        616,
+        997,
+        699
+      ],
+      "clickable": true,
+      "semantic_label": null
+    },
+    {
+      "class": "Button",
+      "text": "X",
+      "resource_id": "button2",
+      "bounds": [
+        1004,
+        587,
+        1384,
+        742
+      ],
+      "clickable": true,
+      "semantic_label": null
+    },
+    {
+      "class": "EditText",
+      "text": null,
+      "resource_id": "editText3",
+      "bounds": [
+        56,
+        771,
+        997,
+        854
+      ],
+      "clickable": true,
+      "semantic_label": null
+    },
+    {
+      "class": "Button",
+      "text": "X",
+      "resource_id": "button3",
+      "bounds": [
+        1004,
+        742,
+        1384,
+        897
+      ],
+      "clickable": true,
+      "semantic_label": null
+    },
+    {
+      "class": "EditText",
+      "text": null,
+      "resource_id": "editText4",
+      "bounds": [
+        56,
+        926,
+        997,
+        1009
+      ],
+      "clickable": true,
+      "semantic_label": null
+    },
+    {
+      "class": "Button",
+      "text": "X",
+      "resource_id": "button4",
+      "bounds": [
+        1004,
+        897,
+        1384,
+        1052
+      ],
+      "clickable": true,
+      "semantic_label": null
+    },
+    {
+      "class": "EditText",
+      "text": null,
+      "resource_id": "editText5",
+      "bounds": [
+        56,
+        1081,
+        997,
+        1164
+      ],
+      "clickable": true,
+      "semantic_label": null
+    },
+    {
+      "class": "Button",
+      "text": "X",
+      "resource_id": "button5",
+      "bounds": [
+        1004,
+        1052,
+        1384,
+        1207
+      ],
+      "clickable": true,
+      "semantic_label": null
+    },
+    {
+      "class": "EditText",
+      "text": null,
+      "resource_id": "editText6",
+      "bounds": [
+        56,
+        1236,
+        997,
+        1319
+      ],
+      "clickable": true,
+      "semantic_label": null
+    },
+    {
+      "class": "Button",
+      "text": "X",
+      "resource_id": "button6",
+      "bounds": [
+        1004,
+        1207,
+        1384,
+        1362
+      ],
+      "clickable": true,
+      "semantic_label": null
+    },
+    {
+      "class": "EditText",
+      "text": null,
+      "resource_id": "editText7",
+      "bounds": [
+        56,
+        1398,
+        997,
+        1481
+      ],
+      "clickable": true,
+      "semantic_label": null
+    },
+    {
+      "class": "Button",
+      "text": "X",
+      "resource_id": "button7",
+      "bounds": [
+        1004,
+        1369,
+        1384,
+        1524
+      ],
+      "clickable": true,
+      "semantic_label": null
+    },
+    {
+      "class": "EditText",
+      "text": null,
+      "resource_id": "editText8",
+      "bounds": [
+        56,
+        1553,
+        997,
+        1636
+      ],
+      "clickable": true,
+      "semantic_label": null
+    },
+    {
+      "class": "Button",
+      "text": "X",
+      "resource_id": "button8",
+      "bounds": [
+        1004,
+        1524,
+        1384,
+        1679
+      ],
+      "clickable": true,
+      "semantic_label": null
+    },
+    {
+      "class": "EditText",
+      "text": null,
+      "resource_id": "editText9",
+      "bounds": [
+        56,
+        1708,
+        997,
+        1791
+      ],
+      "clickable": true,
+      "semantic_label": null
+    },
+    {
+      "class": "Button",
+      "text": "X",
+      "resource_id": "button9",
+      "bounds": [
+        1004,
+        1679,
+        1384,
+        1834
+      ],
+      "clickable": true,
+      "semantic_label": null
+    },
+    {
+      "class": "EditText",
+      "text": null,
+      "resource_id": "editText10",
+      "bounds": [
+        56,
+        1863,
+        997,
+        1946
+      ],
+      "clickable": true,
+      "semantic_label": null
+    },
+    {
+      "class": "Button",
+      "text": "X",
+      "resource_id": "button10",
+      "bounds": [
+        1004,
+        1834,
+        1384,
+        1989
+      ],
+      "clickable": true,
+      "semantic_label": null
+    },
+    {
+      "class": "Button",
+      "text": "Clear All",
+      "resource_id": "button12",
+      "bounds": [
+        56,
+        1989,
+        544,
+        2157
+      ],
+      "clickable": true,
+      "semantic_label": null
+    },
+    {
+      "class": "Button",
+      "text": "Save All",
+      "resource_id": "button13",
+      "bounds": [
+        551,
+        1989,
+        1015,
+        2157
+      ],
+      "clickable": true,
+      "semantic_label": null
+    },
+    {
+      "class": "Button",
+      "text": "Back",
+      "resource_id": "button14",
+      "bounds": [
+        1022,
+        1989,
+        1384,
+        2157
+      ],
+      "clickable": true,
+      "semantic_label": null
+    },
+    {
+      "class": "o",
+      "text": null,
+      "resource_id": null,
+      "bounds": [
+        56,
+        2161,
+        1176,
+        2336
+      ],
+      "clickable": true,
+      "semantic_label": null
+    },
+    {
+      "class": "ImageView",
+      "text": null,
+      "resource_id": "home",
+      "bounds": [
+        43,
+        112,
+        155,
+        224
+      ],
+      "clickable": false,
+      "semantic_label": null
+    },
+    {
+      "class": "TextView",
+      "text": "My Spelling Test",
+      "resource_id": "action_bar_title",
+      "bounds": [
+        169,
+        125,
+        627,
+        210
+      ],
+      "clickable": false,
+      "semantic_label": null
+    }
+  ],
+  "Page_1": [
+    {
+      "class": "TextView",
+      "text": "You can add maximum 10 words on each profile to practice",
+      "resource_id": "textView1",
+      "bounds": [
+        56,
+        308,
+        1384,
+        700
+      ],
+      "clickable": false,
+      "semantic_label": null
+    },
+    {
+      "class": "Button",
+      "text": "Profile A",
+      "resource_id": "button1",
+      "bounds": [
+        56,
+        700,
+        1384,
+        1102
+      ],
+      "clickable": true,
+      "semantic_label": null
+    },
+    {
+      "class": "Button",
+      "text": "Profile B",
+      "resource_id": "button2",
+      "bounds": [
+        56,
+        1109,
+        1384,
+        1511
+      ],
+      "clickable": true,
+      "semantic_label": null
+    },
+    {
+      "class": "Button",
+      "text": "Profile C",
+      "resource_id": "button3",
+      "bounds": [
+        56,
+        1518,
+        1384,
+        1920
+      ],
+      "clickable": true,
+      "semantic_label": null
+    },
+    {
+      "class": "Button",
+      "text": "Back",
+      "resource_id": "button4",
+      "bounds": [
+        56,
+        1927,
+        1384,
+        2329
+      ],
+      "clickable": true,
+      "semantic_label": null
+    },
+    {
+      "class": "ImageView",
+      "text": null,
+      "resource_id": "home",
+      "bounds": [
+        43,
+        112,
+        155,
+        224
+      ],
+      "clickable": false,
+      "semantic_label": null
+    },
+    {
+      "class": "TextView",
+      "text": "My Spelling Test",
+      "resource_id": "action_bar_title",
+      "bounds": [
+        169,
+        125,
+        627,
+        210
+      ],
+      "clickable": false,
+      "semantic_label": null
+    }
+  ],
+  "Page_2": [
+    {
+      "class": "Button",
+      "text": "Step 1 - Add Words",
+      "resource_id": "button2",
+      "bounds": [
+        56,
+        308,
+        1384,
+        532
+      ],
+      "clickable": true,
+      "semantic_label": null
+    },
+    {
+      "class": "Button",
+      "text": "Complete Step 1 to Enable It",
+      "resource_id": "button1",
+      "bounds": [
+        56,
+        539,
+        1384,
+        763
+      ],
+      "clickable": false,
+      "semantic_label": null
+    },
+    {
+      "class": "Button",
+      "text": "Step 3 - Progress Report",
+      "resource_id": "button11",
+      "bounds": [
+        56,
+        770,
+        1384,
+        994
+      ],
+      "clickable": true,
+      "semantic_label": null
+    },
+    {
+      "class": "Button",
+      "text": "How it Works",
+      "resource_id": "button4",
+      "bounds": [
+        56,
+        1001,
+        1384,
+        1226
+      ],
+      "clickable": true,
+      "semantic_label": null
+    },
+    {
+      "class": "Button",
+      "text": "Find Spelling",
+      "resource_id": "button41",
+      "bounds": [
+        56,
+        1233,
+        1384,
+        1458
+      ],
+      "clickable": true,
+      "semantic_label": null
+    },
+    {
+      "class": "Button",
+      "text": "Find The Missing Word",
+      "resource_id": "button42",
+      "bounds": [
+        56,
+        1465,
+        1384,
+        1690
+      ],
+      "clickable": true,
+      "semantic_label": null
+    },
+    {
+      "class": "Button",
+      "text": "New App - I Tell You Spell",
+      "resource_id": "button34",
+      "bounds": [
+        56,
+        1697,
+        1384,
+        1922
+      ],
+      "clickable": true,
+      "semantic_label": null
+    },
+    {
+      "class": "Button",
+      "text": "Exit",
+      "resource_id": "button3",
+      "bounds": [
+        56,
+        1929,
+        1384,
+        2154
+      ],
+      "clickable": true,
+      "semantic_label": null
+    },
+    {
+      "class": "o",
+      "text": null,
+      "resource_id": null,
+      "bounds": [
+        56,
+        2161,
+        1176,
+        2336
+      ],
+      "clickable": true,
+      "semantic_label": null
+    },
+    {
+      "class": "ImageView",
+      "text": null,
+      "resource_id": "home",
+      "bounds": [
+        43,
+        112,
+        155,
+        224
+      ],
+      "clickable": false,
+      "semantic_label": null
+    },
+    {
+      "class": "TextView",
+      "text": "My Spelling Test",
+      "resource_id": "action_bar_title",
+      "bounds": [
+        169,
+        125,
+        627,
+        210
+      ],
+      "clickable": false,
+      "semantic_label": null
+    }
+  ],
+  "Page_3": [
+    {
+      "class": "EditText",
+      "text": "Add Words",
+      "resource_id": "editText1",
+      "bounds": [
+        56,
+        308,
+        1384,
+        697
+      ],
+      "clickable": true,
+      "semantic_label": null
+    },
+    {
+      "class": "EditText",
+      "text": "Tap each field to bring up the keyboard. Add upto 10 words to practice and each word can contain upto 14 characters in length. You can clear and edit the words line by line. IMPORTANT: Click \"Save All\" before exit.",
+      "resource_id": "editText2",
+      "bounds": [
+        56,
+        697,
+        1384,
+        1294
+      ],
+      "clickable": true,
+      "semantic_label": null
+    },
+    {
+      "class": "EditText",
+      "text": "Practice, Test & Report",
+      "resource_id": "editText3",
+      "bounds": [
+        56,
+        1294,
+        1384,
+        1684
+      ],
+      "clickable": true,
+      "semantic_label": null
+    },
+    {
+      "class": "EditText",
+      "text": "Practice the spelling and do the test to see your progress. During the test click NEXT to goto the next word and the report is produced at the end",
+      "resource_id": "editText4",
+      "bounds": [
+        56,
+        1684,
+        1384,
+        2168
+      ],
+      "clickable": true,
+      "semantic_label": null
+    },
+    {
+      "class": "Button",
+      "text": "Back",
+      "resource_id": "button1",
+      "bounds": [
+        422,
+        2168,
+        1017,
+        2336
+      ],
+      "clickable": true,
+      "semantic_label": null
+    },
+    {
+      "class": "ImageView",
+      "text": null,
+      "resource_id": "home",
+      "bounds": [
+        43,
+        112,
+        155,
+        224
+      ],
+      "clickable": false,
+      "semantic_label": null
+    },
+    {
+      "class": "TextView",
+      "text": "My Spelling Test",
+      "resource_id": "action_bar_title",
+      "bounds": [
+        169,
+        125,
+        627,
+        210
+      ],
+      "clickable": false,
+      "semantic_label": null
+    }
+  ],
+  "Page_4": [
+    {
+      "class": "Button",
+      "text": "Five Words",
+      "resource_id": "button2",
+      "bounds": [
+        56,
+        308,
+        1384,
+        808
+      ],
+      "clickable": true,
+      "semantic_label": null
+    },
+    {
+      "class": "Button",
+      "text": "Ten Words",
+      "resource_id": "button1",
+      "bounds": [
+        56,
+        815,
+        1384,
+        1315
+      ],
+      "clickable": true,
+      "semantic_label": null
+    },
+    {
+      "class": "Button",
+      "text": "Get More Words from  \"I Tell You Spell\"",
+      "resource_id": "button5",
+      "bounds": [
+        56,
+        1322,
+        1384,
+        1822
+      ],
+      "clickable": true,
+      "semantic_label": null
+    },
+    {
+      "class": "Button",
+      "text": "Back",
+      "resource_id": "button3",
+      "bounds": [
+        56,
+        1829,
+        1384,
+        2329
+      ],
+      "clickable": true,
+      "semantic_label": null
+    },
+    {
+      "class": "ImageView",
+      "text": null,
+      "resource_id": "home",
+      "bounds": [
+        43,
+        112,
+        155,
+        224
+      ],
+      "clickable": false,
+      "semantic_label": null
+    },
+    {
+      "class": "TextView",
+      "text": "My Spelling Test",
+      "resource_id": "action_bar_title",
+      "bounds": [
+        169,
+        125,
+        627,
+        210
+      ],
+      "clickable": false,
+      "semantic_label": null
+    }
+  ],
+  "Page_5": [
+    {
+      "class": "EditText",
+      "text": "Brush your _(5)_ before you go to bed",
+      "resource_id": "editText11",
+      "bounds": [
+        56,
+        308,
+        1384,
+        540
+      ],
+      "clickable": true,
+      "semantic_label": null
+    },
+    {
+      "class": "EditText",
+      "text": null,
+      "resource_id": "editText1",
+      "bounds": [
+        56,
+        544,
+        1384,
+        723
+      ],
+      "clickable": true,
+      "semantic_label": null
+    },
+    {
+      "class": "Button",
+      "text": "e",
+      "resource_id": "butt1",
+      "bounds": [
+        56,
+        723,
+        317,
+        891
+      ],
+      "clickable": true,
+      "semantic_label": null
+    },
+    {
+      "class": "Button",
+      "text": "e",
+      "resource_id": "butt2",
+      "bounds": [
+        321,
+        723,
+        582,
+        891
+      ],
+      "clickable": true,
+      "semantic_label": null
+    },
+    {
+      "class": "Button",
+      "text": "e",
+      "resource_id": "butt3",
+      "bounds": [
+        586,
+        723,
+        848,
+        891
+      ],
+      "clickable": true,
+      "semantic_label": null
+    },
+    {
+      "class": "Button",
+      "text": "h",
+      "resource_id": "butt4",
+      "bounds": [
+        852,
+        723,
+        1114,
+        891
+      ],
+      "clickable": true,
+      "semantic_label": null
+    },
+    {
+      "class": "Button",
+      "text": "j",
+      "resource_id": "butt5",
+      "bounds": [
+        1118,
+        723,
+        1380,
+        891
+      ],
+      "clickable": true,
+      "semantic_label": null
+    },
+    {
+      "class": "Button",
+      "text": "k",
+      "resource_id": "butt6",
+      "bounds": [
+        56,
+        1081,
+        273,
+        1249
+      ],
+      "clickable": true,
+      "semantic_label": null
+    },
+    {
+      "class": "Button",
+      "text": "m",
+      "resource_id": "butt7",
+      "bounds": [
+        277,
+        1081,
+        494,
+        1249
+      ],
+      "clickable": true,
+      "semantic_label": null
+    },
+    {
+      "class": "Button",
+      "text": "m",
+      "resource_id": "butt8",
+      "bounds": [
+        498,
+        1081,
+        715,
+        1249
+      ],
+      "clickable": true,
+      "semantic_label": null
+    },
+    {
+      "class": "Button",
+      "text": "n",
+      "resource_id": "butt9",
+      "bounds": [
+        719,
+        1081,
+        936,
+        1249
+      ],
+      "clickable": true,
+      "semantic_label": null
+    },
+    {
+      "class": "Button",
+      "text": "o",
+      "resource_id": "butt10",
+      "bounds": [
+        940,
+        1081,
+        1158,
+        1249
+      ],
+      "clickable": true,
+      "semantic_label": null
+    },
+    {
+      "class": "Button",
+      "text": "t",
+      "resource_id": "butt11",
+      "bounds": [
+        1162,
+        1081,
+        1380,
+        1249
+      ],
+      "clickable": true,
+      "semantic_label": null
+    },
+    {
+      "class": "Button",
+      "text": "t",
+      "resource_id": "butt12",
+      "bounds": [
+        56,
+        1439,
+        317,
+        1607
+      ],
+      "clickable": true,
+      "semantic_label": null
+    },
+    {
+      "class": "Button",
+      "text": "u",
+      "resource_id": "butt13",
+      "bounds": [
+        321,
+        1439,
+        582,
+        1607
+      ],
+      "clickable": true,
+      "semantic_label": null
+    },
+    {
+      "class": "Button",
+      "text": "x",
+      "resource_id": "butt14",
+      "bounds": [
+        586,
+        1439,
+        848,
+        1607
+      ],
+      "clickable": true,
+      "semantic_label": null
+    },
+    {
+      "class": "Button",
+      "text": "y",
+      "resource_id": "butt15",
+      "bounds": [
+        852,
+        1439,
+        1114,
+        1607
+      ],
+      "clickable": true,
+      "semantic_label": null
+    },
+    {
+      "class": "Button",
+      "text": "y",
+      "resource_id": "butt16",
+      "bounds": [
+        1118,
+        1439,
+        1380,
+        1607
+      ],
+      "clickable": true,
+      "semantic_label": null
+    },
+    {
+      "class": "Button",
+      "text": "Hear It",
+      "resource_id": "btnSpeak",
+      "bounds": [
+        56,
+        1802,
+        409,
+        2157
+      ],
+      "clickable": true,
+      "semantic_label": null
+    },
+    {
+      "class": "Button",
+      "text": "Spell It",
+      "resource_id": "buttHint2",
+      "bounds": [
+        413,
+        1802,
+        760,
+        2157
+      ],
+      "clickable": true,
+      "semantic_label": null
+    },
+    {
+      "class": "Button",
+      "text": "Reset",
+      "resource_id": "buttReset",
+      "bounds": [
+        764,
+        1802,
+        1072,
+        2157
+      ],
+      "clickable": true,
+      "semantic_label": null
+    },
+    {
+      "class": "Button",
+      "text": "Exit",
+      "resource_id": "button1",
+      "bounds": [
+        1076,
+        1802,
+        1384,
+        2157
+      ],
+      "clickable": true,
+      "semantic_label": null
+    },
+    {
+      "class": "o",
+      "text": null,
+      "resource_id": null,
+      "bounds": [
+        56,
+        2161,
+        1176,
+        2336
+      ],
+      "clickable": true,
+      "semantic_label": null
+    },
+    {
+      "class": "ImageView",
+      "text": null,
+      "resource_id": "home",
+      "bounds": [
+        43,
+        112,
+        155,
+        224
+      ],
+      "clickable": false,
+      "semantic_label": null
+    },
+    {
+      "class": "TextView",
+      "text": "My Spelling Test",
+      "resource_id": "action_bar_title",
+      "bounds": [
+        169,
+        125,
+        627,
+        210
+      ],
+      "clickable": false,
+      "semantic_label": null
+    }
+  ],
+  "Page_6": [
+    {
+      "class": "Button",
+      "text": "Five Words",
+      "resource_id": "button2",
+      "bounds": [
+        56,
+        308,
+        1384,
+        977
+      ],
+      "clickable": true,
+      "semantic_label": null
+    },
+    {
+      "class": "Button",
+      "text": "Ten Words",
+      "resource_id": "button1",
+      "bounds": [
+        56,
+        984,
+        1384,
+        1653
+      ],
+      "clickable": true,
+      "semantic_label": null
+    },
+    {
+      "class": "Button",
+      "text": "Back",
+      "resource_id": "button3",
+      "bounds": [
+        56,
+        1660,
+        1384,
+        2329
+      ],
+      "clickable": true,
+      "semantic_label": null
+    },
+    {
+      "class": "ImageView",
+      "text": null,
+      "resource_id": "home",
+      "bounds": [
+        43,
+        112,
+        155,
+        224
+      ],
+      "clickable": false,
+      "semantic_label": null
+    },
+    {
+      "class": "TextView",
+      "text": "My Spelling Test",
+      "resource_id": "action_bar_title",
+      "bounds": [
+        169,
+        125,
+        627,
+        210
+      ],
+      "clickable": false,
+      "semantic_label": null
+    }
+  ]
+}

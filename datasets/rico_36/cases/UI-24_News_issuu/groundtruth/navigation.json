@@ -1,0 +1,38 @@
+[
+  {
+    "source_page": "Page_0",
+    "target_page": "Page_1",
+    "action": "Click Sign in with Facebook",
+    "needs_review": false
+  },
+  {
+    "source_page": "Page_1",
+    "target_page": "Page_2",
+    "action": "Click Continue",
+    "needs_review": false
+  },
+  {
+    "source_page": "Page_2",
+    "target_page": "Page_3",
+    "action": "Click a magazine (Loud and Quiet)",
+    "needs_review": false
+  },
+  {
+    "source_page": "Page_3",
+    "target_page": "Page_4",
+    "action": "Click the LATER",
+    "needs_review": false
+  },
+  {
+    "source_page": "Page_4",
+    "target_page": "Page_5",
+    "action": "Click the Clip icon",
+    "needs_review": false
+  },
+  {
+    "source_page": "Page_5",
+    "target_page": "Page_6",
+    "action": "Click the right button",
+    "needs_review": false
+  }
+]

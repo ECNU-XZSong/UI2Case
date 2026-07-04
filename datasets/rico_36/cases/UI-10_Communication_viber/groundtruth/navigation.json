@@ -1,0 +1,14 @@
+[
+  {
+    "source_page": "Page_0",
+    "target_page": "Page_2",
+    "action": "Click Continue",
+    "needs_review": false
+  },
+  {
+    "source_page": "Page_2",
+    "target_page": "Page_1",
+    "action": "Enter phone number",
+    "needs_review": false
+  }
+]

@@ -1,0 +1,528 @@
+{
+  "Page_0": [
+    {
+      "class": "ImageView",
+      "text": null,
+      "resource_id": null,
+      "bounds": [
+        644,
+        217,
+        796,
+        355
+      ],
+      "clickable": false,
+      "semantic_label": null
+    },
+    {
+      "class": "AppCompatImageView",
+      "text": null,
+      "resource_id": "ivLogo",
+      "bounds": [
+        336,
+        336,
+        1103,
+        633
+      ],
+      "clickable": false,
+      "semantic_label": null
+    },
+    {
+      "class": "AppCompatTextView",
+      "text": "Live your life more checked in",
+      "resource_id": "tvTagline",
+      "bounds": [
+        212,
+        633,
+        1228,
+        877
+      ],
+      "clickable": false,
+      "semantic_label": null
+    },
+    {
+      "class": "View",
+      "text": null,
+      "resource_id": null,
+      "bounds": [
+        0,
+        877,
+        1440,
+        964
+      ],
+      "clickable": false,
+      "semantic_label": null
+    },
+    {
+      "class": "AppCompatButton",
+      "text": "Sign in with Facebook",
+      "resource_id": "button1",
+      "bounds": [
+        70,
+        1267,
+        1370,
+        1407
+      ],
+      "clickable": true,
+      "semantic_label": null
+    },
+    {
+      "class": "AppCompatTextView",
+      "text": "(We'll never post to Facebook without permission)",
+      "resource_id": "tvFacebookLogin",
+      "bounds": [
+        70,
+        1435,
+        1370,
+        1488
+      ],
+      "clickable": false,
+      "semantic_label": null
+    },
+    {
+      "class": "AppCompatImageView",
+      "text": null,
+      "resource_id": "ivMarsbot",
+      "bounds": [
+        989,
+        992,
+        1314,
+        1294
+      ],
+      "clickable": false,
+      "semantic_label": null
+    },
+    {
+      "class": "AppCompatButton",
+      "text": "Sign in with Google",
+      "resource_id": "btnGoogleSignin",
+      "bounds": [
+        70,
+        1516,
+        1370,
+        1670
+      ],
+      "clickable": true,
+      "semantic_label": null
+    },
+    {
+      "class": "AppCompatImageView",
+      "text": null,
+      "resource_id": "ivDrawableLeft",
+      "bounds": [
+        126,
+        1752,
+        197,
+        1798
+      ],
+      "clickable": false,
+      "semantic_label": null
+    },
+    {
+      "class": "AppCompatTextView",
+      "text": "Sign up with Email",
+      "resource_id": "tvMain",
+      "bounds": [
+        484,
+        1737,
+        1011,
+        1813
+      ],
+      "clickable": false,
+      "semantic_label": null
+    },
+    {
+      "class": "View",
+      "text": null,
+      "resource_id": null,
+      "bounds": [
+        0,
+        1852,
+        1440,
+        1939
+      ],
+      "clickable": false,
+      "semantic_label": null
+    },
+    {
+      "class": "AppCompatButton",
+      "text": "Already have an account? Log in",
+      "resource_id": "btnLogin",
+      "bounds": [
+        0,
+        1939,
+        1440,
+        2079
+      ],
+      "clickable": true,
+      "semantic_label": null
+    },
+    {
+      "class": "WavyView",
+      "text": null,
+      "resource_id": "vLoginDivider",
+      "bounds": [
+        572,
+        2079,
+        868,
+        2121
+      ],
+      "clickable": false,
+      "semantic_label": null
+    },
+    {
+      "class": "AppCompatTextView",
+      "text": "By using Swarm, you agree to the Terms, Cookie Policy and Privacy Policy",
+      "resource_id": "tvTermsDisclosure",
+      "bounds": [
+        0,
+        2233,
+        1440,
+        2392
+      ],
+      "clickable": true,
+      "semantic_label": null
+    },
+    {
+      "class": "View",
+      "text": null,
+      "resource_id": "navigationBarBackground",
+      "bounds": [
+        0,
+        2392,
+        1440,
+        2560
+      ],
+      "clickable": false,
+      "semantic_label": null
+    },
+    {
+      "class": "View",
+      "text": null,
+      "resource_id": "statusBarBackground",
+      "bounds": [
+        0,
+        0,
+        1440,
+        84
+      ],
+      "clickable": false,
+      "semantic_label": null
+    }
+  ],
+  "Page_1": [
+    {
+      "class": "BasicWebView",
+      "text": null,
+      "resource_id": "platform_dialog_webview",
+      "bounds": [
+        0,
+        84,
+        1440,
+        2392
+      ],
+      "clickable": true,
+      "semantic_label": null
+    },
+    {
+      "class": "View",
+      "text": null,
+      "resource_id": "navigationBarBackground",
+      "bounds": [
+        0,
+        2392,
+        1440,
+        2560
+      ],
+      "clickable": false,
+      "semantic_label": null
+    },
+    {
+      "class": "View",
+      "text": null,
+      "resource_id": "statusBarBackground",
+      "bounds": [
+        0,
+        0,
+        1440,
+        84
+      ],
+      "clickable": false,
+      "semantic_label": null
+    }
+  ],
+  "Page_2": [
+    {
+      "class": "AppCompatTextView",
+      "text": "Go out. Check In. Have fun.",
+      "resource_id": "tvEduTitle",
+      "bounds": [
+        28,
+        84,
+        1412,
+        178
+      ],
+      "clickable": false,
+      "semantic_label": null
+    },
+    {
+      "class": "AppCompatTextView",
+      "text": "Earn Perks and rewards by checking in when you go out!",
+      "resource_id": "tvEduMessage",
+      "bounds": [
+        112,
+        206,
+        1328,
+        346
+      ],
+      "clickable": false,
+      "semantic_label": null
+    },
+    {
+      "class": "AppCompatImageView",
+      "text": null,
+      "resource_id": "ivMarsbot01",
+      "bounds": [
+        497,
+        736,
+        943,
+        1466
+      ],
+      "clickable": false,
+      "semantic_label": null
+    },
+    {
+      "class": "AppCompatImageView",
+      "text": null,
+      "resource_id": "ivSticker01",
+      "bounds": [
+        56,
+        430,
+        238,
+        612
+      ],
+      "clickable": false,
+      "semantic_label": null
+    },
+    {
+      "class": "AppCompatImageView",
+      "text": null,
+      "resource_id": "ivSticker02",
+      "bounds": [
+        182,
+        514,
+        364,
+        696
+      ],
+      "clickable": false,
+      "semantic_label": null
+    },
+    {
+      "class": "AppCompatImageView",
+      "text": null,
+      "resource_id": "ivSticker03",
+      "bounds": [
+        154,
+        696,
+        336,
+        878
+      ],
+      "clickable": false,
+      "semantic_label": null
+    },
+    {
+      "class": "AppCompatImageView",
+      "text": null,
+      "resource_id": "ivSticker04",
+      "bounds": [
+        126,
+        899,
+        308,
+        1081
+      ],
+      "clickable": false,
+      "semantic_label": null
+    },
+    {
+      "class": "AppCompatImageView",
+      "text": null,
+      "resource_id": "ivSticker05",
+      "bounds": [
+        154,
+        1095,
+        336,
+        1277
+      ],
+      "clickable": false,
+      "semantic_label": null
+    },
+    {
+      "class": "AppCompatImageView",
+      "text": null,
+      "resource_id": "ivCoin01",
+      "bounds": [
+        336,
+        654,
+        455,
+        773
+      ],
+      "clickable": false,
+      "semantic_label": null
+    },
+    {
+      "class": "AppCompatImageView",
+      "text": null,
+      "resource_id": "ivConfetti01",
+      "bounds": [
+        280,
+        906,
+        490,
+        1116
+      ],
+      "clickable": false,
+      "semantic_label": null
+    },
+    {
+      "class": "AppCompatImageView",
+      "text": null,
+      "resource_id": "ivSticker06",
+      "bounds": [
+        1202,
+        402,
+        1384,
+        584
+      ],
+      "clickable": false,
+      "semantic_label": null
+    },
+    {
+      "class": "AppCompatImageView",
+      "text": null,
+      "resource_id": "ivSticker07",
+      "bounds": [
+        992,
+        514,
+        1174,
+        696
+      ],
+      "clickable": false,
+      "semantic_label": null
+    },
+    {
+      "class": "AppCompatImageView",
+      "text": null,
+      "resource_id": "ivSticker08",
+      "bounds": [
+        1202,
+        612,
+        1384,
+        794
+      ],
+      "clickable": false,
+      "semantic_label": null
+    },
+    {
+      "class": "AppCompatImageView",
+      "text": null,
+      "resource_id": "ivSticker09",
+      "bounds": [
+        1230,
+        906,
+        1412,
+        1088
+      ],
+      "clickable": false,
+      "semantic_label": null
+    },
+    {
+      "class": "AppCompatImageView",
+      "text": null,
+      "resource_id": "ivCoin02",
+      "bounds": [
+        1139,
+        780,
+        1258,
+        899
+      ],
+      "clickable": false,
+      "semantic_label": null
+    },
+    {
+      "class": "AppCompatImageView",
+      "text": null,
+      "resource_id": "ivConfetti02",
+      "bounds": [
+        950,
+        976,
+        1160,
+        1186
+      ],
+      "clickable": false,
+      "semantic_label": null
+    },
+    {
+      "class": "AppCompatImageView",
+      "text": null,
+      "resource_id": "ivCoin03",
+      "bounds": [
+        964,
+        1144,
+        1083,
+        1263
+      ],
+      "clickable": false,
+      "semantic_label": null
+    },
+    {
+      "class": "AppCompatImageView",
+      "text": null,
+      "resource_id": "ivGiftOpen",
+      "bounds": [
+        629,
+        1087,
+        824,
+        1270
+      ],
+      "clickable": false,
+      "semantic_label": null
+    },
+    {
+      "class": "WavyView",
+      "text": null,
+      "resource_id": "wvDivider",
+      "bounds": [
+        164,
+        1578,
+        1275,
+        1641
+      ],
+      "clickable": false,
+      "semantic_label": null
+    },
+    {
+      "class": "AppCompatButton",
+      "text": "Next",
+      "resource_id": "tvEduNext",
+      "bounds": [
+        112,
+        2342,
+        1328,
+        2482
+      ],
+      "clickable": true,
+      "semantic_label": null
+    },
+    {
+      "class": "CirclePageIndicator",
+      "text": null,
+      "resource_id": "vIndicator",
+      "bounds": [
+        0,
+        2510,
+        1440,
+        2532
+      ],
+      "clickable": false,
+      "semantic_label": null
+    }
+  ]
+}

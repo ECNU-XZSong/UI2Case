@@ -1,0 +1,246 @@
+{
+  "Page_0": [
+    {
+      "action": "Click the dark_overlay",
+      "target_element": "View",
+      "target_text": null,
+      "target_resid": "dark_overlay",
+      "bounds": [
+        0,
+        84,
+        1440,
+        2392
+      ],
+      "exercised": false,
+      "expected_next_page": null
+    },
+    {
+      "action": "Click the btn_close",
+      "target_element": "AppCompatImageView",
+      "target_text": null,
+      "target_resid": "btn_close",
+      "bounds": [
+        1244,
+        84,
+        1440,
+        280
+      ],
+      "exercised": false,
+      "expected_next_page": null
+    },
+    {
+      "action": "Click the Continue with Google",
+      "target_element": "AppCompatButton",
+      "target_text": "Continue with Google",
+      "target_resid": "btn_login",
+      "bounds": [
+        321,
+        1560,
+        1118,
+        1738
+      ],
+      "exercised": false,
+      "expected_next_page": null
+    },
+    {
+      "action": "Click the Sign Up",
+      "target_element": "AppCompatButton",
+      "target_text": "Sign Up",
+      "target_resid": "btn_signup",
+      "bounds": [
+        566,
+        1766,
+        874,
+        1944
+      ],
+      "exercised": false,
+      "expected_next_page": null
+    },
+    {
+      "action": "Click the By signing up, you agree to our Terms and Privacy Policy",
+      "target_element": "AppCompatTextView",
+      "target_text": "By signing up, you agree to our Terms and Privacy Policy",
+      "target_resid": "signup_terms",
+      "bounds": [
+        108,
+        2074,
+        1332,
+        2140
+      ],
+      "exercised": false,
+      "expected_next_page": null
+    },
+    {
+      "action": "Click the Sign In",
+      "target_element": "AppCompatButton",
+      "target_text": "Sign In",
+      "target_resid": "btn_signin",
+      "bounds": [
+        0,
+        2200,
+        1440,
+        2392
+      ],
+      "exercised": false,
+      "expected_next_page": null
+    }
+  ],
+  "Page_1": [
+    {
+      "action": "Click the John 1",
+      "target_element": "AppCompatTextView",
+      "target_text": "John 1",
+      "target_resid": "btn_chapter",
+      "bounds": [
+        56,
+        108,
+        261,
+        255
+      ],
+      "exercised": false,
+      "expected_next_page": null
+    },
+    {
+      "action": "Click the KJV",
+      "target_element": "AppCompatTextView",
+      "target_text": "KJV",
+      "target_resid": "btn_version",
+      "bounds": [
+        265,
+        108,
+        397,
+        255
+      ],
+      "exercised": false,
+      "expected_next_page": null
+    },
+    {
+      "action": "Click the action_audio",
+      "target_element": "ActionMenuItemView",
+      "target_text": null,
+      "target_resid": "action_audio",
+      "bounds": [
+        936,
+        98,
+        1104,
+        266
+      ],
+      "exercised": false,
+      "expected_next_page": null
+    },
+    {
+      "action": "Click the action_text",
+      "target_element": "ActionMenuItemView",
+      "target_text": null,
+      "target_resid": "action_text",
+      "bounds": [
+        1104,
+        98,
+        1272,
+        266
+      ],
+      "exercised": false,
+      "expected_next_page": null
+    },
+    {
+      "action": "Click the action_search",
+      "target_element": "ActionMenuItemView",
+      "target_text": null,
+      "target_resid": "action_search",
+      "bounds": [
+        1272,
+        98,
+        1440,
+        266
+      ],
+      "exercised": false,
+      "expected_next_page": null
+    },
+    {
+      "action": "Click the reader_content",
+      "target_element": "ReadingView",
+      "target_text": null,
+      "target_resid": "reader_content",
+      "bounds": [
+        0,
+        280,
+        1440,
+        2392
+      ],
+      "exercised": false,
+      "expected_next_page": null
+    },
+    {
+      "action": "Click the btn_prev",
+      "target_element": "FloatingActionButton",
+      "target_text": null,
+      "target_resid": "btn_prev",
+      "bounds": [
+        56,
+        2009,
+        196,
+        2149
+      ],
+      "exercised": false,
+      "expected_next_page": null
+    },
+    {
+      "action": "Click the btn_next",
+      "target_element": "FloatingActionButton",
+      "target_text": null,
+      "target_resid": "btn_next",
+      "bounds": [
+        1244,
+        2009,
+        1384,
+        2149
+      ],
+      "exercised": false,
+      "expected_next_page": null
+    }
+  ],
+  "Page_2": [
+    {
+      "action": "Click the touch_outside",
+      "target_element": "View",
+      "target_text": null,
+      "target_resid": "touch_outside",
+      "bounds": [
+        0,
+        84,
+        1440,
+        2392
+      ],
+      "exercised": false,
+      "expected_next_page": null
+    },
+    {
+      "action": "Click the Download",
+      "target_element": "AppCompatTextView",
+      "target_text": "Download",
+      "target_resid": "call_to_action",
+      "bounds": [
+        14,
+        2200,
+        394,
+        2378
+      ],
+      "exercised": false,
+      "expected_next_page": null
+    },
+    {
+      "action": "Click the Dismiss",
+      "target_element": "AppCompatTextView",
+      "target_text": "Dismiss",
+      "target_resid": "dismiss",
+      "bounds": [
+        394,
+        2200,
+        694,
+        2378
+      ],
+      "exercised": false,
+      "expected_next_page": null
+    }
+  ]
+}

@@ -1,0 +1,531 @@
+{
+  "Page_0": [
+    {
+      "action": "Click the Add Your Details",
+      "target_element": "RobotoRegularTextView",
+      "target_text": "Add Your Details",
+      "target_resid": null,
+      "bounds": [
+        483,
+        583,
+        956,
+        756
+      ],
+      "exercised": false,
+      "expected_next_page": null
+    },
+    {
+      "action": "Click the Enter your company's address.",
+      "target_element": "RobotoRegularTextView",
+      "target_text": "Enter your company's address.",
+      "target_resid": null,
+      "bounds": [
+        379,
+        756,
+        1060,
+        875
+      ],
+      "exercised": false,
+      "expected_next_page": null
+    },
+    {
+      "action": "Click the Add Your Client's Details",
+      "target_element": "RobotoRegularTextView",
+      "target_text": "Add Your Client's Details",
+      "target_resid": null,
+      "bounds": [
+        371,
+        1033,
+        1068,
+        1206
+      ],
+      "exercised": false,
+      "expected_next_page": null
+    },
+    {
+      "action": "Click the Enter client's address and what they bought.",
+      "target_element": "RobotoRegularTextView",
+      "target_text": "Enter client's address and what they bought.",
+      "target_resid": null,
+      "bounds": [
+        230,
+        1206,
+        1210,
+        1325
+      ],
+      "exercised": false,
+      "expected_next_page": null
+    },
+    {
+      "action": "Click the Chose an Option",
+      "target_element": "RobotoRegularTextView",
+      "target_text": "Chose an Option",
+      "target_resid": null,
+      "bounds": [
+        485,
+        1483,
+        954,
+        1656
+      ],
+      "exercised": false,
+      "expected_next_page": null
+    },
+    {
+      "action": "Click the Share, Download, or Email Invoice.",
+      "target_element": "RobotoRegularTextView",
+      "target_text": "Share, Download, or Email Invoice.",
+      "target_resid": null,
+      "bounds": [
+        342,
+        1656,
+        1097,
+        1775
+      ],
+      "exercised": false,
+      "expected_next_page": null
+    },
+    {
+      "action": "Click the Create invoice now",
+      "target_element": "RobotoRegularTextView",
+      "target_text": "Create invoice now",
+      "target_resid": null,
+      "bounds": [
+        304,
+        2091,
+        1135,
+        2282
+      ],
+      "exercised": false,
+      "expected_next_page": null
+    }
+  ],
+  "Page_1": [
+    {
+      "action": "Click the tesdt",
+      "target_element": "AppCompatEditText",
+      "target_text": "tesdt",
+      "target_resid": "company_name",
+      "bounds": [
+        105,
+        461,
+        1335,
+        572
+      ],
+      "exercised": false,
+      "expected_next_page": null
+    },
+    {
+      "action": "Click the Jon Brown",
+      "target_element": "AppCompatEditText",
+      "target_text": "Jon Brown",
+      "target_resid": "user_name",
+      "bounds": [
+        105,
+        1131,
+        1335,
+        1242
+      ],
+      "exercised": false,
+      "expected_next_page": null
+    },
+    {
+      "action": "Click the San Francisco, CA, USA",
+      "target_element": "AppCompatEditText",
+      "target_text": "San Francisco, CA, USA",
+      "target_resid": "company_address",
+      "bounds": [
+        105,
+        1504,
+        1335,
+        1615
+      ],
+      "exercised": false,
+      "expected_next_page": null
+    },
+    {
+      "action": "Click the San Francsico",
+      "target_element": "AppCompatEditText",
+      "target_text": "San Francsico",
+      "target_resid": "city",
+      "bounds": [
+        105,
+        1766,
+        685,
+        1877
+      ],
+      "exercised": false,
+      "expected_next_page": null
+    },
+    {
+      "action": "Click the CA",
+      "target_element": "AppCompatEditText",
+      "target_text": "CA",
+      "target_resid": "state",
+      "bounds": [
+        755,
+        1766,
+        1335,
+        1877
+      ],
+      "exercised": false,
+      "expected_next_page": null
+    },
+    {
+      "action": "Click the USA",
+      "target_element": "AppCompatEditText",
+      "target_text": "USA",
+      "target_resid": "country",
+      "bounds": [
+        105,
+        2028,
+        685,
+        2139
+      ],
+      "exercised": false,
+      "expected_next_page": null
+    },
+    {
+      "action": "Click the 94102",
+      "target_element": "AppCompatEditText",
+      "target_text": "94102",
+      "target_resid": "zip_code",
+      "bounds": [
+        755,
+        2028,
+        1335,
+        2139
+      ],
+      "exercised": false,
+      "expected_next_page": null
+    },
+    {
+      "action": "Click the ImageButton",
+      "target_element": "ImageButton",
+      "target_text": null,
+      "target_resid": null,
+      "bounds": [
+        0,
+        84,
+        196,
+        280
+      ],
+      "exercised": false,
+      "expected_next_page": null
+    },
+    {
+      "action": "Click the Save",
+      "target_element": "ActionMenuItemView",
+      "target_text": "Save",
+      "target_resid": null,
+      "bounds": [
+        1235,
+        98,
+        1440,
+        266
+      ],
+      "exercised": false,
+      "expected_next_page": null
+    }
+  ],
+  "Page_2": [
+    {
+      "action": "Click the Subtotal",
+      "target_element": "AppCompatEditText",
+      "target_text": "Subtotal",
+      "target_resid": "sub_total_name",
+      "bounds": [
+        105,
+        518,
+        385,
+        594
+      ],
+      "exercised": false,
+      "expected_next_page": null
+    },
+    {
+      "action": "Click the Sales Tax",
+      "target_element": "AppCompatEditText",
+      "target_text": "Sales Tax",
+      "target_resid": "tax_name",
+      "bounds": [
+        105,
+        673,
+        417,
+        819
+      ],
+      "exercised": false,
+      "expected_next_page": null
+    },
+    {
+      "action": "Click the 555",
+      "target_element": "AppCompatEditText",
+      "target_text": "555",
+      "target_resid": "tax_percentage",
+      "bounds": [
+        535,
+        673,
+        966,
+        819
+      ],
+      "exercised": false,
+      "expected_next_page": null
+    },
+    {
+      "action": "Click the Total",
+      "target_element": "AppCompatEditText",
+      "target_text": "Total",
+      "target_resid": "total_name",
+      "bounds": [
+        105,
+        889,
+        303,
+        965
+      ],
+      "exercised": false,
+      "expected_next_page": null
+    },
+    {
+      "action": "Click the It was great doing business with you.",
+      "target_element": "AppCompatEditText",
+      "target_text": "It was great doing business with you.",
+      "target_resid": "notes",
+      "bounds": [
+        35,
+        1429,
+        1405,
+        1530
+      ],
+      "exercised": false,
+      "expected_next_page": null
+    },
+    {
+      "action": "Click the Please make the payment by the due date.",
+      "target_element": "AppCompatEditText",
+      "target_text": "Please make the payment by the due date.",
+      "target_resid": "terms",
+      "bounds": [
+        35,
+        1759,
+        1405,
+        1860
+      ],
+      "exercised": false,
+      "expected_next_page": null
+    },
+    {
+      "action": "Click the tesdt",
+      "target_element": "RobotoRegularTextView",
+      "target_text": "tesdt",
+      "target_resid": "org_address1",
+      "bounds": [
+        105,
+        2172,
+        1335,
+        2248
+      ],
+      "exercised": false,
+      "expected_next_page": null
+    },
+    {
+      "action": "Click the San Francisco, CA, USA, San Francsico, CA, 94102.",
+      "target_element": "RobotoRegularTextView",
+      "target_text": "San Francisco, CA, USA, San Francsico, CA, 94102.",
+      "target_resid": "org_address2",
+      "bounds": [
+        105,
+        2283,
+        1335,
+        2349
+      ],
+      "exercised": false,
+      "expected_next_page": null
+    },
+    {
+      "action": "Click the USA",
+      "target_element": "RobotoRegularTextView",
+      "target_text": "USA",
+      "target_resid": "org_address3",
+      "bounds": [
+        105,
+        2384,
+        1335,
+        2392
+      ],
+      "exercised": false,
+      "expected_next_page": null
+    },
+    {
+      "action": "Click the Next",
+      "target_element": "ActionMenuItemView",
+      "target_text": "Next",
+      "target_resid": null,
+      "bounds": [
+        1092,
+        98,
+        1300,
+        266
+      ],
+      "exercised": false,
+      "expected_next_page": null
+    },
+    {
+      "action": "Click the m",
+      "target_element": "m",
+      "target_text": null,
+      "target_resid": null,
+      "bounds": [
+        1300,
+        98,
+        1440,
+        266
+      ],
+      "exercised": false,
+      "expected_next_page": null
+    }
+  ],
+  "Page_3": [
+    {
+      "action": "Click the 1555",
+      "target_element": "AppCompatEditText",
+      "target_text": "1555",
+      "target_resid": "item_name",
+      "bounds": [
+        105,
+        461,
+        1335,
+        572
+      ],
+      "exercised": false,
+      "expected_next_page": null
+    },
+    {
+      "action": "Click the item_quantity",
+      "target_element": "AppCompatEditText",
+      "target_text": null,
+      "target_resid": "item_quantity",
+      "bounds": [
+        105,
+        761,
+        685,
+        872
+      ],
+      "exercised": false,
+      "expected_next_page": null
+    },
+    {
+      "action": "Click the item_cost",
+      "target_element": "AppCompatEditText",
+      "target_text": null,
+      "target_resid": "item_cost",
+      "bounds": [
+        755,
+        761,
+        1335,
+        872
+      ],
+      "exercised": false,
+      "expected_next_page": null
+    },
+    {
+      "action": "Click the ImageButton",
+      "target_element": "ImageButton",
+      "target_text": null,
+      "target_resid": null,
+      "bounds": [
+        0,
+        84,
+        196,
+        280
+      ],
+      "exercised": false,
+      "expected_next_page": null
+    },
+    {
+      "action": "Click the Save",
+      "target_element": "ActionMenuItemView",
+      "target_text": "Save",
+      "target_resid": null,
+      "bounds": [
+        1235,
+        98,
+        1440,
+        266
+      ],
+      "exercised": false,
+      "expected_next_page": null
+    }
+  ],
+  "Page_4": [
+    {
+      "action": "Click the Share",
+      "target_element": "AppCompatTextView",
+      "target_text": "Share",
+      "target_resid": "share_invoice",
+      "bounds": [
+        35,
+        2185,
+        471,
+        2339
+      ],
+      "exercised": false,
+      "expected_next_page": null
+    },
+    {
+      "action": "Click the Download",
+      "target_element": "AppCompatTextView",
+      "target_text": "Download",
+      "target_resid": "download_invoice",
+      "bounds": [
+        478,
+        2185,
+        960,
+        2339
+      ],
+      "exercised": false,
+      "expected_next_page": null
+    },
+    {
+      "action": "Click the Email",
+      "target_element": "AppCompatTextView",
+      "target_text": "Email",
+      "target_resid": "email_invoice",
+      "bounds": [
+        967,
+        2185,
+        1405,
+        2339
+      ],
+      "exercised": false,
+      "expected_next_page": null
+    },
+    {
+      "action": "Click the ImageButton",
+      "target_element": "ImageButton",
+      "target_text": null,
+      "target_resid": null,
+      "bounds": [
+        0,
+        84,
+        196,
+        280
+      ],
+      "exercised": false,
+      "expected_next_page": null
+    },
+    {
+      "action": "Click the m",
+      "target_element": "m",
+      "target_text": null,
+      "target_resid": null,
+      "bounds": [
+        1300,
+        98,
+        1440,
+        266
+      ],
+      "exercised": false,
+      "expected_next_page": null
+    }
+  ],
+  "Page_5": []
+}

@@ -1,0 +1,398 @@
+{
+  "Page_1": [
+    {
+      "class": "TextView",
+      "text": "This app estimates the body temperature by pulse rate, because the fever have effects on heart rate. To calculate the number of heart beats it use the main camera, in fact placing and keeping your index finger on the rear camera lens, making sure the finger is illuminated by camera flash (better method is cover with your finger both camera and flash), is able to count the beats by analyzing the color change due to finger pulsations.\n It's not a very accurate method, but it can be useful when you do not have a real thermometer.\nWe recommend the use of a real thermometer.",
+      "resource_id": "textView",
+      "bounds": [
+        56,
+        389,
+        1366,
+        1191
+      ],
+      "clickable": false,
+      "semantic_label": null
+    },
+    {
+      "class": "Button",
+      "text": "OK BACK TO APP",
+      "resource_id": "buttonOK",
+      "bounds": [
+        401,
+        1275,
+        1038,
+        1443
+      ],
+      "clickable": true,
+      "semantic_label": null
+    },
+    {
+      "class": "TextView",
+      "text": "Fever Check Thermometer",
+      "resource_id": null,
+      "bounds": [
+        56,
+        135,
+        890,
+        228
+      ],
+      "clickable": false,
+      "semantic_label": null
+    },
+    {
+      "class": "View",
+      "text": null,
+      "resource_id": "navigationBarBackground",
+      "bounds": [
+        0,
+        2392,
+        1440,
+        2560
+      ],
+      "clickable": false,
+      "semantic_label": null
+    },
+    {
+      "class": "View",
+      "text": null,
+      "resource_id": "statusBarBackground",
+      "bounds": [
+        0,
+        0,
+        1440,
+        84
+      ],
+      "clickable": false,
+      "semantic_label": null
+    }
+  ],
+  "Page_2": [
+    {
+      "class": "ImageView",
+      "text": null,
+      "resource_id": "logo",
+      "bounds": [
+        427,
+        336,
+        1012,
+        1036
+      ],
+      "clickable": false,
+      "semantic_label": null
+    },
+    {
+      "class": "TextView",
+      "text": "Put and keep your finger over the camera and flash (covering the entire lens)and press the below button.",
+      "resource_id": "hintText",
+      "bounds": [
+        56,
+        1036,
+        1384,
+        1294
+      ],
+      "clickable": false,
+      "semantic_label": null
+    },
+    {
+      "class": "Button",
+      "text": "Measure fever",
+      "resource_id": "calcBtn",
+      "bounds": [
+        56,
+        1347,
+        1384,
+        1515
+      ],
+      "clickable": true,
+      "semantic_label": null
+    },
+    {
+      "class": "Button",
+      "text": "Read How it works",
+      "resource_id": "linkHome",
+      "bounds": [
+        56,
+        1568,
+        1384,
+        1736
+      ],
+      "clickable": true,
+      "semantic_label": null
+    },
+    {
+      "class": "TextView",
+      "text": "* The measurement is performed in a state of absolute rest, remaining silent and without moving the phone. Keep your finger on the camera to continue the real-time measurement.",
+      "resource_id": "hintText2",
+      "bounds": [
+        56,
+        1789,
+        1384,
+        2081
+      ],
+      "clickable": false,
+      "semantic_label": null
+    },
+    {
+      "class": "TextView",
+      "text": "Fever Check Thermometer",
+      "resource_id": null,
+      "bounds": [
+        56,
+        135,
+        890,
+        228
+      ],
+      "clickable": false,
+      "semantic_label": null
+    },
+    {
+      "class": "a$d",
+      "text": null,
+      "resource_id": null,
+      "bounds": [
+        1300,
+        98,
+        1440,
+        266
+      ],
+      "clickable": true,
+      "semantic_label": null
+    },
+    {
+      "class": "View",
+      "text": null,
+      "resource_id": "navigationBarBackground",
+      "bounds": [
+        0,
+        2392,
+        1440,
+        2560
+      ],
+      "clickable": false,
+      "semantic_label": null
+    },
+    {
+      "class": "View",
+      "text": null,
+      "resource_id": "statusBarBackground",
+      "bounds": [
+        0,
+        0,
+        1440,
+        84
+      ],
+      "clickable": false,
+      "semantic_label": null
+    }
+  ],
+  "Page_3": [
+    {
+      "class": "HeartbeatView",
+      "text": null,
+      "resource_id": "image",
+      "bounds": [
+        0,
+        449,
+        720,
+        810
+      ],
+      "clickable": false,
+      "semantic_label": null
+    },
+    {
+      "class": "FontTextView",
+      "text": "Heart Rate",
+      "resource_id": "textBPM",
+      "bounds": [
+        208,
+        810,
+        512,
+        891
+      ],
+      "clickable": false,
+      "semantic_label": null
+    },
+    {
+      "class": "FontTextView",
+      "text": "BPM: 91\nHigh",
+      "resource_id": "text",
+      "bounds": [
+        209,
+        891,
+        510,
+        1066
+      ],
+      "clickable": false,
+      "semantic_label": null
+    },
+    {
+      "class": "ImageView",
+      "text": null,
+      "resource_id": null,
+      "bounds": [
+        720,
+        449,
+        1440,
+        810
+      ],
+      "clickable": false,
+      "semantic_label": null
+    },
+    {
+      "class": "FontTextView",
+      "text": "Temperature",
+      "resource_id": "textTemperature",
+      "bounds": [
+        906,
+        810,
+        1253,
+        891
+      ],
+      "clickable": false,
+      "semantic_label": null
+    },
+    {
+      "class": "FontTextView",
+      "text": "37.26 C°\n99.07 F°",
+      "resource_id": "text2",
+      "bounds": [
+        928,
+        891,
+        1231,
+        1066
+      ],
+      "clickable": false,
+      "semantic_label": null
+    },
+    {
+      "class": "TextView",
+      "text": "OK! now real time results are accurate\n You can test for endless time continuing to keep your finger on the camera",
+      "resource_id": "txtvwStopWatch",
+      "bounds": [
+        0,
+        1235,
+        1440,
+        1437
+      ],
+      "clickable": false,
+      "semantic_label": null
+    },
+    {
+      "class": "ImageView",
+      "text": null,
+      "resource_id": "logoresp",
+      "bounds": [
+        101,
+        1653,
+        619,
+        2014
+      ],
+      "clickable": false,
+      "semantic_label": null
+    },
+    {
+      "class": "FontTextView",
+      "text": "RESPONSE",
+      "resource_id": "textresp",
+      "bounds": [
+        200,
+        2014,
+        520,
+        2095
+      ],
+      "clickable": false,
+      "semantic_label": null
+    },
+    {
+      "class": "FontTextView",
+      "text": "You may have slight fever",
+      "resource_id": "text3",
+      "bounds": [
+        15,
+        2095,
+        705,
+        2176
+      ],
+      "clickable": false,
+      "semantic_label": null
+    },
+    {
+      "class": "FontTextView",
+      "text": "↓ Camera scanning.. ↓",
+      "resource_id": "textscan",
+      "bounds": [
+        809,
+        1437,
+        1350,
+        1530
+      ],
+      "clickable": false,
+      "semantic_label": null
+    },
+    {
+      "class": "SurfaceView",
+      "text": null,
+      "resource_id": "preview",
+      "bounds": [
+        720,
+        1530,
+        1440,
+        2392
+      ],
+      "clickable": false,
+      "semantic_label": null
+    },
+    {
+      "class": "TextView",
+      "text": "Fever Check Thermometer",
+      "resource_id": null,
+      "bounds": [
+        56,
+        135,
+        890,
+        228
+      ],
+      "clickable": false,
+      "semantic_label": null
+    },
+    {
+      "class": "a$d",
+      "text": null,
+      "resource_id": null,
+      "bounds": [
+        1300,
+        98,
+        1440,
+        266
+      ],
+      "clickable": true,
+      "semantic_label": null
+    },
+    {
+      "class": "View",
+      "text": null,
+      "resource_id": "navigationBarBackground",
+      "bounds": [
+        0,
+        2392,
+        1440,
+        2560
+      ],
+      "clickable": false,
+      "semantic_label": null
+    },
+    {
+      "class": "View",
+      "text": null,
+      "resource_id": "statusBarBackground",
+      "bounds": [
+        0,
+        0,
+        1440,
+        84
+      ],
+      "clickable": false,
+      "semantic_label": null
+    }
+  ]
+}

@@ -1,0 +1,673 @@
+{
+  "Page_1": [
+    {
+      "class": "TextView",
+      "text": "Share via...",
+      "resource_id": "title",
+      "bounds": [
+        56,
+        1350,
+        1440,
+        1510
+      ],
+      "clickable": false,
+      "semantic_label": null
+    },
+    {
+      "class": "ImageView",
+      "text": null,
+      "resource_id": "icon",
+      "bounds": [
+        138,
+        1566,
+        306,
+        1734
+      ],
+      "clickable": false,
+      "semantic_label": null
+    },
+    {
+      "class": "TextView",
+      "text": "Facebook",
+      "resource_id": "text1",
+      "bounds": [
+        130,
+        1773,
+        313,
+        1895
+      ],
+      "clickable": false,
+      "semantic_label": null
+    },
+    {
+      "class": "ImageView",
+      "text": null,
+      "resource_id": "icon",
+      "bounds": [
+        470,
+        1566,
+        638,
+        1734
+      ],
+      "clickable": false,
+      "semantic_label": null
+    },
+    {
+      "class": "TextView",
+      "text": "Email",
+      "resource_id": "text1",
+      "bounds": [
+        501,
+        1773,
+        606,
+        1895
+      ],
+      "clickable": false,
+      "semantic_label": null
+    },
+    {
+      "class": "ImageView",
+      "text": null,
+      "resource_id": "icon",
+      "bounds": [
+        802,
+        1566,
+        970,
+        1734
+      ],
+      "clickable": false,
+      "semantic_label": null
+    },
+    {
+      "class": "TextView",
+      "text": "Android Beam",
+      "resource_id": "text1",
+      "bounds": [
+        752,
+        1773,
+        1019,
+        1895
+      ],
+      "clickable": false,
+      "semantic_label": null
+    },
+    {
+      "class": "ImageView",
+      "text": null,
+      "resource_id": "icon",
+      "bounds": [
+        1134,
+        1566,
+        1302,
+        1734
+      ],
+      "clickable": false,
+      "semantic_label": null
+    },
+    {
+      "class": "TextView",
+      "text": "Bluetooth",
+      "resource_id": "text1",
+      "bounds": [
+        1127,
+        1773,
+        1308,
+        1895
+      ],
+      "clickable": false,
+      "semantic_label": null
+    },
+    {
+      "class": "ImageView",
+      "text": null,
+      "resource_id": "icon",
+      "bounds": [
+        138,
+        2007,
+        306,
+        2175
+      ],
+      "clickable": false,
+      "semantic_label": null
+    },
+    {
+      "class": "TextView",
+      "text": "Messaging",
+      "resource_id": "text1",
+      "bounds": [
+        118,
+        2214,
+        325,
+        2336
+      ],
+      "clickable": false,
+      "semantic_label": null
+    }
+  ],
+  "Page_2": [
+    {
+      "class": "ImageView",
+      "text": null,
+      "resource_id": "copy",
+      "bounds": [
+        46,
+        280,
+        383,
+        294
+      ],
+      "clickable": true,
+      "semantic_label": null
+    },
+    {
+      "class": "ImageView",
+      "text": null,
+      "resource_id": "save",
+      "bounds": [
+        383,
+        280,
+        720,
+        294
+      ],
+      "clickable": true,
+      "semantic_label": null
+    },
+    {
+      "class": "ImageView",
+      "text": null,
+      "resource_id": "share",
+      "bounds": [
+        720,
+        280,
+        1057,
+        294
+      ],
+      "clickable": true,
+      "semantic_label": null
+    },
+    {
+      "class": "ImageView",
+      "text": null,
+      "resource_id": "fav",
+      "bounds": [
+        1057,
+        280,
+        1394,
+        294
+      ],
+      "clickable": true,
+      "semantic_label": null
+    },
+    {
+      "class": "RelativeLayout",
+      "text": null,
+      "resource_id": null,
+      "bounds": [
+        0,
+        322,
+        1440,
+        340
+      ],
+      "clickable": false,
+      "semantic_label": null
+    },
+    {
+      "class": "TextView",
+      "text": "You make my whole world go round. You make my whole world stand still. You make my life worth living. You make me the person I am! I love you.",
+      "resource_id": "msgtxt",
+      "bounds": [
+        46,
+        385,
+        1394,
+        736
+      ],
+      "clickable": false,
+      "semantic_label": null
+    },
+    {
+      "class": "ImageView",
+      "text": null,
+      "resource_id": "myImage",
+      "bounds": [
+        46,
+        764,
+        1394,
+        1672
+      ],
+      "clickable": false,
+      "semantic_label": null
+    },
+    {
+      "class": "ImageView",
+      "text": null,
+      "resource_id": "copy",
+      "bounds": [
+        46,
+        1700,
+        383,
+        1823
+      ],
+      "clickable": true,
+      "semantic_label": null
+    },
+    {
+      "class": "ImageView",
+      "text": null,
+      "resource_id": "save",
+      "bounds": [
+        383,
+        1700,
+        720,
+        1823
+      ],
+      "clickable": true,
+      "semantic_label": null
+    },
+    {
+      "class": "ImageView",
+      "text": null,
+      "resource_id": "share",
+      "bounds": [
+        720,
+        1700,
+        1057,
+        1823
+      ],
+      "clickable": true,
+      "semantic_label": null
+    },
+    {
+      "class": "ImageView",
+      "text": null,
+      "resource_id": "fav",
+      "bounds": [
+        1057,
+        1700,
+        1394,
+        1823
+      ],
+      "clickable": true,
+      "semantic_label": null
+    },
+    {
+      "class": "RelativeLayout",
+      "text": null,
+      "resource_id": null,
+      "bounds": [
+        0,
+        1851,
+        1440,
+        1869
+      ],
+      "clickable": false,
+      "semantic_label": null
+    },
+    {
+      "class": "TextView",
+      "text": "From the first time I met you till today, you've been my rock solid pillar and my safety gear. Today I want to let you know that I'd be lost without you. Don't ever leave me.",
+      "resource_id": "msgtxt",
+      "bounds": [
+        46,
+        1914,
+        1394,
+        2206
+      ],
+      "clickable": false,
+      "semantic_label": null
+    },
+    {
+      "class": "o",
+      "text": null,
+      "resource_id": null,
+      "bounds": [
+        0,
+        2217,
+        1440,
+        2392
+      ],
+      "clickable": true,
+      "semantic_label": null
+    },
+    {
+      "class": "ImageButton",
+      "text": null,
+      "resource_id": null,
+      "bounds": [
+        0,
+        84,
+        196,
+        280
+      ],
+      "clickable": true,
+      "semantic_label": null
+    },
+    {
+      "class": "TextView",
+      "text": "Love Messages",
+      "resource_id": "textview1",
+      "bounds": [
+        213,
+        133,
+        1226,
+        230
+      ],
+      "clickable": false,
+      "semantic_label": null
+    },
+    {
+      "class": "ActionMenuItemView",
+      "text": null,
+      "resource_id": "favmenu",
+      "bounds": [
+        1244,
+        98,
+        1440,
+        266
+      ],
+      "clickable": true,
+      "semantic_label": null
+    },
+    {
+      "class": "View",
+      "text": null,
+      "resource_id": "navigationBarBackground",
+      "bounds": [
+        0,
+        2392,
+        1440,
+        2560
+      ],
+      "clickable": false,
+      "semantic_label": null
+    },
+    {
+      "class": "View",
+      "text": null,
+      "resource_id": "statusBarBackground",
+      "bounds": [
+        0,
+        0,
+        1440,
+        84
+      ],
+      "clickable": false,
+      "semantic_label": null
+    }
+  ],
+  "Page_3": [
+    {
+      "class": "TextView",
+      "text": "No one in the world has tasted nectar except for me. Do you know who that nectar is? You, my love!",
+      "resource_id": "msgtxt",
+      "bounds": [
+        46,
+        326,
+        1394,
+        601
+      ],
+      "clickable": false,
+      "semantic_label": null
+    },
+    {
+      "class": "ImageView",
+      "text": null,
+      "resource_id": "myImage",
+      "bounds": [
+        46,
+        629,
+        1394,
+        1537
+      ],
+      "clickable": false,
+      "semantic_label": null
+    },
+    {
+      "class": "ImageView",
+      "text": null,
+      "resource_id": "copy",
+      "bounds": [
+        46,
+        1565,
+        383,
+        1688
+      ],
+      "clickable": true,
+      "semantic_label": null
+    },
+    {
+      "class": "ImageView",
+      "text": null,
+      "resource_id": "save",
+      "bounds": [
+        383,
+        1565,
+        720,
+        1688
+      ],
+      "clickable": true,
+      "semantic_label": null
+    },
+    {
+      "class": "ImageView",
+      "text": null,
+      "resource_id": "share",
+      "bounds": [
+        720,
+        1565,
+        1057,
+        1688
+      ],
+      "clickable": true,
+      "semantic_label": null
+    },
+    {
+      "class": "ImageView",
+      "text": null,
+      "resource_id": "fav",
+      "bounds": [
+        1057,
+        1565,
+        1394,
+        1688
+      ],
+      "clickable": true,
+      "semantic_label": null
+    },
+    {
+      "class": "RelativeLayout",
+      "text": null,
+      "resource_id": null,
+      "bounds": [
+        0,
+        1716,
+        1440,
+        1734
+      ],
+      "clickable": false,
+      "semantic_label": null
+    },
+    {
+      "class": "o",
+      "text": null,
+      "resource_id": null,
+      "bounds": [
+        0,
+        2217,
+        1440,
+        2392
+      ],
+      "clickable": true,
+      "semantic_label": null
+    },
+    {
+      "class": "TextView",
+      "text": "Favorites",
+      "resource_id": "textview1",
+      "bounds": [
+        213,
+        133,
+        1366,
+        230
+      ],
+      "clickable": false,
+      "semantic_label": null
+    },
+    {
+      "class": "ImageButton",
+      "text": null,
+      "resource_id": null,
+      "bounds": [
+        0,
+        84,
+        196,
+        280
+      ],
+      "clickable": true,
+      "semantic_label": null
+    },
+    {
+      "class": "View",
+      "text": null,
+      "resource_id": "navigationBarBackground",
+      "bounds": [
+        0,
+        2392,
+        1440,
+        2560
+      ],
+      "clickable": false,
+      "semantic_label": null
+    },
+    {
+      "class": "View",
+      "text": null,
+      "resource_id": "statusBarBackground",
+      "bounds": [
+        0,
+        0,
+        1440,
+        84
+      ],
+      "clickable": false,
+      "semantic_label": null
+    }
+  ],
+  "Page_4": [
+    {
+      "class": "o",
+      "text": null,
+      "resource_id": null,
+      "bounds": [
+        0,
+        2217,
+        1440,
+        2392
+      ],
+      "clickable": true,
+      "semantic_label": null
+    },
+    {
+      "class": "ImageView",
+      "text": null,
+      "resource_id": "image1",
+      "bounds": [
+        0,
+        280,
+        1440,
+        782
+      ],
+      "clickable": true,
+      "semantic_label": null
+    },
+    {
+      "class": "ImageView",
+      "text": null,
+      "resource_id": "image1",
+      "bounds": [
+        0,
+        789,
+        1440,
+        1291
+      ],
+      "clickable": true,
+      "semantic_label": null
+    },
+    {
+      "class": "ImageView",
+      "text": null,
+      "resource_id": "image1",
+      "bounds": [
+        0,
+        1298,
+        1440,
+        1800
+      ],
+      "clickable": true,
+      "semantic_label": null
+    },
+    {
+      "class": "ImageView",
+      "text": null,
+      "resource_id": "image1",
+      "bounds": [
+        0,
+        1807,
+        1440,
+        2217
+      ],
+      "clickable": true,
+      "semantic_label": null
+    },
+    {
+      "class": "TextView",
+      "text": "Love Messages For BoyFriend",
+      "resource_id": "textview1",
+      "bounds": [
+        73,
+        133,
+        1226,
+        230
+      ],
+      "clickable": false,
+      "semantic_label": null
+    },
+    {
+      "class": "ActionMenuItemView",
+      "text": null,
+      "resource_id": "favmenu",
+      "bounds": [
+        1244,
+        98,
+        1440,
+        266
+      ],
+      "clickable": true,
+      "semantic_label": null
+    },
+    {
+      "class": "View",
+      "text": null,
+      "resource_id": "navigationBarBackground",
+      "bounds": [
+        0,
+        2392,
+        1440,
+        2560
+      ],
+      "clickable": false,
+      "semantic_label": null
+    },
+    {
+      "class": "View",
+      "text": null,
+      "resource_id": "statusBarBackground",
+      "bounds": [
+        0,
+        0,
+        1440,
+        84
+      ],
+      "clickable": false,
+      "semantic_label": null
+    }
+  ]
+}

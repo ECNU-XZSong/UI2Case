@@ -1,0 +1,281 @@
+{
+  "Page_0": [
+    {
+      "class": "ProgressBar",
+      "text": null,
+      "resource_id": "progressBar",
+      "bounds": [
+        35,
+        84,
+        1405,
+        154
+      ],
+      "clickable": false,
+      "semantic_label": null
+    },
+    {
+      "class": "TextView",
+      "text": "01:55",
+      "resource_id": "txtTime",
+      "bounds": [
+        0,
+        195,
+        381,
+        280
+      ],
+      "clickable": false,
+      "semantic_label": null
+    },
+    {
+      "class": "TextView",
+      "text": "Task 1 / 60",
+      "resource_id": "txtNumtest",
+      "bounds": [
+        381,
+        180,
+        1216,
+        283
+      ],
+      "clickable": false,
+      "semantic_label": null
+    },
+    {
+      "class": "Button",
+      "text": "Back",
+      "resource_id": "btnBack",
+      "bounds": [
+        1216,
+        154,
+        1440,
+        322
+      ],
+      "clickable": true,
+      "semantic_label": null
+    },
+    {
+      "class": "ImageView",
+      "text": null,
+      "resource_id": "imgTest",
+      "bounds": [
+        171,
+        332,
+        1268,
+        1189
+      ],
+      "clickable": false,
+      "semantic_label": null
+    },
+    {
+      "class": "ImageButton",
+      "text": null,
+      "resource_id": "imageButton1",
+      "bounds": [
+        22,
+        1199,
+        487,
+        1507
+      ],
+      "clickable": true,
+      "semantic_label": null
+    },
+    {
+      "class": "ImageButton",
+      "text": null,
+      "resource_id": "imageButton2",
+      "bounds": [
+        487,
+        1199,
+        952,
+        1507
+      ],
+      "clickable": true,
+      "semantic_label": null
+    },
+    {
+      "class": "ImageButton",
+      "text": null,
+      "resource_id": "imageButton3",
+      "bounds": [
+        952,
+        1199,
+        1417,
+        1507
+      ],
+      "clickable": true,
+      "semantic_label": null
+    },
+    {
+      "class": "ImageButton",
+      "text": null,
+      "resource_id": "imageButton4",
+      "bounds": [
+        22,
+        1507,
+        487,
+        1815
+      ],
+      "clickable": true,
+      "semantic_label": null
+    },
+    {
+      "class": "ImageButton",
+      "text": null,
+      "resource_id": "imageButton5",
+      "bounds": [
+        487,
+        1507,
+        952,
+        1815
+      ],
+      "clickable": true,
+      "semantic_label": null
+    },
+    {
+      "class": "ImageButton",
+      "text": null,
+      "resource_id": "imageButton6",
+      "bounds": [
+        952,
+        1507,
+        1417,
+        1815
+      ],
+      "clickable": true,
+      "semantic_label": null
+    },
+    {
+      "class": "Button",
+      "text": "Next",
+      "resource_id": "btnNext",
+      "bounds": [
+        1003,
+        1849,
+        1366,
+        2089
+      ],
+      "clickable": true,
+      "semantic_label": null
+    }
+  ],
+  "Page_1": [
+    {
+      "class": "TextView",
+      "text": "Top 10 results",
+      "resource_id": "tvTop10",
+      "bounds": [
+        474,
+        119,
+        965,
+        222
+      ],
+      "clickable": false,
+      "semantic_label": null
+    },
+    {
+      "class": "Button",
+      "text": "Back",
+      "resource_id": "btnBack2",
+      "bounds": [
+        1181,
+        2014,
+        1405,
+        2182
+      ],
+      "clickable": true,
+      "semantic_label": null
+    },
+    {
+      "class": "o",
+      "text": null,
+      "resource_id": null,
+      "bounds": [
+        160,
+        2217,
+        1280,
+        2392
+      ],
+      "clickable": true,
+      "semantic_label": null
+    }
+  ],
+  "Page_2": [
+    {
+      "class": "TextView",
+      "text": "Description",
+      "resource_id": "textView1",
+      "bounds": [
+        522,
+        119,
+        918,
+        222
+      ],
+      "clickable": false,
+      "semantic_label": null
+    },
+    {
+      "class": "TextView",
+      "text": "The test consists of 60 images. In each image is missing part of it. It is necessary to determine the regularity that is available in each image and choose the right version of its complement. There are 6 or 8 variants of complement for each image. The test will run for 30 minutes.",
+      "resource_id": "textView2",
+      "bounds": [
+        35,
+        222,
+        1405,
+        672
+      ],
+      "clickable": false,
+      "semantic_label": null
+    },
+    {
+      "class": "TextView",
+      "text": "The selection is made by clicking on the need button with image.",
+      "resource_id": "textView3",
+      "bounds": [
+        35,
+        672,
+        1405,
+        830
+      ],
+      "clickable": false,
+      "semantic_label": null
+    },
+    {
+      "class": "Button",
+      "text": "Begin test",
+      "resource_id": "btbBegin",
+      "bounds": [
+        538,
+        865,
+        902,
+        1033
+      ],
+      "clickable": true,
+      "semantic_label": null
+    },
+    {
+      "class": "Button",
+      "text": "Top 10 results",
+      "resource_id": "btnResults",
+      "bounds": [
+        480,
+        1068,
+        960,
+        1236
+      ],
+      "clickable": true,
+      "semantic_label": null
+    },
+    {
+      "class": "o",
+      "text": null,
+      "resource_id": null,
+      "bounds": [
+        160,
+        2217,
+        1280,
+        2392
+      ],
+      "clickable": true,
+      "semantic_label": null
+    }
+  ]
+}

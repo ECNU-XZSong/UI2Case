@@ -1,0 +1,359 @@
+{
+  "Page_0": [
+    {
+      "class": "ProgressBar",
+      "text": null,
+      "resource_id": "activation_progressbar_drawable",
+      "bounds": [
+        105,
+        357,
+        1335,
+        392
+      ],
+      "clickable": false,
+      "semantic_label": null
+    },
+    {
+      "class": "TypefaceTextView",
+      "text": "Enter your System ID found on the side of the box.",
+      "resource_id": null,
+      "bounds": [
+        105,
+        427,
+        1335,
+        634
+      ],
+      "clickable": false,
+      "semantic_label": null
+    },
+    {
+      "class": "ImageView",
+      "text": null,
+      "resource_id": null,
+      "bounds": [
+        105,
+        722,
+        1335,
+        1088
+      ],
+      "clickable": false,
+      "semantic_label": null
+    },
+    {
+      "class": "TextView",
+      "text": "123-456-789",
+      "resource_id": "activation_pin_label_box",
+      "bounds": [
+        105,
+        1158,
+        1335,
+        1368
+      ],
+      "clickable": true,
+      "semantic_label": null
+    },
+    {
+      "class": "TextView",
+      "text": "___-___-___",
+      "resource_id": "activation_pin_label_underline",
+      "bounds": [
+        105,
+        1158,
+        1335,
+        1368
+      ],
+      "clickable": true,
+      "semantic_label": null
+    },
+    {
+      "class": "EditText",
+      "text": "123456789",
+      "resource_id": "activation_pin_hidden_entry",
+      "bounds": [
+        105,
+        1158,
+        1335,
+        1368
+      ],
+      "clickable": true,
+      "semantic_label": null
+    },
+    {
+      "class": "TypefaceTextView",
+      "text": "Can't find your System ID?",
+      "resource_id": "how_to_find_system_id",
+      "bounds": [
+        378,
+        1883,
+        1061,
+        1971
+      ],
+      "clickable": false,
+      "semantic_label": null
+    },
+    {
+      "class": "TypefaceButton",
+      "text": "call customer service",
+      "resource_id": "btn_call_customer_service",
+      "bounds": [
+        105,
+        1937,
+        1335,
+        2084
+      ],
+      "clickable": true,
+      "semantic_label": null
+    },
+    {
+      "class": "TypefaceButton",
+      "text": "next",
+      "resource_id": "activation_pin_entry_button_submit",
+      "bounds": [
+        105,
+        2119,
+        1335,
+        2287
+      ],
+      "clickable": true,
+      "semantic_label": null
+    },
+    {
+      "class": "TypefaceTextView",
+      "text": "System ID",
+      "resource_id": "action_bar_back_title",
+      "bounds": [
+        121,
+        84,
+        368,
+        252
+      ],
+      "clickable": false,
+      "semantic_label": null
+    },
+    {
+      "class": "ImageButton",
+      "text": null,
+      "resource_id": "btn_close",
+      "bounds": [
+        1332,
+        136,
+        1397,
+        200
+      ],
+      "clickable": true,
+      "semantic_label": null
+    }
+  ],
+  "Page_1": [
+    {
+      "class": "ImageView",
+      "text": null,
+      "resource_id": null,
+      "bounds": [
+        270,
+        119,
+        1169,
+        737
+      ],
+      "clickable": false,
+      "semantic_label": null
+    },
+    {
+      "class": "TypefaceTextView",
+      "text": "Welcome to hum!",
+      "resource_id": "textViewSubTitle",
+      "bounds": [
+        0,
+        807,
+        1440,
+        1013
+      ],
+      "clickable": false,
+      "semantic_label": null
+    },
+    {
+      "class": "TypefaceTextView",
+      "text": "Let's activate your device and set up your hum account.",
+      "resource_id": "textViewInfo",
+      "bounds": [
+        140,
+        1048,
+        1300,
+        1254
+      ],
+      "clickable": false,
+      "semantic_label": null
+    },
+    {
+      "class": "TypefaceTextView",
+      "text": "With hum, you’ll get pinpoint\nroadside & emergency assistance, access to a mechanics hotline, plus a lot more.",
+      "resource_id": "textViewInfo2",
+      "bounds": [
+        140,
+        1289,
+        1300,
+        1598
+      ],
+      "clickable": false,
+      "semantic_label": null
+    },
+    {
+      "class": "TypefaceTextView",
+      "text": "Not a hum customer yet?\nVisit us online or at a Verizon store.",
+      "resource_id": "textViewInfo3",
+      "bounds": [
+        140,
+        1633,
+        1300,
+        1839
+      ],
+      "clickable": false,
+      "semantic_label": null
+    },
+    {
+      "class": "TypefaceButton",
+      "text": "create account",
+      "resource_id": "btn_create_account",
+      "bounds": [
+        105,
+        1874,
+        1335,
+        2081
+      ],
+      "clickable": true,
+      "semantic_label": null
+    },
+    {
+      "class": "TypefaceButton",
+      "text": "skip, I already have an account",
+      "resource_id": "btn_login",
+      "bounds": [
+        0,
+        2081,
+        1440,
+        2288
+      ],
+      "clickable": true,
+      "semantic_label": null
+    }
+  ],
+  "Page_2": [
+    {
+      "class": "ImageView",
+      "text": null,
+      "resource_id": null,
+      "bounds": [
+        270,
+        260,
+        1169,
+        1148
+      ],
+      "clickable": false,
+      "semantic_label": null
+    },
+    {
+      "class": "TypefaceTextView",
+      "text": "sign in",
+      "resource_id": null,
+      "bounds": [
+        105,
+        1236,
+        363,
+        1371
+      ],
+      "clickable": true,
+      "semantic_label": null
+    },
+    {
+      "class": "ErrorStyledEditText",
+      "text": null,
+      "resource_id": "edit_email",
+      "bounds": [
+        105,
+        1406,
+        1335,
+        1557
+      ],
+      "clickable": true,
+      "semantic_label": null
+    },
+    {
+      "class": "ErrorStyledEditText",
+      "text": null,
+      "resource_id": "edit_password",
+      "bounds": [
+        105,
+        1599,
+        1335,
+        1750
+      ],
+      "clickable": true,
+      "semantic_label": null
+    },
+    {
+      "class": "CheckBox",
+      "text": "remember me",
+      "resource_id": "check_remember_me",
+      "bounds": [
+        105,
+        1785,
+        950,
+        1871
+      ],
+      "clickable": true,
+      "semantic_label": null
+    },
+    {
+      "class": "CheckBox",
+      "text": "stay signed in",
+      "resource_id": "check_stay_logged",
+      "bounds": [
+        950,
+        1785,
+        1335,
+        1871
+      ],
+      "clickable": true,
+      "semantic_label": null
+    },
+    {
+      "class": "TypefaceButton",
+      "text": "sign in",
+      "resource_id": "btn_login",
+      "bounds": [
+        105,
+        1976,
+        1335,
+        2151
+      ],
+      "clickable": true,
+      "semantic_label": null
+    },
+    {
+      "class": "TypefaceTextView",
+      "text": "forgot password?",
+      "resource_id": "txt_forgot_pass",
+      "bounds": [
+        105,
+        2186,
+        545,
+        2252
+      ],
+      "clickable": true,
+      "semantic_label": null
+    },
+    {
+      "class": "TypefaceButton",
+      "text": "create account",
+      "resource_id": "btn_account_setup",
+      "bounds": [
+        545,
+        2186,
+        1335,
+        2254
+      ],
+      "clickable": true,
+      "semantic_label": null
+    }
+  ]
+}

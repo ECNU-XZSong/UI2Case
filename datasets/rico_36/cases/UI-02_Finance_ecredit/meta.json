@@ -1,0 +1,51 @@
+{
+  "case_id": "UI-02_Finance_ecredit",
+  "category": "Finance",
+  "complexity": "Medium",
+  "app_package": "kr.co.uplus.ecredit",
+  "play_store_name": "Smart XPay",
+  "trace": "trace_0",
+  "entry_page": "Page_0",
+  "n_screens": 4,
+  "dropped_screens": [
+    "Page_4"
+  ],
+  "pages": [
+    {
+      "page": "Page_0",
+      "orig_screenshot_id": 1,
+      "activity": "kr.co.uplus.ecredit/kr.co.uplus.ecredit.Main2",
+      "is_keyboard": false,
+      "n_elements": 9,
+      "n_clickable": 2,
+      "n_clickable_human": 2
+    },
+    {
+      "page": "Page_1",
+      "orig_screenshot_id": 18,
+      "activity": "kr.co.uplus.ecredit/kr.co.uplus.ecredit.certificate.CertgetActivity1",
+      "is_keyboard": false,
+      "n_elements": 3,
+      "n_clickable": 1,
+      "n_clickable_human": 1
+    },
+    {
+      "page": "Page_2",
+      "orig_screenshot_id": 41,
+      "activity": "kr.co.uplus.ecredit/kr.co.uplus.ecredit.certificate.CertLogin",
+      "is_keyboard": false,
+      "n_elements": 4,
+      "n_clickable": 2,
+      "n_clickable_human": 2
+    },
+    {
+      "page": "Page_3",
+      "orig_screenshot_id": 54,
+      "activity": "kr.co.uplus.ecredit/kr.co.uplus.ecredit.certificate.CertgetActivity2",
+      "is_keyboard": false,
+      "n_elements": 11,
+      "n_clickable": 5,
+      "n_clickable_human": 1
+    }
+  ]
+}

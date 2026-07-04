@@ -1,0 +1,76 @@
+{
+  "case_id": "UI-15_Health_sleeptime",
+  "category": "Health & Fitness",
+  "complexity": "Complex",
+  "app_package": "com.azumio.android.sleeptime",
+  "play_store_name": "Sleep Time Smart Alarm Clock",
+  "trace": "trace_1",
+  "entry_page": "Page_0",
+  "n_screens": 7,
+  "dropped_screens": [],
+  "pages": [
+    {
+      "page": "Page_0",
+      "orig_screenshot_id": 30,
+      "activity": "com.azumio.android.sleeptime/com.azumio.android.argus.sleeptime_setup.SleepTimeSetup",
+      "is_keyboard": false,
+      "n_elements": 6,
+      "n_clickable": 1,
+      "n_clickable_human": 1
+    },
+    {
+      "page": "Page_1",
+      "orig_screenshot_id": 74,
+      "activity": "com.azumio.android.sleeptime/com.azumio.android.argus.sleeptime_setup.SleepTimeSetup2",
+      "is_keyboard": false,
+      "n_elements": 6,
+      "n_clickable": 1,
+      "n_clickable_human": 1
+    },
+    {
+      "page": "Page_2",
+      "orig_screenshot_id": 1001,
+      "activity": "com.azumio.android.sleeptime/com.azumio.android.sleeptime.activity.UpgradeSTStarterKitActivity",
+      "is_keyboard": false,
+      "n_elements": 14,
+      "n_clickable": 5,
+      "n_clickable_human": 2
+    },
+    {
+      "page": "Page_3",
+      "orig_screenshot_id": 1172,
+      "activity": "com.azumio.android.sleeptime/com.azumio.android.argus.premium.PremiumPurchaseActivity",
+      "is_keyboard": false,
+      "n_elements": 4,
+      "n_clickable": 2,
+      "n_clickable_human": 3
+    },
+    {
+      "page": "Page_4",
+      "orig_screenshot_id": 1380,
+      "activity": "com.azumio.android.sleeptime/com.azumio.android.argus.premium.PremiumOutfunnelPrompt",
+      "is_keyboard": false,
+      "n_elements": 8,
+      "n_clickable": 2,
+      "n_clickable_human": 2
+    },
+    {
+      "page": "Page_5",
+      "orig_screenshot_id": 2949,
+      "activity": "com.azumio.android.sleeptime/com.azumio.android.sleeptime.info.SleepTimeInfoActivity",
+      "is_keyboard": false,
+      "n_elements": 12,
+      "n_clickable": 3,
+      "n_clickable_human": 2
+    },
+    {
+      "page": "Page_6",
+      "orig_screenshot_id": 3000,
+      "activity": "com.azumio.android.sleeptime/com.azumio.android.argus.main_menu.MainActivity",
+      "is_keyboard": false,
+      "n_elements": 19,
+      "n_clickable": 10,
+      "n_clickable_human": 12
+    }
+  ]
+}

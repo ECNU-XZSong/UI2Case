@@ -1,0 +1,276 @@
+{
+  "Page_1": [
+    {
+      "action": "Click the By tapping Start, I agree to the User Agreement and Privacy Policy",
+      "target_element": "TextView",
+      "target_text": "By tapping Start, I agree to the User Agreement and Privacy Policy",
+      "target_resid": "b93",
+      "bounds": [
+        56,
+        1590,
+        1384,
+        1700
+      ],
+      "exercised": false,
+      "expected_next_page": null
+    },
+    {
+      "action": "Click the United States",
+      "target_element": "TextView",
+      "target_text": "United States",
+      "target_resid": "b94",
+      "bounds": [
+        56,
+        1737,
+        1384,
+        1912
+      ],
+      "exercised": false,
+      "expected_next_page": null
+    },
+    {
+      "action": "Click the +1",
+      "target_element": "TextView",
+      "target_text": "+1",
+      "target_resid": "b96",
+      "bounds": [
+        56,
+        1947,
+        147,
+        2055
+      ],
+      "exercised": false,
+      "expected_next_page": null
+    },
+    {
+      "action": "Click the 4155791638",
+      "target_element": "EditText",
+      "target_text": "4155791638",
+      "target_resid": "b97",
+      "bounds": [
+        165,
+        1921,
+        1384,
+        2082
+      ],
+      "exercised": false,
+      "expected_next_page": null
+    },
+    {
+      "action": "Click the SIGN UP / LOG IN",
+      "target_element": "Button",
+      "target_text": "SIGN UP / LOG IN",
+      "target_resid": "b98",
+      "bounds": [
+        56,
+        2147,
+        1384,
+        2322
+      ],
+      "exercised": false,
+      "expected_next_page": null
+    }
+  ],
+  "Page_2": [
+    {
+      "action": "Click the United States",
+      "target_element": "TextView",
+      "target_text": "United States",
+      "target_resid": "p_",
+      "bounds": [
+        56,
+        249,
+        1384,
+        424
+      ],
+      "exercised": false,
+      "expected_next_page": null
+    },
+    {
+      "action": "Click the +1",
+      "target_element": "TextView",
+      "target_text": "+1",
+      "target_resid": "pb",
+      "bounds": [
+        56,
+        459,
+        147,
+        567
+      ],
+      "exercised": false,
+      "expected_next_page": null
+    },
+    {
+      "action": "Click the 4155791638",
+      "target_element": "EditText",
+      "target_text": "4155791638",
+      "target_resid": "pc",
+      "bounds": [
+        165,
+        433,
+        1384,
+        594
+      ],
+      "exercised": false,
+      "expected_next_page": null
+    },
+    {
+      "action": "Click the appcrawler3116",
+      "target_element": "EditText",
+      "target_text": "appcrawler3116",
+      "target_resid": "pd",
+      "bounds": [
+        56,
+        603,
+        1384,
+        778
+      ],
+      "exercised": false,
+      "expected_next_page": null
+    },
+    {
+      "action": "Click the LOG IN",
+      "target_element": "Button",
+      "target_text": "LOG IN",
+      "target_resid": "pe",
+      "bounds": [
+        56,
+        836,
+        1384,
+        1011
+      ],
+      "exercised": false,
+      "expected_next_page": null
+    },
+    {
+      "action": "Click the SIGN UP",
+      "target_element": "TextView",
+      "target_text": "SIGN UP",
+      "target_resid": "pg",
+      "bounds": [
+        56,
+        1081,
+        299,
+        1167
+      ],
+      "exercised": false,
+      "expected_next_page": null
+    },
+    {
+      "action": "Click the Forgot password",
+      "target_element": "TextView",
+      "target_text": "Forgot password",
+      "target_resid": "ph",
+      "bounds": [
+        903,
+        1081,
+        1384,
+        1167
+      ],
+      "exercised": false,
+      "expected_next_page": null
+    }
+  ],
+  "Page_3": [
+    {
+      "action": "Click the appcrawler6@gmail.com",
+      "target_element": "ClearableEditText",
+      "target_text": "appcrawler6@gmail.com",
+      "target_resid": "b55",
+      "bounds": [
+        0,
+        497,
+        1440,
+        690
+      ],
+      "exercised": false,
+      "expected_next_page": null
+    },
+    {
+      "action": "Click the Confirm",
+      "target_element": "Button",
+      "target_text": "Confirm",
+      "target_resid": "b56",
+      "bounds": [
+        53,
+        778,
+        1387,
+        936
+      ],
+      "exercised": false,
+      "expected_next_page": null
+    },
+    {
+      "action": "Click the Reset password via SMS",
+      "target_element": "TextView",
+      "target_text": "Reset password via SMS",
+      "target_resid": "b57",
+      "bounds": [
+        326,
+        2232,
+        1113,
+        2329
+      ],
+      "exercised": false,
+      "expected_next_page": null
+    }
+  ],
+  "Page_4": [
+    {
+      "action": "Click the Next",
+      "target_element": "Button",
+      "target_text": "Next",
+      "target_resid": "bf2",
+      "bounds": [
+        1125,
+        114,
+        1405,
+        219
+      ],
+      "exercised": false,
+      "expected_next_page": null
+    },
+    {
+      "action": "Click the +1",
+      "target_element": "TextView",
+      "target_text": "+1",
+      "target_resid": "arc",
+      "bounds": [
+        0,
+        574,
+        263,
+        749
+      ],
+      "exercised": false,
+      "expected_next_page": null
+    },
+    {
+      "action": "Click the (415) 579-1638",
+      "target_element": "EditText",
+      "target_text": "(415) 579-1638",
+      "target_resid": "b2r",
+      "bounds": [
+        299,
+        574,
+        1440,
+        749
+      ],
+      "exercised": false,
+      "expected_next_page": null
+    },
+    {
+      "action": "Click the Reset password via e-mail",
+      "target_element": "TextView",
+      "target_text": "Reset password via e-mail",
+      "target_resid": "b2x",
+      "bounds": [
+        347,
+        2243,
+        1092,
+        2329
+      ],
+      "exercised": false,
+      "expected_next_page": null
+    }
+  ]
+}

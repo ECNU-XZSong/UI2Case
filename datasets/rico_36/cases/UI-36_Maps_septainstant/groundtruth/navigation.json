@@ -1,0 +1,32 @@
+[
+  {
+    "source_page": "Page_3",
+    "target_page": "Page_0",
+    "action": "Click Subway",
+    "needs_review": false
+  },
+  {
+    "source_page": "Page_0",
+    "target_page": "Page_1",
+    "action": "Click BSL line",
+    "needs_review": false
+  },
+  {
+    "source_page": "Page_1",
+    "target_page": "Page_2",
+    "action": "Click a stop (Fern Rock TC)",
+    "needs_review": false
+  },
+  {
+    "source_page": "Page_3",
+    "target_page": "Page_4",
+    "action": "Click Rail",
+    "needs_review": false
+  },
+  {
+    "source_page": "Page_3",
+    "target_page": "Page_6",
+    "action": "Click Alerts",
+    "needs_review": false
+  }
+]

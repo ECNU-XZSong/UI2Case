@@ -1,0 +1,49 @@
+{
+  "case_id": "UI-35_Maps_findmycarandroidwe",
+  "category": "Maps & Navigation",
+  "complexity": "Medium",
+  "app_package": "com.ofirmiron.findmycarandroidwear",
+  "play_store_name": "Find My Parked Car",
+  "trace": "trace_0",
+  "entry_page": "Page_0",
+  "n_screens": 4,
+  "dropped_screens": [],
+  "pages": [
+    {
+      "page": "Page_0",
+      "orig_screenshot_id": 2,
+      "activity": "com.ofirmiron.findmycarandroidwear/com.ofirmiron.findmycarandroidwear.activities.IntroActivity",
+      "is_keyboard": false,
+      "n_elements": 14,
+      "n_clickable": 2,
+      "n_clickable_human": 2
+    },
+    {
+      "page": "Page_1",
+      "orig_screenshot_id": 122,
+      "activity": "com.ofirmiron.findmycarandroidwear/com.ofirmiron.findmycarandroidwear.activities.SettingsActivity",
+      "is_keyboard": false,
+      "n_elements": 16,
+      "n_clickable": 11,
+      "n_clickable_human": 10
+    },
+    {
+      "page": "Page_2",
+      "orig_screenshot_id": 221,
+      "activity": "com.ofirmiron.findmycarandroidwear/com.ofirmiron.findmycarandroidwear.activities.InAppPurchaseActivity",
+      "is_keyboard": false,
+      "n_elements": 20,
+      "n_clickable": 1,
+      "n_clickable_human": 1
+    },
+    {
+      "page": "Page_3",
+      "orig_screenshot_id": 238,
+      "activity": "com.ofirmiron.findmycarandroidwear/com.ofirmiron.findmycarandroidwear.activities.MapsActivity",
+      "is_keyboard": false,
+      "n_elements": 10,
+      "n_clickable": 6,
+      "n_clickable_human": 6
+    }
+  ]
+}

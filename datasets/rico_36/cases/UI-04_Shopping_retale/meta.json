@@ -1,0 +1,50 @@
+{
+  "case_id": "UI-04_Shopping_retale",
+  "category": "Shopping",
+  "complexity": "Medium",
+  "app_package": "com.retale.android",
+  "play_store_name": "Retale - Weekly Ads & Coupons",
+  "trace": "trace_1",
+  "entry_page": "Page_0",
+  "n_screens": 4,
+  "dropped_screens": [],
+  "pages": [
+    {
+      "page": "Page_0",
+      "orig_screenshot_id": 80,
+      "activity": "com.retale.android/com.bonial.kaufda.onboarding.TourActivity",
+      "is_keyboard": false,
+      "n_elements": 42,
+      "n_clickable": 13,
+      "n_clickable_human": 13
+    },
+    {
+      "page": "Page_1",
+      "orig_screenshot_id": 178,
+      "activity": "com.retale.android/com.bonial.kaufda.navigation.home.HomeActivity",
+      "is_keyboard": false,
+      "n_elements": 35,
+      "n_clickable": 14,
+      "n_clickable_human": 15
+    },
+    {
+      "page": "Page_2",
+      "orig_screenshot_id": 373,
+      "activity": "com.retale.android/com.bonial.kaufda.brochure_viewer.ViewerActivity",
+      "is_keyboard": false,
+      "n_elements": 16,
+      "n_clickable": 3,
+      "n_clickable_human": 4
+    },
+    {
+      "page": "Page_3",
+      "orig_screenshot_id": 454,
+      "activity": "com.retale.android/com.bonial.kaufda.brochures.BrochuresActivity",
+      "is_keyboard": false,
+      "n_elements": 16,
+      "n_clickable": 5,
+      "n_clickable_human": 5
+    }
+  ],
+  "replacement": true
+}

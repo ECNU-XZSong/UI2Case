@@ -1,0 +1,642 @@
+{
+  "Page_0": [
+    {
+      "action": "Click the Home",
+      "target_element": "Button",
+      "target_text": "Home",
+      "target_resid": "home_header",
+      "bounds": [
+        0,
+        172,
+        288,
+        308
+      ],
+      "exercised": false,
+      "expected_next_page": null
+    },
+    {
+      "action": "Click the Plan",
+      "target_element": "Button",
+      "target_text": "Plan",
+      "target_resid": "businesses_header",
+      "bounds": [
+        288,
+        172,
+        576,
+        308
+      ],
+      "exercised": false,
+      "expected_next_page": null
+    },
+    {
+      "action": "Click the Learn",
+      "target_element": "Button",
+      "target_text": "Learn",
+      "target_resid": "learn_header",
+      "bounds": [
+        576,
+        172,
+        864,
+        308
+      ],
+      "exercised": false,
+      "expected_next_page": null
+    },
+    {
+      "action": "Click the Ask",
+      "target_element": "Button",
+      "target_text": "Ask",
+      "target_resid": "questions_header",
+      "bounds": [
+        864,
+        172,
+        1152,
+        308
+      ],
+      "exercised": false,
+      "expected_next_page": null
+    },
+    {
+      "action": "Click the Best Help",
+      "target_element": "Button",
+      "target_text": "Best Help",
+      "target_resid": "extra_help_header",
+      "bounds": [
+        1152,
+        172,
+        1440,
+        308
+      ],
+      "exercised": false,
+      "expected_next_page": null
+    },
+    {
+      "action": "Click the Learn To Plan a Company",
+      "target_element": "Button",
+      "target_text": "Learn To Plan a Company",
+      "target_resid": "learn",
+      "bounds": [
+        40,
+        415,
+        1400,
+        583
+      ],
+      "exercised": false,
+      "expected_next_page": null
+    },
+    {
+      "action": "Click the Step By Step: Build a Company",
+      "target_element": "Button",
+      "target_text": "Step By Step: Build a Company",
+      "target_resid": "timeline_button",
+      "bounds": [
+        40,
+        583,
+        1400,
+        751
+      ],
+      "exercised": false,
+      "expected_next_page": null
+    },
+    {
+      "action": "Click the Build Your Website On Your Own",
+      "target_element": "Button",
+      "target_text": "Build Your Website On Your Own",
+      "target_resid": "website_button",
+      "bounds": [
+        40,
+        751,
+        1400,
+        919
+      ],
+      "exercised": false,
+      "expected_next_page": null
+    },
+    {
+      "action": "Click the Examples For Common Businesses",
+      "target_element": "Button",
+      "target_text": "Examples For Common Businesses",
+      "target_resid": "examples_button",
+      "bounds": [
+        40,
+        919,
+        1400,
+        1087
+      ],
+      "exercised": false,
+      "expected_next_page": null
+    },
+    {
+      "action": "Click the Take My 4-App Business Course",
+      "target_element": "Button",
+      "target_text": "Take My 4-App Business Course",
+      "target_resid": "more_articles_button",
+      "bounds": [
+        40,
+        1186,
+        1400,
+        1354
+      ],
+      "exercised": false,
+      "expected_next_page": null
+    },
+    {
+      "action": "Click the Plan Your Business",
+      "target_element": "Button",
+      "target_text": "Plan Your Business",
+      "target_resid": "plan_business",
+      "bounds": [
+        40,
+        1453,
+        1400,
+        1621
+      ],
+      "exercised": false,
+      "expected_next_page": null
+    },
+    {
+      "action": "Click the Businesses You Are Planning",
+      "target_element": "Button",
+      "target_text": "Businesses You Are Planning",
+      "target_resid": "my_problems_button",
+      "bounds": [
+        40,
+        1621,
+        1400,
+        1789
+      ],
+      "exercised": false,
+      "expected_next_page": null
+    },
+    {
+      "action": "Click the Watch Our YouTube Business Channel",
+      "target_element": "Button",
+      "target_text": "Watch Our YouTube Business Channel",
+      "target_resid": "youtube_button",
+      "bounds": [
+        40,
+        1888,
+        1400,
+        2056
+      ],
+      "exercised": false,
+      "expected_next_page": null
+    },
+    {
+      "action": "Click the Books And Courses To Teach You Business",
+      "target_element": "Button",
+      "target_text": "Books And Courses To Teach You Business",
+      "target_resid": "bookscourses",
+      "bounds": [
+        40,
+        2155,
+        1400,
+        2323
+      ],
+      "exercised": false,
+      "expected_next_page": null
+    },
+    {
+      "action": "Click the Get Help Planning From An Expert",
+      "target_element": "Button",
+      "target_text": "Get Help Planning From An Expert",
+      "target_resid": "questions_coacing",
+      "bounds": [
+        40,
+        2341,
+        1400,
+        2392
+      ],
+      "exercised": false,
+      "expected_next_page": null
+    }
+  ],
+  "Page_1": [
+    {
+      "action": "Click the Home",
+      "target_element": "Button",
+      "target_text": "Home",
+      "target_resid": "home_header",
+      "bounds": [
+        0,
+        172,
+        288,
+        308
+      ],
+      "exercised": false,
+      "expected_next_page": null
+    },
+    {
+      "action": "Click the Plan",
+      "target_element": "Button",
+      "target_text": "Plan",
+      "target_resid": "businesses_header",
+      "bounds": [
+        288,
+        172,
+        576,
+        308
+      ],
+      "exercised": false,
+      "expected_next_page": null
+    },
+    {
+      "action": "Click the Learn",
+      "target_element": "Button",
+      "target_text": "Learn",
+      "target_resid": "learn_header",
+      "bounds": [
+        576,
+        172,
+        864,
+        308
+      ],
+      "exercised": false,
+      "expected_next_page": null
+    },
+    {
+      "action": "Click the Ask",
+      "target_element": "Button",
+      "target_text": "Ask",
+      "target_resid": "questions_header",
+      "bounds": [
+        864,
+        172,
+        1152,
+        308
+      ],
+      "exercised": false,
+      "expected_next_page": null
+    },
+    {
+      "action": "Click the Best Help",
+      "target_element": "Button",
+      "target_text": "Best Help",
+      "target_resid": "extra_help_header",
+      "bounds": [
+        1152,
+        172,
+        1440,
+        308
+      ],
+      "exercised": false,
+      "expected_next_page": null
+    },
+    {
+      "action": "Click the Making healthy foods",
+      "target_element": "EditText",
+      "target_text": "Making healthy foods",
+      "target_resid": "problem_explanation",
+      "bounds": [
+        5,
+        379,
+        1435,
+        816
+      ],
+      "exercised": false,
+      "expected_next_page": null
+    },
+    {
+      "action": "Click the I want help planning",
+      "target_element": "RadioButton",
+      "target_text": "I want help planning",
+      "target_resid": "radioOpen",
+      "bounds": [
+        5,
+        816,
+        635,
+        984
+      ],
+      "exercised": false,
+      "expected_next_page": null
+    },
+    {
+      "action": "Click the Plan privately, on my own",
+      "target_element": "RadioButton",
+      "target_text": "Plan privately, on my own",
+      "target_resid": "radioPrivate",
+      "bounds": [
+        5,
+        984,
+        766,
+        1152
+      ],
+      "exercised": false,
+      "expected_next_page": null
+    },
+    {
+      "action": "Click the Learn How To Get Help Planning",
+      "target_element": "Button",
+      "target_text": "Learn How To Get Help Planning",
+      "target_resid": "premium_button",
+      "bounds": [
+        40,
+        1310,
+        1400,
+        1478
+      ],
+      "exercised": false,
+      "expected_next_page": null
+    }
+  ],
+  "Page_2": [
+    {
+      "action": "Click the Home",
+      "target_element": "Button",
+      "target_text": "Home",
+      "target_resid": "home_header",
+      "bounds": [
+        0,
+        172,
+        288,
+        308
+      ],
+      "exercised": false,
+      "expected_next_page": null
+    },
+    {
+      "action": "Click the Plan",
+      "target_element": "Button",
+      "target_text": "Plan",
+      "target_resid": "businesses_header",
+      "bounds": [
+        288,
+        172,
+        576,
+        308
+      ],
+      "exercised": false,
+      "expected_next_page": null
+    },
+    {
+      "action": "Click the Learn",
+      "target_element": "Button",
+      "target_text": "Learn",
+      "target_resid": "learn_header",
+      "bounds": [
+        576,
+        172,
+        864,
+        308
+      ],
+      "exercised": false,
+      "expected_next_page": null
+    },
+    {
+      "action": "Click the Ask",
+      "target_element": "Button",
+      "target_text": "Ask",
+      "target_resid": "questions_header",
+      "bounds": [
+        864,
+        172,
+        1152,
+        308
+      ],
+      "exercised": false,
+      "expected_next_page": null
+    },
+    {
+      "action": "Click the Best Help",
+      "target_element": "Button",
+      "target_text": "Best Help",
+      "target_resid": "extra_help_header",
+      "bounds": [
+        1152,
+        172,
+        1440,
+        308
+      ],
+      "exercised": false,
+      "expected_next_page": null
+    },
+    {
+      "action": "Click the Plan New Business",
+      "target_element": "Button",
+      "target_text": "Plan New Business",
+      "target_resid": "add_business",
+      "bounds": [
+        35,
+        343,
+        1405,
+        511
+      ],
+      "exercised": false,
+      "expected_next_page": null
+    },
+    {
+      "action": "Click the Enter Invite Code From a Friend",
+      "target_element": "Button",
+      "target_text": "Enter Invite Code From a Friend",
+      "target_resid": "enter_invite_code",
+      "bounds": [
+        35,
+        511,
+        1405,
+        679
+      ],
+      "exercised": false,
+      "expected_next_page": null
+    }
+  ],
+  "Page_3": [
+    {
+      "action": "Click the Home",
+      "target_element": "Button",
+      "target_text": "Home",
+      "target_resid": "home_header",
+      "bounds": [
+        0,
+        172,
+        288,
+        308
+      ],
+      "exercised": false,
+      "expected_next_page": null
+    },
+    {
+      "action": "Click the Plan",
+      "target_element": "Button",
+      "target_text": "Plan",
+      "target_resid": "businesses_header",
+      "bounds": [
+        288,
+        172,
+        576,
+        308
+      ],
+      "exercised": false,
+      "expected_next_page": null
+    },
+    {
+      "action": "Click the Learn",
+      "target_element": "Button",
+      "target_text": "Learn",
+      "target_resid": "learn_header",
+      "bounds": [
+        576,
+        172,
+        864,
+        308
+      ],
+      "exercised": false,
+      "expected_next_page": null
+    },
+    {
+      "action": "Click the Ask",
+      "target_element": "Button",
+      "target_text": "Ask",
+      "target_resid": "questions_header",
+      "bounds": [
+        864,
+        172,
+        1152,
+        308
+      ],
+      "exercised": false,
+      "expected_next_page": null
+    },
+    {
+      "action": "Click the Best Help",
+      "target_element": "Button",
+      "target_text": "Best Help",
+      "target_resid": "extra_help_header",
+      "bounds": [
+        1152,
+        172,
+        1440,
+        308
+      ],
+      "exercised": false,
+      "expected_next_page": null
+    },
+    {
+      "action": "Click the How to think through product strategy",
+      "target_element": "Button",
+      "target_text": "How to think through product strategy",
+      "target_resid": "product_strategy_button",
+      "bounds": [
+        35,
+        1164,
+        1405,
+        1332
+      ],
+      "exercised": false,
+      "expected_next_page": null
+    },
+    {
+      "action": "Click the Learn About Company Stages",
+      "target_element": "Button",
+      "target_text": "Learn About Company Stages",
+      "target_resid": "company_stage_button",
+      "bounds": [
+        35,
+        2189,
+        1405,
+        2357
+      ],
+      "exercised": false,
+      "expected_next_page": null
+    }
+  ],
+  "Page_4": [
+    {
+      "action": "Click the Home",
+      "target_element": "Button",
+      "target_text": "Home",
+      "target_resid": "home_header",
+      "bounds": [
+        0,
+        172,
+        288,
+        308
+      ],
+      "exercised": false,
+      "expected_next_page": null
+    },
+    {
+      "action": "Click the Plan",
+      "target_element": "Button",
+      "target_text": "Plan",
+      "target_resid": "businesses_header",
+      "bounds": [
+        288,
+        172,
+        576,
+        308
+      ],
+      "exercised": false,
+      "expected_next_page": null
+    },
+    {
+      "action": "Click the Learn",
+      "target_element": "Button",
+      "target_text": "Learn",
+      "target_resid": "learn_header",
+      "bounds": [
+        576,
+        172,
+        864,
+        308
+      ],
+      "exercised": false,
+      "expected_next_page": null
+    },
+    {
+      "action": "Click the Ask",
+      "target_element": "Button",
+      "target_text": "Ask",
+      "target_resid": "questions_header",
+      "bounds": [
+        864,
+        172,
+        1152,
+        308
+      ],
+      "exercised": false,
+      "expected_next_page": null
+    },
+    {
+      "action": "Click the Best Help",
+      "target_element": "Button",
+      "target_text": "Best Help",
+      "target_resid": "extra_help_header",
+      "bounds": [
+        1152,
+        172,
+        1440,
+        308
+      ],
+      "exercised": false,
+      "expected_next_page": null
+    },
+    {
+      "action": "Click the How This Works",
+      "target_element": "Button",
+      "target_text": "How This Works",
+      "target_resid": "howworks",
+      "bounds": [
+        35,
+        743,
+        1405,
+        911
+      ],
+      "exercised": false,
+      "expected_next_page": null
+    },
+    {
+      "action": "Click the Get Started: Ask a Question",
+      "target_element": "Button",
+      "target_text": "Get Started: Ask a Question",
+      "target_resid": "add_question",
+      "bounds": [
+        35,
+        946,
+        1405,
+        1114
+      ],
+      "exercised": false,
+      "expected_next_page": null
+    }
+  ]
+}

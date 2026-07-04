@@ -1,0 +1,181 @@
+{
+  "Page_0": [
+    {
+      "action": "Click the ActionMenuPresenter$OverflowMenuButton",
+      "target_element": "ActionMenuPresenter$OverflowMenuButton",
+      "target_text": null,
+      "target_resid": null,
+      "bounds": [
+        1244,
+        84,
+        1440,
+        252
+      ],
+      "exercised": false,
+      "expected_next_page": null
+    }
+  ],
+  "Page_1": [
+    {
+      "action": "Click the ActionMenuPresenter$OverflowMenuButton",
+      "target_element": "ActionMenuPresenter$OverflowMenuButton",
+      "target_text": null,
+      "target_resid": null,
+      "bounds": [
+        1244,
+        84,
+        1440,
+        252
+      ],
+      "exercised": false,
+      "expected_next_page": null
+    }
+  ],
+  "Page_2": [
+    {
+      "action": "Click the preview",
+      "target_element": "ImageButton",
+      "target_text": null,
+      "target_resid": "preview",
+      "bounds": [
+        35,
+        1989,
+        210,
+        2164
+      ],
+      "exercised": false,
+      "expected_next_page": null
+    },
+    {
+      "action": "Click the replay",
+      "target_element": "ImageButton",
+      "target_text": null,
+      "target_resid": "replay",
+      "bounds": [
+        632,
+        1989,
+        807,
+        2164
+      ],
+      "exercised": false,
+      "expected_next_page": null
+    },
+    {
+      "action": "Click the next",
+      "target_element": "ImageButton",
+      "target_text": null,
+      "target_resid": "next",
+      "bounds": [
+        1230,
+        1989,
+        1405,
+        2164
+      ],
+      "exercised": false,
+      "expected_next_page": null
+    },
+    {
+      "action": "Click the o",
+      "target_element": "o",
+      "target_text": null,
+      "target_resid": null,
+      "bounds": [
+        0,
+        2217,
+        1440,
+        2392
+      ],
+      "exercised": false,
+      "expected_next_page": null
+    }
+  ],
+  "Page_4": [],
+  "Page_5": [
+    {
+      "action": "Click the favorite",
+      "target_element": "ImageButton",
+      "target_text": null,
+      "target_resid": "favorite",
+      "bounds": [
+        1247,
+        322,
+        1370,
+        445
+      ],
+      "exercised": false,
+      "expected_next_page": null
+    },
+    {
+      "action": "Click the process",
+      "target_element": "ImageButton",
+      "target_text": null,
+      "target_resid": "process",
+      "bounds": [
+        70,
+        322,
+        193,
+        445
+      ],
+      "exercised": false,
+      "expected_next_page": null
+    },
+    {
+      "action": "Click the begin",
+      "target_element": "ImageButton",
+      "target_text": null,
+      "target_resid": "begin",
+      "bounds": [
+        436,
+        1989,
+        1003,
+        2164
+      ],
+      "exercised": false,
+      "expected_next_page": null
+    },
+    {
+      "action": "Click the o",
+      "target_element": "o",
+      "target_text": null,
+      "target_resid": null,
+      "bounds": [
+        0,
+        2217,
+        1440,
+        2392
+      ],
+      "exercised": false,
+      "expected_next_page": null
+    },
+    {
+      "action": "Click the ActionMenuPresenter$OverflowMenuButton",
+      "target_element": "ActionMenuPresenter$OverflowMenuButton",
+      "target_text": null,
+      "target_resid": null,
+      "bounds": [
+        1244,
+        84,
+        1440,
+        252
+      ],
+      "exercised": false,
+      "expected_next_page": null
+    }
+  ],
+  "Page_6": [
+    {
+      "action": "Click the ActionMenuPresenter$OverflowMenuButton",
+      "target_element": "ActionMenuPresenter$OverflowMenuButton",
+      "target_text": null,
+      "target_resid": null,
+      "bounds": [
+        1244,
+        84,
+        1440,
+        252
+      ],
+      "exercised": false,
+      "expected_next_page": null
+    }
+  ]
+}

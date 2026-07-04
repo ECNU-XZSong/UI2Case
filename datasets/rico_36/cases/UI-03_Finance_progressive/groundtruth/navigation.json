@@ -1,0 +1,44 @@
+[
+  {
+    "source_page": "Page_0",
+    "target_page": "Page_1",
+    "action": "Click Claims Center",
+    "needs_review": false
+  },
+  {
+    "source_page": "Page_1",
+    "target_page": "Page_4",
+    "action": "Click Get Roadside Assistance",
+    "needs_review": false
+  },
+  {
+    "source_page": "Page_4",
+    "target_page": "Page_2",
+    "action": "Click Jump Starting a Dead Battery",
+    "needs_review": false
+  },
+  {
+    "source_page": "Page_4",
+    "target_page": "Page_3",
+    "action": "Click Emergency Toolkit",
+    "needs_review": false
+  },
+  {
+    "source_page": "Page_0",
+    "target_page": "Page_5",
+    "action": "Click About This App",
+    "needs_review": false
+  },
+  {
+    "source_page": "Page_0",
+    "target_page": "Page_6",
+    "action": "Click Legal",
+    "needs_review": false
+  },
+  {
+    "source_page": "Page_6",
+    "target_page": "Page_7",
+    "action": "Click Terms of Use",
+    "needs_review": false
+  }
+]

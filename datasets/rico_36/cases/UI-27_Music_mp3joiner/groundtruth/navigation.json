@@ -1,0 +1,20 @@
+[
+  {
+    "source_page": "Page_4",
+    "target_page": "Page_3",
+    "action": "Click MP3 cut",
+    "needs_review": false
+  },
+  {
+    "source_page": "Page_3",
+    "target_page": "Page_0",
+    "action": "Click a file",
+    "needs_review": false
+  },
+  {
+    "source_page": "Page_0",
+    "target_page": "Page_2",
+    "action": "Click Save",
+    "needs_review": false
+  }
+]

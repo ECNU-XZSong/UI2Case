@@ -1,0 +1,290 @@
+{
+  "Page_0": [
+    {
+      "action": "Click the platform_dialog_webview",
+      "target_element": "BasicWebView",
+      "target_text": null,
+      "target_resid": "platform_dialog_webview",
+      "bounds": [
+        0,
+        84,
+        1440,
+        2392
+      ],
+      "exercised": false,
+      "expected_next_page": null
+    }
+  ],
+  "Page_1": [
+    {
+      "action": "Click the ActionMenuPresenter$ˋ",
+      "target_element": "ActionMenuPresenter$ˋ",
+      "target_text": null,
+      "target_resid": null,
+      "bounds": [
+        1300,
+        98,
+        1440,
+        266
+      ],
+      "exercised": false,
+      "expected_next_page": null
+    },
+    {
+      "action": "Click the AppCompatImageButton",
+      "target_element": "AppCompatImageButton",
+      "target_text": null,
+      "target_resid": null,
+      "bounds": [
+        356,
+        364,
+        1083,
+        532
+      ],
+      "exercised": false,
+      "expected_next_page": null
+    },
+    {
+      "action": "Click the AppCompatImageButton",
+      "target_element": "AppCompatImageButton",
+      "target_text": null,
+      "target_resid": null,
+      "bounds": [
+        356,
+        574,
+        1083,
+        742
+      ],
+      "exercised": false,
+      "expected_next_page": null
+    },
+    {
+      "action": "Click the AppCompatEditText",
+      "target_element": "AppCompatEditText",
+      "target_text": null,
+      "target_resid": null,
+      "bounds": [
+        84,
+        941,
+        1356,
+        1088
+      ],
+      "exercised": false,
+      "expected_next_page": null
+    },
+    {
+      "action": "Click the AppCompatEditText",
+      "target_element": "AppCompatEditText",
+      "target_text": null,
+      "target_resid": null,
+      "bounds": [
+        84,
+        1130,
+        1356,
+        1277
+      ],
+      "exercised": false,
+      "expected_next_page": null
+    },
+    {
+      "action": "Click the ",
+      "target_element": "RhapsodyShowHideTextView",
+      "target_text": "",
+      "target_resid": null,
+      "bounds": [
+        1221,
+        1130,
+        1342,
+        1277
+      ],
+      "exercised": false,
+      "expected_next_page": null
+    },
+    {
+      "action": "Click the Log in with Email",
+      "target_element": "AppCompatButton",
+      "target_text": "Log in with Email",
+      "target_resid": null,
+      "bounds": [
+        84,
+        1319,
+        1356,
+        1480
+      ],
+      "exercised": false,
+      "expected_next_page": null
+    },
+    {
+      "action": "Click the Forgot your password?",
+      "target_element": "AppCompatTextView",
+      "target_text": "Forgot your password?",
+      "target_resid": null,
+      "bounds": [
+        436,
+        1536,
+        1003,
+        1612
+      ],
+      "exercised": false,
+      "expected_next_page": null
+    },
+    {
+      "action": "Click the Not a member? Sign up.",
+      "target_element": "AppCompatTextView",
+      "target_text": "Not a member? Sign up.",
+      "target_resid": null,
+      "bounds": [
+        422,
+        1668,
+        1018,
+        1744
+      ],
+      "exercised": false,
+      "expected_next_page": null
+    },
+    {
+      "action": "Click the Restore the subscription",
+      "target_element": "AppCompatTextView",
+      "target_text": "Restore the subscription",
+      "target_resid": null,
+      "bounds": [
+        417,
+        1876,
+        1022,
+        1952
+      ],
+      "exercised": false,
+      "expected_next_page": null
+    }
+  ],
+  "Page_2": [
+    {
+      "action": "Click the ActionMenuPresenter$ˋ",
+      "target_element": "ActionMenuPresenter$ˋ",
+      "target_text": null,
+      "target_resid": null,
+      "bounds": [
+        1300,
+        98,
+        1440,
+        266
+      ],
+      "exercised": false,
+      "expected_next_page": null
+    },
+    {
+      "action": "Click the appcrawler6@gmail.com",
+      "target_element": "AppCompatEditText",
+      "target_text": "appcrawler6@gmail.com",
+      "target_resid": null,
+      "bounds": [
+        112,
+        714,
+        1328,
+        861
+      ],
+      "exercised": false,
+      "expected_next_page": null
+    },
+    {
+      "action": "Click the appcrawler3116",
+      "target_element": "AppCompatEditText",
+      "target_text": "appcrawler3116",
+      "target_resid": null,
+      "bounds": [
+        112,
+        903,
+        1328,
+        1050
+      ],
+      "exercised": false,
+      "expected_next_page": null
+    },
+    {
+      "action": "Click the ",
+      "target_element": "RhapsodyShowHideTextView",
+      "target_text": "",
+      "target_resid": null,
+      "bounds": [
+        1193,
+        903,
+        1314,
+        1050
+      ],
+      "exercised": false,
+      "expected_next_page": null
+    },
+    {
+      "action": "Click the Log in with Email",
+      "target_element": "AppCompatButton",
+      "target_text": "Log in with Email",
+      "target_resid": null,
+      "bounds": [
+        112,
+        1092,
+        1328,
+        1253
+      ],
+      "exercised": false,
+      "expected_next_page": null
+    },
+    {
+      "action": "Click the Forgot your password?",
+      "target_element": "AppCompatTextView",
+      "target_text": "Forgot your password?",
+      "target_resid": null,
+      "bounds": [
+        436,
+        1309,
+        1003,
+        1385
+      ],
+      "exercised": false,
+      "expected_next_page": null
+    },
+    {
+      "action": "Click the Not a member? Sign up.",
+      "target_element": "AppCompatTextView",
+      "target_text": "Not a member? Sign up.",
+      "target_resid": null,
+      "bounds": [
+        422,
+        1441,
+        1018,
+        1517
+      ],
+      "exercised": false,
+      "expected_next_page": null
+    }
+  ],
+  "Page_3": [
+    {
+      "action": "Click the Sign up",
+      "target_element": "AppCompatButton",
+      "target_text": "Sign up",
+      "target_resid": null,
+      "bounds": [
+        112,
+        2028,
+        1328,
+        2189
+      ],
+      "exercised": false,
+      "expected_next_page": null
+    },
+    {
+      "action": "Click the Log In",
+      "target_element": "AppCompatButton",
+      "target_text": "Log In",
+      "target_resid": null,
+      "bounds": [
+        112,
+        2217,
+        1328,
+        2378
+      ],
+      "exercised": false,
+      "expected_next_page": null
+    }
+  ]
+}

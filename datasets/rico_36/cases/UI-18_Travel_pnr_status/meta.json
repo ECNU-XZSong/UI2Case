@@ -1,0 +1,67 @@
+{
+  "case_id": "UI-18_Travel_pnr_status",
+  "category": "Travel & Local",
+  "complexity": "Complex",
+  "app_package": "com.lathconsultants.PNR_status",
+  "play_store_name": "PNR status and train info",
+  "trace": "trace_1",
+  "entry_page": "Page_0",
+  "n_screens": 6,
+  "dropped_screens": [],
+  "pages": [
+    {
+      "page": "Page_0",
+      "orig_screenshot_id": 65,
+      "activity": "com.lathconsultants.PNR_status/com.lathconsultants.PNR_status.launch_activity",
+      "is_keyboard": false,
+      "n_elements": 0,
+      "n_clickable": 0,
+      "n_clickable_human": 11
+    },
+    {
+      "page": "Page_1",
+      "orig_screenshot_id": 120,
+      "activity": "com.lathconsultants.PNR_status/com.lathconsultants.PNR_status.PNR_IRCTC",
+      "is_keyboard": false,
+      "n_elements": 14,
+      "n_clickable": 7,
+      "n_clickable_human": 7
+    },
+    {
+      "page": "Page_2",
+      "orig_screenshot_id": 182,
+      "activity": "com.lathconsultants.PNR_status/com.lathconsultants.PNR_status.train_schedule",
+      "is_keyboard": false,
+      "n_elements": 34,
+      "n_clickable": 15,
+      "n_clickable_human": 8
+    },
+    {
+      "page": "Page_3",
+      "orig_screenshot_id": 241,
+      "activity": "com.lathconsultants.PNR_status/com.lathconsultants.PNR_status.arr_dep",
+      "is_keyboard": false,
+      "n_elements": 12,
+      "n_clickable": 6,
+      "n_clickable_human": 7
+    },
+    {
+      "page": "Page_4",
+      "orig_screenshot_id": 307,
+      "activity": "com.lathconsultants.PNR_status/com.lathconsultants.PNR_status.fare_enquiry",
+      "is_keyboard": false,
+      "n_elements": 36,
+      "n_clickable": 15,
+      "n_clickable_human": 8
+    },
+    {
+      "page": "Page_5",
+      "orig_screenshot_id": 449,
+      "activity": "com.lathconsultants.PNR_status/com.lathconsultants.PNR_status.ERS_list",
+      "is_keyboard": false,
+      "n_elements": 4,
+      "n_clickable": 0,
+      "n_clickable_human": 0
+    }
+  ]
+}

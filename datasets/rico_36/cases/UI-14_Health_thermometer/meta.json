@@ -1,0 +1,42 @@
+{
+  "case_id": "UI-14_Health_thermometer",
+  "category": "Health & Fitness",
+  "complexity": "Medium",
+  "app_package": "com.fever_thermometer.lucapp.thermometer",
+  "play_store_name": "Fever Measuring Thermometer",
+  "trace": "trace_0",
+  "entry_page": "Page_2",
+  "n_screens": 3,
+  "dropped_screens": [
+    "Page_0"
+  ],
+  "pages": [
+    {
+      "page": "Page_1",
+      "orig_screenshot_id": 45,
+      "activity": "com.fever_thermometer.lucapp.thermometer/com.fever_thermometer.lucapp.thermometer.Instruction",
+      "is_keyboard": false,
+      "n_elements": 5,
+      "n_clickable": 1,
+      "n_clickable_human": 1
+    },
+    {
+      "page": "Page_2",
+      "orig_screenshot_id": 2341,
+      "activity": "com.fever_thermometer.lucapp.thermometer/com.fever_thermometer.lucapp.thermometer.MainActivity",
+      "is_keyboard": false,
+      "n_elements": 9,
+      "n_clickable": 3,
+      "n_clickable_human": 3
+    },
+    {
+      "page": "Page_3",
+      "orig_screenshot_id": 3934,
+      "activity": "com.fever_thermometer.lucapp.thermometer/com.fever_thermometer.lucapp.thermometer.HeartRateMonitor",
+      "is_keyboard": false,
+      "n_elements": 16,
+      "n_clickable": 1,
+      "n_clickable_human": 2
+    }
+  ]
+}

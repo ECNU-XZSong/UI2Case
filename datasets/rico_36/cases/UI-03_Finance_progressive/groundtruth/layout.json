@@ -1,0 +1,1058 @@
+{
+  "Page_0": [
+    {
+      "class": "ImageView",
+      "text": null,
+      "resource_id": null,
+      "bounds": [
+        0,
+        84,
+        1440,
+        612
+      ],
+      "clickable": false,
+      "semantic_label": null
+    },
+    {
+      "class": "PGRTextView",
+      "text": "Welcome. Please log in.",
+      "resource_id": "main_welcome_text",
+      "bounds": [
+        405,
+        665,
+        1035,
+        740
+      ],
+      "clickable": false,
+      "semantic_label": null
+    },
+    {
+      "class": "PGREditText",
+      "text": null,
+      "resource_id": "main_username_text",
+      "bounds": [
+        60,
+        740,
+        1380,
+        915
+      ],
+      "clickable": true,
+      "semantic_label": null
+    },
+    {
+      "class": "PGREditText",
+      "text": null,
+      "resource_id": "main_password_text",
+      "bounds": [
+        60,
+        915,
+        1380,
+        1090
+      ],
+      "clickable": true,
+      "semantic_label": null
+    },
+    {
+      "class": "PGRCheckBox",
+      "text": null,
+      "resource_id": "main_check_box_save_user_id",
+      "bounds": [
+        98,
+        1142,
+        235,
+        1260
+      ],
+      "clickable": true,
+      "semantic_label": null
+    },
+    {
+      "class": "PGRTextView",
+      "text": "Keep me logged in",
+      "resource_id": "main_check_box_save_user_id_text",
+      "bounds": [
+        235,
+        1171,
+        669,
+        1237
+      ],
+      "clickable": false,
+      "semantic_label": null
+    },
+    {
+      "class": "PGRButton",
+      "text": "Log In",
+      "resource_id": "main_button_login",
+      "bounds": [
+        60,
+        1296,
+        1380,
+        1454
+      ],
+      "clickable": true,
+      "semantic_label": null
+    },
+    {
+      "class": "PGRButton",
+      "text": "Forgot ID/Password?",
+      "resource_id": "main_login_forgot_user_id_password",
+      "bounds": [
+        238,
+        1454,
+        724,
+        1622
+      ],
+      "clickable": true,
+      "semantic_label": null
+    },
+    {
+      "class": "PGRTextView",
+      "text": "|",
+      "resource_id": "main_login_pipe",
+      "bounds": [
+        770,
+        1505,
+        797,
+        1571
+      ],
+      "clickable": false,
+      "semantic_label": null
+    },
+    {
+      "class": "PGRButton",
+      "text": "Create Account",
+      "resource_id": "main_login_create_account",
+      "bounds": [
+        843,
+        1454,
+        1202,
+        1622
+      ],
+      "clickable": true,
+      "semantic_label": null
+    },
+    {
+      "class": "PGRButton",
+      "text": "Claims Center",
+      "resource_id": "main_nav_claims_center",
+      "bounds": [
+        0,
+        1626,
+        1440,
+        1836
+      ],
+      "clickable": true,
+      "semantic_label": null
+    },
+    {
+      "class": "PGRButton",
+      "text": "Start New Quote",
+      "resource_id": "main_nav_start_new_quote",
+      "bounds": [
+        0,
+        1840,
+        1440,
+        2050
+      ],
+      "clickable": true,
+      "semantic_label": null
+    },
+    {
+      "class": "PGRButton",
+      "text": "About This App",
+      "resource_id": "main_nav_about_this_app",
+      "bounds": [
+        0,
+        2054,
+        1440,
+        2264
+      ],
+      "clickable": true,
+      "semantic_label": null
+    },
+    {
+      "class": "PGRButton",
+      "text": "Call 24/7",
+      "resource_id": "vm_footer_phone_number",
+      "bounds": [
+        234,
+        2292,
+        437,
+        2392
+      ],
+      "clickable": true,
+      "semantic_label": null
+    },
+    {
+      "class": "PGRTextView",
+      "text": "|",
+      "resource_id": "vm_footer_pipe_separator",
+      "bounds": [
+        483,
+        2329,
+        510,
+        2392
+      ],
+      "clickable": false,
+      "semantic_label": null
+    },
+    {
+      "class": "PGRButton",
+      "text": "Submit Feedback",
+      "resource_id": "vm_footer_feedback_link",
+      "bounds": [
+        556,
+        2292,
+        962,
+        2392
+      ],
+      "clickable": true,
+      "semantic_label": null
+    },
+    {
+      "class": "PGRTextView",
+      "text": "|",
+      "resource_id": "vm_footer_pipe_separator2",
+      "bounds": [
+        1008,
+        2329,
+        1035,
+        2392
+      ],
+      "clickable": false,
+      "semantic_label": null
+    },
+    {
+      "class": "PGRButton",
+      "text": "Legal",
+      "resource_id": "vm_footer_legal_link",
+      "bounds": [
+        1081,
+        2292,
+        1205,
+        2392
+      ],
+      "clickable": true,
+      "semantic_label": null
+    },
+    {
+      "class": "View",
+      "text": null,
+      "resource_id": "navigationBarBackground",
+      "bounds": [
+        0,
+        2392,
+        1440,
+        2560
+      ],
+      "clickable": false,
+      "semantic_label": null
+    },
+    {
+      "class": "View",
+      "text": null,
+      "resource_id": "statusBarBackground",
+      "bounds": [
+        0,
+        0,
+        1440,
+        84
+      ],
+      "clickable": false,
+      "semantic_label": null
+    }
+  ],
+  "Page_1": [
+    {
+      "class": "TextView",
+      "text": "Claims Center",
+      "resource_id": null,
+      "bounds": [
+        210,
+        135,
+        680,
+        229
+      ],
+      "clickable": false,
+      "semantic_label": null
+    },
+    {
+      "class": "ImageButton",
+      "text": null,
+      "resource_id": null,
+      "bounds": [
+        0,
+        84,
+        196,
+        280
+      ],
+      "clickable": true,
+      "semantic_label": null
+    },
+    {
+      "class": "ImageView",
+      "text": null,
+      "resource_id": null,
+      "bounds": [
+        0,
+        280,
+        1440,
+        880
+      ],
+      "clickable": false,
+      "semantic_label": null
+    },
+    {
+      "class": "View",
+      "text": null,
+      "resource_id": null,
+      "bounds": [
+        0,
+        880,
+        1440,
+        891
+      ],
+      "clickable": false,
+      "semantic_label": null
+    },
+    {
+      "class": "PGRTextView",
+      "text": "We're here for you and we'll do everything we can to get you back on the road quickly.",
+      "resource_id": "claims_center_here_for_you",
+      "bounds": [
+        70,
+        961,
+        1370,
+        1105
+      ],
+      "clickable": false,
+      "semantic_label": null
+    },
+    {
+      "class": "PGRButton",
+      "text": "Call to Report a Claim",
+      "resource_id": "claims_center_phone_number",
+      "bounds": [
+        70,
+        1175,
+        1370,
+        1333
+      ],
+      "clickable": true,
+      "semantic_label": null
+    },
+    {
+      "class": "PGRButton",
+      "text": "Get Roadside Assistance",
+      "resource_id": "claims_center_nav_roadside_assistance",
+      "bounds": [
+        0,
+        1407,
+        1440,
+        1617
+      ],
+      "clickable": true,
+      "semantic_label": null
+    },
+    {
+      "class": "PGRButton",
+      "text": "Find a Service Center",
+      "resource_id": "claims_center_nav_find_service_center",
+      "bounds": [
+        0,
+        1621,
+        1440,
+        1831
+      ],
+      "clickable": true,
+      "semantic_label": null
+    },
+    {
+      "class": "PGRButton",
+      "text": "Start Photo Estimate",
+      "resource_id": "photo_claims_nav_cell_non_pni",
+      "bounds": [
+        0,
+        1835,
+        1440,
+        2045
+      ],
+      "clickable": true,
+      "semantic_label": null
+    },
+    {
+      "class": "View",
+      "text": null,
+      "resource_id": "navigationBarBackground",
+      "bounds": [
+        0,
+        2392,
+        1440,
+        2560
+      ],
+      "clickable": false,
+      "semantic_label": null
+    },
+    {
+      "class": "View",
+      "text": null,
+      "resource_id": "statusBarBackground",
+      "bounds": [
+        0,
+        0,
+        1440,
+        84
+      ],
+      "clickable": false,
+      "semantic_label": null
+    }
+  ],
+  "Page_2": [
+    {
+      "class": "TextView",
+      "text": "Roadside Assistance",
+      "resource_id": null,
+      "bounds": [
+        210,
+        135,
+        895,
+        229
+      ],
+      "clickable": false,
+      "semantic_label": null
+    },
+    {
+      "class": "ImageButton",
+      "text": null,
+      "resource_id": null,
+      "bounds": [
+        0,
+        84,
+        196,
+        280
+      ],
+      "clickable": true,
+      "semantic_label": null
+    },
+    {
+      "class": "PGRWebView",
+      "text": null,
+      "resource_id": "pgr_web_view",
+      "bounds": [
+        18,
+        298,
+        1422,
+        2374
+      ],
+      "clickable": true,
+      "semantic_label": null
+    },
+    {
+      "class": "View",
+      "text": null,
+      "resource_id": "navigationBarBackground",
+      "bounds": [
+        0,
+        2392,
+        1440,
+        2560
+      ],
+      "clickable": false,
+      "semantic_label": null
+    },
+    {
+      "class": "View",
+      "text": null,
+      "resource_id": "statusBarBackground",
+      "bounds": [
+        0,
+        0,
+        1440,
+        84
+      ],
+      "clickable": false,
+      "semantic_label": null
+    }
+  ],
+  "Page_3": [
+    {
+      "class": "TextView",
+      "text": "Roadside Assistance",
+      "resource_id": null,
+      "bounds": [
+        210,
+        135,
+        895,
+        229
+      ],
+      "clickable": false,
+      "semantic_label": null
+    },
+    {
+      "class": "ImageButton",
+      "text": null,
+      "resource_id": null,
+      "bounds": [
+        0,
+        84,
+        196,
+        280
+      ],
+      "clickable": true,
+      "semantic_label": null
+    },
+    {
+      "class": "PGRWebView",
+      "text": null,
+      "resource_id": "pgr_web_view",
+      "bounds": [
+        18,
+        298,
+        1422,
+        2374
+      ],
+      "clickable": true,
+      "semantic_label": null
+    },
+    {
+      "class": "View",
+      "text": null,
+      "resource_id": "navigationBarBackground",
+      "bounds": [
+        0,
+        2392,
+        1440,
+        2560
+      ],
+      "clickable": false,
+      "semantic_label": null
+    },
+    {
+      "class": "View",
+      "text": null,
+      "resource_id": "statusBarBackground",
+      "bounds": [
+        0,
+        0,
+        1440,
+        84
+      ],
+      "clickable": false,
+      "semantic_label": null
+    }
+  ],
+  "Page_4": [
+    {
+      "class": "TextView",
+      "text": "Roadside Assistance",
+      "resource_id": null,
+      "bounds": [
+        210,
+        135,
+        895,
+        229
+      ],
+      "clickable": false,
+      "semantic_label": null
+    },
+    {
+      "class": "ImageButton",
+      "text": null,
+      "resource_id": null,
+      "bounds": [
+        0,
+        84,
+        196,
+        280
+      ],
+      "clickable": true,
+      "semantic_label": null
+    },
+    {
+      "class": "PGRTextView",
+      "text": "With Roadside Assistance coverage, we can help you 24/7 with:",
+      "resource_id": "roadside_header_text",
+      "bounds": [
+        60,
+        333,
+        1380,
+        465
+      ],
+      "clickable": false,
+      "semantic_label": null
+    },
+    {
+      "class": "PGRTextView",
+      "text": "• towing",
+      "resource_id": "roadside_assistance_bullet_towing",
+      "bounds": [
+        120,
+        518,
+        305,
+        584
+      ],
+      "clickable": false,
+      "semantic_label": null
+    },
+    {
+      "class": "PGRTextView",
+      "text": "• flat tire change",
+      "resource_id": null,
+      "bounds": [
+        120,
+        584,
+        490,
+        650
+      ],
+      "clickable": false,
+      "semantic_label": null
+    },
+    {
+      "class": "PGRTextView",
+      "text": "• battery jump start",
+      "resource_id": null,
+      "bounds": [
+        120,
+        650,
+        562,
+        716
+      ],
+      "clickable": false,
+      "semantic_label": null
+    },
+    {
+      "class": "PGRTextView",
+      "text": "• fuel delivery",
+      "resource_id": null,
+      "bounds": [
+        900,
+        518,
+        1208,
+        584
+      ],
+      "clickable": false,
+      "semantic_label": null
+    },
+    {
+      "class": "PGRTextView",
+      "text": "• locksmith service",
+      "resource_id": null,
+      "bounds": [
+        900,
+        584,
+        1320,
+        650
+      ],
+      "clickable": false,
+      "semantic_label": null
+    },
+    {
+      "class": "PGRButton",
+      "text": "Call for Roadside Assistance",
+      "resource_id": "roadside_assistance_call_or_start_button",
+      "bounds": [
+        244,
+        769,
+        1195,
+        927
+      ],
+      "clickable": true,
+      "semantic_label": null
+    },
+    {
+      "class": "PGRTextView",
+      "text": "Or, log in to request help through the app.",
+      "resource_id": null,
+      "bounds": [
+        238,
+        980,
+        1201,
+        1046
+      ],
+      "clickable": false,
+      "semantic_label": null
+    },
+    {
+      "class": "PGRButton",
+      "text": "Disclosure",
+      "resource_id": "roadside_assistance_disclosure_link",
+      "bounds": [
+        614,
+        1116,
+        825,
+        1173
+      ],
+      "clickable": true,
+      "semantic_label": null
+    },
+    {
+      "class": "PGRButton",
+      "text": "Jump Starting a Dead Battery",
+      "resource_id": "roadside_assistance_dead_battery",
+      "bounds": [
+        0,
+        1212,
+        1440,
+        1422
+      ],
+      "clickable": true,
+      "semantic_label": null
+    },
+    {
+      "class": "PGRButton",
+      "text": "Replacing a Flat Tire",
+      "resource_id": "roadside_assistance_flat_tire",
+      "bounds": [
+        0,
+        1426,
+        1440,
+        1636
+      ],
+      "clickable": true,
+      "semantic_label": null
+    },
+    {
+      "class": "PGRButton",
+      "text": "Emergency Toolkit",
+      "resource_id": "roadside_assistance_emergency_toolkit",
+      "bounds": [
+        0,
+        1640,
+        1440,
+        1850
+      ],
+      "clickable": true,
+      "semantic_label": null
+    },
+    {
+      "class": "View",
+      "text": null,
+      "resource_id": "navigationBarBackground",
+      "bounds": [
+        0,
+        2392,
+        1440,
+        2560
+      ],
+      "clickable": false,
+      "semantic_label": null
+    },
+    {
+      "class": "View",
+      "text": null,
+      "resource_id": "statusBarBackground",
+      "bounds": [
+        0,
+        0,
+        1440,
+        84
+      ],
+      "clickable": false,
+      "semantic_label": null
+    }
+  ],
+  "Page_5": [
+    {
+      "class": "TextView",
+      "text": "About This App",
+      "resource_id": null,
+      "bounds": [
+        210,
+        135,
+        723,
+        229
+      ],
+      "clickable": false,
+      "semantic_label": null
+    },
+    {
+      "class": "ImageButton",
+      "text": null,
+      "resource_id": null,
+      "bounds": [
+        0,
+        84,
+        196,
+        280
+      ],
+      "clickable": true,
+      "semantic_label": null
+    },
+    {
+      "class": "PGRTextView",
+      "text": "Insurance that's quick and easy to buy and use — anytime, anywhere. That's exactly what you get with the Progressive App.",
+      "resource_id": "aboutApp_para1",
+      "bounds": [
+        53,
+        350,
+        1440,
+        548
+      ],
+      "clickable": false,
+      "semantic_label": null
+    },
+    {
+      "class": "PGRTextView",
+      "text": "With the app, you can:",
+      "resource_id": "aboutApp_bulletListHeader",
+      "bounds": [
+        53,
+        618,
+        1440,
+        686
+      ],
+      "clickable": false,
+      "semantic_label": null
+    },
+    {
+      "class": "PGRTextView",
+      "text": "Make a payment\nGet ID Cards\nAccess Roadside Assistance\nFind a Service Center\nReport a claim\nGet a quote",
+      "resource_id": "aboutApp_bullets",
+      "bounds": [
+        84,
+        756,
+        1440,
+        1152
+      ],
+      "clickable": false,
+      "semantic_label": null
+    },
+    {
+      "class": "PGRTextView",
+      "text": "And more — all in the palm of your hand.",
+      "resource_id": "aboutApp_para2",
+      "bounds": [
+        53,
+        1222,
+        1440,
+        1288
+      ],
+      "clickable": false,
+      "semantic_label": null
+    },
+    {
+      "class": "View",
+      "text": null,
+      "resource_id": "navigationBarBackground",
+      "bounds": [
+        0,
+        2392,
+        1440,
+        2560
+      ],
+      "clickable": false,
+      "semantic_label": null
+    },
+    {
+      "class": "View",
+      "text": null,
+      "resource_id": "statusBarBackground",
+      "bounds": [
+        0,
+        0,
+        1440,
+        84
+      ],
+      "clickable": false,
+      "semantic_label": null
+    }
+  ],
+  "Page_6": [
+    {
+      "class": "TextView",
+      "text": "Legal",
+      "resource_id": null,
+      "bounds": [
+        210,
+        135,
+        388,
+        229
+      ],
+      "clickable": false,
+      "semantic_label": null
+    },
+    {
+      "class": "ImageButton",
+      "text": null,
+      "resource_id": null,
+      "bounds": [
+        0,
+        84,
+        196,
+        280
+      ],
+      "clickable": true,
+      "semantic_label": null
+    },
+    {
+      "class": "PGRTextView",
+      "text": "Copyright 1995-2016. Progressive Casualty Insurance Company. All Rights Reserved.",
+      "resource_id": "copyright",
+      "bounds": [
+        98,
+        315,
+        1342,
+        447
+      ],
+      "clickable": false,
+      "semantic_label": null
+    },
+    {
+      "class": "PGRButton",
+      "text": "Terms of Use",
+      "resource_id": "terms_of_use",
+      "bounds": [
+        0,
+        486,
+        1440,
+        696
+      ],
+      "clickable": true,
+      "semantic_label": null
+    },
+    {
+      "class": "PGRButton",
+      "text": "Privacy Policy",
+      "resource_id": "privacy_policy",
+      "bounds": [
+        0,
+        700,
+        1440,
+        910
+      ],
+      "clickable": true,
+      "semantic_label": null
+    },
+    {
+      "class": "PGRButton",
+      "text": "Licenses and Acknowledgments",
+      "resource_id": "licenses_and_acknowledgments",
+      "bounds": [
+        0,
+        914,
+        1440,
+        1124
+      ],
+      "clickable": true,
+      "semantic_label": null
+    },
+    {
+      "class": "PGRTextView",
+      "text": "version 3.16",
+      "resource_id": "version",
+      "bounds": [
+        598,
+        1159,
+        842,
+        1216
+      ],
+      "clickable": false,
+      "semantic_label": null
+    },
+    {
+      "class": "PGRTextView",
+      "text": "45.1",
+      "resource_id": "buildcounter",
+      "bounds": [
+        678,
+        1286,
+        762,
+        1343
+      ],
+      "clickable": false,
+      "semantic_label": null
+    },
+    {
+      "class": "View",
+      "text": null,
+      "resource_id": "navigationBarBackground",
+      "bounds": [
+        0,
+        2392,
+        1440,
+        2560
+      ],
+      "clickable": false,
+      "semantic_label": null
+    },
+    {
+      "class": "View",
+      "text": null,
+      "resource_id": "statusBarBackground",
+      "bounds": [
+        0,
+        0,
+        1440,
+        84
+      ],
+      "clickable": false,
+      "semantic_label": null
+    }
+  ],
+  "Page_7": [
+    {
+      "class": "TextView",
+      "text": "Terms of Use",
+      "resource_id": null,
+      "bounds": [
+        210,
+        135,
+        651,
+        229
+      ],
+      "clickable": false,
+      "semantic_label": null
+    },
+    {
+      "class": "ImageButton",
+      "text": null,
+      "resource_id": null,
+      "bounds": [
+        0,
+        84,
+        196,
+        280
+      ],
+      "clickable": true,
+      "semantic_label": null
+    },
+    {
+      "class": "WebView",
+      "text": null,
+      "resource_id": "web_content",
+      "bounds": [
+        0,
+        280,
+        1440,
+        2392
+      ],
+      "clickable": true,
+      "semantic_label": null
+    },
+    {
+      "class": "View",
+      "text": null,
+      "resource_id": "navigationBarBackground",
+      "bounds": [
+        0,
+        2392,
+        1440,
+        2560
+      ],
+      "clickable": false,
+      "semantic_label": null
+    },
+    {
+      "class": "View",
+      "text": null,
+      "resource_id": "statusBarBackground",
+      "bounds": [
+        0,
+        0,
+        1440,
+        84
+      ],
+      "clickable": false,
+      "semantic_label": null
+    }
+  ]
+}

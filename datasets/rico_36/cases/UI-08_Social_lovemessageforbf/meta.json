@@ -1,0 +1,51 @@
+{
+  "case_id": "UI-08_Social_lovemessageforbf",
+  "category": "Social",
+  "complexity": "Medium",
+  "app_package": "com.waf.lovemessageforbf",
+  "play_store_name": "Love Messages for Boyfriend",
+  "trace": "trace_0",
+  "entry_page": "Page_4",
+  "n_screens": 4,
+  "dropped_screens": [
+    "Page_0"
+  ],
+  "pages": [
+    {
+      "page": "Page_1",
+      "orig_screenshot_id": 287,
+      "activity": "android/com.android.internal.app.ChooserActivity",
+      "is_keyboard": false,
+      "n_elements": 11,
+      "n_clickable": 0,
+      "n_clickable_human": 7
+    },
+    {
+      "page": "Page_2",
+      "orig_screenshot_id": 391,
+      "activity": "com.waf.lovemessageforbf/com.waf.lovemessageforbf.MainActivity",
+      "is_keyboard": false,
+      "n_elements": 19,
+      "n_clickable": 11,
+      "n_clickable_human": 6
+    },
+    {
+      "page": "Page_3",
+      "orig_screenshot_id": 482,
+      "activity": "com.waf.lovemessageforbf/com.waf.lovemessageforbf.FavoriteActivity",
+      "is_keyboard": false,
+      "n_elements": 12,
+      "n_clickable": 6,
+      "n_clickable_human": 6
+    },
+    {
+      "page": "Page_4",
+      "orig_screenshot_id": 692,
+      "activity": "com.waf.lovemessageforbf/com.waf.lovemessageforbf.CategoryActivity",
+      "is_keyboard": false,
+      "n_elements": 9,
+      "n_clickable": 6,
+      "n_clickable_human": 6
+    }
+  ]
+}

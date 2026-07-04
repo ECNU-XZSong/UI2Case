@@ -1,0 +1,1024 @@
+{
+  "Page_0": [
+    {
+      "action": "Click the Update Words & Save All",
+      "target_element": "EditText",
+      "target_text": "Update Words & Save All",
+      "target_resid": "editTextHeading",
+      "bounds": [
+        56,
+        308,
+        1384,
+        427
+      ],
+      "exercised": false,
+      "expected_next_page": null
+    },
+    {
+      "action": "Click the editText1",
+      "target_element": "EditText",
+      "target_text": null,
+      "target_resid": "editText1",
+      "bounds": [
+        56,
+        461,
+        997,
+        544
+      ],
+      "exercised": false,
+      "expected_next_page": null
+    },
+    {
+      "action": "Click the X",
+      "target_element": "Button",
+      "target_text": "X",
+      "target_resid": "button1",
+      "bounds": [
+        1004,
+        431,
+        1384,
+        587
+      ],
+      "exercised": false,
+      "expected_next_page": null
+    },
+    {
+      "action": "Click the editText2",
+      "target_element": "EditText",
+      "target_text": null,
+      "target_resid": "editText2",
+      "bounds": [
+        56,
+        616,
+        997,
+        699
+      ],
+      "exercised": false,
+      "expected_next_page": null
+    },
+    {
+      "action": "Click the X",
+      "target_element": "Button",
+      "target_text": "X",
+      "target_resid": "button2",
+      "bounds": [
+        1004,
+        587,
+        1384,
+        742
+      ],
+      "exercised": false,
+      "expected_next_page": null
+    },
+    {
+      "action": "Click the editText3",
+      "target_element": "EditText",
+      "target_text": null,
+      "target_resid": "editText3",
+      "bounds": [
+        56,
+        771,
+        997,
+        854
+      ],
+      "exercised": false,
+      "expected_next_page": null
+    },
+    {
+      "action": "Click the X",
+      "target_element": "Button",
+      "target_text": "X",
+      "target_resid": "button3",
+      "bounds": [
+        1004,
+        742,
+        1384,
+        897
+      ],
+      "exercised": false,
+      "expected_next_page": null
+    },
+    {
+      "action": "Click the editText4",
+      "target_element": "EditText",
+      "target_text": null,
+      "target_resid": "editText4",
+      "bounds": [
+        56,
+        926,
+        997,
+        1009
+      ],
+      "exercised": false,
+      "expected_next_page": null
+    },
+    {
+      "action": "Click the X",
+      "target_element": "Button",
+      "target_text": "X",
+      "target_resid": "button4",
+      "bounds": [
+        1004,
+        897,
+        1384,
+        1052
+      ],
+      "exercised": false,
+      "expected_next_page": null
+    },
+    {
+      "action": "Click the editText5",
+      "target_element": "EditText",
+      "target_text": null,
+      "target_resid": "editText5",
+      "bounds": [
+        56,
+        1081,
+        997,
+        1164
+      ],
+      "exercised": false,
+      "expected_next_page": null
+    },
+    {
+      "action": "Click the X",
+      "target_element": "Button",
+      "target_text": "X",
+      "target_resid": "button5",
+      "bounds": [
+        1004,
+        1052,
+        1384,
+        1207
+      ],
+      "exercised": false,
+      "expected_next_page": null
+    },
+    {
+      "action": "Click the editText6",
+      "target_element": "EditText",
+      "target_text": null,
+      "target_resid": "editText6",
+      "bounds": [
+        56,
+        1236,
+        997,
+        1319
+      ],
+      "exercised": false,
+      "expected_next_page": null
+    },
+    {
+      "action": "Click the X",
+      "target_element": "Button",
+      "target_text": "X",
+      "target_resid": "button6",
+      "bounds": [
+        1004,
+        1207,
+        1384,
+        1362
+      ],
+      "exercised": false,
+      "expected_next_page": null
+    },
+    {
+      "action": "Click the editText7",
+      "target_element": "EditText",
+      "target_text": null,
+      "target_resid": "editText7",
+      "bounds": [
+        56,
+        1398,
+        997,
+        1481
+      ],
+      "exercised": false,
+      "expected_next_page": null
+    },
+    {
+      "action": "Click the X",
+      "target_element": "Button",
+      "target_text": "X",
+      "target_resid": "button7",
+      "bounds": [
+        1004,
+        1369,
+        1384,
+        1524
+      ],
+      "exercised": false,
+      "expected_next_page": null
+    },
+    {
+      "action": "Click the editText8",
+      "target_element": "EditText",
+      "target_text": null,
+      "target_resid": "editText8",
+      "bounds": [
+        56,
+        1553,
+        997,
+        1636
+      ],
+      "exercised": false,
+      "expected_next_page": null
+    },
+    {
+      "action": "Click the X",
+      "target_element": "Button",
+      "target_text": "X",
+      "target_resid": "button8",
+      "bounds": [
+        1004,
+        1524,
+        1384,
+        1679
+      ],
+      "exercised": false,
+      "expected_next_page": null
+    },
+    {
+      "action": "Click the editText9",
+      "target_element": "EditText",
+      "target_text": null,
+      "target_resid": "editText9",
+      "bounds": [
+        56,
+        1708,
+        997,
+        1791
+      ],
+      "exercised": false,
+      "expected_next_page": null
+    },
+    {
+      "action": "Click the X",
+      "target_element": "Button",
+      "target_text": "X",
+      "target_resid": "button9",
+      "bounds": [
+        1004,
+        1679,
+        1384,
+        1834
+      ],
+      "exercised": false,
+      "expected_next_page": null
+    },
+    {
+      "action": "Click the editText10",
+      "target_element": "EditText",
+      "target_text": null,
+      "target_resid": "editText10",
+      "bounds": [
+        56,
+        1863,
+        997,
+        1946
+      ],
+      "exercised": false,
+      "expected_next_page": null
+    },
+    {
+      "action": "Click the X",
+      "target_element": "Button",
+      "target_text": "X",
+      "target_resid": "button10",
+      "bounds": [
+        1004,
+        1834,
+        1384,
+        1989
+      ],
+      "exercised": false,
+      "expected_next_page": null
+    },
+    {
+      "action": "Click the Clear All",
+      "target_element": "Button",
+      "target_text": "Clear All",
+      "target_resid": "button12",
+      "bounds": [
+        56,
+        1989,
+        544,
+        2157
+      ],
+      "exercised": false,
+      "expected_next_page": null
+    },
+    {
+      "action": "Click the Save All",
+      "target_element": "Button",
+      "target_text": "Save All",
+      "target_resid": "button13",
+      "bounds": [
+        551,
+        1989,
+        1015,
+        2157
+      ],
+      "exercised": false,
+      "expected_next_page": null
+    },
+    {
+      "action": "Click the Back",
+      "target_element": "Button",
+      "target_text": "Back",
+      "target_resid": "button14",
+      "bounds": [
+        1022,
+        1989,
+        1384,
+        2157
+      ],
+      "exercised": false,
+      "expected_next_page": null
+    },
+    {
+      "action": "Click the o",
+      "target_element": "o",
+      "target_text": null,
+      "target_resid": null,
+      "bounds": [
+        56,
+        2161,
+        1176,
+        2336
+      ],
+      "exercised": false,
+      "expected_next_page": null
+    }
+  ],
+  "Page_1": [
+    {
+      "action": "Click the Profile A",
+      "target_element": "Button",
+      "target_text": "Profile A",
+      "target_resid": "button1",
+      "bounds": [
+        56,
+        700,
+        1384,
+        1102
+      ],
+      "exercised": false,
+      "expected_next_page": null
+    },
+    {
+      "action": "Click the Profile B",
+      "target_element": "Button",
+      "target_text": "Profile B",
+      "target_resid": "button2",
+      "bounds": [
+        56,
+        1109,
+        1384,
+        1511
+      ],
+      "exercised": false,
+      "expected_next_page": null
+    },
+    {
+      "action": "Click the Profile C",
+      "target_element": "Button",
+      "target_text": "Profile C",
+      "target_resid": "button3",
+      "bounds": [
+        56,
+        1518,
+        1384,
+        1920
+      ],
+      "exercised": false,
+      "expected_next_page": null
+    },
+    {
+      "action": "Click the Back",
+      "target_element": "Button",
+      "target_text": "Back",
+      "target_resid": "button4",
+      "bounds": [
+        56,
+        1927,
+        1384,
+        2329
+      ],
+      "exercised": false,
+      "expected_next_page": null
+    }
+  ],
+  "Page_2": [
+    {
+      "action": "Click the Step 1 - Add Words",
+      "target_element": "Button",
+      "target_text": "Step 1 - Add Words",
+      "target_resid": "button2",
+      "bounds": [
+        56,
+        308,
+        1384,
+        532
+      ],
+      "exercised": false,
+      "expected_next_page": null
+    },
+    {
+      "action": "Click the Step 3 - Progress Report",
+      "target_element": "Button",
+      "target_text": "Step 3 - Progress Report",
+      "target_resid": "button11",
+      "bounds": [
+        56,
+        770,
+        1384,
+        994
+      ],
+      "exercised": false,
+      "expected_next_page": null
+    },
+    {
+      "action": "Click the How it Works",
+      "target_element": "Button",
+      "target_text": "How it Works",
+      "target_resid": "button4",
+      "bounds": [
+        56,
+        1001,
+        1384,
+        1226
+      ],
+      "exercised": false,
+      "expected_next_page": null
+    },
+    {
+      "action": "Click the Find Spelling",
+      "target_element": "Button",
+      "target_text": "Find Spelling",
+      "target_resid": "button41",
+      "bounds": [
+        56,
+        1233,
+        1384,
+        1458
+      ],
+      "exercised": false,
+      "expected_next_page": null
+    },
+    {
+      "action": "Click the Find The Missing Word",
+      "target_element": "Button",
+      "target_text": "Find The Missing Word",
+      "target_resid": "button42",
+      "bounds": [
+        56,
+        1465,
+        1384,
+        1690
+      ],
+      "exercised": false,
+      "expected_next_page": null
+    },
+    {
+      "action": "Click the New App - I Tell You Spell",
+      "target_element": "Button",
+      "target_text": "New App - I Tell You Spell",
+      "target_resid": "button34",
+      "bounds": [
+        56,
+        1697,
+        1384,
+        1922
+      ],
+      "exercised": false,
+      "expected_next_page": null
+    },
+    {
+      "action": "Click the Exit",
+      "target_element": "Button",
+      "target_text": "Exit",
+      "target_resid": "button3",
+      "bounds": [
+        56,
+        1929,
+        1384,
+        2154
+      ],
+      "exercised": false,
+      "expected_next_page": null
+    },
+    {
+      "action": "Click the o",
+      "target_element": "o",
+      "target_text": null,
+      "target_resid": null,
+      "bounds": [
+        56,
+        2161,
+        1176,
+        2336
+      ],
+      "exercised": false,
+      "expected_next_page": null
+    }
+  ],
+  "Page_3": [
+    {
+      "action": "Click the Add Words",
+      "target_element": "EditText",
+      "target_text": "Add Words",
+      "target_resid": "editText1",
+      "bounds": [
+        56,
+        308,
+        1384,
+        697
+      ],
+      "exercised": false,
+      "expected_next_page": null
+    },
+    {
+      "action": "Click the Tap each field to bring up the keyboard. Add upto 10 words to practice and each word can contain upto 14 characters in length. You can clear and edit the words line by line. IMPORTANT: Click \"Save All\" before exit.",
+      "target_element": "EditText",
+      "target_text": "Tap each field to bring up the keyboard. Add upto 10 words to practice and each word can contain upto 14 characters in length. You can clear and edit the words line by line. IMPORTANT: Click \"Save All\" before exit.",
+      "target_resid": "editText2",
+      "bounds": [
+        56,
+        697,
+        1384,
+        1294
+      ],
+      "exercised": false,
+      "expected_next_page": null
+    },
+    {
+      "action": "Click the Practice, Test & Report",
+      "target_element": "EditText",
+      "target_text": "Practice, Test & Report",
+      "target_resid": "editText3",
+      "bounds": [
+        56,
+        1294,
+        1384,
+        1684
+      ],
+      "exercised": false,
+      "expected_next_page": null
+    },
+    {
+      "action": "Click the Practice the spelling and do the test to see your progress. During the test click NEXT to goto the next word and the report is produced at the end",
+      "target_element": "EditText",
+      "target_text": "Practice the spelling and do the test to see your progress. During the test click NEXT to goto the next word and the report is produced at the end",
+      "target_resid": "editText4",
+      "bounds": [
+        56,
+        1684,
+        1384,
+        2168
+      ],
+      "exercised": false,
+      "expected_next_page": null
+    },
+    {
+      "action": "Click the Back",
+      "target_element": "Button",
+      "target_text": "Back",
+      "target_resid": "button1",
+      "bounds": [
+        422,
+        2168,
+        1017,
+        2336
+      ],
+      "exercised": false,
+      "expected_next_page": null
+    }
+  ],
+  "Page_4": [
+    {
+      "action": "Click the Five Words",
+      "target_element": "Button",
+      "target_text": "Five Words",
+      "target_resid": "button2",
+      "bounds": [
+        56,
+        308,
+        1384,
+        808
+      ],
+      "exercised": false,
+      "expected_next_page": null
+    },
+    {
+      "action": "Click the Ten Words",
+      "target_element": "Button",
+      "target_text": "Ten Words",
+      "target_resid": "button1",
+      "bounds": [
+        56,
+        815,
+        1384,
+        1315
+      ],
+      "exercised": false,
+      "expected_next_page": null
+    },
+    {
+      "action": "Click the Get More Words from  \"I Tell You Spell\"",
+      "target_element": "Button",
+      "target_text": "Get More Words from  \"I Tell You Spell\"",
+      "target_resid": "button5",
+      "bounds": [
+        56,
+        1322,
+        1384,
+        1822
+      ],
+      "exercised": false,
+      "expected_next_page": null
+    },
+    {
+      "action": "Click the Back",
+      "target_element": "Button",
+      "target_text": "Back",
+      "target_resid": "button3",
+      "bounds": [
+        56,
+        1829,
+        1384,
+        2329
+      ],
+      "exercised": false,
+      "expected_next_page": null
+    }
+  ],
+  "Page_5": [
+    {
+      "action": "Click the Brush your _(5)_ before you go to bed",
+      "target_element": "EditText",
+      "target_text": "Brush your _(5)_ before you go to bed",
+      "target_resid": "editText11",
+      "bounds": [
+        56,
+        308,
+        1384,
+        540
+      ],
+      "exercised": false,
+      "expected_next_page": null
+    },
+    {
+      "action": "Click the editText1",
+      "target_element": "EditText",
+      "target_text": null,
+      "target_resid": "editText1",
+      "bounds": [
+        56,
+        544,
+        1384,
+        723
+      ],
+      "exercised": false,
+      "expected_next_page": null
+    },
+    {
+      "action": "Click the e",
+      "target_element": "Button",
+      "target_text": "e",
+      "target_resid": "butt1",
+      "bounds": [
+        56,
+        723,
+        317,
+        891
+      ],
+      "exercised": false,
+      "expected_next_page": null
+    },
+    {
+      "action": "Click the e",
+      "target_element": "Button",
+      "target_text": "e",
+      "target_resid": "butt2",
+      "bounds": [
+        321,
+        723,
+        582,
+        891
+      ],
+      "exercised": false,
+      "expected_next_page": null
+    },
+    {
+      "action": "Click the e",
+      "target_element": "Button",
+      "target_text": "e",
+      "target_resid": "butt3",
+      "bounds": [
+        586,
+        723,
+        848,
+        891
+      ],
+      "exercised": false,
+      "expected_next_page": null
+    },
+    {
+      "action": "Click the h",
+      "target_element": "Button",
+      "target_text": "h",
+      "target_resid": "butt4",
+      "bounds": [
+        852,
+        723,
+        1114,
+        891
+      ],
+      "exercised": false,
+      "expected_next_page": null
+    },
+    {
+      "action": "Click the j",
+      "target_element": "Button",
+      "target_text": "j",
+      "target_resid": "butt5",
+      "bounds": [
+        1118,
+        723,
+        1380,
+        891
+      ],
+      "exercised": false,
+      "expected_next_page": null
+    },
+    {
+      "action": "Click the k",
+      "target_element": "Button",
+      "target_text": "k",
+      "target_resid": "butt6",
+      "bounds": [
+        56,
+        1081,
+        273,
+        1249
+      ],
+      "exercised": false,
+      "expected_next_page": null
+    },
+    {
+      "action": "Click the m",
+      "target_element": "Button",
+      "target_text": "m",
+      "target_resid": "butt7",
+      "bounds": [
+        277,
+        1081,
+        494,
+        1249
+      ],
+      "exercised": false,
+      "expected_next_page": null
+    },
+    {
+      "action": "Click the m",
+      "target_element": "Button",
+      "target_text": "m",
+      "target_resid": "butt8",
+      "bounds": [
+        498,
+        1081,
+        715,
+        1249
+      ],
+      "exercised": false,
+      "expected_next_page": null
+    },
+    {
+      "action": "Click the n",
+      "target_element": "Button",
+      "target_text": "n",
+      "target_resid": "butt9",
+      "bounds": [
+        719,
+        1081,
+        936,
+        1249
+      ],
+      "exercised": false,
+      "expected_next_page": null
+    },
+    {
+      "action": "Click the o",
+      "target_element": "Button",
+      "target_text": "o",
+      "target_resid": "butt10",
+      "bounds": [
+        940,
+        1081,
+        1158,
+        1249
+      ],
+      "exercised": false,
+      "expected_next_page": null
+    },
+    {
+      "action": "Click the t",
+      "target_element": "Button",
+      "target_text": "t",
+      "target_resid": "butt11",
+      "bounds": [
+        1162,
+        1081,
+        1380,
+        1249
+      ],
+      "exercised": false,
+      "expected_next_page": null
+    },
+    {
+      "action": "Click the t",
+      "target_element": "Button",
+      "target_text": "t",
+      "target_resid": "butt12",
+      "bounds": [
+        56,
+        1439,
+        317,
+        1607
+      ],
+      "exercised": false,
+      "expected_next_page": null
+    },
+    {
+      "action": "Click the u",
+      "target_element": "Button",
+      "target_text": "u",
+      "target_resid": "butt13",
+      "bounds": [
+        321,
+        1439,
+        582,
+        1607
+      ],
+      "exercised": false,
+      "expected_next_page": null
+    },
+    {
+      "action": "Click the x",
+      "target_element": "Button",
+      "target_text": "x",
+      "target_resid": "butt14",
+      "bounds": [
+        586,
+        1439,
+        848,
+        1607
+      ],
+      "exercised": false,
+      "expected_next_page": null
+    },
+    {
+      "action": "Click the y",
+      "target_element": "Button",
+      "target_text": "y",
+      "target_resid": "butt15",
+      "bounds": [
+        852,
+        1439,
+        1114,
+        1607
+      ],
+      "exercised": false,
+      "expected_next_page": null
+    },
+    {
+      "action": "Click the y",
+      "target_element": "Button",
+      "target_text": "y",
+      "target_resid": "butt16",
+      "bounds": [
+        1118,
+        1439,
+        1380,
+        1607
+      ],
+      "exercised": false,
+      "expected_next_page": null
+    },
+    {
+      "action": "Click the Hear It",
+      "target_element": "Button",
+      "target_text": "Hear It",
+      "target_resid": "btnSpeak",
+      "bounds": [
+        56,
+        1802,
+        409,
+        2157
+      ],
+      "exercised": false,
+      "expected_next_page": null
+    },
+    {
+      "action": "Click the Spell It",
+      "target_element": "Button",
+      "target_text": "Spell It",
+      "target_resid": "buttHint2",
+      "bounds": [
+        413,
+        1802,
+        760,
+        2157
+      ],
+      "exercised": false,
+      "expected_next_page": null
+    },
+    {
+      "action": "Click the Reset",
+      "target_element": "Button",
+      "target_text": "Reset",
+      "target_resid": "buttReset",
+      "bounds": [
+        764,
+        1802,
+        1072,
+        2157
+      ],
+      "exercised": false,
+      "expected_next_page": null
+    },
+    {
+      "action": "Click the Exit",
+      "target_element": "Button",
+      "target_text": "Exit",
+      "target_resid": "button1",
+      "bounds": [
+        1076,
+        1802,
+        1384,
+        2157
+      ],
+      "exercised": false,
+      "expected_next_page": null
+    },
+    {
+      "action": "Click the o",
+      "target_element": "o",
+      "target_text": null,
+      "target_resid": null,
+      "bounds": [
+        56,
+        2161,
+        1176,
+        2336
+      ],
+      "exercised": false,
+      "expected_next_page": null
+    }
+  ],
+  "Page_6": [
+    {
+      "action": "Click the Five Words",
+      "target_element": "Button",
+      "target_text": "Five Words",
+      "target_resid": "button2",
+      "bounds": [
+        56,
+        308,
+        1384,
+        977
+      ],
+      "exercised": false,
+      "expected_next_page": null
+    },
+    {
+      "action": "Click the Ten Words",
+      "target_element": "Button",
+      "target_text": "Ten Words",
+      "target_resid": "button1",
+      "bounds": [
+        56,
+        984,
+        1384,
+        1653
+      ],
+      "exercised": false,
+      "expected_next_page": null
+    },
+    {
+      "action": "Click the Back",
+      "target_element": "Button",
+      "target_text": "Back",
+      "target_resid": "button3",
+      "bounds": [
+        56,
+        1660,
+        1384,
+        2329
+      ],
+      "exercised": false,
+      "expected_next_page": null
+    }
+  ]
+}

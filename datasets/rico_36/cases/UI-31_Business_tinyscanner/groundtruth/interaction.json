@@ -1,0 +1,134 @@
+{
+  "Page_0": [
+    {
+      "action": "Click the main_setlist",
+      "target_element": "MyImageView",
+      "target_text": null,
+      "target_resid": "main_setlist",
+      "bounds": [
+        163,
+        84,
+        614,
+        280
+      ],
+      "exercised": false,
+      "expected_next_page": null
+    },
+    {
+      "action": "Click the image1_showfaxlink",
+      "target_element": "ImageView",
+      "target_text": null,
+      "target_resid": "image1_showfaxlink",
+      "bounds": [
+        1048,
+        84,
+        1244,
+        280
+      ],
+      "exercised": false,
+      "expected_next_page": null
+    },
+    {
+      "action": "Click the main_more",
+      "target_element": "ImageView",
+      "target_text": null,
+      "target_resid": "main_more",
+      "bounds": [
+        1244,
+        84,
+        1440,
+        280
+      ],
+      "exercised": false,
+      "expected_next_page": null
+    },
+    {
+      "action": "Click the main_camera",
+      "target_element": "ImageView",
+      "target_text": null,
+      "target_resid": "main_camera",
+      "bounds": [
+        482,
+        2164,
+        720,
+        2336
+      ],
+      "exercised": false,
+      "expected_next_page": null
+    },
+    {
+      "action": "Click the main_gallery",
+      "target_element": "ImageView",
+      "target_text": null,
+      "target_resid": "main_gallery",
+      "bounds": [
+        720,
+        2164,
+        958,
+        2336
+      ],
+      "exercised": false,
+      "expected_next_page": null
+    }
+  ],
+  "Page_1": [
+    {
+      "action": "Click the set_back",
+      "target_element": "ImageView",
+      "target_text": null,
+      "target_resid": "set_back",
+      "bounds": [
+        0,
+        84,
+        196,
+        280
+      ],
+      "exercised": false,
+      "expected_next_page": null
+    },
+    {
+      "action": "Click the set_sb",
+      "target_element": "Switch",
+      "target_text": null,
+      "target_resid": "set_sb",
+      "bounds": [
+        1218,
+        1143,
+        1384,
+        1238
+      ],
+      "exercised": false,
+      "expected_next_page": null
+    },
+    {
+      "action": "Click the set_wifi_sb",
+      "target_element": "Switch",
+      "target_text": null,
+      "target_resid": "set_wifi_sb",
+      "bounds": [
+        1218,
+        1498,
+        1384,
+        1593
+      ],
+      "exercised": false,
+      "expected_next_page": null
+    }
+  ],
+  "Page_2": [
+    {
+      "action": "Click the faq_back",
+      "target_element": "ImageView",
+      "target_text": null,
+      "target_resid": "faq_back",
+      "bounds": [
+        0,
+        84,
+        196,
+        280
+      ],
+      "exercised": false,
+      "expected_next_page": null
+    }
+  ]
+}

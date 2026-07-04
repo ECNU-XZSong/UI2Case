@@ -1,0 +1,2419 @@
+{
+  "Page_0": [
+    {
+      "class": "View",
+      "text": null,
+      "resource_id": "routelist_bottom_line",
+      "bounds": [
+        88,
+        406,
+        130,
+        511
+      ],
+      "clickable": false,
+      "semantic_label": null
+    },
+    {
+      "class": "AppCompatImageView",
+      "text": null,
+      "resource_id": "vehicle_icon_background",
+      "bounds": [
+        51,
+        348,
+        167,
+        464
+      ],
+      "clickable": false,
+      "semantic_label": null
+    },
+    {
+      "class": "AppCompatTextView",
+      "text": "BSL",
+      "resource_id": "vehicle_icon_route_text",
+      "bounds": [
+        71,
+        377,
+        147,
+        434
+      ],
+      "clickable": false,
+      "semantic_label": null
+    },
+    {
+      "class": "AppCompatTextView",
+      "text": "ATT Station to Fern Rock TC",
+      "resource_id": "routelist_titletext",
+      "bounds": [
+        204,
+        370,
+        1415,
+        441
+      ],
+      "clickable": false,
+      "semantic_label": null
+    },
+    {
+      "class": "View",
+      "text": null,
+      "resource_id": "routelist_top_line",
+      "bounds": [
+        88,
+        511,
+        130,
+        616
+      ],
+      "clickable": false,
+      "semantic_label": null
+    },
+    {
+      "class": "AppCompatImageView",
+      "text": null,
+      "resource_id": "vehicle_icon_background",
+      "bounds": [
+        51,
+        558,
+        167,
+        674
+      ],
+      "clickable": false,
+      "semantic_label": null
+    },
+    {
+      "class": "AppCompatTextView",
+      "text": "MFL",
+      "resource_id": "vehicle_icon_route_text",
+      "bounds": [
+        67,
+        587,
+        150,
+        644
+      ],
+      "clickable": false,
+      "semantic_label": null
+    },
+    {
+      "class": "AppCompatTextView",
+      "text": "Frankford TC to 69th St TC",
+      "resource_id": "routelist_titletext",
+      "bounds": [
+        204,
+        580,
+        1415,
+        651
+      ],
+      "clickable": false,
+      "semantic_label": null
+    },
+    {
+      "class": "View",
+      "text": null,
+      "resource_id": "routelist_seperator_line",
+      "bounds": [
+        218,
+        511,
+        1415,
+        513
+      ],
+      "clickable": false,
+      "semantic_label": null
+    },
+    {
+      "class": "AppCompatImageButton",
+      "text": null,
+      "resource_id": null,
+      "bounds": [
+        0,
+        84,
+        196,
+        280
+      ],
+      "clickable": true,
+      "semantic_label": null
+    },
+    {
+      "class": "View",
+      "text": null,
+      "resource_id": "navigationBarBackground",
+      "bounds": [
+        0,
+        2392,
+        1440,
+        2560
+      ],
+      "clickable": false,
+      "semantic_label": null
+    },
+    {
+      "class": "View",
+      "text": null,
+      "resource_id": "statusBarBackground",
+      "bounds": [
+        0,
+        0,
+        1440,
+        84
+      ],
+      "clickable": false,
+      "semantic_label": null
+    }
+  ],
+  "Page_1": [
+    {
+      "class": "AppCompatTextView",
+      "text": "Towards: AT&T Station - BSL",
+      "resource_id": "route_towards_indicator",
+      "bounds": [
+        25,
+        301,
+        1415,
+        389
+      ],
+      "clickable": false,
+      "semantic_label": null
+    },
+    {
+      "class": "AppCompatButton",
+      "text": "Map",
+      "resource_id": "bus_tracker_button",
+      "bounds": [
+        25,
+        2213,
+        1415,
+        2371
+      ],
+      "clickable": true,
+      "semantic_label": null
+    },
+    {
+      "class": "TextView",
+      "text": "STOP",
+      "resource_id": "stoplist_stoptext",
+      "bounds": [
+        76,
+        454,
+        159,
+        497
+      ],
+      "clickable": false,
+      "semantic_label": null
+    },
+    {
+      "class": "TextView",
+      "text": "1",
+      "resource_id": "stoplist_stopnumber",
+      "bounds": [
+        102,
+        497,
+        133,
+        573
+      ],
+      "clickable": false,
+      "semantic_label": null
+    },
+    {
+      "class": "TextView",
+      "text": "Fern Rock Transportation Center - BSL",
+      "resource_id": "stoplist_stoptitle",
+      "bounds": [
+        211,
+        476,
+        1117,
+        547
+      ],
+      "clickable": false,
+      "semantic_label": null
+    },
+    {
+      "class": "View",
+      "text": null,
+      "resource_id": "stoplist_seperator_line",
+      "bounds": [
+        218,
+        624,
+        1415,
+        627
+      ],
+      "clickable": false,
+      "semantic_label": null
+    },
+    {
+      "class": "TextView",
+      "text": "STOP",
+      "resource_id": "stoplist_stoptext",
+      "bounds": [
+        76,
+        678,
+        159,
+        721
+      ],
+      "clickable": false,
+      "semantic_label": null
+    },
+    {
+      "class": "TextView",
+      "text": "2",
+      "resource_id": "stoplist_stopnumber",
+      "bounds": [
+        102,
+        721,
+        133,
+        797
+      ],
+      "clickable": false,
+      "semantic_label": null
+    },
+    {
+      "class": "TextView",
+      "text": "Olney Transportation Center - BSL",
+      "resource_id": "stoplist_stoptitle",
+      "bounds": [
+        211,
+        700,
+        1013,
+        771
+      ],
+      "clickable": false,
+      "semantic_label": null
+    },
+    {
+      "class": "View",
+      "text": null,
+      "resource_id": "stoplist_seperator_line",
+      "bounds": [
+        218,
+        848,
+        1415,
+        851
+      ],
+      "clickable": false,
+      "semantic_label": null
+    },
+    {
+      "class": "TextView",
+      "text": "STOP",
+      "resource_id": "stoplist_stoptext",
+      "bounds": [
+        76,
+        902,
+        159,
+        945
+      ],
+      "clickable": false,
+      "semantic_label": null
+    },
+    {
+      "class": "TextView",
+      "text": "3",
+      "resource_id": "stoplist_stopnumber",
+      "bounds": [
+        102,
+        945,
+        133,
+        1021
+      ],
+      "clickable": false,
+      "semantic_label": null
+    },
+    {
+      "class": "TextView",
+      "text": "Logan Station - BSL",
+      "resource_id": "stoplist_stoptitle",
+      "bounds": [
+        211,
+        924,
+        676,
+        995
+      ],
+      "clickable": false,
+      "semantic_label": null
+    },
+    {
+      "class": "View",
+      "text": null,
+      "resource_id": "stoplist_seperator_line",
+      "bounds": [
+        218,
+        1072,
+        1415,
+        1075
+      ],
+      "clickable": false,
+      "semantic_label": null
+    },
+    {
+      "class": "TextView",
+      "text": "STOP",
+      "resource_id": "stoplist_stoptext",
+      "bounds": [
+        76,
+        1126,
+        159,
+        1169
+      ],
+      "clickable": false,
+      "semantic_label": null
+    },
+    {
+      "class": "TextView",
+      "text": "4",
+      "resource_id": "stoplist_stopnumber",
+      "bounds": [
+        102,
+        1169,
+        133,
+        1245
+      ],
+      "clickable": false,
+      "semantic_label": null
+    },
+    {
+      "class": "TextView",
+      "text": "Wyoming Station - BSL",
+      "resource_id": "stoplist_stoptitle",
+      "bounds": [
+        211,
+        1148,
+        751,
+        1219
+      ],
+      "clickable": false,
+      "semantic_label": null
+    },
+    {
+      "class": "View",
+      "text": null,
+      "resource_id": "stoplist_seperator_line",
+      "bounds": [
+        218,
+        1296,
+        1415,
+        1299
+      ],
+      "clickable": false,
+      "semantic_label": null
+    },
+    {
+      "class": "TextView",
+      "text": "STOP",
+      "resource_id": "stoplist_stoptext",
+      "bounds": [
+        76,
+        1350,
+        159,
+        1393
+      ],
+      "clickable": false,
+      "semantic_label": null
+    },
+    {
+      "class": "TextView",
+      "text": "5",
+      "resource_id": "stoplist_stopnumber",
+      "bounds": [
+        102,
+        1393,
+        133,
+        1469
+      ],
+      "clickable": false,
+      "semantic_label": null
+    },
+    {
+      "class": "TextView",
+      "text": "Hunting Park Station - BSL",
+      "resource_id": "stoplist_stoptitle",
+      "bounds": [
+        211,
+        1372,
+        837,
+        1443
+      ],
+      "clickable": false,
+      "semantic_label": null
+    },
+    {
+      "class": "View",
+      "text": null,
+      "resource_id": "stoplist_seperator_line",
+      "bounds": [
+        218,
+        1520,
+        1415,
+        1523
+      ],
+      "clickable": false,
+      "semantic_label": null
+    },
+    {
+      "class": "TextView",
+      "text": "STOP",
+      "resource_id": "stoplist_stoptext",
+      "bounds": [
+        76,
+        1574,
+        159,
+        1617
+      ],
+      "clickable": false,
+      "semantic_label": null
+    },
+    {
+      "class": "TextView",
+      "text": "6",
+      "resource_id": "stoplist_stopnumber",
+      "bounds": [
+        102,
+        1617,
+        133,
+        1693
+      ],
+      "clickable": false,
+      "semantic_label": null
+    },
+    {
+      "class": "TextView",
+      "text": "Erie Station - BSL",
+      "resource_id": "stoplist_stoptitle",
+      "bounds": [
+        211,
+        1596,
+        618,
+        1667
+      ],
+      "clickable": false,
+      "semantic_label": null
+    },
+    {
+      "class": "View",
+      "text": null,
+      "resource_id": "stoplist_seperator_line",
+      "bounds": [
+        218,
+        1744,
+        1415,
+        1747
+      ],
+      "clickable": false,
+      "semantic_label": null
+    },
+    {
+      "class": "TextView",
+      "text": "STOP",
+      "resource_id": "stoplist_stoptext",
+      "bounds": [
+        76,
+        1798,
+        159,
+        1841
+      ],
+      "clickable": false,
+      "semantic_label": null
+    },
+    {
+      "class": "TextView",
+      "text": "7",
+      "resource_id": "stoplist_stopnumber",
+      "bounds": [
+        102,
+        1841,
+        133,
+        1917
+      ],
+      "clickable": false,
+      "semantic_label": null
+    },
+    {
+      "class": "TextView",
+      "text": "Allegheny Station - BSL",
+      "resource_id": "stoplist_stoptitle",
+      "bounds": [
+        211,
+        1820,
+        762,
+        1891
+      ],
+      "clickable": false,
+      "semantic_label": null
+    },
+    {
+      "class": "View",
+      "text": null,
+      "resource_id": "stoplist_seperator_line",
+      "bounds": [
+        218,
+        1968,
+        1415,
+        1971
+      ],
+      "clickable": false,
+      "semantic_label": null
+    },
+    {
+      "class": "TextView",
+      "text": "STOP",
+      "resource_id": "stoplist_stoptext",
+      "bounds": [
+        76,
+        2022,
+        159,
+        2065
+      ],
+      "clickable": false,
+      "semantic_label": null
+    },
+    {
+      "class": "TextView",
+      "text": "8",
+      "resource_id": "stoplist_stopnumber",
+      "bounds": [
+        102,
+        2065,
+        133,
+        2141
+      ],
+      "clickable": false,
+      "semantic_label": null
+    },
+    {
+      "class": "TextView",
+      "text": "North Philadelphia Station - BSL",
+      "resource_id": "stoplist_stoptitle",
+      "bounds": [
+        211,
+        2044,
+        967,
+        2115
+      ],
+      "clickable": false,
+      "semantic_label": null
+    },
+    {
+      "class": "View",
+      "text": null,
+      "resource_id": "stoplist_seperator_line",
+      "bounds": [
+        218,
+        2192,
+        1415,
+        2195
+      ],
+      "clickable": false,
+      "semantic_label": null
+    },
+    {
+      "class": "AppCompatImageButton",
+      "text": null,
+      "resource_id": null,
+      "bounds": [
+        0,
+        84,
+        196,
+        280
+      ],
+      "clickable": true,
+      "semantic_label": null
+    },
+    {
+      "class": "ActionMenuItemView",
+      "text": null,
+      "resource_id": "stop_list_route_reverse_button",
+      "bounds": [
+        1272,
+        98,
+        1440,
+        266
+      ],
+      "clickable": true,
+      "semantic_label": null
+    },
+    {
+      "class": "View",
+      "text": null,
+      "resource_id": "navigationBarBackground",
+      "bounds": [
+        0,
+        2392,
+        1440,
+        2560
+      ],
+      "clickable": false,
+      "semantic_label": null
+    },
+    {
+      "class": "View",
+      "text": null,
+      "resource_id": "statusBarBackground",
+      "bounds": [
+        0,
+        0,
+        1440,
+        84
+      ],
+      "clickable": false,
+      "semantic_label": null
+    }
+  ],
+  "Page_2": [
+    {
+      "class": "ActionMenuItemView",
+      "text": null,
+      "resource_id": "stop_times_favourites_emptystar",
+      "bounds": [
+        1104,
+        98,
+        1272,
+        266
+      ],
+      "clickable": true,
+      "semantic_label": null
+    },
+    {
+      "class": "ActionMenuItemView",
+      "text": null,
+      "resource_id": "stop_times_refresh_button",
+      "bounds": [
+        1272,
+        98,
+        1440,
+        266
+      ],
+      "clickable": true,
+      "semantic_label": null
+    },
+    {
+      "class": "AppCompatImageButton",
+      "text": null,
+      "resource_id": null,
+      "bounds": [
+        0,
+        84,
+        196,
+        280
+      ],
+      "clickable": true,
+      "semantic_label": null
+    },
+    {
+      "class": "z",
+      "text": null,
+      "resource_id": null,
+      "bounds": [
+        56,
+        311,
+        319,
+        581
+      ],
+      "clickable": true,
+      "semantic_label": null
+    },
+    {
+      "class": "ImageView",
+      "text": null,
+      "resource_id": null,
+      "bounds": [
+        74,
+        486,
+        284,
+        563
+      ],
+      "clickable": false,
+      "semantic_label": null
+    },
+    {
+      "class": "AppCompatImageView",
+      "text": null,
+      "resource_id": "clickable_map_area_hack",
+      "bounds": [
+        39,
+        301,
+        330,
+        592
+      ],
+      "clickable": true,
+      "semantic_label": null
+    },
+    {
+      "class": "AppCompatTextView",
+      "text": "Fern Rock Transportation Center - BSL",
+      "resource_id": "stop_heading_text",
+      "bounds": [
+        354,
+        322,
+        1384,
+        402
+      ],
+      "clickable": false,
+      "semantic_label": null
+    },
+    {
+      "class": "AppCompatImageView",
+      "text": null,
+      "resource_id": "vehicle_icon_background",
+      "bounds": [
+        368,
+        452,
+        480,
+        564
+      ],
+      "clickable": false,
+      "semantic_label": null
+    },
+    {
+      "class": "AppCompatTextView",
+      "text": "BSL",
+      "resource_id": "vehicle_icon_route_text",
+      "bounds": [
+        386,
+        479,
+        462,
+        536
+      ],
+      "clickable": false,
+      "semantic_label": null
+    },
+    {
+      "class": "AppCompatImageView",
+      "text": null,
+      "resource_id": "vehicle_icon_background",
+      "bounds": [
+        46,
+        681,
+        176,
+        811
+      ],
+      "clickable": false,
+      "semantic_label": null
+    },
+    {
+      "class": "AppCompatTextView",
+      "text": "BSL",
+      "resource_id": "vehicle_icon_route_text",
+      "bounds": [
+        73,
+        717,
+        149,
+        774
+      ],
+      "clickable": false,
+      "semantic_label": null
+    },
+    {
+      "class": "AppCompatTextView",
+      "text": "To AT&T Station - BSL",
+      "resource_id": "schedulelist_endpoint",
+      "bounds": [
+        201,
+        715,
+        1142,
+        777
+      ],
+      "clickable": false,
+      "semantic_label": null
+    },
+    {
+      "class": "AppCompatTextView",
+      "text": "1:25",
+      "resource_id": "schedulelist_time_text",
+      "bounds": [
+        1212,
+        705,
+        1329,
+        786
+      ],
+      "clickable": false,
+      "semantic_label": null
+    },
+    {
+      "class": "AppCompatTextView",
+      "text": "am",
+      "resource_id": "schedulelist_timeampm_text",
+      "bounds": [
+        1329,
+        720,
+        1394,
+        782
+      ],
+      "clickable": false,
+      "semantic_label": null
+    },
+    {
+      "class": "AppCompatTextView",
+      "text": "IN 4 MINS",
+      "resource_id": "schedulelist_fuzzytime_text",
+      "bounds": [
+        1217,
+        794,
+        1394,
+        847
+      ],
+      "clickable": false,
+      "semantic_label": null
+    },
+    {
+      "class": "AppCompatImageView",
+      "text": null,
+      "resource_id": "vehicle_icon_background",
+      "bounds": [
+        46,
+        905,
+        176,
+        1035
+      ],
+      "clickable": false,
+      "semantic_label": null
+    },
+    {
+      "class": "AppCompatTextView",
+      "text": "BSL",
+      "resource_id": "vehicle_icon_route_text",
+      "bounds": [
+        73,
+        941,
+        149,
+        998
+      ],
+      "clickable": false,
+      "semantic_label": null
+    },
+    {
+      "class": "AppCompatTextView",
+      "text": "To AT&T Station - BSL",
+      "resource_id": "schedulelist_endpoint",
+      "bounds": [
+        201,
+        939,
+        1142,
+        1001
+      ],
+      "clickable": false,
+      "semantic_label": null
+    },
+    {
+      "class": "AppCompatTextView",
+      "text": "1:45",
+      "resource_id": "schedulelist_time_text",
+      "bounds": [
+        1212,
+        929,
+        1329,
+        1010
+      ],
+      "clickable": false,
+      "semantic_label": null
+    },
+    {
+      "class": "AppCompatTextView",
+      "text": "am",
+      "resource_id": "schedulelist_timeampm_text",
+      "bounds": [
+        1329,
+        944,
+        1394,
+        1006
+      ],
+      "clickable": false,
+      "semantic_label": null
+    },
+    {
+      "class": "AppCompatTextView",
+      "text": "IN 24 MINS",
+      "resource_id": "schedulelist_fuzzytime_text",
+      "bounds": [
+        1195,
+        1018,
+        1394,
+        1071
+      ],
+      "clickable": false,
+      "semantic_label": null
+    },
+    {
+      "class": "AppCompatImageView",
+      "text": null,
+      "resource_id": "vehicle_icon_background",
+      "bounds": [
+        46,
+        1129,
+        176,
+        1259
+      ],
+      "clickable": false,
+      "semantic_label": null
+    },
+    {
+      "class": "AppCompatTextView",
+      "text": "BSL",
+      "resource_id": "vehicle_icon_route_text",
+      "bounds": [
+        73,
+        1165,
+        149,
+        1222
+      ],
+      "clickable": false,
+      "semantic_label": null
+    },
+    {
+      "class": "AppCompatTextView",
+      "text": "To AT&T Station - BSL",
+      "resource_id": "schedulelist_endpoint",
+      "bounds": [
+        201,
+        1163,
+        1142,
+        1225
+      ],
+      "clickable": false,
+      "semantic_label": null
+    },
+    {
+      "class": "AppCompatTextView",
+      "text": "2:05",
+      "resource_id": "schedulelist_time_text",
+      "bounds": [
+        1212,
+        1153,
+        1329,
+        1234
+      ],
+      "clickable": false,
+      "semantic_label": null
+    },
+    {
+      "class": "AppCompatTextView",
+      "text": "am",
+      "resource_id": "schedulelist_timeampm_text",
+      "bounds": [
+        1329,
+        1168,
+        1394,
+        1230
+      ],
+      "clickable": false,
+      "semantic_label": null
+    },
+    {
+      "class": "AppCompatTextView",
+      "text": "IN 44 MINS",
+      "resource_id": "schedulelist_fuzzytime_text",
+      "bounds": [
+        1195,
+        1242,
+        1394,
+        1295
+      ],
+      "clickable": false,
+      "semantic_label": null
+    },
+    {
+      "class": "AppCompatImageView",
+      "text": null,
+      "resource_id": "vehicle_icon_background",
+      "bounds": [
+        46,
+        1353,
+        176,
+        1483
+      ],
+      "clickable": false,
+      "semantic_label": null
+    },
+    {
+      "class": "AppCompatTextView",
+      "text": "BSL",
+      "resource_id": "vehicle_icon_route_text",
+      "bounds": [
+        73,
+        1389,
+        149,
+        1446
+      ],
+      "clickable": false,
+      "semantic_label": null
+    },
+    {
+      "class": "AppCompatTextView",
+      "text": "To AT&T Station - BSL",
+      "resource_id": "schedulelist_endpoint",
+      "bounds": [
+        201,
+        1387,
+        1142,
+        1449
+      ],
+      "clickable": false,
+      "semantic_label": null
+    },
+    {
+      "class": "AppCompatTextView",
+      "text": "2:25",
+      "resource_id": "schedulelist_time_text",
+      "bounds": [
+        1212,
+        1377,
+        1329,
+        1458
+      ],
+      "clickable": false,
+      "semantic_label": null
+    },
+    {
+      "class": "AppCompatTextView",
+      "text": "am",
+      "resource_id": "schedulelist_timeampm_text",
+      "bounds": [
+        1329,
+        1392,
+        1394,
+        1454
+      ],
+      "clickable": false,
+      "semantic_label": null
+    },
+    {
+      "class": "AppCompatTextView",
+      "text": "IN ~1 HOUR",
+      "resource_id": "schedulelist_fuzzytime_text",
+      "bounds": [
+        1182,
+        1466,
+        1394,
+        1519
+      ],
+      "clickable": false,
+      "semantic_label": null
+    },
+    {
+      "class": "AppCompatImageView",
+      "text": null,
+      "resource_id": "vehicle_icon_background",
+      "bounds": [
+        46,
+        1577,
+        176,
+        1707
+      ],
+      "clickable": false,
+      "semantic_label": null
+    },
+    {
+      "class": "AppCompatTextView",
+      "text": "BSL",
+      "resource_id": "vehicle_icon_route_text",
+      "bounds": [
+        73,
+        1613,
+        149,
+        1670
+      ],
+      "clickable": false,
+      "semantic_label": null
+    },
+    {
+      "class": "AppCompatTextView",
+      "text": "To AT&T Station - BSL",
+      "resource_id": "schedulelist_endpoint",
+      "bounds": [
+        201,
+        1611,
+        1142,
+        1673
+      ],
+      "clickable": false,
+      "semantic_label": null
+    },
+    {
+      "class": "AppCompatTextView",
+      "text": "2:45",
+      "resource_id": "schedulelist_time_text",
+      "bounds": [
+        1212,
+        1601,
+        1329,
+        1682
+      ],
+      "clickable": false,
+      "semantic_label": null
+    },
+    {
+      "class": "AppCompatTextView",
+      "text": "am",
+      "resource_id": "schedulelist_timeampm_text",
+      "bounds": [
+        1329,
+        1616,
+        1394,
+        1678
+      ],
+      "clickable": false,
+      "semantic_label": null
+    },
+    {
+      "class": "AppCompatTextView",
+      "text": "IN ~1 HOUR",
+      "resource_id": "schedulelist_fuzzytime_text",
+      "bounds": [
+        1182,
+        1690,
+        1394,
+        1743
+      ],
+      "clickable": false,
+      "semantic_label": null
+    },
+    {
+      "class": "AppCompatImageView",
+      "text": null,
+      "resource_id": "vehicle_icon_background",
+      "bounds": [
+        46,
+        1801,
+        176,
+        1931
+      ],
+      "clickable": false,
+      "semantic_label": null
+    },
+    {
+      "class": "AppCompatTextView",
+      "text": "BSL",
+      "resource_id": "vehicle_icon_route_text",
+      "bounds": [
+        73,
+        1837,
+        149,
+        1894
+      ],
+      "clickable": false,
+      "semantic_label": null
+    },
+    {
+      "class": "AppCompatTextView",
+      "text": "To AT&T Station - BSL",
+      "resource_id": "schedulelist_endpoint",
+      "bounds": [
+        201,
+        1835,
+        1142,
+        1897
+      ],
+      "clickable": false,
+      "semantic_label": null
+    },
+    {
+      "class": "AppCompatTextView",
+      "text": "3:05",
+      "resource_id": "schedulelist_time_text",
+      "bounds": [
+        1212,
+        1825,
+        1329,
+        1906
+      ],
+      "clickable": false,
+      "semantic_label": null
+    },
+    {
+      "class": "AppCompatTextView",
+      "text": "am",
+      "resource_id": "schedulelist_timeampm_text",
+      "bounds": [
+        1329,
+        1840,
+        1394,
+        1902
+      ],
+      "clickable": false,
+      "semantic_label": null
+    },
+    {
+      "class": "AppCompatTextView",
+      "text": "IN ~1 HOUR",
+      "resource_id": "schedulelist_fuzzytime_text",
+      "bounds": [
+        1182,
+        1914,
+        1394,
+        1967
+      ],
+      "clickable": false,
+      "semantic_label": null
+    },
+    {
+      "class": "AppCompatImageView",
+      "text": null,
+      "resource_id": "vehicle_icon_background",
+      "bounds": [
+        46,
+        2025,
+        176,
+        2155
+      ],
+      "clickable": false,
+      "semantic_label": null
+    },
+    {
+      "class": "AppCompatTextView",
+      "text": "BSL",
+      "resource_id": "vehicle_icon_route_text",
+      "bounds": [
+        73,
+        2061,
+        149,
+        2118
+      ],
+      "clickable": false,
+      "semantic_label": null
+    },
+    {
+      "class": "AppCompatTextView",
+      "text": "To AT&T Station - BSL",
+      "resource_id": "schedulelist_endpoint",
+      "bounds": [
+        201,
+        2059,
+        1142,
+        2121
+      ],
+      "clickable": false,
+      "semantic_label": null
+    },
+    {
+      "class": "AppCompatTextView",
+      "text": "3:25",
+      "resource_id": "schedulelist_time_text",
+      "bounds": [
+        1212,
+        2049,
+        1329,
+        2130
+      ],
+      "clickable": false,
+      "semantic_label": null
+    },
+    {
+      "class": "AppCompatTextView",
+      "text": "am",
+      "resource_id": "schedulelist_timeampm_text",
+      "bounds": [
+        1329,
+        2064,
+        1394,
+        2126
+      ],
+      "clickable": false,
+      "semantic_label": null
+    },
+    {
+      "class": "AppCompatTextView",
+      "text": "IN ~2 HOURS",
+      "resource_id": "schedulelist_fuzzytime_text",
+      "bounds": [
+        1159,
+        2138,
+        1394,
+        2191
+      ],
+      "clickable": false,
+      "semantic_label": null
+    },
+    {
+      "class": "AppCompatImageView",
+      "text": null,
+      "resource_id": "vehicle_icon_background",
+      "bounds": [
+        46,
+        2249,
+        176,
+        2379
+      ],
+      "clickable": false,
+      "semantic_label": null
+    },
+    {
+      "class": "AppCompatTextView",
+      "text": "BSL",
+      "resource_id": "vehicle_icon_route_text",
+      "bounds": [
+        73,
+        2285,
+        149,
+        2342
+      ],
+      "clickable": false,
+      "semantic_label": null
+    },
+    {
+      "class": "AppCompatTextView",
+      "text": "To AT&T Station - BSL",
+      "resource_id": "schedulelist_endpoint",
+      "bounds": [
+        201,
+        2283,
+        1142,
+        2345
+      ],
+      "clickable": false,
+      "semantic_label": null
+    },
+    {
+      "class": "AppCompatTextView",
+      "text": "3:45",
+      "resource_id": "schedulelist_time_text",
+      "bounds": [
+        1212,
+        2273,
+        1329,
+        2354
+      ],
+      "clickable": false,
+      "semantic_label": null
+    },
+    {
+      "class": "AppCompatTextView",
+      "text": "am",
+      "resource_id": "schedulelist_timeampm_text",
+      "bounds": [
+        1329,
+        2288,
+        1394,
+        2350
+      ],
+      "clickable": false,
+      "semantic_label": null
+    },
+    {
+      "class": "AppCompatTextView",
+      "text": "IN ~2 HOURS",
+      "resource_id": "schedulelist_fuzzytime_text",
+      "bounds": [
+        1159,
+        2362,
+        1394,
+        2392
+      ],
+      "clickable": false,
+      "semantic_label": null
+    },
+    {
+      "class": "View",
+      "text": null,
+      "resource_id": "navigationBarBackground",
+      "bounds": [
+        0,
+        2392,
+        1440,
+        2560
+      ],
+      "clickable": false,
+      "semantic_label": null
+    },
+    {
+      "class": "View",
+      "text": null,
+      "resource_id": "statusBarBackground",
+      "bounds": [
+        0,
+        0,
+        1440,
+        84
+      ],
+      "clickable": false,
+      "semantic_label": null
+    }
+  ],
+  "Page_3": [
+    {
+      "class": "ActionMenuPresenter$OverflowMenuButton",
+      "text": null,
+      "resource_id": null,
+      "bounds": [
+        1300,
+        98,
+        1440,
+        266
+      ],
+      "clickable": true,
+      "semantic_label": null
+    },
+    {
+      "class": "AppCompatButton",
+      "text": "Subway",
+      "resource_id": "subway_button",
+      "bounds": [
+        35,
+        315,
+        1405,
+        639
+      ],
+      "clickable": true,
+      "semantic_label": null
+    },
+    {
+      "class": "AppCompatButton",
+      "text": "Bus",
+      "resource_id": "bus_button",
+      "bounds": [
+        35,
+        709,
+        1405,
+        1033
+      ],
+      "clickable": true,
+      "semantic_label": null
+    },
+    {
+      "class": "AppCompatButton",
+      "text": "Rail",
+      "resource_id": "rail_button",
+      "bounds": [
+        35,
+        1103,
+        1405,
+        1427
+      ],
+      "clickable": true,
+      "semantic_label": null
+    },
+    {
+      "class": "AppCompatButton",
+      "text": "Trolley",
+      "resource_id": "trolley_button",
+      "bounds": [
+        35,
+        1497,
+        1405,
+        1822
+      ],
+      "clickable": true,
+      "semantic_label": null
+    },
+    {
+      "class": "AppCompatButton",
+      "text": "Alerts",
+      "resource_id": "alert_button",
+      "bounds": [
+        35,
+        1997,
+        1405,
+        2322
+      ],
+      "clickable": true,
+      "semantic_label": null
+    },
+    {
+      "class": "View",
+      "text": null,
+      "resource_id": "navigationBarBackground",
+      "bounds": [
+        0,
+        2392,
+        1440,
+        2560
+      ],
+      "clickable": false,
+      "semantic_label": null
+    },
+    {
+      "class": "View",
+      "text": null,
+      "resource_id": "statusBarBackground",
+      "bounds": [
+        0,
+        0,
+        1440,
+        84
+      ],
+      "clickable": false,
+      "semantic_label": null
+    }
+  ],
+  "Page_4": [
+    {
+      "class": "ActionMenuItemView",
+      "text": null,
+      "resource_id": "rail_times_favourites_emptystar",
+      "bounds": [
+        1088,
+        98,
+        1256,
+        266
+      ],
+      "clickable": true,
+      "semantic_label": null
+    },
+    {
+      "class": "ActionMenuItemView",
+      "text": "Date",
+      "resource_id": "select_date",
+      "bounds": [
+        1256,
+        98,
+        1440,
+        266
+      ],
+      "clickable": true,
+      "semantic_label": null
+    },
+    {
+      "class": "AppCompatImageButton",
+      "text": null,
+      "resource_id": null,
+      "bounds": [
+        0,
+        84,
+        196,
+        280
+      ],
+      "clickable": true,
+      "semantic_label": null
+    },
+    {
+      "class": "TextView",
+      "text": "FROM",
+      "resource_id": "rail_spinner_to_from_indicator",
+      "bounds": [
+        53,
+        328,
+        211,
+        399
+      ],
+      "clickable": false,
+      "semantic_label": null
+    },
+    {
+      "class": "TextView",
+      "text": "30th Street Station",
+      "resource_id": "rail_spinner_item_text",
+      "bounds": [
+        246,
+        326,
+        719,
+        402
+      ],
+      "clickable": false,
+      "semantic_label": null
+    },
+    {
+      "class": "TextView",
+      "text": "TO",
+      "resource_id": "rail_spinner_to_from_indicator",
+      "bounds": [
+        53,
+        486,
+        211,
+        557
+      ],
+      "clickable": false,
+      "semantic_label": null
+    },
+    {
+      "class": "TextView",
+      "text": "Any destination",
+      "resource_id": "rail_spinner_item_text",
+      "bounds": [
+        246,
+        484,
+        639,
+        560
+      ],
+      "clickable": false,
+      "semantic_label": null
+    },
+    {
+      "class": "AppCompatImageView",
+      "text": null,
+      "resource_id": "vehicle_icon_background",
+      "bounds": [
+        36,
+        653,
+        166,
+        783
+      ],
+      "clickable": false,
+      "semantic_label": null
+    },
+    {
+      "class": "AppCompatTextView",
+      "text": "NOR",
+      "resource_id": "vehicle_icon_route_text",
+      "bounds": [
+        58,
+        689,
+        144,
+        746
+      ],
+      "clickable": false,
+      "semantic_label": null
+    },
+    {
+      "class": "AppCompatTextView",
+      "text": "Manayunk/Norristown Line",
+      "resource_id": "rail_line",
+      "bounds": [
+        191,
+        651,
+        661,
+        704
+      ],
+      "clickable": false,
+      "semantic_label": null
+    },
+    {
+      "class": "AppCompatTextView",
+      "text": "#6238",
+      "resource_id": "train_number",
+      "bounds": [
+        191,
+        722,
+        333,
+        784
+      ],
+      "clickable": false,
+      "semantic_label": null
+    },
+    {
+      "class": "AppCompatTextView",
+      "text": "to Norristown",
+      "resource_id": "schedulelist_endpoint",
+      "bounds": [
+        333,
+        722,
+        648,
+        784
+      ],
+      "clickable": false,
+      "semantic_label": null
+    },
+    {
+      "class": "AppCompatTextView",
+      "text": "1:45",
+      "resource_id": "schedulelist_departuretime_text",
+      "bounds": [
+        1215,
+        677,
+        1332,
+        758
+      ],
+      "clickable": false,
+      "semantic_label": null
+    },
+    {
+      "class": "AppCompatTextView",
+      "text": "am",
+      "resource_id": "schedulelist_departuretime_ampm_text",
+      "bounds": [
+        1332,
+        692,
+        1397,
+        754
+      ],
+      "clickable": false,
+      "semantic_label": null
+    },
+    {
+      "class": "AppCompatTextView",
+      "text": "(2 MIN LATE)",
+      "resource_id": "schedulelist_fuzzytime_text",
+      "bounds": [
+        1166,
+        763,
+        1397,
+        816
+      ],
+      "clickable": false,
+      "semantic_label": null
+    },
+    {
+      "class": "AppCompatImageView",
+      "text": null,
+      "resource_id": "vehicle_icon_background",
+      "bounds": [
+        36,
+        877,
+        166,
+        1007
+      ],
+      "clickable": false,
+      "semantic_label": null
+    },
+    {
+      "class": "AppCompatTextView",
+      "text": "PAO",
+      "resource_id": "vehicle_icon_route_text",
+      "bounds": [
+        61,
+        913,
+        141,
+        970
+      ],
+      "clickable": false,
+      "semantic_label": null
+    },
+    {
+      "class": "AppCompatTextView",
+      "text": "Paoli/Thorndale Line",
+      "resource_id": "rail_line",
+      "bounds": [
+        191,
+        875,
+        550,
+        928
+      ],
+      "clickable": false,
+      "semantic_label": null
+    },
+    {
+      "class": "AppCompatTextView",
+      "text": "#9577",
+      "resource_id": "train_number",
+      "bounds": [
+        191,
+        946,
+        333,
+        1008
+      ],
+      "clickable": false,
+      "semantic_label": null
+    },
+    {
+      "class": "AppCompatTextView",
+      "text": "to Paoli/Thorndale",
+      "resource_id": "schedulelist_endpoint",
+      "bounds": [
+        333,
+        946,
+        747,
+        1008
+      ],
+      "clickable": false,
+      "semantic_label": null
+    },
+    {
+      "class": "AppCompatTextView",
+      "text": "1:49",
+      "resource_id": "schedulelist_departuretime_text",
+      "bounds": [
+        1215,
+        901,
+        1332,
+        982
+      ],
+      "clickable": false,
+      "semantic_label": null
+    },
+    {
+      "class": "AppCompatTextView",
+      "text": "am",
+      "resource_id": "schedulelist_departuretime_ampm_text",
+      "bounds": [
+        1332,
+        916,
+        1397,
+        978
+      ],
+      "clickable": false,
+      "semantic_label": null
+    },
+    {
+      "class": "AppCompatTextView",
+      "text": "IN 26 MINS",
+      "resource_id": "schedulelist_fuzzytime_text",
+      "bounds": [
+        1198,
+        987,
+        1397,
+        1040
+      ],
+      "clickable": false,
+      "semantic_label": null
+    },
+    {
+      "class": "AppCompatImageView",
+      "text": null,
+      "resource_id": "vehicle_icon_background",
+      "bounds": [
+        36,
+        1101,
+        166,
+        1231
+      ],
+      "clickable": false,
+      "semantic_label": null
+    },
+    {
+      "class": "AppCompatTextView",
+      "text": "TRE",
+      "resource_id": "vehicle_icon_route_text",
+      "bounds": [
+        62,
+        1137,
+        139,
+        1194
+      ],
+      "clickable": false,
+      "semantic_label": null
+    },
+    {
+      "class": "AppCompatTextView",
+      "text": "Trenton Line",
+      "resource_id": "rail_line",
+      "bounds": [
+        191,
+        1099,
+        409,
+        1152
+      ],
+      "clickable": false,
+      "semantic_label": null
+    },
+    {
+      "class": "AppCompatTextView",
+      "text": "#9742",
+      "resource_id": "train_number",
+      "bounds": [
+        191,
+        1170,
+        333,
+        1232
+      ],
+      "clickable": false,
+      "semantic_label": null
+    },
+    {
+      "class": "AppCompatTextView",
+      "text": "to Center City Philadelphia",
+      "resource_id": "schedulelist_endpoint",
+      "bounds": [
+        333,
+        1170,
+        904,
+        1232
+      ],
+      "clickable": false,
+      "semantic_label": null
+    },
+    {
+      "class": "AppCompatTextView",
+      "text": "1:52",
+      "resource_id": "schedulelist_departuretime_text",
+      "bounds": [
+        1215,
+        1125,
+        1332,
+        1206
+      ],
+      "clickable": false,
+      "semantic_label": null
+    },
+    {
+      "class": "AppCompatTextView",
+      "text": "am",
+      "resource_id": "schedulelist_departuretime_ampm_text",
+      "bounds": [
+        1332,
+        1140,
+        1397,
+        1202
+      ],
+      "clickable": false,
+      "semantic_label": null
+    },
+    {
+      "class": "AppCompatTextView",
+      "text": "IN 29 MINS",
+      "resource_id": "schedulelist_fuzzytime_text",
+      "bounds": [
+        1198,
+        1211,
+        1397,
+        1264
+      ],
+      "clickable": false,
+      "semantic_label": null
+    },
+    {
+      "class": "AppCompatImageView",
+      "text": null,
+      "resource_id": "vehicle_icon_background",
+      "bounds": [
+        36,
+        1325,
+        166,
+        1455
+      ],
+      "clickable": false,
+      "semantic_label": null
+    },
+    {
+      "class": "AppCompatTextView",
+      "text": "PAO",
+      "resource_id": "vehicle_icon_route_text",
+      "bounds": [
+        61,
+        1361,
+        141,
+        1418
+      ],
+      "clickable": false,
+      "semantic_label": null
+    },
+    {
+      "class": "AppCompatTextView",
+      "text": "Paoli/Thorndale Line",
+      "resource_id": "rail_line",
+      "bounds": [
+        191,
+        1323,
+        550,
+        1376
+      ],
+      "clickable": false,
+      "semantic_label": null
+    },
+    {
+      "class": "AppCompatTextView",
+      "text": "#9572",
+      "resource_id": "train_number",
+      "bounds": [
+        191,
+        1394,
+        333,
+        1456
+      ],
+      "clickable": false,
+      "semantic_label": null
+    },
+    {
+      "class": "AppCompatTextView",
+      "text": "to Center City Philadelphia",
+      "resource_id": "schedulelist_endpoint",
+      "bounds": [
+        333,
+        1394,
+        904,
+        1456
+      ],
+      "clickable": false,
+      "semantic_label": null
+    },
+    {
+      "class": "AppCompatTextView",
+      "text": "1:55",
+      "resource_id": "schedulelist_departuretime_text",
+      "bounds": [
+        1215,
+        1349,
+        1332,
+        1430
+      ],
+      "clickable": false,
+      "semantic_label": null
+    },
+    {
+      "class": "AppCompatTextView",
+      "text": "am",
+      "resource_id": "schedulelist_departuretime_ampm_text",
+      "bounds": [
+        1332,
+        1364,
+        1397,
+        1426
+      ],
+      "clickable": false,
+      "semantic_label": null
+    },
+    {
+      "class": "AppCompatTextView",
+      "text": "IN 32 MINS",
+      "resource_id": "schedulelist_fuzzytime_text",
+      "bounds": [
+        1198,
+        1435,
+        1397,
+        1488
+      ],
+      "clickable": false,
+      "semantic_label": null
+    },
+    {
+      "class": "AppCompatImageView",
+      "text": null,
+      "resource_id": "vehicle_icon_background",
+      "bounds": [
+        36,
+        1549,
+        166,
+        1679
+      ],
+      "clickable": false,
+      "semantic_label": null
+    },
+    {
+      "class": "AppCompatTextView",
+      "text": "TRE",
+      "resource_id": "vehicle_icon_route_text",
+      "bounds": [
+        62,
+        1585,
+        139,
+        1642
+      ],
+      "clickable": false,
+      "semantic_label": null
+    },
+    {
+      "class": "AppCompatTextView",
+      "text": "Trenton Line",
+      "resource_id": "rail_line",
+      "bounds": [
+        191,
+        1547,
+        409,
+        1600
+      ],
+      "clickable": false,
+      "semantic_label": null
+    },
+    {
+      "class": "AppCompatTextView",
+      "text": "#9744",
+      "resource_id": "train_number",
+      "bounds": [
+        191,
+        1618,
+        333,
+        1680
+      ],
+      "clickable": false,
+      "semantic_label": null
+    },
+    {
+      "class": "AppCompatTextView",
+      "text": "to Center City Philadelphia",
+      "resource_id": "schedulelist_endpoint",
+      "bounds": [
+        333,
+        1618,
+        904,
+        1680
+      ],
+      "clickable": false,
+      "semantic_label": null
+    },
+    {
+      "class": "AppCompatTextView",
+      "text": "2:43",
+      "resource_id": "schedulelist_departuretime_text",
+      "bounds": [
+        1215,
+        1573,
+        1332,
+        1654
+      ],
+      "clickable": false,
+      "semantic_label": null
+    },
+    {
+      "class": "AppCompatTextView",
+      "text": "am",
+      "resource_id": "schedulelist_departuretime_ampm_text",
+      "bounds": [
+        1332,
+        1588,
+        1397,
+        1650
+      ],
+      "clickable": false,
+      "semantic_label": null
+    },
+    {
+      "class": "AppCompatTextView",
+      "text": "IN ~1 HOUR",
+      "resource_id": "schedulelist_fuzzytime_text",
+      "bounds": [
+        1185,
+        1659,
+        1397,
+        1712
+      ],
+      "clickable": false,
+      "semantic_label": null
+    },
+    {
+      "class": "View",
+      "text": null,
+      "resource_id": "navigationBarBackground",
+      "bounds": [
+        0,
+        2392,
+        1440,
+        2560
+      ],
+      "clickable": false,
+      "semantic_label": null
+    },
+    {
+      "class": "View",
+      "text": null,
+      "resource_id": "statusBarBackground",
+      "bounds": [
+        0,
+        0,
+        1440,
+        84
+      ],
+      "clickable": false,
+      "semantic_label": null
+    }
+  ],
+  "Page_6": [
+    {
+      "class": "AppCompatTextView",
+      "text": "Alerts",
+      "resource_id": "title",
+      "bounds": [
+        56,
+        280,
+        1384,
+        402
+      ],
+      "clickable": false,
+      "semantic_label": null
+    },
+    {
+      "class": "AppCompatTextView",
+      "text": "Alert Notifications",
+      "resource_id": "title",
+      "bounds": [
+        112,
+        462,
+        563,
+        538
+      ],
+      "clickable": false,
+      "semantic_label": null
+    },
+    {
+      "class": "AppCompatTextView",
+      "text": "Enable push notifications for subscribed routes.",
+      "resource_id": "summary",
+      "bounds": [
+        112,
+        538,
+        1150,
+        604
+      ],
+      "clickable": false,
+      "semantic_label": null
+    },
+    {
+      "class": "AppCompatCheckBox",
+      "text": null,
+      "resource_id": "checkbox",
+      "bounds": [
+        1216,
+        477,
+        1328,
+        589
+      ],
+      "clickable": false,
+      "semantic_label": null
+    },
+    {
+      "class": "AppCompatTextView",
+      "text": "Business-Hours Mode",
+      "resource_id": "title",
+      "bounds": [
+        112,
+        720,
+        663,
+        796
+      ],
+      "clickable": false,
+      "semantic_label": null
+    },
+    {
+      "class": "AppCompatTextView",
+      "text": "Only sound alerts between 6am and 8pm.",
+      "resource_id": "summary",
+      "bounds": [
+        112,
+        796,
+        1015,
+        862
+      ],
+      "clickable": false,
+      "semantic_label": null
+    },
+    {
+      "class": "AppCompatCheckBox",
+      "text": null,
+      "resource_id": "checkbox",
+      "bounds": [
+        1216,
+        735,
+        1328,
+        847
+      ],
+      "clickable": false,
+      "semantic_label": null
+    },
+    {
+      "class": "AppCompatTextView",
+      "text": "Notification Sound",
+      "resource_id": "title",
+      "bounds": [
+        112,
+        978,
+        574,
+        1054
+      ],
+      "clickable": false,
+      "semantic_label": null
+    },
+    {
+      "class": "AppCompatTextView",
+      "text": "Change notification alert sound.",
+      "resource_id": "summary",
+      "bounds": [
+        112,
+        1054,
+        807,
+        1120
+      ],
+      "clickable": false,
+      "semantic_label": null
+    },
+    {
+      "class": "AppCompatTextView",
+      "text": "Hmmm",
+      "resource_id": "title",
+      "bounds": [
+        56,
+        1180,
+        1384,
+        1302
+      ],
+      "clickable": false,
+      "semantic_label": null
+    },
+    {
+      "class": "AppCompatTextView",
+      "text": "Review SEPTA Instant",
+      "resource_id": "title",
+      "bounds": [
+        112,
+        1362,
+        657,
+        1438
+      ],
+      "clickable": false,
+      "semantic_label": null
+    },
+    {
+      "class": "AppCompatTextView",
+      "text": "Rating SEPTA Instant helps others",
+      "resource_id": "summary",
+      "bounds": [
+        112,
+        1438,
+        853,
+        1504
+      ],
+      "clickable": false,
+      "semantic_label": null
+    },
+    {
+      "class": "AppCompatTextView",
+      "text": "Join Beta Program.",
+      "resource_id": "title",
+      "bounds": [
+        112,
+        1620,
+        589,
+        1696
+      ],
+      "clickable": false,
+      "semantic_label": null
+    },
+    {
+      "class": "AppCompatTextView",
+      "text": "Test newer versions of SEPTA Instant",
+      "resource_id": "summary",
+      "bounds": [
+        112,
+        1696,
+        926,
+        1762
+      ],
+      "clickable": false,
+      "semantic_label": null
+    },
+    {
+      "class": "AppCompatTextView",
+      "text": "Contact",
+      "resource_id": "title",
+      "bounds": [
+        112,
+        1878,
+        306,
+        1954
+      ],
+      "clickable": false,
+      "semantic_label": null
+    },
+    {
+      "class": "AppCompatTextView",
+      "text": "Thoughts, questions, help?",
+      "resource_id": "summary",
+      "bounds": [
+        112,
+        1954,
+        691,
+        2020
+      ],
+      "clickable": false,
+      "semantic_label": null
+    },
+    {
+      "class": "AppCompatImageButton",
+      "text": null,
+      "resource_id": null,
+      "bounds": [
+        0,
+        84,
+        196,
+        280
+      ],
+      "clickable": true,
+      "semantic_label": null
+    },
+    {
+      "class": "View",
+      "text": null,
+      "resource_id": "navigationBarBackground",
+      "bounds": [
+        0,
+        2392,
+        1440,
+        2560
+      ],
+      "clickable": false,
+      "semantic_label": null
+    },
+    {
+      "class": "View",
+      "text": null,
+      "resource_id": "statusBarBackground",
+      "bounds": [
+        0,
+        0,
+        1440,
+        84
+      ],
+      "clickable": false,
+      "semantic_label": null
+    }
+  ]
+}

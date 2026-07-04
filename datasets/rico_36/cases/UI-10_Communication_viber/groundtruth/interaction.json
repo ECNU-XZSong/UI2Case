@@ -1,0 +1,120 @@
+{
+  "Page_0": [
+    {
+      "action": "Click the Terms & Policies",
+      "target_element": "ViberTextView",
+      "target_text": "Terms & Policies",
+      "target_resid": "t_and_p",
+      "bounds": [
+        925,
+        1013,
+        1230,
+        1070
+      ],
+      "exercised": false,
+      "expected_next_page": null
+    },
+    {
+      "action": "Click the Continue",
+      "target_element": "ViberButton",
+      "target_text": "Continue",
+      "target_resid": "okBtn",
+      "bounds": [
+        352,
+        1188,
+        1087,
+        1363
+      ],
+      "exercised": false,
+      "expected_next_page": null
+    },
+    {
+      "action": "Click the Privacy Policy",
+      "target_element": "ViberTextView",
+      "target_text": "Privacy Policy",
+      "target_resid": "policy",
+      "bounds": [
+        855,
+        2255,
+        1138,
+        2360
+      ],
+      "exercised": false,
+      "expected_next_page": null
+    }
+  ],
+  "Page_1": [
+    {
+      "action": "Click the ImageButton",
+      "target_element": "ImageButton",
+      "target_text": null,
+      "target_resid": null,
+      "bounds": [
+        0,
+        84,
+        196,
+        280
+      ],
+      "exercised": false,
+      "expected_next_page": null
+    },
+    {
+      "action": "Click the search_src_text",
+      "target_element": "SearchView$SearchAutoComplete",
+      "target_text": null,
+      "target_resid": "search_src_text",
+      "bounds": [
+        224,
+        119,
+        1356,
+        245
+      ],
+      "exercised": false,
+      "expected_next_page": null
+    }
+  ],
+  "Page_2": [
+    {
+      "action": "Click the 41557916391638",
+      "target_element": "AppCompatEditText",
+      "target_text": "41557916391638",
+      "target_resid": "phode_edit",
+      "bounds": [
+        84,
+        810,
+        1356,
+        946
+      ],
+      "exercised": false,
+      "expected_next_page": null
+    },
+    {
+      "action": "Click the Continue",
+      "target_element": "ViberButton",
+      "target_text": "Continue",
+      "target_resid": "btn_continue",
+      "bounds": [
+        440,
+        1090,
+        1000,
+        1265
+      ],
+      "exercised": false,
+      "expected_next_page": null
+    },
+    {
+      "action": "Click the Privacy Policy",
+      "target_element": "ViberTextView",
+      "target_text": "Privacy Policy",
+      "target_resid": "policy",
+      "bounds": [
+        855,
+        2255,
+        1138,
+        2360
+      ],
+      "exercised": false,
+      "expected_next_page": null
+    }
+  ]
+}

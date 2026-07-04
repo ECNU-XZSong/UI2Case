@@ -1,0 +1,78 @@
+{
+  "case_id": "UI-09_Social_aadharlinking",
+  "category": "Social",
+  "complexity": "Complex",
+  "app_package": "vsoft.aadharlinking",
+  "play_store_name": "Aadhar, PAN, PNR, Passport",
+  "trace": "trace_0",
+  "entry_page": "Page_2",
+  "n_screens": 7,
+  "dropped_screens": [
+    "Page_4"
+  ],
+  "pages": [
+    {
+      "page": "Page_0",
+      "orig_screenshot_id": 26,
+      "activity": "vsoft.aadharlinking/vsoft.aadharlinking.speedpost",
+      "is_keyboard": false,
+      "n_elements": 6,
+      "n_clickable": 3,
+      "n_clickable_human": 3
+    },
+    {
+      "page": "Page_1",
+      "orig_screenshot_id": 266,
+      "activity": "vsoft.aadharlinking/vsoft.aadharlinking.passport",
+      "is_keyboard": false,
+      "n_elements": 6,
+      "n_clickable": 3,
+      "n_clickable_human": 3
+    },
+    {
+      "page": "Page_2",
+      "orig_screenshot_id": 289,
+      "activity": "vsoft.aadharlinking/vsoft.aadharlinking.main",
+      "is_keyboard": false,
+      "n_elements": 9,
+      "n_clickable": 6,
+      "n_clickable_human": 6
+    },
+    {
+      "page": "Page_3",
+      "orig_screenshot_id": 322,
+      "activity": "vsoft.aadharlinking/vsoft.aadharlinking.pnr",
+      "is_keyboard": false,
+      "n_elements": 7,
+      "n_clickable": 5,
+      "n_clickable_human": 5
+    },
+    {
+      "page": "Page_5",
+      "orig_screenshot_id": 520,
+      "activity": "vsoft.aadharlinking/vsoft.aadharlinking.aadhar",
+      "is_keyboard": false,
+      "n_elements": 10,
+      "n_clickable": 8,
+      "n_clickable_human": 8
+    },
+    {
+      "page": "Page_6",
+      "orig_screenshot_id": 569,
+      "activity": "vsoft.aadharlinking/vsoft.aadharlinking.ifsc",
+      "is_keyboard": false,
+      "n_elements": 7,
+      "n_clickable": 5,
+      "n_clickable_human": 5
+    },
+    {
+      "page": "Page_7",
+      "orig_screenshot_id": 587,
+      "activity": "vsoft.aadharlinking/vsoft.aadharlinking.bank",
+      "is_keyboard": false,
+      "n_elements": 5,
+      "n_clickable": 3,
+      "n_clickable_human": 2
+    }
+  ]
+}

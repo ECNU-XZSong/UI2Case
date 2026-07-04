@@ -1,0 +1,26 @@
+[
+  {
+    "source_page": "Page_5",
+    "target_page": "Page_3",
+    "action": "Click Sign in with Facebook",
+    "needs_review": false
+  },
+  {
+    "source_page": "Page_3",
+    "target_page": "Page_0",
+    "action": "Click CONNECT TO EXISTING",
+    "needs_review": false
+  },
+  {
+    "source_page": "Page_0",
+    "target_page": "Page_2",
+    "action": "Click Continue",
+    "needs_review": false
+  },
+  {
+    "source_page": "Page_5",
+    "target_page": "Page_4",
+    "action": "Click SIGN UP NOW!",
+    "needs_review": false
+  }
+]

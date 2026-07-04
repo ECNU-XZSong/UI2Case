@@ -1,0 +1,580 @@
+{
+  "Page_0": [
+    {
+      "class": "AppCompatImageView",
+      "text": null,
+      "resource_id": null,
+      "bounds": [
+        0,
+        84,
+        1440,
+        2392
+      ],
+      "clickable": false,
+      "semantic_label": null
+    },
+    {
+      "class": "AppCompatImageView",
+      "text": null,
+      "resource_id": "logo",
+      "bounds": [
+        521,
+        175,
+        918,
+        373
+      ],
+      "clickable": false,
+      "semantic_label": null
+    },
+    {
+      "class": "View",
+      "text": null,
+      "resource_id": null,
+      "bounds": [
+        0,
+        373,
+        1440,
+        490
+      ],
+      "clickable": false,
+      "semantic_label": null
+    },
+    {
+      "class": "ViberTextView",
+      "text": "Welcome to Viber",
+      "resource_id": "welcome_item",
+      "bounds": [
+        0,
+        490,
+        1440,
+        659
+      ],
+      "clickable": false,
+      "semantic_label": null
+    },
+    {
+      "class": "View",
+      "text": null,
+      "resource_id": null,
+      "bounds": [
+        0,
+        659,
+        1440,
+        729
+      ],
+      "clickable": false,
+      "semantic_label": null
+    },
+    {
+      "class": "ViberTextView",
+      "text": "Free messages and calls to Viber users.",
+      "resource_id": "first_item",
+      "bounds": [
+        0,
+        729,
+        1440,
+        805
+      ],
+      "clickable": false,
+      "semantic_label": null
+    },
+    {
+      "class": "ViberTextView",
+      "text": "Make messaging fun with stickers!",
+      "resource_id": "second_item",
+      "bounds": [
+        0,
+        805,
+        1440,
+        881
+      ],
+      "clickable": false,
+      "semantic_label": null
+    },
+    {
+      "class": "View",
+      "text": null,
+      "resource_id": null,
+      "bounds": [
+        0,
+        881,
+        1440,
+        999
+      ],
+      "clickable": false,
+      "semantic_label": null
+    },
+    {
+      "class": "ViberTextView",
+      "text": "By selecting continue you agree to our",
+      "resource_id": null,
+      "bounds": [
+        210,
+        1013,
+        911,
+        1070
+      ],
+      "clickable": false,
+      "semantic_label": null
+    },
+    {
+      "class": "ViberTextView",
+      "text": "Terms & Policies",
+      "resource_id": "t_and_p",
+      "bounds": [
+        925,
+        1013,
+        1230,
+        1070
+      ],
+      "clickable": true,
+      "semantic_label": null
+    },
+    {
+      "class": "View",
+      "text": null,
+      "resource_id": null,
+      "bounds": [
+        0,
+        1070,
+        1440,
+        1188
+      ],
+      "clickable": false,
+      "semantic_label": null
+    },
+    {
+      "class": "ViberButton",
+      "text": "Continue",
+      "resource_id": "okBtn",
+      "bounds": [
+        352,
+        1188,
+        1087,
+        1363
+      ],
+      "clickable": true,
+      "semantic_label": null
+    },
+    {
+      "class": "View",
+      "text": null,
+      "resource_id": null,
+      "bounds": [
+        0,
+        1363,
+        1440,
+        1835
+      ],
+      "clickable": false,
+      "semantic_label": null
+    },
+    {
+      "class": "ViberTextView",
+      "text": "‎© 2016 Viber Media S.à r.l.",
+      "resource_id": "copyright",
+      "bounds": [
+        302,
+        2255,
+        841,
+        2360
+      ],
+      "clickable": false,
+      "semantic_label": null
+    },
+    {
+      "class": "ViberTextView",
+      "text": "Privacy Policy",
+      "resource_id": "policy",
+      "bounds": [
+        855,
+        2255,
+        1138,
+        2360
+      ],
+      "clickable": true,
+      "semantic_label": null
+    },
+    {
+      "class": "View",
+      "text": null,
+      "resource_id": "navigationBarBackground",
+      "bounds": [
+        0,
+        2392,
+        1440,
+        2560
+      ],
+      "clickable": false,
+      "semantic_label": null
+    },
+    {
+      "class": "View",
+      "text": null,
+      "resource_id": "statusBarBackground",
+      "bounds": [
+        0,
+        0,
+        1440,
+        84
+      ],
+      "clickable": false,
+      "semantic_label": null
+    }
+  ],
+  "Page_1": [
+    {
+      "class": "ViberTextView",
+      "text": "United States Virgin Islands ‎(+1) ‎",
+      "resource_id": "name",
+      "bounds": [
+        56,
+        280,
+        1384,
+        328
+      ],
+      "clickable": false,
+      "semantic_label": null
+    },
+    {
+      "class": "ViberTextView",
+      "text": "United States of America ‎(+1) ‎",
+      "resource_id": "name",
+      "bounds": [
+        56,
+        332,
+        1384,
+        500
+      ],
+      "clickable": false,
+      "semantic_label": null
+    },
+    {
+      "class": "ViberTextView",
+      "text": "Uruguay ‎(+598) ‎",
+      "resource_id": "name",
+      "bounds": [
+        56,
+        504,
+        1384,
+        672
+      ],
+      "clickable": false,
+      "semantic_label": null
+    },
+    {
+      "class": "ViberTextView",
+      "text": "Uzbekistan ‎(+998) ‎",
+      "resource_id": "name",
+      "bounds": [
+        56,
+        676,
+        1384,
+        844
+      ],
+      "clickable": false,
+      "semantic_label": null
+    },
+    {
+      "class": "ViberTextView",
+      "text": "Vanuatu ‎(+678) ‎",
+      "resource_id": "name",
+      "bounds": [
+        56,
+        848,
+        1384,
+        1016
+      ],
+      "clickable": false,
+      "semantic_label": null
+    },
+    {
+      "class": "ViberTextView",
+      "text": "Vatican City State (Holy See) ‎(+39066) ‎",
+      "resource_id": "name",
+      "bounds": [
+        56,
+        1020,
+        1384,
+        1188
+      ],
+      "clickable": false,
+      "semantic_label": null
+    },
+    {
+      "class": "ViberTextView",
+      "text": "Venezuela ‎(+58) ‎",
+      "resource_id": "name",
+      "bounds": [
+        56,
+        1192,
+        1384,
+        1360
+      ],
+      "clickable": false,
+      "semantic_label": null
+    },
+    {
+      "class": "ViberTextView",
+      "text": "Vietnam ‎(+84) ‎",
+      "resource_id": "name",
+      "bounds": [
+        56,
+        1364,
+        1384,
+        1532
+      ],
+      "clickable": false,
+      "semantic_label": null
+    },
+    {
+      "class": "ViberTextView",
+      "text": "Wallis and Futuna Islands ‎(+681) ‎",
+      "resource_id": "name",
+      "bounds": [
+        56,
+        1536,
+        1384,
+        1704
+      ],
+      "clickable": false,
+      "semantic_label": null
+    },
+    {
+      "class": "ViberTextView",
+      "text": "Western Sahara ‎(+212) ‎",
+      "resource_id": "name",
+      "bounds": [
+        56,
+        1708,
+        1384,
+        1876
+      ],
+      "clickable": false,
+      "semantic_label": null
+    },
+    {
+      "class": "ViberTextView",
+      "text": "Yemen ‎(+967) ‎",
+      "resource_id": "name",
+      "bounds": [
+        56,
+        1880,
+        1384,
+        2048
+      ],
+      "clickable": false,
+      "semantic_label": null
+    },
+    {
+      "class": "ViberTextView",
+      "text": "Zambia ‎(+260) ‎",
+      "resource_id": "name",
+      "bounds": [
+        56,
+        2052,
+        1384,
+        2220
+      ],
+      "clickable": false,
+      "semantic_label": null
+    },
+    {
+      "class": "ViberTextView",
+      "text": "Zimbabwe ‎(+263) ‎",
+      "resource_id": "name",
+      "bounds": [
+        56,
+        2224,
+        1384,
+        2392
+      ],
+      "clickable": false,
+      "semantic_label": null
+    },
+    {
+      "class": "ImageButton",
+      "text": null,
+      "resource_id": null,
+      "bounds": [
+        0,
+        84,
+        196,
+        280
+      ],
+      "clickable": true,
+      "semantic_label": null
+    },
+    {
+      "class": "SearchView$SearchAutoComplete",
+      "text": null,
+      "resource_id": "search_src_text",
+      "bounds": [
+        224,
+        119,
+        1356,
+        245
+      ],
+      "clickable": true,
+      "semantic_label": null
+    },
+    {
+      "class": "View",
+      "text": null,
+      "resource_id": "navigationBarBackground",
+      "bounds": [
+        0,
+        2392,
+        1440,
+        2560
+      ],
+      "clickable": false,
+      "semantic_label": null
+    },
+    {
+      "class": "View",
+      "text": null,
+      "resource_id": "statusBarBackground",
+      "bounds": [
+        0,
+        0,
+        1440,
+        84
+      ],
+      "clickable": false,
+      "semantic_label": null
+    }
+  ],
+  "Page_2": [
+    {
+      "class": "ViberTextView",
+      "text": "Select your country, enter your phone number and click continue:",
+      "resource_id": null,
+      "bounds": [
+        84,
+        252,
+        1356,
+        410
+      ],
+      "clickable": false,
+      "semantic_label": null
+    },
+    {
+      "class": "ViberTextView",
+      "text": "Your country",
+      "resource_id": null,
+      "bounds": [
+        116,
+        568,
+        1356,
+        653
+      ],
+      "clickable": false,
+      "semantic_label": null
+    },
+    {
+      "class": "ViberTextView",
+      "text": "United States of America ‎(+1) ‎",
+      "resource_id": "country",
+      "bounds": [
+        116,
+        657,
+        1356,
+        723
+      ],
+      "clickable": false,
+      "semantic_label": null
+    },
+    {
+      "class": "View",
+      "text": null,
+      "resource_id": null,
+      "bounds": [
+        84,
+        743,
+        1356,
+        747
+      ],
+      "clickable": false,
+      "semantic_label": null
+    },
+    {
+      "class": "AppCompatEditText",
+      "text": "41557916391638",
+      "resource_id": "phode_edit",
+      "bounds": [
+        84,
+        810,
+        1356,
+        946
+      ],
+      "clickable": true,
+      "semantic_label": null
+    },
+    {
+      "class": "ViberButton",
+      "text": "Continue",
+      "resource_id": "btn_continue",
+      "bounds": [
+        440,
+        1090,
+        1000,
+        1265
+      ],
+      "clickable": true,
+      "semantic_label": null
+    },
+    {
+      "class": "ViberTextView",
+      "text": "‎© 2016 Viber Media S.à r.l.",
+      "resource_id": "copyright",
+      "bounds": [
+        302,
+        2255,
+        841,
+        2360
+      ],
+      "clickable": false,
+      "semantic_label": null
+    },
+    {
+      "class": "ViberTextView",
+      "text": "Privacy Policy",
+      "resource_id": "policy",
+      "bounds": [
+        855,
+        2255,
+        1138,
+        2360
+      ],
+      "clickable": true,
+      "semantic_label": null
+    },
+    {
+      "class": "View",
+      "text": null,
+      "resource_id": "navigationBarBackground",
+      "bounds": [
+        0,
+        2392,
+        1440,
+        2560
+      ],
+      "clickable": false,
+      "semantic_label": null
+    },
+    {
+      "class": "View",
+      "text": null,
+      "resource_id": "statusBarBackground",
+      "bounds": [
+        0,
+        0,
+        1440,
+        84
+      ],
+      "clickable": false,
+      "semantic_label": null
+    }
+  ]
+}

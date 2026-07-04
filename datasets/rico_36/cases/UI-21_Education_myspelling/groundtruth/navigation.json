@@ -1,0 +1,38 @@
+[
+  {
+    "source_page": "Page_2",
+    "target_page": "Page_1",
+    "action": "Click Step 1 - Add Words",
+    "needs_review": false
+  },
+  {
+    "source_page": "Page_1",
+    "target_page": "Page_0",
+    "action": "Click a Profile (A/B/C)",
+    "needs_review": false
+  },
+  {
+    "source_page": "Page_2",
+    "target_page": "Page_3",
+    "action": "Click How it Works",
+    "needs_review": false
+  },
+  {
+    "source_page": "Page_2",
+    "target_page": "Page_4",
+    "action": "Click Find Spelling",
+    "needs_review": false
+  },
+  {
+    "source_page": "Page_4",
+    "target_page": "Page_5",
+    "action": "Click Five Words",
+    "needs_review": false
+  },
+  {
+    "source_page": "Page_2",
+    "target_page": "Page_6",
+    "action": "Click Find The Missing Word",
+    "needs_review": false
+  }
+]

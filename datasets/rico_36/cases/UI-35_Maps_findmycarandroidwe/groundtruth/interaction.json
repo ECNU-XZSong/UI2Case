@@ -1,0 +1,290 @@
+{
+  "Page_0": [
+    {
+      "action": "Click the Skip",
+      "target_element": "AppCompatButton",
+      "target_text": "Skip",
+      "target_resid": "skip",
+      "bounds": [
+        28,
+        2169,
+        378,
+        2392
+      ],
+      "exercised": false,
+      "expected_next_page": null
+    },
+    {
+      "action": "Click the next",
+      "target_element": "AppCompatImageButton",
+      "target_text": null,
+      "target_resid": "next",
+      "bounds": [
+        1062,
+        2169,
+        1412,
+        2392
+      ],
+      "exercised": false,
+      "expected_next_page": null
+    }
+  ],
+  "Page_1": [
+    {
+      "action": "Click the AppCompatImageButton",
+      "target_element": "AppCompatImageButton",
+      "target_text": null,
+      "target_resid": null,
+      "bounds": [
+        0,
+        84,
+        196,
+        280
+      ],
+      "exercised": false,
+      "expected_next_page": null
+    },
+    {
+      "action": "Click the Automatically detect parking location",
+      "target_element": "SwitchCompat",
+      "target_text": "Automatically detect parking location",
+      "target_resid": "parkingRemindersSwitch",
+      "bounds": [
+        53,
+        469,
+        1387,
+        564
+      ],
+      "exercised": false,
+      "expected_next_page": null
+    },
+    {
+      "action": "Click the Disable detection near home",
+      "target_element": "SwitchCompat",
+      "target_text": "Disable detection near home",
+      "target_resid": "homeSwitch",
+      "bounds": [
+        53,
+        669,
+        1387,
+        764
+      ],
+      "exercised": false,
+      "expected_next_page": null
+    },
+    {
+      "action": "Click the Disable detection near work",
+      "target_element": "SwitchCompat",
+      "target_text": "Disable detection near work",
+      "target_resid": "workSwitch",
+      "bounds": [
+        53,
+        869,
+        1387,
+        964
+      ],
+      "exercised": false,
+      "expected_next_page": null
+    },
+    {
+      "action": "Click the Use Bluetooth detection",
+      "target_element": "SwitchCompat",
+      "target_text": "Use Bluetooth detection",
+      "target_resid": "bluetoothSwitch",
+      "bounds": [
+        53,
+        1069,
+        1387,
+        1164
+      ],
+      "exercised": false,
+      "expected_next_page": null
+    },
+    {
+      "action": "Click the Notification settings",
+      "target_element": "AppCompatTextView",
+      "target_text": "Notification settings",
+      "target_resid": "notificationsTextView",
+      "bounds": [
+        53,
+        1273,
+        1314,
+        1349
+      ],
+      "exercised": false,
+      "expected_next_page": null
+    },
+    {
+      "action": "Click the notificationsButton",
+      "target_element": "AppCompatImageButton",
+      "target_text": null,
+      "target_resid": "notificationsButton",
+      "bounds": [
+        1314,
+        1269,
+        1387,
+        1353
+      ],
+      "exercised": false,
+      "expected_next_page": null
+    },
+    {
+      "action": "Click the Save parking history",
+      "target_element": "SwitchCompat",
+      "target_text": "Save parking history",
+      "target_resid": "historySwitch",
+      "bounds": [
+        53,
+        1665,
+        1387,
+        1760
+      ],
+      "exercised": false,
+      "expected_next_page": null
+    },
+    {
+      "action": "Click the Use Google Maps for walking navigation",
+      "target_element": "SwitchCompat",
+      "target_text": "Use Google Maps for walking navigation",
+      "target_resid": "mapsSwitch",
+      "bounds": [
+        53,
+        1865,
+        1387,
+        1960
+      ],
+      "exercised": false,
+      "expected_next_page": null
+    },
+    {
+      "action": "Click the Send feedback",
+      "target_element": "AppCompatButton",
+      "target_text": "Send feedback",
+      "target_resid": "feedbackButton",
+      "bounds": [
+        499,
+        2118,
+        941,
+        2276
+      ],
+      "exercised": false,
+      "expected_next_page": null
+    },
+    {
+      "action": "Click the About",
+      "target_element": "AppCompatButton",
+      "target_text": "About",
+      "target_resid": "settingsButton",
+      "bounds": [
+        566,
+        2364,
+        874,
+        2392
+      ],
+      "exercised": false,
+      "expected_next_page": null
+    }
+  ],
+  "Page_2": [
+    {
+      "action": "Click the Buy",
+      "target_element": "AppCompatButton",
+      "target_text": "Buy",
+      "target_resid": "buyButton",
+      "bounds": [
+        0,
+        2196,
+        1440,
+        2392
+      ],
+      "exercised": false,
+      "expected_next_page": null
+    }
+  ],
+  "Page_3": [
+    {
+      "action": "Click the mapViewButton",
+      "target_element": "AppCompatImageButton",
+      "target_text": null,
+      "target_resid": "mapViewButton",
+      "bounds": [
+        655,
+        84,
+        982,
+        280
+      ],
+      "exercised": false,
+      "expected_next_page": null
+    },
+    {
+      "action": "Click the locatePhoneButton",
+      "target_element": "AppCompatImageButton",
+      "target_text": null,
+      "target_resid": "locatePhoneButton",
+      "bounds": [
+        982,
+        84,
+        1310,
+        280
+      ],
+      "exercised": false,
+      "expected_next_page": null
+    },
+    {
+      "action": "Click the menuButton",
+      "target_element": "AppCompatImageButton",
+      "target_text": null,
+      "target_resid": "menuButton",
+      "bounds": [
+        1310,
+        84,
+        1440,
+        280
+      ],
+      "exercised": false,
+      "expected_next_page": null
+    },
+    {
+      "action": "Click the z",
+      "target_element": "z",
+      "target_text": null,
+      "target_resid": null,
+      "bounds": [
+        0,
+        280,
+        1440,
+        2217
+      ],
+      "exercised": false,
+      "expected_next_page": null
+    },
+    {
+      "action": "Click the removeAdsButton",
+      "target_element": "FloatingActionButton",
+      "target_text": null,
+      "target_resid": "removeAdsButton",
+      "bounds": [
+        35,
+        1052,
+        231,
+        1248
+      ],
+      "exercised": false,
+      "expected_next_page": null
+    },
+    {
+      "action": "Click the o",
+      "target_element": "o",
+      "target_text": null,
+      "target_resid": null,
+      "bounds": [
+        0,
+        2217,
+        1440,
+        2392
+      ],
+      "exercised": false,
+      "expected_next_page": null
+    }
+  ]
+}

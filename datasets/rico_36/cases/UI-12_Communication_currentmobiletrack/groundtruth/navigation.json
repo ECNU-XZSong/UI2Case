@@ -1,0 +1,26 @@
+[
+  {
+    "source_page": "Page_0",
+    "target_page": "Page_2",
+    "action": "Click START",
+    "needs_review": false
+  },
+  {
+    "source_page": "Page_2",
+    "target_page": "Page_1",
+    "action": "Click Current Location",
+    "needs_review": false
+  },
+  {
+    "source_page": "Page_2",
+    "target_page": "Page_4",
+    "action": "Click Number Tracker",
+    "needs_review": false
+  },
+  {
+    "source_page": "Page_4",
+    "target_page": "Page_5",
+    "action": "Click LOCATE",
+    "needs_review": false
+  }
+]

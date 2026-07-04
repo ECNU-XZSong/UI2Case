@@ -1,0 +1,372 @@
+{
+  "Page_0": [
+    {
+      "class": "AppCompatImageButton",
+      "text": null,
+      "resource_id": null,
+      "bounds": [
+        0,
+        84,
+        196,
+        280
+      ],
+      "clickable": true,
+      "semantic_label": null
+    },
+    {
+      "class": "AppCompatTextView",
+      "text": "Sign In",
+      "resource_id": "toolbar_title",
+      "bounds": [
+        252,
+        139,
+        472,
+        224
+      ],
+      "clickable": false,
+      "semantic_label": null
+    },
+    {
+      "class": "AppCompatEditText",
+      "text": null,
+      "resource_id": "email",
+      "bounds": [
+        70,
+        597,
+        1398,
+        726
+      ],
+      "clickable": true,
+      "semantic_label": null
+    },
+    {
+      "class": "AppCompatEditText",
+      "text": null,
+      "resource_id": "password",
+      "bounds": [
+        70,
+        861,
+        1398,
+        990
+      ],
+      "clickable": true,
+      "semantic_label": null
+    },
+    {
+      "class": "AppCompatButton",
+      "text": "I forgot my password",
+      "resource_id": "forgot_password",
+      "bounds": [
+        0,
+        1116,
+        1440,
+        1284
+      ],
+      "clickable": true,
+      "semantic_label": null
+    },
+    {
+      "class": "View",
+      "text": null,
+      "resource_id": "navigationBarBackground",
+      "bounds": [
+        0,
+        2392,
+        1440,
+        2560
+      ],
+      "clickable": false,
+      "semantic_label": null
+    },
+    {
+      "class": "View",
+      "text": null,
+      "resource_id": "statusBarBackground",
+      "bounds": [
+        0,
+        0,
+        1440,
+        84
+      ],
+      "clickable": false,
+      "semantic_label": null
+    }
+  ],
+  "Page_1": [
+    {
+      "class": "AppCompatImageView",
+      "text": null,
+      "resource_id": "everydollar_icon",
+      "bounds": [
+        394,
+        780,
+        1045,
+        1095
+      ],
+      "clickable": false,
+      "semantic_label": null
+    },
+    {
+      "class": "AppCompatButton",
+      "text": "Sign Up (It’s Free!)",
+      "resource_id": "sign_up",
+      "bounds": [
+        56,
+        1151,
+        1384,
+        1387
+      ],
+      "clickable": true,
+      "semantic_label": null
+    },
+    {
+      "class": "AppCompatButton",
+      "text": "Have an account? Sign In",
+      "resource_id": "sign_in",
+      "bounds": [
+        0,
+        1443,
+        1440,
+        1611
+      ],
+      "clickable": true,
+      "semantic_label": null
+    },
+    {
+      "class": "View",
+      "text": null,
+      "resource_id": "navigationBarBackground",
+      "bounds": [
+        0,
+        2392,
+        1440,
+        2560
+      ],
+      "clickable": false,
+      "semantic_label": null
+    }
+  ],
+  "Page_2": [
+    {
+      "class": "AppCompatImageView",
+      "text": null,
+      "resource_id": "back",
+      "bounds": [
+        0,
+        84,
+        84,
+        280
+      ],
+      "clickable": true,
+      "semantic_label": null
+    },
+    {
+      "class": "AppCompatImageView",
+      "text": null,
+      "resource_id": "create_account_inactive",
+      "bounds": [
+        405,
+        140,
+        489,
+        224
+      ],
+      "clickable": false,
+      "semantic_label": null
+    },
+    {
+      "class": "View",
+      "text": null,
+      "resource_id": null,
+      "bounds": [
+        517,
+        178,
+        559,
+        185
+      ],
+      "clickable": false,
+      "semantic_label": null
+    },
+    {
+      "class": "AppCompatImageView",
+      "text": null,
+      "resource_id": "location_inactive",
+      "bounds": [
+        587,
+        140,
+        671,
+        224
+      ],
+      "clickable": false,
+      "semantic_label": null
+    },
+    {
+      "class": "View",
+      "text": null,
+      "resource_id": null,
+      "bounds": [
+        699,
+        178,
+        741,
+        185
+      ],
+      "clickable": false,
+      "semantic_label": null
+    },
+    {
+      "class": "AppCompatImageView",
+      "text": null,
+      "resource_id": "password_active",
+      "bounds": [
+        769,
+        140,
+        853,
+        224
+      ],
+      "clickable": false,
+      "semantic_label": null
+    },
+    {
+      "class": "View",
+      "text": null,
+      "resource_id": null,
+      "bounds": [
+        881,
+        178,
+        923,
+        185
+      ],
+      "clickable": false,
+      "semantic_label": null
+    },
+    {
+      "class": "AppCompatImageView",
+      "text": null,
+      "resource_id": null,
+      "bounds": [
+        951,
+        140,
+        1035,
+        224
+      ],
+      "clickable": false,
+      "semantic_label": null
+    },
+    {
+      "class": "AppCompatEditText",
+      "text": "Crowd3116",
+      "resource_id": "password",
+      "bounds": [
+        70,
+        597,
+        1398,
+        726
+      ],
+      "clickable": true,
+      "semantic_label": null
+    },
+    {
+      "class": "AppCompatButton",
+      "text": "Show",
+      "resource_id": "show_hide_password",
+      "bounds": [
+        1118,
+        552,
+        1426,
+        720
+      ],
+      "clickable": true,
+      "semantic_label": null
+    },
+    {
+      "class": "AppCompatTextView",
+      "text": "You are getting closer… keep going!",
+      "resource_id": "caption",
+      "bounds": [
+        84,
+        880,
+        959,
+        947
+      ],
+      "clickable": false,
+      "semantic_label": null
+    },
+    {
+      "class": "AppCompatTextView",
+      "text": "Capital Letter",
+      "resource_id": "done_capital_letter",
+      "bounds": [
+        112,
+        989,
+        720,
+        1052
+      ],
+      "clickable": false,
+      "semantic_label": null
+    },
+    {
+      "class": "AppCompatTextView",
+      "text": "8+ Characters",
+      "resource_id": "done_eight_plus_characters",
+      "bounds": [
+        720,
+        989,
+        1328,
+        1052
+      ],
+      "clickable": false,
+      "semantic_label": null
+    },
+    {
+      "class": "AppCompatTextView",
+      "text": "Special Character",
+      "resource_id": "special_character",
+      "bounds": [
+        112,
+        1080,
+        720,
+        1143
+      ],
+      "clickable": false,
+      "semantic_label": null
+    },
+    {
+      "class": "AppCompatTextView",
+      "text": "Number",
+      "resource_id": "done_number",
+      "bounds": [
+        720,
+        1080,
+        1328,
+        1143
+      ],
+      "clickable": false,
+      "semantic_label": null
+    },
+    {
+      "class": "View",
+      "text": null,
+      "resource_id": "navigationBarBackground",
+      "bounds": [
+        0,
+        2392,
+        1440,
+        2560
+      ],
+      "clickable": false,
+      "semantic_label": null
+    },
+    {
+      "class": "View",
+      "text": null,
+      "resource_id": "statusBarBackground",
+      "bounds": [
+        0,
+        0,
+        1440,
+        84
+      ],
+      "clickable": false,
+      "semantic_label": null
+    }
+  ]
+}

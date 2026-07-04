@@ -1,0 +1,280 @@
+{
+  "Page_0": [
+    {
+      "action": "Click the AppCompatImageButton",
+      "target_element": "AppCompatImageButton",
+      "target_text": null,
+      "target_resid": null,
+      "bounds": [
+        0,
+        84,
+        196,
+        280
+      ],
+      "exercised": false,
+      "expected_next_page": null
+    }
+  ],
+  "Page_1": [
+    {
+      "action": "Click the Map",
+      "target_element": "AppCompatButton",
+      "target_text": "Map",
+      "target_resid": "bus_tracker_button",
+      "bounds": [
+        25,
+        2213,
+        1415,
+        2371
+      ],
+      "exercised": false,
+      "expected_next_page": null
+    },
+    {
+      "action": "Click the AppCompatImageButton",
+      "target_element": "AppCompatImageButton",
+      "target_text": null,
+      "target_resid": null,
+      "bounds": [
+        0,
+        84,
+        196,
+        280
+      ],
+      "exercised": false,
+      "expected_next_page": null
+    },
+    {
+      "action": "Click the stop_list_route_reverse_button",
+      "target_element": "ActionMenuItemView",
+      "target_text": null,
+      "target_resid": "stop_list_route_reverse_button",
+      "bounds": [
+        1272,
+        98,
+        1440,
+        266
+      ],
+      "exercised": false,
+      "expected_next_page": null
+    }
+  ],
+  "Page_2": [
+    {
+      "action": "Click the stop_times_favourites_emptystar",
+      "target_element": "ActionMenuItemView",
+      "target_text": null,
+      "target_resid": "stop_times_favourites_emptystar",
+      "bounds": [
+        1104,
+        98,
+        1272,
+        266
+      ],
+      "exercised": false,
+      "expected_next_page": null
+    },
+    {
+      "action": "Click the stop_times_refresh_button",
+      "target_element": "ActionMenuItemView",
+      "target_text": null,
+      "target_resid": "stop_times_refresh_button",
+      "bounds": [
+        1272,
+        98,
+        1440,
+        266
+      ],
+      "exercised": false,
+      "expected_next_page": null
+    },
+    {
+      "action": "Click the AppCompatImageButton",
+      "target_element": "AppCompatImageButton",
+      "target_text": null,
+      "target_resid": null,
+      "bounds": [
+        0,
+        84,
+        196,
+        280
+      ],
+      "exercised": false,
+      "expected_next_page": null
+    },
+    {
+      "action": "Click the z",
+      "target_element": "z",
+      "target_text": null,
+      "target_resid": null,
+      "bounds": [
+        56,
+        311,
+        319,
+        581
+      ],
+      "exercised": false,
+      "expected_next_page": null
+    },
+    {
+      "action": "Click the clickable_map_area_hack",
+      "target_element": "AppCompatImageView",
+      "target_text": null,
+      "target_resid": "clickable_map_area_hack",
+      "bounds": [
+        39,
+        301,
+        330,
+        592
+      ],
+      "exercised": false,
+      "expected_next_page": null
+    }
+  ],
+  "Page_3": [
+    {
+      "action": "Click the ActionMenuPresenter$OverflowMenuButton",
+      "target_element": "ActionMenuPresenter$OverflowMenuButton",
+      "target_text": null,
+      "target_resid": null,
+      "bounds": [
+        1300,
+        98,
+        1440,
+        266
+      ],
+      "exercised": false,
+      "expected_next_page": null
+    },
+    {
+      "action": "Click the Subway",
+      "target_element": "AppCompatButton",
+      "target_text": "Subway",
+      "target_resid": "subway_button",
+      "bounds": [
+        35,
+        315,
+        1405,
+        639
+      ],
+      "exercised": false,
+      "expected_next_page": null
+    },
+    {
+      "action": "Click the Bus",
+      "target_element": "AppCompatButton",
+      "target_text": "Bus",
+      "target_resid": "bus_button",
+      "bounds": [
+        35,
+        709,
+        1405,
+        1033
+      ],
+      "exercised": false,
+      "expected_next_page": null
+    },
+    {
+      "action": "Click the Rail",
+      "target_element": "AppCompatButton",
+      "target_text": "Rail",
+      "target_resid": "rail_button",
+      "bounds": [
+        35,
+        1103,
+        1405,
+        1427
+      ],
+      "exercised": false,
+      "expected_next_page": null
+    },
+    {
+      "action": "Click the Trolley",
+      "target_element": "AppCompatButton",
+      "target_text": "Trolley",
+      "target_resid": "trolley_button",
+      "bounds": [
+        35,
+        1497,
+        1405,
+        1822
+      ],
+      "exercised": false,
+      "expected_next_page": null
+    },
+    {
+      "action": "Click the Alerts",
+      "target_element": "AppCompatButton",
+      "target_text": "Alerts",
+      "target_resid": "alert_button",
+      "bounds": [
+        35,
+        1997,
+        1405,
+        2322
+      ],
+      "exercised": false,
+      "expected_next_page": null
+    }
+  ],
+  "Page_4": [
+    {
+      "action": "Click the rail_times_favourites_emptystar",
+      "target_element": "ActionMenuItemView",
+      "target_text": null,
+      "target_resid": "rail_times_favourites_emptystar",
+      "bounds": [
+        1088,
+        98,
+        1256,
+        266
+      ],
+      "exercised": false,
+      "expected_next_page": null
+    },
+    {
+      "action": "Click the Date",
+      "target_element": "ActionMenuItemView",
+      "target_text": "Date",
+      "target_resid": "select_date",
+      "bounds": [
+        1256,
+        98,
+        1440,
+        266
+      ],
+      "exercised": false,
+      "expected_next_page": null
+    },
+    {
+      "action": "Click the AppCompatImageButton",
+      "target_element": "AppCompatImageButton",
+      "target_text": null,
+      "target_resid": null,
+      "bounds": [
+        0,
+        84,
+        196,
+        280
+      ],
+      "exercised": false,
+      "expected_next_page": null
+    }
+  ],
+  "Page_6": [
+    {
+      "action": "Click the AppCompatImageButton",
+      "target_element": "AppCompatImageButton",
+      "target_text": null,
+      "target_resid": null,
+      "bounds": [
+        0,
+        84,
+        196,
+        280
+      ],
+      "exercised": false,
+      "expected_next_page": null
+    }
+  ]
+}

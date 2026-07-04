@@ -1,0 +1,20 @@
+{
+  "Page_0": [],
+  "Page_1": [],
+  "Page_2": [
+    {
+      "action": "Click the (415) 352-0835",
+      "target_element": "TextView",
+      "target_text": "(415) 352-0835",
+      "target_resid": "cPhoneNumber",
+      "bounds": [
+        220,
+        1431,
+        623,
+        1527
+      ],
+      "exercised": false,
+      "expected_next_page": null
+    }
+  ]
+}

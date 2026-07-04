@@ -1,0 +1,494 @@
+{
+  "Page_0": [
+    {
+      "action": "Click the main_username_text",
+      "target_element": "PGREditText",
+      "target_text": null,
+      "target_resid": "main_username_text",
+      "bounds": [
+        60,
+        740,
+        1380,
+        915
+      ],
+      "exercised": false,
+      "expected_next_page": null
+    },
+    {
+      "action": "Click the main_password_text",
+      "target_element": "PGREditText",
+      "target_text": null,
+      "target_resid": "main_password_text",
+      "bounds": [
+        60,
+        915,
+        1380,
+        1090
+      ],
+      "exercised": false,
+      "expected_next_page": null
+    },
+    {
+      "action": "Click the main_check_box_save_user_id",
+      "target_element": "PGRCheckBox",
+      "target_text": null,
+      "target_resid": "main_check_box_save_user_id",
+      "bounds": [
+        98,
+        1142,
+        235,
+        1260
+      ],
+      "exercised": false,
+      "expected_next_page": null
+    },
+    {
+      "action": "Click the Log In",
+      "target_element": "PGRButton",
+      "target_text": "Log In",
+      "target_resid": "main_button_login",
+      "bounds": [
+        60,
+        1296,
+        1380,
+        1454
+      ],
+      "exercised": false,
+      "expected_next_page": null
+    },
+    {
+      "action": "Click the Forgot ID/Password?",
+      "target_element": "PGRButton",
+      "target_text": "Forgot ID/Password?",
+      "target_resid": "main_login_forgot_user_id_password",
+      "bounds": [
+        238,
+        1454,
+        724,
+        1622
+      ],
+      "exercised": false,
+      "expected_next_page": null
+    },
+    {
+      "action": "Click the Create Account",
+      "target_element": "PGRButton",
+      "target_text": "Create Account",
+      "target_resid": "main_login_create_account",
+      "bounds": [
+        843,
+        1454,
+        1202,
+        1622
+      ],
+      "exercised": false,
+      "expected_next_page": null
+    },
+    {
+      "action": "Click the Claims Center",
+      "target_element": "PGRButton",
+      "target_text": "Claims Center",
+      "target_resid": "main_nav_claims_center",
+      "bounds": [
+        0,
+        1626,
+        1440,
+        1836
+      ],
+      "exercised": false,
+      "expected_next_page": null
+    },
+    {
+      "action": "Click the Start New Quote",
+      "target_element": "PGRButton",
+      "target_text": "Start New Quote",
+      "target_resid": "main_nav_start_new_quote",
+      "bounds": [
+        0,
+        1840,
+        1440,
+        2050
+      ],
+      "exercised": false,
+      "expected_next_page": null
+    },
+    {
+      "action": "Click the About This App",
+      "target_element": "PGRButton",
+      "target_text": "About This App",
+      "target_resid": "main_nav_about_this_app",
+      "bounds": [
+        0,
+        2054,
+        1440,
+        2264
+      ],
+      "exercised": false,
+      "expected_next_page": null
+    },
+    {
+      "action": "Click the Call 24/7",
+      "target_element": "PGRButton",
+      "target_text": "Call 24/7",
+      "target_resid": "vm_footer_phone_number",
+      "bounds": [
+        234,
+        2292,
+        437,
+        2392
+      ],
+      "exercised": false,
+      "expected_next_page": null
+    },
+    {
+      "action": "Click the Submit Feedback",
+      "target_element": "PGRButton",
+      "target_text": "Submit Feedback",
+      "target_resid": "vm_footer_feedback_link",
+      "bounds": [
+        556,
+        2292,
+        962,
+        2392
+      ],
+      "exercised": false,
+      "expected_next_page": null
+    },
+    {
+      "action": "Click the Legal",
+      "target_element": "PGRButton",
+      "target_text": "Legal",
+      "target_resid": "vm_footer_legal_link",
+      "bounds": [
+        1081,
+        2292,
+        1205,
+        2392
+      ],
+      "exercised": false,
+      "expected_next_page": null
+    }
+  ],
+  "Page_1": [
+    {
+      "action": "Click the ImageButton",
+      "target_element": "ImageButton",
+      "target_text": null,
+      "target_resid": null,
+      "bounds": [
+        0,
+        84,
+        196,
+        280
+      ],
+      "exercised": false,
+      "expected_next_page": null
+    },
+    {
+      "action": "Click the Call to Report a Claim",
+      "target_element": "PGRButton",
+      "target_text": "Call to Report a Claim",
+      "target_resid": "claims_center_phone_number",
+      "bounds": [
+        70,
+        1175,
+        1370,
+        1333
+      ],
+      "exercised": false,
+      "expected_next_page": null
+    },
+    {
+      "action": "Click the Get Roadside Assistance",
+      "target_element": "PGRButton",
+      "target_text": "Get Roadside Assistance",
+      "target_resid": "claims_center_nav_roadside_assistance",
+      "bounds": [
+        0,
+        1407,
+        1440,
+        1617
+      ],
+      "exercised": false,
+      "expected_next_page": null
+    },
+    {
+      "action": "Click the Find a Service Center",
+      "target_element": "PGRButton",
+      "target_text": "Find a Service Center",
+      "target_resid": "claims_center_nav_find_service_center",
+      "bounds": [
+        0,
+        1621,
+        1440,
+        1831
+      ],
+      "exercised": false,
+      "expected_next_page": null
+    },
+    {
+      "action": "Click the Start Photo Estimate",
+      "target_element": "PGRButton",
+      "target_text": "Start Photo Estimate",
+      "target_resid": "photo_claims_nav_cell_non_pni",
+      "bounds": [
+        0,
+        1835,
+        1440,
+        2045
+      ],
+      "exercised": false,
+      "expected_next_page": null
+    }
+  ],
+  "Page_2": [
+    {
+      "action": "Click the ImageButton",
+      "target_element": "ImageButton",
+      "target_text": null,
+      "target_resid": null,
+      "bounds": [
+        0,
+        84,
+        196,
+        280
+      ],
+      "exercised": false,
+      "expected_next_page": null
+    },
+    {
+      "action": "Click the pgr_web_view",
+      "target_element": "PGRWebView",
+      "target_text": null,
+      "target_resid": "pgr_web_view",
+      "bounds": [
+        18,
+        298,
+        1422,
+        2374
+      ],
+      "exercised": false,
+      "expected_next_page": null
+    }
+  ],
+  "Page_3": [
+    {
+      "action": "Click the ImageButton",
+      "target_element": "ImageButton",
+      "target_text": null,
+      "target_resid": null,
+      "bounds": [
+        0,
+        84,
+        196,
+        280
+      ],
+      "exercised": false,
+      "expected_next_page": null
+    },
+    {
+      "action": "Click the pgr_web_view",
+      "target_element": "PGRWebView",
+      "target_text": null,
+      "target_resid": "pgr_web_view",
+      "bounds": [
+        18,
+        298,
+        1422,
+        2374
+      ],
+      "exercised": false,
+      "expected_next_page": null
+    }
+  ],
+  "Page_4": [
+    {
+      "action": "Click the ImageButton",
+      "target_element": "ImageButton",
+      "target_text": null,
+      "target_resid": null,
+      "bounds": [
+        0,
+        84,
+        196,
+        280
+      ],
+      "exercised": false,
+      "expected_next_page": null
+    },
+    {
+      "action": "Click the Call for Roadside Assistance",
+      "target_element": "PGRButton",
+      "target_text": "Call for Roadside Assistance",
+      "target_resid": "roadside_assistance_call_or_start_button",
+      "bounds": [
+        244,
+        769,
+        1195,
+        927
+      ],
+      "exercised": false,
+      "expected_next_page": null
+    },
+    {
+      "action": "Click the Disclosure",
+      "target_element": "PGRButton",
+      "target_text": "Disclosure",
+      "target_resid": "roadside_assistance_disclosure_link",
+      "bounds": [
+        614,
+        1116,
+        825,
+        1173
+      ],
+      "exercised": false,
+      "expected_next_page": null
+    },
+    {
+      "action": "Click the Jump Starting a Dead Battery",
+      "target_element": "PGRButton",
+      "target_text": "Jump Starting a Dead Battery",
+      "target_resid": "roadside_assistance_dead_battery",
+      "bounds": [
+        0,
+        1212,
+        1440,
+        1422
+      ],
+      "exercised": false,
+      "expected_next_page": null
+    },
+    {
+      "action": "Click the Replacing a Flat Tire",
+      "target_element": "PGRButton",
+      "target_text": "Replacing a Flat Tire",
+      "target_resid": "roadside_assistance_flat_tire",
+      "bounds": [
+        0,
+        1426,
+        1440,
+        1636
+      ],
+      "exercised": false,
+      "expected_next_page": null
+    },
+    {
+      "action": "Click the Emergency Toolkit",
+      "target_element": "PGRButton",
+      "target_text": "Emergency Toolkit",
+      "target_resid": "roadside_assistance_emergency_toolkit",
+      "bounds": [
+        0,
+        1640,
+        1440,
+        1850
+      ],
+      "exercised": false,
+      "expected_next_page": null
+    }
+  ],
+  "Page_5": [
+    {
+      "action": "Click the ImageButton",
+      "target_element": "ImageButton",
+      "target_text": null,
+      "target_resid": null,
+      "bounds": [
+        0,
+        84,
+        196,
+        280
+      ],
+      "exercised": false,
+      "expected_next_page": null
+    }
+  ],
+  "Page_6": [
+    {
+      "action": "Click the ImageButton",
+      "target_element": "ImageButton",
+      "target_text": null,
+      "target_resid": null,
+      "bounds": [
+        0,
+        84,
+        196,
+        280
+      ],
+      "exercised": false,
+      "expected_next_page": null
+    },
+    {
+      "action": "Click the Terms of Use",
+      "target_element": "PGRButton",
+      "target_text": "Terms of Use",
+      "target_resid": "terms_of_use",
+      "bounds": [
+        0,
+        486,
+        1440,
+        696
+      ],
+      "exercised": false,
+      "expected_next_page": null
+    },
+    {
+      "action": "Click the Privacy Policy",
+      "target_element": "PGRButton",
+      "target_text": "Privacy Policy",
+      "target_resid": "privacy_policy",
+      "bounds": [
+        0,
+        700,
+        1440,
+        910
+      ],
+      "exercised": false,
+      "expected_next_page": null
+    },
+    {
+      "action": "Click the Licenses and Acknowledgments",
+      "target_element": "PGRButton",
+      "target_text": "Licenses and Acknowledgments",
+      "target_resid": "licenses_and_acknowledgments",
+      "bounds": [
+        0,
+        914,
+        1440,
+        1124
+      ],
+      "exercised": false,
+      "expected_next_page": null
+    }
+  ],
+  "Page_7": [
+    {
+      "action": "Click the ImageButton",
+      "target_element": "ImageButton",
+      "target_text": null,
+      "target_resid": null,
+      "bounds": [
+        0,
+        84,
+        196,
+        280
+      ],
+      "exercised": false,
+      "expected_next_page": null
+    },
+    {
+      "action": "Click the web_content",
+      "target_element": "WebView",
+      "target_text": null,
+      "target_resid": "web_content",
+      "bounds": [
+        0,
+        280,
+        1440,
+        2392
+      ],
+      "exercised": false,
+      "expected_next_page": null
+    }
+  ]
+}

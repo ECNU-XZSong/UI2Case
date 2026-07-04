@@ -1,0 +1,1427 @@
+{
+  "Page_0": [
+    {
+      "class": "AppCompatTextView",
+      "text": "Which retailers would you like to follow?",
+      "resource_id": "suggestedPublisherListTitle",
+      "bounds": [
+        0,
+        116,
+        1440,
+        192
+      ],
+      "clickable": false,
+      "semantic_label": null
+    },
+    {
+      "class": "View",
+      "text": null,
+      "resource_id": "shadow_top",
+      "bounds": [
+        28,
+        220,
+        1412,
+        234
+      ],
+      "clickable": false,
+      "semantic_label": null
+    },
+    {
+      "class": "AppCompatImageView",
+      "text": null,
+      "resource_id": "listSuggestedPublisherItemImage",
+      "bounds": [
+        42,
+        234,
+        434,
+        542
+      ],
+      "clickable": false,
+      "semantic_label": null
+    },
+    {
+      "class": "AppCompatTextView",
+      "text": "Walmart",
+      "resource_id": "listSuggestedPublisherItemTitle",
+      "bounds": [
+        42,
+        542,
+        434,
+        654
+      ],
+      "clickable": false,
+      "semantic_label": null
+    },
+    {
+      "class": "StarButton",
+      "text": null,
+      "resource_id": "listSuggestedPublisherItemAddButton",
+      "bounds": [
+        315,
+        542,
+        427,
+        654
+      ],
+      "clickable": true,
+      "semantic_label": null
+    },
+    {
+      "class": "AppCompatImageView",
+      "text": null,
+      "resource_id": "listSuggestedPublisherItemImage",
+      "bounds": [
+        503,
+        234,
+        895,
+        542
+      ],
+      "clickable": false,
+      "semantic_label": null
+    },
+    {
+      "class": "AppCompatTextView",
+      "text": "The Home Depot",
+      "resource_id": "listSuggestedPublisherItemTitle",
+      "bounds": [
+        503,
+        542,
+        895,
+        654
+      ],
+      "clickable": false,
+      "semantic_label": null
+    },
+    {
+      "class": "StarButton",
+      "text": null,
+      "resource_id": "listSuggestedPublisherItemAddButton",
+      "bounds": [
+        776,
+        542,
+        888,
+        654
+      ],
+      "clickable": true,
+      "semantic_label": null
+    },
+    {
+      "class": "AppCompatImageView",
+      "text": null,
+      "resource_id": "listSuggestedPublisherItemImage",
+      "bounds": [
+        964,
+        234,
+        1356,
+        542
+      ],
+      "clickable": false,
+      "semantic_label": null
+    },
+    {
+      "class": "AppCompatTextView",
+      "text": "Target",
+      "resource_id": "listSuggestedPublisherItemTitle",
+      "bounds": [
+        964,
+        542,
+        1356,
+        654
+      ],
+      "clickable": false,
+      "semantic_label": null
+    },
+    {
+      "class": "StarButton",
+      "text": null,
+      "resource_id": "listSuggestedPublisherItemAddButton",
+      "bounds": [
+        1237,
+        542,
+        1349,
+        654
+      ],
+      "clickable": true,
+      "semantic_label": null
+    },
+    {
+      "class": "AppCompatImageView",
+      "text": null,
+      "resource_id": "listSuggestedPublisherItemImage",
+      "bounds": [
+        42,
+        682,
+        434,
+        990
+      ],
+      "clickable": false,
+      "semantic_label": null
+    },
+    {
+      "class": "AppCompatTextView",
+      "text": "JCPenney",
+      "resource_id": "listSuggestedPublisherItemTitle",
+      "bounds": [
+        42,
+        990,
+        434,
+        1102
+      ],
+      "clickable": false,
+      "semantic_label": null
+    },
+    {
+      "class": "StarButton",
+      "text": null,
+      "resource_id": "listSuggestedPublisherItemAddButton",
+      "bounds": [
+        315,
+        990,
+        427,
+        1102
+      ],
+      "clickable": true,
+      "semantic_label": null
+    },
+    {
+      "class": "AppCompatImageView",
+      "text": null,
+      "resource_id": "listSuggestedPublisherItemImage",
+      "bounds": [
+        503,
+        682,
+        895,
+        990
+      ],
+      "clickable": false,
+      "semantic_label": null
+    },
+    {
+      "class": "AppCompatTextView",
+      "text": "Rite Aid",
+      "resource_id": "listSuggestedPublisherItemTitle",
+      "bounds": [
+        503,
+        990,
+        895,
+        1102
+      ],
+      "clickable": false,
+      "semantic_label": null
+    },
+    {
+      "class": "StarButton",
+      "text": null,
+      "resource_id": "listSuggestedPublisherItemAddButton",
+      "bounds": [
+        776,
+        990,
+        888,
+        1102
+      ],
+      "clickable": true,
+      "semantic_label": null
+    },
+    {
+      "class": "AppCompatImageView",
+      "text": null,
+      "resource_id": "listSuggestedPublisherItemImage",
+      "bounds": [
+        964,
+        682,
+        1356,
+        990
+      ],
+      "clickable": false,
+      "semantic_label": null
+    },
+    {
+      "class": "AppCompatTextView",
+      "text": "CVS",
+      "resource_id": "listSuggestedPublisherItemTitle",
+      "bounds": [
+        964,
+        990,
+        1356,
+        1102
+      ],
+      "clickable": false,
+      "semantic_label": null
+    },
+    {
+      "class": "StarButton",
+      "text": null,
+      "resource_id": "listSuggestedPublisherItemAddButton",
+      "bounds": [
+        1237,
+        990,
+        1349,
+        1102
+      ],
+      "clickable": true,
+      "semantic_label": null
+    },
+    {
+      "class": "AppCompatImageView",
+      "text": null,
+      "resource_id": "listSuggestedPublisherItemImage",
+      "bounds": [
+        42,
+        1130,
+        434,
+        1438
+      ],
+      "clickable": false,
+      "semantic_label": null
+    },
+    {
+      "class": "AppCompatTextView",
+      "text": "Dollar General",
+      "resource_id": "listSuggestedPublisherItemTitle",
+      "bounds": [
+        42,
+        1438,
+        434,
+        1550
+      ],
+      "clickable": false,
+      "semantic_label": null
+    },
+    {
+      "class": "StarButton",
+      "text": null,
+      "resource_id": "listSuggestedPublisherItemAddButton",
+      "bounds": [
+        315,
+        1438,
+        427,
+        1550
+      ],
+      "clickable": true,
+      "semantic_label": null
+    },
+    {
+      "class": "AppCompatImageView",
+      "text": null,
+      "resource_id": "listSuggestedPublisherItemImage",
+      "bounds": [
+        503,
+        1130,
+        895,
+        1438
+      ],
+      "clickable": false,
+      "semantic_label": null
+    },
+    {
+      "class": "AppCompatTextView",
+      "text": "Big Lots",
+      "resource_id": "listSuggestedPublisherItemTitle",
+      "bounds": [
+        503,
+        1438,
+        895,
+        1550
+      ],
+      "clickable": false,
+      "semantic_label": null
+    },
+    {
+      "class": "StarButton",
+      "text": null,
+      "resource_id": "listSuggestedPublisherItemAddButton",
+      "bounds": [
+        776,
+        1438,
+        888,
+        1550
+      ],
+      "clickable": true,
+      "semantic_label": null
+    },
+    {
+      "class": "AppCompatImageView",
+      "text": null,
+      "resource_id": "listSuggestedPublisherItemImage",
+      "bounds": [
+        964,
+        1130,
+        1356,
+        1438
+      ],
+      "clickable": false,
+      "semantic_label": null
+    },
+    {
+      "class": "AppCompatTextView",
+      "text": "Macy's",
+      "resource_id": "listSuggestedPublisherItemTitle",
+      "bounds": [
+        964,
+        1438,
+        1356,
+        1550
+      ],
+      "clickable": false,
+      "semantic_label": null
+    },
+    {
+      "class": "StarButton",
+      "text": null,
+      "resource_id": "listSuggestedPublisherItemAddButton",
+      "bounds": [
+        1237,
+        1438,
+        1349,
+        1550
+      ],
+      "clickable": true,
+      "semantic_label": null
+    },
+    {
+      "class": "AppCompatImageView",
+      "text": null,
+      "resource_id": "listSuggestedPublisherItemImage",
+      "bounds": [
+        42,
+        1578,
+        434,
+        1886
+      ],
+      "clickable": false,
+      "semantic_label": null
+    },
+    {
+      "class": "AppCompatTextView",
+      "text": "Verizon",
+      "resource_id": "listSuggestedPublisherItemTitle",
+      "bounds": [
+        42,
+        1886,
+        434,
+        1972
+      ],
+      "clickable": false,
+      "semantic_label": null
+    },
+    {
+      "class": "StarButton",
+      "text": null,
+      "resource_id": "listSuggestedPublisherItemAddButton",
+      "bounds": [
+        315,
+        1886,
+        427,
+        1972
+      ],
+      "clickable": true,
+      "semantic_label": null
+    },
+    {
+      "class": "AppCompatImageView",
+      "text": null,
+      "resource_id": "listSuggestedPublisherItemImage",
+      "bounds": [
+        503,
+        1578,
+        895,
+        1886
+      ],
+      "clickable": false,
+      "semantic_label": null
+    },
+    {
+      "class": "AppCompatTextView",
+      "text": "Cricket Wireless",
+      "resource_id": "listSuggestedPublisherItemTitle",
+      "bounds": [
+        503,
+        1886,
+        895,
+        1972
+      ],
+      "clickable": false,
+      "semantic_label": null
+    },
+    {
+      "class": "StarButton",
+      "text": null,
+      "resource_id": "listSuggestedPublisherItemAddButton",
+      "bounds": [
+        776,
+        1886,
+        888,
+        1972
+      ],
+      "clickable": true,
+      "semantic_label": null
+    },
+    {
+      "class": "AppCompatImageView",
+      "text": null,
+      "resource_id": "listSuggestedPublisherItemImage",
+      "bounds": [
+        964,
+        1578,
+        1356,
+        1886
+      ],
+      "clickable": false,
+      "semantic_label": null
+    },
+    {
+      "class": "AppCompatTextView",
+      "text": "Ace Hardware",
+      "resource_id": "listSuggestedPublisherItemTitle",
+      "bounds": [
+        964,
+        1886,
+        1356,
+        1972
+      ],
+      "clickable": false,
+      "semantic_label": null
+    },
+    {
+      "class": "StarButton",
+      "text": null,
+      "resource_id": "listSuggestedPublisherItemAddButton",
+      "bounds": [
+        1237,
+        1886,
+        1349,
+        1972
+      ],
+      "clickable": true,
+      "semantic_label": null
+    },
+    {
+      "class": "View",
+      "text": null,
+      "resource_id": "shadow_bottom",
+      "bounds": [
+        28,
+        1958,
+        1412,
+        1972
+      ],
+      "clickable": false,
+      "semantic_label": null
+    },
+    {
+      "class": "View",
+      "text": null,
+      "resource_id": null,
+      "bounds": [
+        0,
+        1458,
+        1440,
+        2083
+      ],
+      "clickable": false,
+      "semantic_label": null
+    },
+    {
+      "class": "CirclePageIndicator",
+      "text": null,
+      "resource_id": "tourPageIndicator",
+      "bounds": [
+        0,
+        2083,
+        1440,
+        2112
+      ],
+      "clickable": false,
+      "semantic_label": null
+    },
+    {
+      "class": "AppCompatButton",
+      "text": "Show deals",
+      "resource_id": "tourButton",
+      "bounds": [
+        56,
+        2168,
+        1384,
+        2336
+      ],
+      "clickable": true,
+      "semantic_label": null
+    }
+  ],
+  "Page_1": [
+    {
+      "class": "ImageButton",
+      "text": null,
+      "resource_id": null,
+      "bounds": [
+        0,
+        84,
+        196,
+        280
+      ],
+      "clickable": true,
+      "semantic_label": null
+    },
+    {
+      "class": "ActionMenuItemView",
+      "text": null,
+      "resource_id": "menu_search",
+      "bounds": [
+        1272,
+        98,
+        1440,
+        266
+      ],
+      "clickable": true,
+      "semantic_label": null
+    },
+    {
+      "class": "AppCompatTextView",
+      "text": "WEEKLY ADS",
+      "resource_id": null,
+      "bounds": [
+        0,
+        331,
+        44,
+        397
+      ],
+      "clickable": false,
+      "semantic_label": null
+    },
+    {
+      "class": "AppCompatTextView",
+      "text": "FAVORITES",
+      "resource_id": null,
+      "bounds": [
+        128,
+        331,
+        379,
+        397
+      ],
+      "clickable": false,
+      "semantic_label": null
+    },
+    {
+      "class": "AppCompatTextView",
+      "text": "COUPONS",
+      "resource_id": null,
+      "bounds": [
+        463,
+        331,
+        691,
+        397
+      ],
+      "clickable": false,
+      "semantic_label": null
+    },
+    {
+      "class": "AppCompatTextView",
+      "text": "CATEGORIES",
+      "resource_id": null,
+      "bounds": [
+        775,
+        331,
+        1065,
+        397
+      ],
+      "clickable": false,
+      "semantic_label": null
+    },
+    {
+      "class": "AppCompatTextView",
+      "text": "RETAILERS",
+      "resource_id": null,
+      "bounds": [
+        1149,
+        331,
+        1398,
+        397
+      ],
+      "clickable": false,
+      "semantic_label": null
+    },
+    {
+      "class": "AppCompatImageView",
+      "text": null,
+      "resource_id": "gridStoreImage",
+      "bounds": [
+        70,
+        518,
+        678,
+        945
+      ],
+      "clickable": false,
+      "semantic_label": null
+    },
+    {
+      "class": "AppCompatTextView",
+      "text": "2 deals",
+      "resource_id": "gridStoreItemCount",
+      "bounds": [
+        308,
+        1001,
+        439,
+        1058
+      ],
+      "clickable": false,
+      "semantic_label": null
+    },
+    {
+      "class": "View",
+      "text": null,
+      "resource_id": "gridStoreCardDivider",
+      "bounds": [
+        70,
+        1086,
+        678,
+        1090
+      ],
+      "clickable": false,
+      "semantic_label": null
+    },
+    {
+      "class": "StarButton",
+      "text": null,
+      "resource_id": "gridBrochureItemFavouriteAddButton",
+      "bounds": [
+        552,
+        1146,
+        706,
+        1300
+      ],
+      "clickable": true,
+      "semantic_label": null
+    },
+    {
+      "class": "AppCompatTextView",
+      "text": "Ace Hardware",
+      "resource_id": "gridBrochureItemTitle",
+      "bounds": [
+        98,
+        1146,
+        552,
+        1222
+      ],
+      "clickable": true,
+      "semantic_label": null
+    },
+    {
+      "class": "AppCompatTextView",
+      "text": "2.43mi",
+      "resource_id": "gridBrochureItemLocationButton",
+      "bounds": [
+        98,
+        1202,
+        496,
+        1292
+      ],
+      "clickable": true,
+      "semantic_label": null
+    },
+    {
+      "class": "AppCompatImageView",
+      "text": null,
+      "resource_id": "gridStoreImage",
+      "bounds": [
+        762,
+        518,
+        1370,
+        945
+      ],
+      "clickable": false,
+      "semantic_label": null
+    },
+    {
+      "class": "AppCompatTextView",
+      "text": "1 deal",
+      "resource_id": "gridStoreItemCount",
+      "bounds": [
+        1011,
+        1001,
+        1121,
+        1058
+      ],
+      "clickable": false,
+      "semantic_label": null
+    },
+    {
+      "class": "View",
+      "text": null,
+      "resource_id": "gridStoreCardDivider",
+      "bounds": [
+        762,
+        1086,
+        1370,
+        1090
+      ],
+      "clickable": false,
+      "semantic_label": null
+    },
+    {
+      "class": "StarButton",
+      "text": null,
+      "resource_id": "gridBrochureItemFavouriteAddButton",
+      "bounds": [
+        1244,
+        1146,
+        1398,
+        1300
+      ],
+      "clickable": true,
+      "semantic_label": null
+    },
+    {
+      "class": "AppCompatTextView",
+      "text": "Acer",
+      "resource_id": "gridBrochureItemTitle",
+      "bounds": [
+        790,
+        1146,
+        1244,
+        1222
+      ],
+      "clickable": true,
+      "semantic_label": null
+    },
+    {
+      "class": "AppCompatTextView",
+      "text": "15mi",
+      "resource_id": "gridBrochureItemLocationButton",
+      "bounds": [
+        790,
+        1202,
+        1188,
+        1292
+      ],
+      "clickable": true,
+      "semantic_label": null
+    },
+    {
+      "class": "AppCompatImageView",
+      "text": null,
+      "resource_id": "gridStoreImage",
+      "bounds": [
+        70,
+        1404,
+        678,
+        1831
+      ],
+      "clickable": false,
+      "semantic_label": null
+    },
+    {
+      "class": "AppCompatTextView",
+      "text": "1 deal",
+      "resource_id": "gridStoreItemCount",
+      "bounds": [
+        319,
+        1887,
+        429,
+        1944
+      ],
+      "clickable": false,
+      "semantic_label": null
+    },
+    {
+      "class": "View",
+      "text": null,
+      "resource_id": "gridStoreCardDivider",
+      "bounds": [
+        70,
+        1972,
+        678,
+        1976
+      ],
+      "clickable": false,
+      "semantic_label": null
+    },
+    {
+      "class": "StarButton",
+      "text": null,
+      "resource_id": "gridBrochureItemFavouriteAddButton",
+      "bounds": [
+        552,
+        2032,
+        706,
+        2186
+      ],
+      "clickable": true,
+      "semantic_label": null
+    },
+    {
+      "class": "AppCompatTextView",
+      "text": "Aeropostale",
+      "resource_id": "gridBrochureItemTitle",
+      "bounds": [
+        98,
+        2032,
+        552,
+        2108
+      ],
+      "clickable": true,
+      "semantic_label": null
+    },
+    {
+      "class": "AppCompatTextView",
+      "text": "3.93mi",
+      "resource_id": "gridBrochureItemLocationButton",
+      "bounds": [
+        98,
+        2088,
+        496,
+        2178
+      ],
+      "clickable": true,
+      "semantic_label": null
+    },
+    {
+      "class": "AppCompatImageView",
+      "text": null,
+      "resource_id": "gridStoreImage",
+      "bounds": [
+        762,
+        1404,
+        1370,
+        1831
+      ],
+      "clickable": false,
+      "semantic_label": null
+    },
+    {
+      "class": "AppCompatTextView",
+      "text": "1 deal",
+      "resource_id": "gridStoreItemCount",
+      "bounds": [
+        1011,
+        1887,
+        1121,
+        1944
+      ],
+      "clickable": false,
+      "semantic_label": null
+    },
+    {
+      "class": "View",
+      "text": null,
+      "resource_id": "gridStoreCardDivider",
+      "bounds": [
+        762,
+        1972,
+        1370,
+        1976
+      ],
+      "clickable": false,
+      "semantic_label": null
+    },
+    {
+      "class": "StarButton",
+      "text": null,
+      "resource_id": "gridBrochureItemFavouriteAddButton",
+      "bounds": [
+        1244,
+        2032,
+        1398,
+        2186
+      ],
+      "clickable": true,
+      "semantic_label": null
+    },
+    {
+      "class": "AppCompatTextView",
+      "text": "American Eagle Outfitters",
+      "resource_id": "gridBrochureItemTitle",
+      "bounds": [
+        790,
+        2032,
+        1244,
+        2108
+      ],
+      "clickable": true,
+      "semantic_label": null
+    },
+    {
+      "class": "AppCompatTextView",
+      "text": "3.92mi",
+      "resource_id": "gridBrochureItemLocationButton",
+      "bounds": [
+        790,
+        2088,
+        1188,
+        2178
+      ],
+      "clickable": true,
+      "semantic_label": null
+    },
+    {
+      "class": "AppCompatImageView",
+      "text": null,
+      "resource_id": "gridStoreImage",
+      "bounds": [
+        70,
+        2290,
+        678,
+        2392
+      ],
+      "clickable": false,
+      "semantic_label": null
+    },
+    {
+      "class": "AppCompatImageView",
+      "text": null,
+      "resource_id": "gridStoreImage",
+      "bounds": [
+        762,
+        2290,
+        1370,
+        2392
+      ],
+      "clickable": false,
+      "semantic_label": null
+    },
+    {
+      "class": "View",
+      "text": null,
+      "resource_id": "navigationBarBackground",
+      "bounds": [
+        0,
+        2392,
+        1440,
+        2560
+      ],
+      "clickable": false,
+      "semantic_label": null
+    },
+    {
+      "class": "View",
+      "text": null,
+      "resource_id": "statusBarBackground",
+      "bounds": [
+        0,
+        0,
+        1440,
+        84
+      ],
+      "clickable": false,
+      "semantic_label": null
+    }
+  ],
+  "Page_2": [
+    {
+      "class": "TextView",
+      "text": "Ace Hardware",
+      "resource_id": null,
+      "bounds": [
+        252,
+        106,
+        649,
+        191
+      ],
+      "clickable": false,
+      "semantic_label": null
+    },
+    {
+      "class": "ImageButton",
+      "text": null,
+      "resource_id": null,
+      "bounds": [
+        0,
+        84,
+        196,
+        280
+      ],
+      "clickable": true,
+      "semantic_label": null
+    },
+    {
+      "class": "ActionMenuItemView",
+      "text": null,
+      "resource_id": "menu_favorite",
+      "bounds": [
+        1132,
+        98,
+        1300,
+        266
+      ],
+      "clickable": true,
+      "semantic_label": null
+    },
+    {
+      "class": "ActionMenuPresenter$OverflowMenuButton",
+      "text": null,
+      "resource_id": null,
+      "bounds": [
+        1300,
+        98,
+        1440,
+        266
+      ],
+      "clickable": true,
+      "semantic_label": null
+    },
+    {
+      "class": "TextView",
+      "text": "Page 1 / 8",
+      "resource_id": null,
+      "bounds": [
+        252,
+        191,
+        475,
+        257
+      ],
+      "clickable": false,
+      "semantic_label": null
+    },
+    {
+      "class": "MultiPageView",
+      "text": null,
+      "resource_id": "imageDetailImageView",
+      "bounds": [
+        0,
+        280,
+        1440,
+        2196
+      ],
+      "clickable": false,
+      "semantic_label": null
+    },
+    {
+      "class": "FrameLayout",
+      "text": null,
+      "resource_id": "brochureViewerFragmentOverlayContainer",
+      "bounds": [
+        0,
+        280,
+        1440,
+        2196
+      ],
+      "clickable": false,
+      "semantic_label": null
+    },
+    {
+      "class": "View",
+      "text": null,
+      "resource_id": null,
+      "bounds": [
+        0,
+        2175,
+        1440,
+        2196
+      ],
+      "clickable": false,
+      "semantic_label": null
+    },
+    {
+      "class": "View",
+      "text": null,
+      "resource_id": null,
+      "bounds": [
+        0,
+        2196,
+        1440,
+        2392
+      ],
+      "clickable": false,
+      "semantic_label": null
+    },
+    {
+      "class": "AppCompatImageView",
+      "text": null,
+      "resource_id": "bottom_navigation_small_item_icon",
+      "bounds": [
+        226,
+        2217,
+        310,
+        2301
+      ],
+      "clickable": false,
+      "semantic_label": null
+    },
+    {
+      "class": "AppCompatTextView",
+      "text": "Main",
+      "resource_id": "bottom_navigation_small_item_title",
+      "bounds": [
+        30,
+        2301,
+        506,
+        2367
+      ],
+      "clickable": false,
+      "semantic_label": null
+    },
+    {
+      "class": "AppCompatImageView",
+      "text": null,
+      "resource_id": "bottom_navigation_small_item_icon",
+      "bounds": [
+        614,
+        2252,
+        698,
+        2336
+      ],
+      "clickable": false,
+      "semantic_label": null
+    },
+    {
+      "class": "AppCompatImageView",
+      "text": null,
+      "resource_id": "bottom_navigation_small_item_icon",
+      "bounds": [
+        915,
+        2252,
+        999,
+        2336
+      ],
+      "clickable": false,
+      "semantic_label": null
+    },
+    {
+      "class": "AppCompatImageView",
+      "text": null,
+      "resource_id": "bottom_navigation_small_item_icon",
+      "bounds": [
+        1216,
+        2252,
+        1300,
+        2336
+      ],
+      "clickable": false,
+      "semantic_label": null
+    },
+    {
+      "class": "View",
+      "text": null,
+      "resource_id": "navigationBarBackground",
+      "bounds": [
+        0,
+        2392,
+        1440,
+        2560
+      ],
+      "clickable": false,
+      "semantic_label": null
+    },
+    {
+      "class": "View",
+      "text": null,
+      "resource_id": "statusBarBackground",
+      "bounds": [
+        0,
+        0,
+        1440,
+        84
+      ],
+      "clickable": false,
+      "semantic_label": null
+    }
+  ],
+  "Page_3": [
+    {
+      "class": "ImageButton",
+      "text": null,
+      "resource_id": null,
+      "bounds": [
+        0,
+        84,
+        196,
+        280
+      ],
+      "clickable": true,
+      "semantic_label": null
+    },
+    {
+      "class": "TextView",
+      "text": "Ace Hardware",
+      "resource_id": null,
+      "bounds": [
+        252,
+        135,
+        695,
+        228
+      ],
+      "clickable": false,
+      "semantic_label": null
+    },
+    {
+      "class": "AppCompatImageView",
+      "text": null,
+      "resource_id": "gridBrochureItemImage",
+      "bounds": [
+        122,
+        349,
+        626,
+        853
+      ],
+      "clickable": false,
+      "semantic_label": null
+    },
+    {
+      "class": "AppCompatTextView",
+      "text": "Valid 6 more days",
+      "resource_id": "gridBrochureItemValidity",
+      "bounds": [
+        38,
+        881,
+        710,
+        966
+      ],
+      "clickable": false,
+      "semantic_label": null
+    },
+    {
+      "class": "View",
+      "text": null,
+      "resource_id": "button_divider",
+      "bounds": [
+        66,
+        966,
+        682,
+        970
+      ],
+      "clickable": false,
+      "semantic_label": null
+    },
+    {
+      "class": "AppCompatTextView",
+      "text": "Ace Hardware",
+      "resource_id": "gridBrochureItemTitle",
+      "bounds": [
+        94,
+        1026,
+        556,
+        1102
+      ],
+      "clickable": false,
+      "semantic_label": null
+    },
+    {
+      "class": "AppCompatTextView",
+      "text": "2.43mi",
+      "resource_id": "gridBrochureItemLocationButton",
+      "bounds": [
+        94,
+        1102,
+        556,
+        1178
+      ],
+      "clickable": true,
+      "semantic_label": null
+    },
+    {
+      "class": "StarButton",
+      "text": null,
+      "resource_id": "gridBrochureItemFavouriteAddButton",
+      "bounds": [
+        556,
+        970,
+        710,
+        1234
+      ],
+      "clickable": true,
+      "semantic_label": null
+    },
+    {
+      "class": "AppCompatImageView",
+      "text": null,
+      "resource_id": "gridBrochureItemImage",
+      "bounds": [
+        814,
+        349,
+        1318,
+        853
+      ],
+      "clickable": false,
+      "semantic_label": null
+    },
+    {
+      "class": "AppCompatTextView",
+      "text": "Valid 17 more days",
+      "resource_id": "gridBrochureItemValidity",
+      "bounds": [
+        730,
+        881,
+        1402,
+        966
+      ],
+      "clickable": false,
+      "semantic_label": null
+    },
+    {
+      "class": "View",
+      "text": null,
+      "resource_id": "button_divider",
+      "bounds": [
+        758,
+        966,
+        1374,
+        970
+      ],
+      "clickable": false,
+      "semantic_label": null
+    },
+    {
+      "class": "AppCompatTextView",
+      "text": "Ace Hardware",
+      "resource_id": "gridBrochureItemTitle",
+      "bounds": [
+        786,
+        1026,
+        1248,
+        1102
+      ],
+      "clickable": false,
+      "semantic_label": null
+    },
+    {
+      "class": "AppCompatTextView",
+      "text": "1.81mi",
+      "resource_id": "gridBrochureItemLocationButton",
+      "bounds": [
+        786,
+        1102,
+        1248,
+        1178
+      ],
+      "clickable": true,
+      "semantic_label": null
+    },
+    {
+      "class": "StarButton",
+      "text": null,
+      "resource_id": "gridBrochureItemFavouriteAddButton",
+      "bounds": [
+        1248,
+        970,
+        1402,
+        1234
+      ],
+      "clickable": true,
+      "semantic_label": null
+    },
+    {
+      "class": "View",
+      "text": null,
+      "resource_id": "navigationBarBackground",
+      "bounds": [
+        0,
+        2392,
+        1440,
+        2560
+      ],
+      "clickable": false,
+      "semantic_label": null
+    },
+    {
+      "class": "View",
+      "text": null,
+      "resource_id": "statusBarBackground",
+      "bounds": [
+        0,
+        0,
+        1440,
+        84
+      ],
+      "clickable": false,
+      "semantic_label": null
+    }
+  ]
+}

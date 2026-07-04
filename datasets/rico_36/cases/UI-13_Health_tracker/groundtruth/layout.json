@@ -1,0 +1,424 @@
+{
+  "Page_0": [
+    {
+      "class": "AppCompatImageView",
+      "text": null,
+      "resource_id": "background_img",
+      "bounds": [
+        0,
+        0,
+        1440,
+        2392
+      ],
+      "clickable": false,
+      "semantic_label": null
+    },
+    {
+      "class": "AppCompatImageView",
+      "text": null,
+      "resource_id": "logo",
+      "bounds": [
+        441,
+        670,
+        998,
+        1370
+      ],
+      "clickable": false,
+      "semantic_label": null
+    },
+    {
+      "class": "FacebookTypefaceButton",
+      "text": "Log in with Facebook",
+      "resource_id": "facebook_login_button",
+      "bounds": [
+        56,
+        1594,
+        1384,
+        1762
+      ],
+      "clickable": true,
+      "semantic_label": null
+    },
+    {
+      "class": "View",
+      "text": null,
+      "resource_id": "guide_button",
+      "bounds": [
+        56,
+        1818,
+        1384,
+        1822
+      ],
+      "clickable": false,
+      "semantic_label": null
+    },
+    {
+      "class": "AppCompatTextView",
+      "text": "or",
+      "resource_id": "or",
+      "bounds": [
+        697,
+        1822,
+        742,
+        1888
+      ],
+      "clickable": false,
+      "semantic_label": null
+    },
+    {
+      "class": "View",
+      "text": null,
+      "resource_id": "leftLine",
+      "bounds": [
+        56,
+        1857,
+        679,
+        1861
+      ],
+      "clickable": false,
+      "semantic_label": null
+    },
+    {
+      "class": "View",
+      "text": null,
+      "resource_id": "rightLine",
+      "bounds": [
+        760,
+        1857,
+        1384,
+        1861
+      ],
+      "clickable": false,
+      "semantic_label": null
+    },
+    {
+      "class": "TypefaceButton",
+      "text": "Log In with email",
+      "resource_id": "log_in_btn",
+      "bounds": [
+        56,
+        1944,
+        1384,
+        2112
+      ],
+      "clickable": true,
+      "semantic_label": null
+    },
+    {
+      "class": "TypefaceButton",
+      "text": "Sign Up",
+      "resource_id": "sign_up_btn",
+      "bounds": [
+        56,
+        2168,
+        1384,
+        2336
+      ],
+      "clickable": true,
+      "semantic_label": null
+    },
+    {
+      "class": "View",
+      "text": null,
+      "resource_id": "navigationBarBackground",
+      "bounds": [
+        0,
+        2392,
+        1440,
+        2560
+      ],
+      "clickable": false,
+      "semantic_label": null
+    }
+  ],
+  "Page_1": [
+    {
+      "class": "TypefaceEditText",
+      "text": null,
+      "resource_id": "user_name_input",
+      "bounds": [
+        56,
+        374,
+        1384,
+        571
+      ],
+      "clickable": true,
+      "semantic_label": null
+    },
+    {
+      "class": "TypefaceEditText",
+      "text": null,
+      "resource_id": "password_input",
+      "bounds": [
+        56,
+        609,
+        1384,
+        806
+      ],
+      "clickable": true,
+      "semantic_label": null
+    },
+    {
+      "class": "TypefaceTextView",
+      "text": "Forgot password?",
+      "resource_id": "forgot_password_btn",
+      "bounds": [
+        0,
+        806,
+        550,
+        966
+      ],
+      "clickable": true,
+      "semantic_label": null
+    },
+    {
+      "class": "TypefaceButton",
+      "text": "Need an account? SIGN UP",
+      "resource_id": "need_account_btn",
+      "bounds": [
+        0,
+        966,
+        1440,
+        1190
+      ],
+      "clickable": true,
+      "semantic_label": null
+    },
+    {
+      "class": "PolicyTermsTextView",
+      "text": "By continuing, I agree to the\nPrivacy Policy and Terms of Service",
+      "resource_id": "policy_tos_tv",
+      "bounds": [
+        0,
+        2194,
+        1440,
+        2336
+      ],
+      "clickable": true,
+      "semantic_label": null
+    },
+    {
+      "class": "TextView",
+      "text": "Log In",
+      "resource_id": null,
+      "bounds": [
+        210,
+        135,
+        404,
+        228
+      ],
+      "clickable": false,
+      "semantic_label": null
+    },
+    {
+      "class": "ImageButton",
+      "text": null,
+      "resource_id": null,
+      "bounds": [
+        0,
+        84,
+        196,
+        280
+      ],
+      "clickable": true,
+      "semantic_label": null
+    },
+    {
+      "class": "ActionMenuItemView",
+      "text": null,
+      "resource_id": "action_login",
+      "bounds": [
+        1272,
+        98,
+        1440,
+        266
+      ],
+      "clickable": true,
+      "semantic_label": null
+    },
+    {
+      "class": "View",
+      "text": null,
+      "resource_id": "navigationBarBackground",
+      "bounds": [
+        0,
+        2392,
+        1440,
+        2560
+      ],
+      "clickable": false,
+      "semantic_label": null
+    },
+    {
+      "class": "View",
+      "text": null,
+      "resource_id": "statusBarBackground",
+      "bounds": [
+        0,
+        0,
+        1440,
+        84
+      ],
+      "clickable": false,
+      "semantic_label": null
+    }
+  ],
+  "Page_2": [
+    {
+      "class": "TypefaceEditText",
+      "text": null,
+      "resource_id": "editTextUserName",
+      "bounds": [
+        56,
+        374,
+        1384,
+        571
+      ],
+      "clickable": true,
+      "semantic_label": null
+    },
+    {
+      "class": "TypefaceEditText",
+      "text": null,
+      "resource_id": "editTextEmail",
+      "bounds": [
+        56,
+        609,
+        1384,
+        806
+      ],
+      "clickable": true,
+      "semantic_label": null
+    },
+    {
+      "class": "TypefaceEditText",
+      "text": null,
+      "resource_id": "editTextPassword",
+      "bounds": [
+        56,
+        844,
+        1384,
+        1041
+      ],
+      "clickable": true,
+      "semantic_label": null
+    },
+    {
+      "class": "TypefaceTextView",
+      "text": "Receive Newsletter",
+      "resource_id": "newsletter_tv",
+      "bounds": [
+        56,
+        1110,
+        1165,
+        1195
+      ],
+      "clickable": false,
+      "semantic_label": null
+    },
+    {
+      "class": "SwitchCompat",
+      "text": null,
+      "resource_id": "switch_newsletter",
+      "bounds": [
+        1218,
+        1105,
+        1384,
+        1200
+      ],
+      "clickable": true,
+      "semantic_label": null
+    },
+    {
+      "class": "TypefaceButton",
+      "text": "Already have an account? LOG IN",
+      "resource_id": "already_have_account_btn",
+      "bounds": [
+        0,
+        1265,
+        1440,
+        1489
+      ],
+      "clickable": true,
+      "semantic_label": null
+    },
+    {
+      "class": "PolicyTermsTextView",
+      "text": "By continuing, I agree to the\nPrivacy Policy and Terms of Service",
+      "resource_id": "policy_tos_tv",
+      "bounds": [
+        0,
+        2194,
+        1440,
+        2336
+      ],
+      "clickable": true,
+      "semantic_label": null
+    },
+    {
+      "class": "TextView",
+      "text": "Register",
+      "resource_id": null,
+      "bounds": [
+        210,
+        135,
+        472,
+        228
+      ],
+      "clickable": false,
+      "semantic_label": null
+    },
+    {
+      "class": "ImageButton",
+      "text": null,
+      "resource_id": null,
+      "bounds": [
+        0,
+        84,
+        196,
+        280
+      ],
+      "clickable": true,
+      "semantic_label": null
+    },
+    {
+      "class": "ActionMenuItemView",
+      "text": null,
+      "resource_id": "action_register",
+      "bounds": [
+        1272,
+        98,
+        1440,
+        266
+      ],
+      "clickable": true,
+      "semantic_label": null
+    },
+    {
+      "class": "View",
+      "text": null,
+      "resource_id": "navigationBarBackground",
+      "bounds": [
+        0,
+        2392,
+        1440,
+        2560
+      ],
+      "clickable": false,
+      "semantic_label": null
+    },
+    {
+      "class": "View",
+      "text": null,
+      "resource_id": "statusBarBackground",
+      "bounds": [
+        0,
+        0,
+        1440,
+        84
+      ],
+      "clickable": false,
+      "semantic_label": null
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+[
+  {
+    "source_page": "Page_0",
+    "target_page": "Page_1",
+    "action": "Click Show Deals",
+    "needs_review": false
+  },
+  {
+    "source_page": "Page_1",
+    "target_page": "Page_3",
+    "action": "Click Ace Hardware",
+    "needs_review": false
+  },
+  {
+    "source_page": "Page_3",
+    "target_page": "Page_2",
+    "action": "Click the first item (Valid 6 more days)",
+    "needs_review": false
+  }
+]

@@ -1,0 +1,1313 @@
+{
+  "Page_0": [],
+  "Page_1": [
+    {
+      "class": "IMWebView",
+      "text": null,
+      "resource_id": null,
+      "bounds": [
+        160,
+        2217,
+        1280,
+        2392
+      ],
+      "clickable": true,
+      "semantic_label": null
+    },
+    {
+      "class": "TextView",
+      "text": "IRCTC username",
+      "resource_id": null,
+      "bounds": [
+        0,
+        252,
+        1440,
+        318
+      ],
+      "clickable": false,
+      "semantic_label": null
+    },
+    {
+      "class": "EditText",
+      "text": null,
+      "resource_id": null,
+      "bounds": [
+        0,
+        320,
+        1440,
+        458
+      ],
+      "clickable": true,
+      "semantic_label": null
+    },
+    {
+      "class": "TextView",
+      "text": "Password",
+      "resource_id": null,
+      "bounds": [
+        0,
+        460,
+        1440,
+        526
+      ],
+      "clickable": false,
+      "semantic_label": null
+    },
+    {
+      "class": "EditText",
+      "text": null,
+      "resource_id": null,
+      "bounds": [
+        0,
+        528,
+        1440,
+        666
+      ],
+      "clickable": true,
+      "semantic_label": null
+    },
+    {
+      "class": "Button",
+      "text": "Get status of tickets",
+      "resource_id": null,
+      "bounds": [
+        0,
+        668,
+        1440,
+        836
+      ],
+      "clickable": true,
+      "semantic_label": null
+    },
+    {
+      "class": "Button",
+      "text": "Save username and password",
+      "resource_id": null,
+      "bounds": [
+        0,
+        838,
+        1440,
+        1006
+      ],
+      "clickable": true,
+      "semantic_label": null
+    },
+    {
+      "class": "CheckBox",
+      "text": "Detailed info",
+      "resource_id": null,
+      "bounds": [
+        0,
+        1008,
+        1440,
+        1120
+      ],
+      "clickable": true,
+      "semantic_label": null
+    },
+    {
+      "class": "TextView",
+      "text": "Please note that in case the chart isn't prepared, the current status might upgrade/downgrade at a later stage. Arrival and departure timings are liable to change. If \"station not found\" is shown for a timing, the train might have been diverted. This service will be unavailable from 23:30 to 00:30. Tap and hold a PNR for more options such as save e-ticket. Please do not rely solely on the e-ticket display function.",
+      "resource_id": null,
+      "bounds": [
+        0,
+        1122,
+        1440,
+        1565
+      ],
+      "clickable": false,
+      "semantic_label": null
+    },
+    {
+      "class": "TextView",
+      "text": null,
+      "resource_id": null,
+      "bounds": [
+        0,
+        1567,
+        1440,
+        1657
+      ],
+      "clickable": false,
+      "semantic_label": null
+    },
+    {
+      "class": "ImageView",
+      "text": null,
+      "resource_id": "up",
+      "bounds": [
+        0,
+        140,
+        56,
+        196
+      ],
+      "clickable": false,
+      "semantic_label": null
+    },
+    {
+      "class": "ImageView",
+      "text": null,
+      "resource_id": "home",
+      "bounds": [
+        43,
+        112,
+        155,
+        224
+      ],
+      "clickable": false,
+      "semantic_label": null
+    },
+    {
+      "class": "TextView",
+      "text": "PNR status from your IRCTC account",
+      "resource_id": "action_bar_title",
+      "bounds": [
+        169,
+        125,
+        1204,
+        210
+      ],
+      "clickable": false,
+      "semantic_label": null
+    },
+    {
+      "class": "ActionMenuPresenter$OverflowMenuButton",
+      "text": null,
+      "resource_id": null,
+      "bounds": [
+        1244,
+        84,
+        1440,
+        252
+      ],
+      "clickable": true,
+      "semantic_label": null
+    }
+  ],
+  "Page_2": [
+    {
+      "class": "IMWebView",
+      "text": null,
+      "resource_id": null,
+      "bounds": [
+        160,
+        2217,
+        1280,
+        2392
+      ],
+      "clickable": true,
+      "semantic_label": null
+    },
+    {
+      "class": "TextView",
+      "text": "Train name/number",
+      "resource_id": null,
+      "bounds": [
+        0,
+        252,
+        1440,
+        318
+      ],
+      "clickable": false,
+      "semantic_label": null
+    },
+    {
+      "class": "AutoCompleteTextView",
+      "text": null,
+      "resource_id": null,
+      "bounds": [
+        0,
+        320,
+        1440,
+        458
+      ],
+      "clickable": true,
+      "semantic_label": null
+    },
+    {
+      "class": "TextView",
+      "text": "Date",
+      "resource_id": null,
+      "bounds": [
+        0,
+        460,
+        1440,
+        526
+      ],
+      "clickable": false,
+      "semantic_label": null
+    },
+    {
+      "class": "TextView",
+      "text": "Saturday, January 21, 2017",
+      "resource_id": null,
+      "bounds": [
+        0,
+        528,
+        1440,
+        613
+      ],
+      "clickable": false,
+      "semantic_label": null
+    },
+    {
+      "class": "NumberPicker$CustomEditText",
+      "text": "Jan",
+      "resource_id": "numberpicker_input",
+      "bounds": [
+        28,
+        1062,
+        252,
+        1147
+      ],
+      "clickable": true,
+      "semantic_label": null
+    },
+    {
+      "class": "NumberPicker$CustomEditText",
+      "text": "21",
+      "resource_id": "numberpicker_input",
+      "bounds": [
+        308,
+        1062,
+        532,
+        1147
+      ],
+      "clickable": true,
+      "semantic_label": null
+    },
+    {
+      "class": "NumberPicker$CustomEditText",
+      "text": "2017",
+      "resource_id": "numberpicker_input",
+      "bounds": [
+        588,
+        1062,
+        613,
+        1147
+      ],
+      "clickable": true,
+      "semantic_label": null
+    },
+    {
+      "class": "TextView",
+      "text": "January 2017",
+      "resource_id": "month_name",
+      "bounds": [
+        864,
+        615,
+        1245,
+        770
+      ],
+      "clickable": false,
+      "semantic_label": null
+    },
+    {
+      "class": "TextView",
+      "text": null,
+      "resource_id": null,
+      "bounds": [
+        732,
+        770,
+        812,
+        836
+      ],
+      "clickable": false,
+      "semantic_label": null
+    },
+    {
+      "class": "TextView",
+      "text": "S",
+      "resource_id": null,
+      "bounds": [
+        812,
+        770,
+        892,
+        836
+      ],
+      "clickable": false,
+      "semantic_label": null
+    },
+    {
+      "class": "TextView",
+      "text": "M",
+      "resource_id": null,
+      "bounds": [
+        892,
+        770,
+        972,
+        836
+      ],
+      "clickable": false,
+      "semantic_label": null
+    },
+    {
+      "class": "TextView",
+      "text": "T",
+      "resource_id": null,
+      "bounds": [
+        972,
+        770,
+        1053,
+        836
+      ],
+      "clickable": false,
+      "semantic_label": null
+    },
+    {
+      "class": "TextView",
+      "text": "W",
+      "resource_id": null,
+      "bounds": [
+        1053,
+        770,
+        1134,
+        836
+      ],
+      "clickable": false,
+      "semantic_label": null
+    },
+    {
+      "class": "TextView",
+      "text": "T",
+      "resource_id": null,
+      "bounds": [
+        1134,
+        770,
+        1215,
+        836
+      ],
+      "clickable": false,
+      "semantic_label": null
+    },
+    {
+      "class": "TextView",
+      "text": "F",
+      "resource_id": null,
+      "bounds": [
+        1215,
+        770,
+        1296,
+        836
+      ],
+      "clickable": false,
+      "semantic_label": null
+    },
+    {
+      "class": "TextView",
+      "text": "S",
+      "resource_id": null,
+      "bounds": [
+        1296,
+        770,
+        1377,
+        836
+      ],
+      "clickable": false,
+      "semantic_label": null
+    },
+    {
+      "class": "ImageView",
+      "text": null,
+      "resource_id": null,
+      "bounds": [
+        725,
+        857,
+        1384,
+        861
+      ],
+      "clickable": false,
+      "semantic_label": null
+    },
+    {
+      "class": "CalendarViewLegacyDelegate$WeekView",
+      "text": null,
+      "resource_id": null,
+      "bounds": [
+        725,
+        861,
+        1384,
+        868
+      ],
+      "clickable": true,
+      "semantic_label": null
+    },
+    {
+      "class": "CalendarViewLegacyDelegate$WeekView",
+      "text": null,
+      "resource_id": null,
+      "bounds": [
+        725,
+        868,
+        1384,
+        990
+      ],
+      "clickable": true,
+      "semantic_label": null
+    },
+    {
+      "class": "CalendarViewLegacyDelegate$WeekView",
+      "text": null,
+      "resource_id": null,
+      "bounds": [
+        725,
+        990,
+        1384,
+        1112
+      ],
+      "clickable": true,
+      "semantic_label": null
+    },
+    {
+      "class": "CalendarViewLegacyDelegate$WeekView",
+      "text": null,
+      "resource_id": null,
+      "bounds": [
+        725,
+        1112,
+        1384,
+        1234
+      ],
+      "clickable": true,
+      "semantic_label": null
+    },
+    {
+      "class": "CalendarViewLegacyDelegate$WeekView",
+      "text": null,
+      "resource_id": null,
+      "bounds": [
+        725,
+        1234,
+        1384,
+        1356
+      ],
+      "clickable": true,
+      "semantic_label": null
+    },
+    {
+      "class": "CalendarViewLegacyDelegate$WeekView",
+      "text": null,
+      "resource_id": null,
+      "bounds": [
+        725,
+        1356,
+        1384,
+        1478
+      ],
+      "clickable": true,
+      "semantic_label": null
+    },
+    {
+      "class": "CalendarViewLegacyDelegate$WeekView",
+      "text": null,
+      "resource_id": null,
+      "bounds": [
+        725,
+        1478,
+        1384,
+        1595
+      ],
+      "clickable": true,
+      "semantic_label": null
+    },
+    {
+      "class": "TextView",
+      "text": "Or select a saved schedule",
+      "resource_id": null,
+      "bounds": [
+        0,
+        1597,
+        1440,
+        1663
+      ],
+      "clickable": false,
+      "semantic_label": null
+    },
+    {
+      "class": "TextView",
+      "text": null,
+      "resource_id": "text1",
+      "bounds": [
+        14,
+        1690,
+        1384,
+        1766
+      ],
+      "clickable": false,
+      "semantic_label": null
+    },
+    {
+      "class": "Button",
+      "text": "Get train schedule",
+      "resource_id": null,
+      "bounds": [
+        0,
+        1796,
+        1440,
+        1964
+      ],
+      "clickable": true,
+      "semantic_label": null
+    },
+    {
+      "class": "Button",
+      "text": "Get train running status",
+      "resource_id": null,
+      "bounds": [
+        0,
+        1966,
+        1440,
+        2134
+      ],
+      "clickable": true,
+      "semantic_label": null
+    },
+    {
+      "class": "TextView",
+      "text": "Please note that running status is not very reliable. Enter any text to do a train name search. Long tap on any info for options such as refresh. ETA: estimated time of arrival. ETD: estimated time of departure.",
+      "resource_id": null,
+      "bounds": [
+        0,
+        2136,
+        1440,
+        2217
+      ],
+      "clickable": false,
+      "semantic_label": null
+    },
+    {
+      "class": "ImageView",
+      "text": null,
+      "resource_id": "up",
+      "bounds": [
+        0,
+        140,
+        56,
+        196
+      ],
+      "clickable": false,
+      "semantic_label": null
+    },
+    {
+      "class": "ImageView",
+      "text": null,
+      "resource_id": "home",
+      "bounds": [
+        43,
+        112,
+        155,
+        224
+      ],
+      "clickable": false,
+      "semantic_label": null
+    },
+    {
+      "class": "TextView",
+      "text": "Train schedule",
+      "resource_id": "action_bar_title",
+      "bounds": [
+        169,
+        125,
+        577,
+        210
+      ],
+      "clickable": false,
+      "semantic_label": null
+    },
+    {
+      "class": "ActionMenuPresenter$OverflowMenuButton",
+      "text": null,
+      "resource_id": null,
+      "bounds": [
+        1244,
+        84,
+        1440,
+        252
+      ],
+      "clickable": true,
+      "semantic_label": null
+    }
+  ],
+  "Page_3": [
+    {
+      "class": "IMWebView",
+      "text": null,
+      "resource_id": null,
+      "bounds": [
+        160,
+        2217,
+        1280,
+        2392
+      ],
+      "clickable": true,
+      "semantic_label": null
+    },
+    {
+      "class": "TextView",
+      "text": "Station",
+      "resource_id": null,
+      "bounds": [
+        0,
+        252,
+        1440,
+        318
+      ],
+      "clickable": false,
+      "semantic_label": null
+    },
+    {
+      "class": "AutoCompleteTextView",
+      "text": null,
+      "resource_id": null,
+      "bounds": [
+        0,
+        320,
+        1440,
+        458
+      ],
+      "clickable": true,
+      "semantic_label": null
+    },
+    {
+      "class": "Button",
+      "text": "Arrivals/Departures",
+      "resource_id": null,
+      "bounds": [
+        0,
+        460,
+        1440,
+        628
+      ],
+      "clickable": true,
+      "semantic_label": null
+    },
+    {
+      "class": "Button",
+      "text": "Clear page",
+      "resource_id": null,
+      "bounds": [
+        0,
+        630,
+        1440,
+        798
+      ],
+      "clickable": true,
+      "semantic_label": null
+    },
+    {
+      "class": "CheckBox",
+      "text": "Exclude local trains",
+      "resource_id": null,
+      "bounds": [
+        0,
+        800,
+        1440,
+        912
+      ],
+      "clickable": true,
+      "semantic_label": null
+    },
+    {
+      "class": "TextView",
+      "text": "Please note that this is not very reliable. Long tap a train name for options.",
+      "resource_id": null,
+      "bounds": [
+        0,
+        914,
+        1440,
+        1037
+      ],
+      "clickable": false,
+      "semantic_label": null
+    },
+    {
+      "class": "TextView",
+      "text": null,
+      "resource_id": null,
+      "bounds": [
+        0,
+        1039,
+        1440,
+        1129
+      ],
+      "clickable": false,
+      "semantic_label": null
+    },
+    {
+      "class": "ImageView",
+      "text": null,
+      "resource_id": "up",
+      "bounds": [
+        0,
+        140,
+        56,
+        196
+      ],
+      "clickable": false,
+      "semantic_label": null
+    },
+    {
+      "class": "ImageView",
+      "text": null,
+      "resource_id": "home",
+      "bounds": [
+        43,
+        112,
+        155,
+        224
+      ],
+      "clickable": false,
+      "semantic_label": null
+    },
+    {
+      "class": "TextView",
+      "text": "Arrivals and departures",
+      "resource_id": "action_bar_title",
+      "bounds": [
+        169,
+        125,
+        818,
+        210
+      ],
+      "clickable": false,
+      "semantic_label": null
+    },
+    {
+      "class": "ActionMenuPresenter$OverflowMenuButton",
+      "text": null,
+      "resource_id": null,
+      "bounds": [
+        1244,
+        84,
+        1440,
+        252
+      ],
+      "clickable": true,
+      "semantic_label": null
+    }
+  ],
+  "Page_4": [
+    {
+      "class": "IMWebView",
+      "text": null,
+      "resource_id": null,
+      "bounds": [
+        160,
+        2217,
+        1280,
+        2392
+      ],
+      "clickable": true,
+      "semantic_label": null
+    },
+    {
+      "class": "TextView",
+      "text": "Train",
+      "resource_id": null,
+      "bounds": [
+        0,
+        252,
+        1440,
+        318
+      ],
+      "clickable": false,
+      "semantic_label": null
+    },
+    {
+      "class": "AutoCompleteTextView",
+      "text": null,
+      "resource_id": null,
+      "bounds": [
+        0,
+        318,
+        1440,
+        456
+      ],
+      "clickable": true,
+      "semantic_label": null
+    },
+    {
+      "class": "TextView",
+      "text": "Station A",
+      "resource_id": null,
+      "bounds": [
+        0,
+        456,
+        1440,
+        522
+      ],
+      "clickable": false,
+      "semantic_label": null
+    },
+    {
+      "class": "AutoCompleteTextView",
+      "text": null,
+      "resource_id": null,
+      "bounds": [
+        0,
+        522,
+        1440,
+        660
+      ],
+      "clickable": true,
+      "semantic_label": null
+    },
+    {
+      "class": "TextView",
+      "text": "Station B",
+      "resource_id": null,
+      "bounds": [
+        0,
+        660,
+        1440,
+        726
+      ],
+      "clickable": false,
+      "semantic_label": null
+    },
+    {
+      "class": "AutoCompleteTextView",
+      "text": null,
+      "resource_id": null,
+      "bounds": [
+        0,
+        726,
+        1440,
+        864
+      ],
+      "clickable": true,
+      "semantic_label": null
+    },
+    {
+      "class": "TextView",
+      "text": "Class",
+      "resource_id": null,
+      "bounds": [
+        0,
+        864,
+        1440,
+        930
+      ],
+      "clickable": false,
+      "semantic_label": null
+    },
+    {
+      "class": "TextView",
+      "text": "First class (FC)",
+      "resource_id": "text1",
+      "bounds": [
+        14,
+        955,
+        1384,
+        1031
+      ],
+      "clickable": false,
+      "semantic_label": null
+    },
+    {
+      "class": "TextView",
+      "text": "Date",
+      "resource_id": null,
+      "bounds": [
+        0,
+        1059,
+        1440,
+        1125
+      ],
+      "clickable": false,
+      "semantic_label": null
+    },
+    {
+      "class": "TextView",
+      "text": "Saturday, January 21, 2017",
+      "resource_id": null,
+      "bounds": [
+        0,
+        1125,
+        1440,
+        1210
+      ],
+      "clickable": false,
+      "semantic_label": null
+    },
+    {
+      "class": "NumberPicker$CustomEditText",
+      "text": "Jan",
+      "resource_id": "numberpicker_input",
+      "bounds": [
+        28,
+        1657,
+        252,
+        1742
+      ],
+      "clickable": true,
+      "semantic_label": null
+    },
+    {
+      "class": "NumberPicker$CustomEditText",
+      "text": "21",
+      "resource_id": "numberpicker_input",
+      "bounds": [
+        308,
+        1657,
+        532,
+        1742
+      ],
+      "clickable": true,
+      "semantic_label": null
+    },
+    {
+      "class": "NumberPicker$CustomEditText",
+      "text": "2017",
+      "resource_id": "numberpicker_input",
+      "bounds": [
+        588,
+        1657,
+        613,
+        1742
+      ],
+      "clickable": true,
+      "semantic_label": null
+    },
+    {
+      "class": "TextView",
+      "text": "January 2017",
+      "resource_id": "month_name",
+      "bounds": [
+        864,
+        1210,
+        1245,
+        1365
+      ],
+      "clickable": false,
+      "semantic_label": null
+    },
+    {
+      "class": "TextView",
+      "text": null,
+      "resource_id": null,
+      "bounds": [
+        732,
+        1365,
+        812,
+        1431
+      ],
+      "clickable": false,
+      "semantic_label": null
+    },
+    {
+      "class": "TextView",
+      "text": "S",
+      "resource_id": null,
+      "bounds": [
+        812,
+        1365,
+        892,
+        1431
+      ],
+      "clickable": false,
+      "semantic_label": null
+    },
+    {
+      "class": "TextView",
+      "text": "M",
+      "resource_id": null,
+      "bounds": [
+        892,
+        1365,
+        972,
+        1431
+      ],
+      "clickable": false,
+      "semantic_label": null
+    },
+    {
+      "class": "TextView",
+      "text": "T",
+      "resource_id": null,
+      "bounds": [
+        972,
+        1365,
+        1053,
+        1431
+      ],
+      "clickable": false,
+      "semantic_label": null
+    },
+    {
+      "class": "TextView",
+      "text": "W",
+      "resource_id": null,
+      "bounds": [
+        1053,
+        1365,
+        1134,
+        1431
+      ],
+      "clickable": false,
+      "semantic_label": null
+    },
+    {
+      "class": "TextView",
+      "text": "T",
+      "resource_id": null,
+      "bounds": [
+        1134,
+        1365,
+        1215,
+        1431
+      ],
+      "clickable": false,
+      "semantic_label": null
+    },
+    {
+      "class": "TextView",
+      "text": "F",
+      "resource_id": null,
+      "bounds": [
+        1215,
+        1365,
+        1296,
+        1431
+      ],
+      "clickable": false,
+      "semantic_label": null
+    },
+    {
+      "class": "TextView",
+      "text": "S",
+      "resource_id": null,
+      "bounds": [
+        1296,
+        1365,
+        1377,
+        1431
+      ],
+      "clickable": false,
+      "semantic_label": null
+    },
+    {
+      "class": "ImageView",
+      "text": null,
+      "resource_id": null,
+      "bounds": [
+        725,
+        1452,
+        1384,
+        1456
+      ],
+      "clickable": false,
+      "semantic_label": null
+    },
+    {
+      "class": "CalendarViewLegacyDelegate$WeekView",
+      "text": null,
+      "resource_id": null,
+      "bounds": [
+        725,
+        1456,
+        1384,
+        1463
+      ],
+      "clickable": true,
+      "semantic_label": null
+    },
+    {
+      "class": "CalendarViewLegacyDelegate$WeekView",
+      "text": null,
+      "resource_id": null,
+      "bounds": [
+        725,
+        1463,
+        1384,
+        1585
+      ],
+      "clickable": true,
+      "semantic_label": null
+    },
+    {
+      "class": "CalendarViewLegacyDelegate$WeekView",
+      "text": null,
+      "resource_id": null,
+      "bounds": [
+        725,
+        1585,
+        1384,
+        1707
+      ],
+      "clickable": true,
+      "semantic_label": null
+    },
+    {
+      "class": "CalendarViewLegacyDelegate$WeekView",
+      "text": null,
+      "resource_id": null,
+      "bounds": [
+        725,
+        1707,
+        1384,
+        1829
+      ],
+      "clickable": true,
+      "semantic_label": null
+    },
+    {
+      "class": "CalendarViewLegacyDelegate$WeekView",
+      "text": null,
+      "resource_id": null,
+      "bounds": [
+        725,
+        1829,
+        1384,
+        1951
+      ],
+      "clickable": true,
+      "semantic_label": null
+    },
+    {
+      "class": "CalendarViewLegacyDelegate$WeekView",
+      "text": null,
+      "resource_id": null,
+      "bounds": [
+        725,
+        1951,
+        1384,
+        2073
+      ],
+      "clickable": true,
+      "semantic_label": null
+    },
+    {
+      "class": "CalendarViewLegacyDelegate$WeekView",
+      "text": null,
+      "resource_id": null,
+      "bounds": [
+        725,
+        2073,
+        1384,
+        2190
+      ],
+      "clickable": true,
+      "semantic_label": null
+    },
+    {
+      "class": "TextView",
+      "text": "Age",
+      "resource_id": null,
+      "bounds": [
+        0,
+        2190,
+        1440,
+        2217
+      ],
+      "clickable": false,
+      "semantic_label": null
+    },
+    {
+      "class": "ImageView",
+      "text": null,
+      "resource_id": "up",
+      "bounds": [
+        0,
+        140,
+        56,
+        196
+      ],
+      "clickable": false,
+      "semantic_label": null
+    },
+    {
+      "class": "ImageView",
+      "text": null,
+      "resource_id": "home",
+      "bounds": [
+        43,
+        112,
+        155,
+        224
+      ],
+      "clickable": false,
+      "semantic_label": null
+    },
+    {
+      "class": "TextView",
+      "text": "Fare enquiry",
+      "resource_id": "action_bar_title",
+      "bounds": [
+        169,
+        125,
+        512,
+        210
+      ],
+      "clickable": false,
+      "semantic_label": null
+    },
+    {
+      "class": "ActionMenuPresenter$OverflowMenuButton",
+      "text": null,
+      "resource_id": null,
+      "bounds": [
+        1244,
+        84,
+        1440,
+        252
+      ],
+      "clickable": true,
+      "semantic_label": null
+    }
+  ],
+  "Page_5": [
+    {
+      "class": "TextView",
+      "text": "No e-tickets have been saved. You can save an e-ticket by going to PNR status from your IRCTC account, tap and hold any PNR already retrieved and then tap on Get e-ticket/ERS.",
+      "resource_id": null,
+      "bounds": [
+        0,
+        252,
+        1440,
+        2392
+      ],
+      "clickable": false,
+      "semantic_label": null
+    },
+    {
+      "class": "ImageView",
+      "text": null,
+      "resource_id": "up",
+      "bounds": [
+        0,
+        140,
+        56,
+        196
+      ],
+      "clickable": false,
+      "semantic_label": null
+    },
+    {
+      "class": "ImageView",
+      "text": null,
+      "resource_id": "home",
+      "bounds": [
+        43,
+        112,
+        155,
+        224
+      ],
+      "clickable": false,
+      "semantic_label": null
+    },
+    {
+      "class": "TextView",
+      "text": "List of saved e-tickets",
+      "resource_id": "action_bar_title",
+      "bounds": [
+        169,
+        125,
+        779,
+        210
+      ],
+      "clickable": false,
+      "semantic_label": null
+    }
+  ]
+}

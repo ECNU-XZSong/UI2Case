@@ -1,0 +1,69 @@
+{
+  "case_id": "UI-30_Books_howtotieknots",
+  "category": "Books & Reference",
+  "complexity": "Complex",
+  "app_package": "com.mobilicos.howtotieknots",
+  "play_store_name": "How to Tie Knots - 3D Animated",
+  "trace": "trace_0",
+  "entry_page": "Page_0",
+  "n_screens": 6,
+  "dropped_screens": [
+    "Page_3"
+  ],
+  "pages": [
+    {
+      "page": "Page_0",
+      "orig_screenshot_id": 10,
+      "activity": "com.mobilicos.howtotieknots/com.mobilicos.howtotieknots.CategoriesList",
+      "is_keyboard": false,
+      "n_elements": 24,
+      "n_clickable": 1,
+      "n_clickable_human": 8
+    },
+    {
+      "page": "Page_1",
+      "orig_screenshot_id": 27,
+      "activity": "com.mobilicos.howtotieknots/com.mobilicos.howtotieknots.LessonsList",
+      "is_keyboard": false,
+      "n_elements": 32,
+      "n_clickable": 1,
+      "n_clickable_human": 8
+    },
+    {
+      "page": "Page_2",
+      "orig_screenshot_id": 143,
+      "activity": "com.mobilicos.howtotieknots/com.mobilicos.howtotieknots.Step",
+      "is_keyboard": false,
+      "n_elements": 8,
+      "n_clickable": 4,
+      "n_clickable_human": 4
+    },
+    {
+      "page": "Page_4",
+      "orig_screenshot_id": 228,
+      "activity": "com.mobilicos.howtotieknots/com.mobilicos.howtotieknots.SettingsActivity",
+      "is_keyboard": false,
+      "n_elements": 8,
+      "n_clickable": 0,
+      "n_clickable_human": 2
+    },
+    {
+      "page": "Page_5",
+      "orig_screenshot_id": 263,
+      "activity": "com.mobilicos.howtotieknots/com.mobilicos.howtotieknots.PreviewItem",
+      "is_keyboard": false,
+      "n_elements": 12,
+      "n_clickable": 5,
+      "n_clickable_human": 5
+    },
+    {
+      "page": "Page_6",
+      "orig_screenshot_id": 300,
+      "activity": "com.mobilicos.howtotieknots/com.mobilicos.howtotieknots.FavoritesList",
+      "is_keyboard": false,
+      "n_elements": 8,
+      "n_clickable": 1,
+      "n_clickable_human": 2
+    }
+  ]
+}

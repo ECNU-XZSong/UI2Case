@@ -1,0 +1,150 @@
+{
+  "Page_0": [
+    {
+      "action": "Click the certGet",
+      "target_element": "Button",
+      "target_text": null,
+      "target_resid": "certGet",
+      "bounds": [
+        215,
+        1004,
+        1225,
+        1251
+      ],
+      "exercised": false,
+      "expected_next_page": null
+    },
+    {
+      "action": "Click the certManage",
+      "target_element": "Button",
+      "target_text": null,
+      "target_resid": "certManage",
+      "bounds": [
+        215,
+        1269,
+        1225,
+        1516
+      ],
+      "exercised": false,
+      "expected_next_page": null
+    }
+  ],
+  "Page_1": [
+    {
+      "action": "Click the ssnreq_btn",
+      "target_element": "Button",
+      "target_text": null,
+      "target_resid": "ssnreq_btn",
+      "bounds": [
+        486,
+        1281,
+        953,
+        1416
+      ],
+      "exercised": false,
+      "expected_next_page": null
+    }
+  ],
+  "Page_2": [
+    {
+      "action": "Click the cert_pass",
+      "target_element": "EditText",
+      "target_text": null,
+      "target_resid": "cert_pass",
+      "bounds": [
+        246,
+        383,
+        1193,
+        476
+      ],
+      "exercised": false,
+      "expected_next_page": null
+    },
+    {
+      "action": "Click the btn_login",
+      "target_element": "Button",
+      "target_text": null,
+      "target_resid": "btn_login",
+      "bounds": [
+        204,
+        569,
+        1235,
+        746
+      ],
+      "exercised": false,
+      "expected_next_page": null
+    }
+  ],
+  "Page_3": [
+    {
+      "action": "Click the 16CC",
+      "target_element": "EditText",
+      "target_text": "16CC",
+      "target_resid": "ssnreq1",
+      "bounds": [
+        35,
+        437,
+        364,
+        530
+      ],
+      "exercised": false,
+      "expected_next_page": null
+    },
+    {
+      "action": "Click the B655",
+      "target_element": "EditText",
+      "target_text": "B655",
+      "target_resid": "ssnreq2",
+      "bounds": [
+        382,
+        437,
+        711,
+        530
+      ],
+      "exercised": false,
+      "expected_next_page": null
+    },
+    {
+      "action": "Click the 2733",
+      "target_element": "EditText",
+      "target_text": "2733",
+      "target_resid": "ssnreq3",
+      "bounds": [
+        729,
+        437,
+        1058,
+        530
+      ],
+      "exercised": false,
+      "expected_next_page": null
+    },
+    {
+      "action": "Click the 6F6A",
+      "target_element": "EditText",
+      "target_text": "6F6A",
+      "target_resid": "ssnreq4",
+      "bounds": [
+        1076,
+        437,
+        1405,
+        530
+      ],
+      "exercised": false,
+      "expected_next_page": null
+    },
+    {
+      "action": "Click the cert_getcomplete_btn",
+      "target_element": "Button",
+      "target_text": null,
+      "target_resid": "cert_getcomplete_btn",
+      "bounds": [
+        486,
+        1244,
+        953,
+        1379
+      ],
+      "exercised": false,
+      "expected_next_page": null
+    }
+  ]
+}

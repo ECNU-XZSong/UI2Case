@@ -1,0 +1,9 @@
+{
+  "design_id": "UI-sample-nvidia",
+  "_note": "The paper's running example (Fig.1): a 3-screen stock overview. This offline mock sample does not require image files. For a real MLLM run, provide PNG/JPG screenshots in the image fields.",
+  "pages": [
+    {"page_id": "Page_0", "image": null},
+    {"page_id": "Page_1", "image": null},
+    {"page_id": "Page_2", "image": null}
+  ]
+}

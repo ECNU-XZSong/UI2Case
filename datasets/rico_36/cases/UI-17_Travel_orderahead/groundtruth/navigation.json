@@ -1,0 +1,26 @@
+[
+  {
+    "source_page": "Page_3",
+    "target_page": "Page_1",
+    "action": "Click Zaoh Restaurant",
+    "needs_review": false
+  },
+  {
+    "source_page": "Page_1",
+    "target_page": "Page_2",
+    "action": "Click a menu section (Ramen)",
+    "needs_review": false
+  },
+  {
+    "source_page": "Page_1",
+    "target_page": "Page_0",
+    "action": "Click pickup information",
+    "needs_review": false
+  },
+  {
+    "source_page": "Page_3",
+    "target_page": "Page_4",
+    "action": "Click Sign Up",
+    "needs_review": false
+  }
+]

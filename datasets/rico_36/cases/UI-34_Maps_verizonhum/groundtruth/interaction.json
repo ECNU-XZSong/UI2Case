@@ -1,0 +1,232 @@
+{
+  "Page_0": [
+    {
+      "action": "Click the 123-456-789",
+      "target_element": "TextView",
+      "target_text": "123-456-789",
+      "target_resid": "activation_pin_label_box",
+      "bounds": [
+        105,
+        1158,
+        1335,
+        1368
+      ],
+      "exercised": false,
+      "expected_next_page": null
+    },
+    {
+      "action": "Click the ___-___-___",
+      "target_element": "TextView",
+      "target_text": "___-___-___",
+      "target_resid": "activation_pin_label_underline",
+      "bounds": [
+        105,
+        1158,
+        1335,
+        1368
+      ],
+      "exercised": false,
+      "expected_next_page": null
+    },
+    {
+      "action": "Click the 123456789",
+      "target_element": "EditText",
+      "target_text": "123456789",
+      "target_resid": "activation_pin_hidden_entry",
+      "bounds": [
+        105,
+        1158,
+        1335,
+        1368
+      ],
+      "exercised": false,
+      "expected_next_page": null
+    },
+    {
+      "action": "Click the call customer service",
+      "target_element": "TypefaceButton",
+      "target_text": "call customer service",
+      "target_resid": "btn_call_customer_service",
+      "bounds": [
+        105,
+        1937,
+        1335,
+        2084
+      ],
+      "exercised": false,
+      "expected_next_page": null
+    },
+    {
+      "action": "Click the next",
+      "target_element": "TypefaceButton",
+      "target_text": "next",
+      "target_resid": "activation_pin_entry_button_submit",
+      "bounds": [
+        105,
+        2119,
+        1335,
+        2287
+      ],
+      "exercised": false,
+      "expected_next_page": null
+    },
+    {
+      "action": "Click the btn_close",
+      "target_element": "ImageButton",
+      "target_text": null,
+      "target_resid": "btn_close",
+      "bounds": [
+        1332,
+        136,
+        1397,
+        200
+      ],
+      "exercised": false,
+      "expected_next_page": null
+    }
+  ],
+  "Page_1": [
+    {
+      "action": "Click the create account",
+      "target_element": "TypefaceButton",
+      "target_text": "create account",
+      "target_resid": "btn_create_account",
+      "bounds": [
+        105,
+        1874,
+        1335,
+        2081
+      ],
+      "exercised": false,
+      "expected_next_page": null
+    },
+    {
+      "action": "Click the skip, I already have an account",
+      "target_element": "TypefaceButton",
+      "target_text": "skip, I already have an account",
+      "target_resid": "btn_login",
+      "bounds": [
+        0,
+        2081,
+        1440,
+        2288
+      ],
+      "exercised": false,
+      "expected_next_page": null
+    }
+  ],
+  "Page_2": [
+    {
+      "action": "Click the sign in",
+      "target_element": "TypefaceTextView",
+      "target_text": "sign in",
+      "target_resid": null,
+      "bounds": [
+        105,
+        1236,
+        363,
+        1371
+      ],
+      "exercised": false,
+      "expected_next_page": null
+    },
+    {
+      "action": "Click the edit_email",
+      "target_element": "ErrorStyledEditText",
+      "target_text": null,
+      "target_resid": "edit_email",
+      "bounds": [
+        105,
+        1406,
+        1335,
+        1557
+      ],
+      "exercised": false,
+      "expected_next_page": null
+    },
+    {
+      "action": "Click the edit_password",
+      "target_element": "ErrorStyledEditText",
+      "target_text": null,
+      "target_resid": "edit_password",
+      "bounds": [
+        105,
+        1599,
+        1335,
+        1750
+      ],
+      "exercised": false,
+      "expected_next_page": null
+    },
+    {
+      "action": "Click the remember me",
+      "target_element": "CheckBox",
+      "target_text": "remember me",
+      "target_resid": "check_remember_me",
+      "bounds": [
+        105,
+        1785,
+        950,
+        1871
+      ],
+      "exercised": false,
+      "expected_next_page": null
+    },
+    {
+      "action": "Click the stay signed in",
+      "target_element": "CheckBox",
+      "target_text": "stay signed in",
+      "target_resid": "check_stay_logged",
+      "bounds": [
+        950,
+        1785,
+        1335,
+        1871
+      ],
+      "exercised": false,
+      "expected_next_page": null
+    },
+    {
+      "action": "Click the sign in",
+      "target_element": "TypefaceButton",
+      "target_text": "sign in",
+      "target_resid": "btn_login",
+      "bounds": [
+        105,
+        1976,
+        1335,
+        2151
+      ],
+      "exercised": false,
+      "expected_next_page": null
+    },
+    {
+      "action": "Click the forgot password?",
+      "target_element": "TypefaceTextView",
+      "target_text": "forgot password?",
+      "target_resid": "txt_forgot_pass",
+      "bounds": [
+        105,
+        2186,
+        545,
+        2252
+      ],
+      "exercised": false,
+      "expected_next_page": null
+    },
+    {
+      "action": "Click the create account",
+      "target_element": "TypefaceButton",
+      "target_text": "create account",
+      "target_resid": "btn_account_setup",
+      "bounds": [
+        545,
+        2186,
+        1335,
+        2254
+      ],
+      "exercised": false,
+      "expected_next_page": null
+    }
+  ]
+}

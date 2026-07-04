@@ -1,0 +1,14 @@
+[
+  {
+    "source_page": "Page_2",
+    "target_page": "Page_1",
+    "action": "Click READ HOW IT WORKS",
+    "needs_review": false
+  },
+  {
+    "source_page": "Page_2",
+    "target_page": "Page_3",
+    "action": "Click MEASURE FEVER",
+    "needs_review": false
+  }
+]

@@ -1,0 +1,40 @@
+{
+  "case_id": "UI-31_Business_tinyscanner",
+  "category": "Business",
+  "complexity": "Simple",
+  "app_package": "com.appxy.tinyscanner",
+  "play_store_name": "Tiny Scanner - PDF Scanner App",
+  "trace": "trace_0",
+  "entry_page": "Page_0",
+  "n_screens": 3,
+  "dropped_screens": [],
+  "pages": [
+    {
+      "page": "Page_0",
+      "orig_screenshot_id": 4,
+      "activity": "com.appxy.tinyscanner/com.appxy.tinyscanfree.Activity_Main",
+      "is_keyboard": false,
+      "n_elements": 9,
+      "n_clickable": 5,
+      "n_clickable_human": 4
+    },
+    {
+      "page": "Page_1",
+      "orig_screenshot_id": 27,
+      "activity": "com.appxy.tinyscanner/com.appxy.tinyscanfree.Activity_Setting",
+      "is_keyboard": false,
+      "n_elements": 30,
+      "n_clickable": 3,
+      "n_clickable_human": 9
+    },
+    {
+      "page": "Page_2",
+      "orig_screenshot_id": 38,
+      "activity": "com.appxy.tinyscanner/com.appxy.tinyscanfree.Activity_FaqTitle",
+      "is_keyboard": false,
+      "n_elements": 13,
+      "n_clickable": 1,
+      "n_clickable_human": 9
+    }
+  ]
+}

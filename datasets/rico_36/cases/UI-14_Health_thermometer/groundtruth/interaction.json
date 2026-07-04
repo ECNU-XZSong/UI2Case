@@ -1,0 +1,78 @@
+{
+  "Page_1": [
+    {
+      "action": "Click the OK BACK TO APP",
+      "target_element": "Button",
+      "target_text": "OK BACK TO APP",
+      "target_resid": "buttonOK",
+      "bounds": [
+        401,
+        1275,
+        1038,
+        1443
+      ],
+      "exercised": false,
+      "expected_next_page": null
+    }
+  ],
+  "Page_2": [
+    {
+      "action": "Click the Measure fever",
+      "target_element": "Button",
+      "target_text": "Measure fever",
+      "target_resid": "calcBtn",
+      "bounds": [
+        56,
+        1347,
+        1384,
+        1515
+      ],
+      "exercised": false,
+      "expected_next_page": null
+    },
+    {
+      "action": "Click the Read How it works",
+      "target_element": "Button",
+      "target_text": "Read How it works",
+      "target_resid": "linkHome",
+      "bounds": [
+        56,
+        1568,
+        1384,
+        1736
+      ],
+      "exercised": false,
+      "expected_next_page": null
+    },
+    {
+      "action": "Click the a$d",
+      "target_element": "a$d",
+      "target_text": null,
+      "target_resid": null,
+      "bounds": [
+        1300,
+        98,
+        1440,
+        266
+      ],
+      "exercised": false,
+      "expected_next_page": null
+    }
+  ],
+  "Page_3": [
+    {
+      "action": "Click the a$d",
+      "target_element": "a$d",
+      "target_text": null,
+      "target_resid": null,
+      "bounds": [
+        1300,
+        98,
+        1440,
+        266
+      ],
+      "exercised": false,
+      "expected_next_page": null
+    }
+  ]
+}

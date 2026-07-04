@@ -1,0 +1,38 @@
+[
+  {
+    "source_page": "Page_2",
+    "target_page": "Page_1",
+    "action": "Click Passport Status",
+    "needs_review": false
+  },
+  {
+    "source_page": "Page_2",
+    "target_page": "Page_3",
+    "action": "Click PNR Status",
+    "needs_review": false
+  },
+  {
+    "source_page": "Page_2",
+    "target_page": "Page_5",
+    "action": "Click Aadhar Status",
+    "needs_review": false
+  },
+  {
+    "source_page": "Page_2",
+    "target_page": "Page_6",
+    "action": "Click Bank IFSC / MICR Search",
+    "needs_review": false
+  },
+  {
+    "source_page": "Page_6",
+    "target_page": "Page_7",
+    "action": "Click Search by Branch Name",
+    "needs_review": false
+  },
+  {
+    "source_page": "Page_2",
+    "target_page": "Page_0",
+    "action": "Click SpeedPost / e-Money Order",
+    "needs_review": false
+  }
+]

@@ -1,0 +1,134 @@
+{
+  "Page_0": [
+    {
+      "action": "Click the AppCompatImageButton",
+      "target_element": "AppCompatImageButton",
+      "target_text": null,
+      "target_resid": null,
+      "bounds": [
+        0,
+        84,
+        196,
+        280
+      ],
+      "exercised": false,
+      "expected_next_page": null
+    },
+    {
+      "action": "Click the email",
+      "target_element": "AppCompatEditText",
+      "target_text": null,
+      "target_resid": "email",
+      "bounds": [
+        70,
+        597,
+        1398,
+        726
+      ],
+      "exercised": false,
+      "expected_next_page": null
+    },
+    {
+      "action": "Click the password",
+      "target_element": "AppCompatEditText",
+      "target_text": null,
+      "target_resid": "password",
+      "bounds": [
+        70,
+        861,
+        1398,
+        990
+      ],
+      "exercised": false,
+      "expected_next_page": null
+    },
+    {
+      "action": "Click the I forgot my password",
+      "target_element": "AppCompatButton",
+      "target_text": "I forgot my password",
+      "target_resid": "forgot_password",
+      "bounds": [
+        0,
+        1116,
+        1440,
+        1284
+      ],
+      "exercised": false,
+      "expected_next_page": null
+    }
+  ],
+  "Page_1": [
+    {
+      "action": "Click the Sign Up (It’s Free!)",
+      "target_element": "AppCompatButton",
+      "target_text": "Sign Up (It’s Free!)",
+      "target_resid": "sign_up",
+      "bounds": [
+        56,
+        1151,
+        1384,
+        1387
+      ],
+      "exercised": false,
+      "expected_next_page": null
+    },
+    {
+      "action": "Click the Have an account? Sign In",
+      "target_element": "AppCompatButton",
+      "target_text": "Have an account? Sign In",
+      "target_resid": "sign_in",
+      "bounds": [
+        0,
+        1443,
+        1440,
+        1611
+      ],
+      "exercised": false,
+      "expected_next_page": null
+    }
+  ],
+  "Page_2": [
+    {
+      "action": "Click the back",
+      "target_element": "AppCompatImageView",
+      "target_text": null,
+      "target_resid": "back",
+      "bounds": [
+        0,
+        84,
+        84,
+        280
+      ],
+      "exercised": false,
+      "expected_next_page": null
+    },
+    {
+      "action": "Click the Crowd3116",
+      "target_element": "AppCompatEditText",
+      "target_text": "Crowd3116",
+      "target_resid": "password",
+      "bounds": [
+        70,
+        597,
+        1398,
+        726
+      ],
+      "exercised": false,
+      "expected_next_page": null
+    },
+    {
+      "action": "Click the Show",
+      "target_element": "AppCompatButton",
+      "target_text": "Show",
+      "target_resid": "show_hide_password",
+      "bounds": [
+        1118,
+        552,
+        1426,
+        720
+      ],
+      "exercised": false,
+      "expected_next_page": null
+    }
+  ]
+}

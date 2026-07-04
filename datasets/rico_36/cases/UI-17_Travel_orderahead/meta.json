@@ -1,0 +1,58 @@
+{
+  "case_id": "UI-17_Travel_orderahead",
+  "category": "Travel & Local",
+  "complexity": "Medium",
+  "app_package": "com.kineticfarm.orderahead",
+  "play_store_name": "OrderAhead",
+  "trace": "trace_0",
+  "entry_page": "Page_3",
+  "n_screens": 5,
+  "dropped_screens": [],
+  "pages": [
+    {
+      "page": "Page_0",
+      "orig_screenshot_id": 60,
+      "activity": "com.kineticfarm.orderahead/com.kineticfarm.orderahead.StoreInformationActivity",
+      "is_keyboard": false,
+      "n_elements": 23,
+      "n_clickable": 4,
+      "n_clickable_human": 5
+    },
+    {
+      "page": "Page_1",
+      "orig_screenshot_id": 72,
+      "activity": "com.kineticfarm.orderahead/com.kineticfarm.orderahead.StoreMenuActivity",
+      "is_keyboard": false,
+      "n_elements": 23,
+      "n_clickable": 4,
+      "n_clickable_human": 7
+    },
+    {
+      "page": "Page_2",
+      "orig_screenshot_id": 221,
+      "activity": "com.kineticfarm.orderahead/com.kineticfarm.orderahead.MenuCategoryActivity",
+      "is_keyboard": false,
+      "n_elements": 22,
+      "n_clickable": 9,
+      "n_clickable_human": 12
+    },
+    {
+      "page": "Page_3",
+      "orig_screenshot_id": 268,
+      "activity": "com.kineticfarm.orderahead/com.kineticfarm.orderahead.StoreListActivity",
+      "is_keyboard": false,
+      "n_elements": 42,
+      "n_clickable": 3,
+      "n_clickable_human": 11
+    },
+    {
+      "page": "Page_4",
+      "orig_screenshot_id": 318,
+      "activity": "com.kineticfarm.orderahead/com.kineticfarm.orderahead.AuthenticationActivity",
+      "is_keyboard": false,
+      "n_elements": 10,
+      "n_clickable": 7,
+      "n_clickable_human": 8
+    }
+  ]
+}

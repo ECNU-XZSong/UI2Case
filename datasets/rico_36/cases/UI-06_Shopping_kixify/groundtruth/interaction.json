@@ -1,0 +1,292 @@
+{
+  "Page_0": [
+    {
+      "action": "Click the platform_dialog_webview",
+      "target_element": "BasicWebView",
+      "target_text": null,
+      "target_resid": "platform_dialog_webview",
+      "bounds": [
+        0,
+        84,
+        1440,
+        2392
+      ],
+      "exercised": false,
+      "expected_next_page": null
+    }
+  ],
+  "Page_3": [
+    {
+      "action": "Click the img_back_sec_login",
+      "target_element": "RecyclingImageView",
+      "target_text": null,
+      "target_resid": "img_back_sec_login",
+      "bounds": [
+        0,
+        84,
+        168,
+        252
+      ],
+      "exercised": false,
+      "expected_next_page": null
+    },
+    {
+      "action": "Click the CONNECT TO EXISTING ACCOUNT",
+      "target_element": "AppCompatButton",
+      "target_text": "CONNECT TO EXISTING ACCOUNT",
+      "target_resid": "btn_account",
+      "bounds": [
+        53,
+        1052,
+        1387,
+        1220
+      ],
+      "exercised": false,
+      "expected_next_page": null
+    },
+    {
+      "action": "Click the CREATE NEW KIXIFY ACCOUNT",
+      "target_element": "AppCompatButton",
+      "target_text": "CREATE NEW KIXIFY ACCOUNT",
+      "target_resid": "btn_new_account",
+      "bounds": [
+        53,
+        1461,
+        1387,
+        1629
+      ],
+      "exercised": false,
+      "expected_next_page": null
+    }
+  ],
+  "Page_4": [
+    {
+      "action": "Click the Cancel",
+      "target_element": "AppCompatTextView",
+      "target_text": "Cancel",
+      "target_resid": "savetitle",
+      "bounds": [
+        35,
+        142,
+        244,
+        201
+      ],
+      "exercised": false,
+      "expected_next_page": null
+    },
+    {
+      "action": "Click the edtUserName_forgot",
+      "target_element": "AppCompatEditText",
+      "target_text": null,
+      "target_resid": "edtUserName_forgot",
+      "bounds": [
+        53,
+        312,
+        1387,
+        452
+      ],
+      "exercised": false,
+      "expected_next_page": null
+    },
+    {
+      "action": "Click the CREATE ACCOUNT",
+      "target_element": "AppCompatButton",
+      "target_text": "CREATE ACCOUNT",
+      "target_resid": "reset_pass",
+      "bounds": [
+        70,
+        2154,
+        1370,
+        2322
+      ],
+      "exercised": false,
+      "expected_next_page": null
+    }
+  ],
+  "Page_5": [
+    {
+      "action": "Click the login_button",
+      "target_element": "AppCompatButton",
+      "target_text": null,
+      "target_resid": "login_button",
+      "bounds": [
+        163,
+        584,
+        1277,
+        764
+      ],
+      "exercised": false,
+      "expected_next_page": null
+    },
+    {
+      "action": "Click the twitter_login_button",
+      "target_element": "TwitterLoginButton",
+      "target_text": null,
+      "target_resid": "twitter_login_button",
+      "bounds": [
+        163,
+        834,
+        1277,
+        1014
+      ],
+      "exercised": false,
+      "expected_next_page": null
+    },
+    {
+      "action": "Click the edtEmail",
+      "target_element": "AppCompatEditText",
+      "target_text": null,
+      "target_resid": "edtEmail",
+      "bounds": [
+        242,
+        1179,
+        1197,
+        1337
+      ],
+      "exercised": false,
+      "expected_next_page": null
+    },
+    {
+      "action": "Click the edtPassword",
+      "target_element": "AppCompatEditText",
+      "target_text": null,
+      "target_resid": "edtPassword",
+      "bounds": [
+        242,
+        1341,
+        1197,
+        1499
+      ],
+      "exercised": false,
+      "expected_next_page": null
+    },
+    {
+      "action": "Click the imgSign",
+      "target_element": "RecyclingImageView",
+      "target_text": null,
+      "target_resid": "imgSign",
+      "bounds": [
+        163,
+        1569,
+        1277,
+        1749
+      ],
+      "exercised": false,
+      "expected_next_page": null
+    },
+    {
+      "action": "Click the FORGOT PASSWORD",
+      "target_element": "AppCompatTextView",
+      "target_text": "FORGOT PASSWORD",
+      "target_resid": "txtForgotPassword",
+      "bounds": [
+        260,
+        2262,
+        632,
+        2374
+      ],
+      "exercised": false,
+      "expected_next_page": null
+    },
+    {
+      "action": "Click the SIGN UP NOW!",
+      "target_element": "AppCompatTextView",
+      "target_text": "SIGN UP NOW!",
+      "target_resid": "txtSignUp",
+      "bounds": [
+        904,
+        2262,
+        1179,
+        2374
+      ],
+      "exercised": false,
+      "expected_next_page": null
+    }
+  ],
+  "Page_2": [
+    {
+      "action": "Click the back_cancels",
+      "target_element": "RecyclingImageView",
+      "target_text": null,
+      "target_resid": "back_cancels",
+      "bounds": [
+        0,
+        84,
+        168,
+        252
+      ],
+      "exercised": false,
+      "expected_next_page": null
+    },
+    {
+      "action": "Click the Sam Brown",
+      "target_element": "AppCompatEditText",
+      "target_text": "Sam Brown",
+      "target_resid": "edtUserName_sec_fl",
+      "bounds": [
+        242,
+        796,
+        1197,
+        936
+      ],
+      "exercised": false,
+      "expected_next_page": null
+    },
+    {
+      "action": "Click the Crowd3116",
+      "target_element": "AppCompatEditText",
+      "target_text": "Crowd3116",
+      "target_resid": "edtPassword_sec_fl",
+      "bounds": [
+        242,
+        940,
+        1197,
+        1080
+      ],
+      "exercised": false,
+      "expected_next_page": null
+    },
+    {
+      "action": "Click the Crowd3116",
+      "target_element": "AppCompatEditText",
+      "target_text": "Crowd3116",
+      "target_resid": "edtConfirmPassword_sec_fl",
+      "bounds": [
+        242,
+        1084,
+        1197,
+        1224
+      ],
+      "exercised": false,
+      "expected_next_page": null
+    },
+    {
+      "action": "Click the appcrawler5@gmail.com",
+      "target_element": "AppCompatEditText",
+      "target_text": "appcrawler5@gmail.com",
+      "target_resid": "edtEmail_sec_fl",
+      "bounds": [
+        242,
+        1228,
+        1197,
+        1368
+      ],
+      "exercised": false,
+      "expected_next_page": null
+    },
+    {
+      "action": "Click the imgSignUp_sec_fl",
+      "target_element": "RecyclingImageView",
+      "target_text": null,
+      "target_resid": "imgSignUp_sec_fl",
+      "bounds": [
+        163,
+        1438,
+        1277,
+        1618
+      ],
+      "exercised": false,
+      "expected_next_page": null
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+[
+  {
+    "source_page": "Page_0",
+    "target_page": "Page_2",
+    "action": "Click Create invoice now",
+    "needs_review": false
+  },
+  {
+    "source_page": "Page_2",
+    "target_page": "Page_1",
+    "action": "Click Organization Details",
+    "needs_review": false
+  },
+  {
+    "source_page": "Page_2",
+    "target_page": "Page_3",
+    "action": "Click Item Details",
+    "needs_review": false
+  },
+  {
+    "source_page": "Page_2",
+    "target_page": "Page_4",
+    "action": "Click NEXT",
+    "needs_review": false
+  },
+  {
+    "source_page": "Page_4",
+    "target_page": "Page_5",
+    "action": "Click Email",
+    "needs_review": false
+  }
+]

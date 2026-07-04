@@ -1,0 +1,361 @@
+{
+  "Page_0": [
+    {
+      "class": "ImageView",
+      "text": null,
+      "resource_id": null,
+      "bounds": [
+        160,
+        259,
+        1280,
+        464
+      ],
+      "clickable": false,
+      "semantic_label": null
+    },
+    {
+      "class": "ImageView",
+      "text": null,
+      "resource_id": null,
+      "bounds": [
+        253,
+        848,
+        1186,
+        934
+      ],
+      "clickable": false,
+      "semantic_label": null
+    },
+    {
+      "class": "Button",
+      "text": null,
+      "resource_id": "certGet",
+      "bounds": [
+        215,
+        1004,
+        1225,
+        1251
+      ],
+      "clickable": true,
+      "semantic_label": null
+    },
+    {
+      "class": "Button",
+      "text": null,
+      "resource_id": "certManage",
+      "bounds": [
+        215,
+        1269,
+        1225,
+        1516
+      ],
+      "clickable": true,
+      "semantic_label": null
+    },
+    {
+      "class": "TextView",
+      "text": "서비스 문의",
+      "resource_id": null,
+      "bounds": [
+        253,
+        1935,
+        1256,
+        2001
+      ],
+      "clickable": false,
+      "semantic_label": null
+    },
+    {
+      "class": "TextView",
+      "text": "전화",
+      "resource_id": null,
+      "bounds": [
+        253,
+        2054,
+        343,
+        2120
+      ],
+      "clickable": false,
+      "semantic_label": null
+    },
+    {
+      "class": "TextView",
+      "text": "1544-7772 (개인고객 1번)",
+      "resource_id": null,
+      "bounds": [
+        420,
+        2054,
+        974,
+        2120
+      ],
+      "clickable": false,
+      "semantic_label": null
+    },
+    {
+      "class": "TextView",
+      "text": "이메일",
+      "resource_id": null,
+      "bounds": [
+        253,
+        2138,
+        388,
+        2204
+      ],
+      "clickable": false,
+      "semantic_label": null
+    },
+    {
+      "class": "TextView",
+      "text": "ecredithelp@lguplus.co.kr",
+      "resource_id": null,
+      "bounds": [
+        423,
+        2138,
+        1002,
+        2204
+      ],
+      "clickable": false,
+      "semantic_label": null
+    }
+  ],
+  "Page_1": [
+    {
+      "class": "ImageView",
+      "text": null,
+      "resource_id": null,
+      "bounds": [
+        35,
+        154,
+        1155,
+        259
+      ],
+      "clickable": false,
+      "semantic_label": null
+    },
+    {
+      "class": "TextView",
+      "text": "① PC에서 공인인증서 내보내기 홈페이지에 접속하여 로그인해 주십시오.(http://cert.uplus.co.kr)\n\n② PC에서 [공인인증서 내보내기] 버튼을 클릭해 주십시오.\n\n③ PC에서 인증서를 선택하신 후 비밀번호를 입력해 주십시오.\n\n④ [인증번호 가져오기] 버튼을 클릭해 주십시오.",
+      "resource_id": null,
+      "bounds": [
+        88,
+        329,
+        1352,
+        794
+      ],
+      "clickable": false,
+      "semantic_label": null
+    },
+    {
+      "class": "Button",
+      "text": null,
+      "resource_id": "ssnreq_btn",
+      "bounds": [
+        486,
+        1281,
+        953,
+        1416
+      ],
+      "clickable": true,
+      "semantic_label": null
+    }
+  ],
+  "Page_2": [
+    {
+      "class": "ImageView",
+      "text": null,
+      "resource_id": null,
+      "bounds": [
+        0,
+        119,
+        490,
+        224
+      ],
+      "clickable": false,
+      "semantic_label": null
+    },
+    {
+      "class": "TextView",
+      "text": "인증서 비밀번호",
+      "resource_id": null,
+      "bounds": [
+        35,
+        317,
+        1405,
+        383
+      ],
+      "clickable": false,
+      "semantic_label": null
+    },
+    {
+      "class": "EditText",
+      "text": null,
+      "resource_id": "cert_pass",
+      "bounds": [
+        246,
+        383,
+        1193,
+        476
+      ],
+      "clickable": true,
+      "semantic_label": null
+    },
+    {
+      "class": "Button",
+      "text": null,
+      "resource_id": "btn_login",
+      "bounds": [
+        204,
+        569,
+        1235,
+        746
+      ],
+      "clickable": true,
+      "semantic_label": null
+    }
+  ],
+  "Page_3": [
+    {
+      "class": "ImageView",
+      "text": null,
+      "resource_id": null,
+      "bounds": [
+        0,
+        154,
+        1120,
+        259
+      ],
+      "clickable": false,
+      "semantic_label": null
+    },
+    {
+      "class": "TextView",
+      "text": "인증번호",
+      "resource_id": null,
+      "bounds": [
+        622,
+        366,
+        818,
+        437
+      ],
+      "clickable": false,
+      "semantic_label": null
+    },
+    {
+      "class": "EditText",
+      "text": "16CC",
+      "resource_id": "ssnreq1",
+      "bounds": [
+        35,
+        437,
+        364,
+        530
+      ],
+      "clickable": true,
+      "semantic_label": null
+    },
+    {
+      "class": "TextView",
+      "text": null,
+      "resource_id": null,
+      "bounds": [
+        364,
+        437,
+        382,
+        503
+      ],
+      "clickable": false,
+      "semantic_label": null
+    },
+    {
+      "class": "EditText",
+      "text": "B655",
+      "resource_id": "ssnreq2",
+      "bounds": [
+        382,
+        437,
+        711,
+        530
+      ],
+      "clickable": true,
+      "semantic_label": null
+    },
+    {
+      "class": "TextView",
+      "text": null,
+      "resource_id": null,
+      "bounds": [
+        711,
+        437,
+        729,
+        503
+      ],
+      "clickable": false,
+      "semantic_label": null
+    },
+    {
+      "class": "EditText",
+      "text": "2733",
+      "resource_id": "ssnreq3",
+      "bounds": [
+        729,
+        437,
+        1058,
+        530
+      ],
+      "clickable": true,
+      "semantic_label": null
+    },
+    {
+      "class": "TextView",
+      "text": null,
+      "resource_id": null,
+      "bounds": [
+        1058,
+        437,
+        1076,
+        503
+      ],
+      "clickable": false,
+      "semantic_label": null
+    },
+    {
+      "class": "EditText",
+      "text": "6F6A",
+      "resource_id": "ssnreq4",
+      "bounds": [
+        1076,
+        437,
+        1405,
+        530
+      ],
+      "clickable": true,
+      "semantic_label": null
+    },
+    {
+      "class": "TextView",
+      "text": "① 인증번호를 PC화면에 입력해 주십시오.\n\n② PC화면에서 [내보내기] 버튼을 클릭해 주십시오.\n\n③ 하단의 [인증서 가져오기] 버튼을 클릭해 주십시오.",
+      "resource_id": null,
+      "bounds": [
+        53,
+        637,
+        1387,
+        931
+      ],
+      "clickable": false,
+      "semantic_label": null
+    },
+    {
+      "class": "Button",
+      "text": null,
+      "resource_id": "cert_getcomplete_btn",
+      "bounds": [
+        486,
+        1244,
+        953,
+        1379
+      ],
+      "clickable": true,
+      "semantic_label": null
+    }
+  ]
+}

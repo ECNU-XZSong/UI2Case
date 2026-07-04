@@ -1,0 +1,500 @@
+{
+  "Page_0": [
+    {
+      "action": "Click the listSuggestedPublisherItemAddButton",
+      "target_element": "StarButton",
+      "target_text": null,
+      "target_resid": "listSuggestedPublisherItemAddButton",
+      "bounds": [
+        315,
+        542,
+        427,
+        654
+      ],
+      "exercised": false,
+      "expected_next_page": null
+    },
+    {
+      "action": "Click the listSuggestedPublisherItemAddButton",
+      "target_element": "StarButton",
+      "target_text": null,
+      "target_resid": "listSuggestedPublisherItemAddButton",
+      "bounds": [
+        776,
+        542,
+        888,
+        654
+      ],
+      "exercised": false,
+      "expected_next_page": null
+    },
+    {
+      "action": "Click the listSuggestedPublisherItemAddButton",
+      "target_element": "StarButton",
+      "target_text": null,
+      "target_resid": "listSuggestedPublisherItemAddButton",
+      "bounds": [
+        1237,
+        542,
+        1349,
+        654
+      ],
+      "exercised": false,
+      "expected_next_page": null
+    },
+    {
+      "action": "Click the listSuggestedPublisherItemAddButton",
+      "target_element": "StarButton",
+      "target_text": null,
+      "target_resid": "listSuggestedPublisherItemAddButton",
+      "bounds": [
+        315,
+        990,
+        427,
+        1102
+      ],
+      "exercised": false,
+      "expected_next_page": null
+    },
+    {
+      "action": "Click the listSuggestedPublisherItemAddButton",
+      "target_element": "StarButton",
+      "target_text": null,
+      "target_resid": "listSuggestedPublisherItemAddButton",
+      "bounds": [
+        776,
+        990,
+        888,
+        1102
+      ],
+      "exercised": false,
+      "expected_next_page": null
+    },
+    {
+      "action": "Click the listSuggestedPublisherItemAddButton",
+      "target_element": "StarButton",
+      "target_text": null,
+      "target_resid": "listSuggestedPublisherItemAddButton",
+      "bounds": [
+        1237,
+        990,
+        1349,
+        1102
+      ],
+      "exercised": false,
+      "expected_next_page": null
+    },
+    {
+      "action": "Click the listSuggestedPublisherItemAddButton",
+      "target_element": "StarButton",
+      "target_text": null,
+      "target_resid": "listSuggestedPublisherItemAddButton",
+      "bounds": [
+        315,
+        1438,
+        427,
+        1550
+      ],
+      "exercised": false,
+      "expected_next_page": null
+    },
+    {
+      "action": "Click the listSuggestedPublisherItemAddButton",
+      "target_element": "StarButton",
+      "target_text": null,
+      "target_resid": "listSuggestedPublisherItemAddButton",
+      "bounds": [
+        776,
+        1438,
+        888,
+        1550
+      ],
+      "exercised": false,
+      "expected_next_page": null
+    },
+    {
+      "action": "Click the listSuggestedPublisherItemAddButton",
+      "target_element": "StarButton",
+      "target_text": null,
+      "target_resid": "listSuggestedPublisherItemAddButton",
+      "bounds": [
+        1237,
+        1438,
+        1349,
+        1550
+      ],
+      "exercised": false,
+      "expected_next_page": null
+    },
+    {
+      "action": "Click the listSuggestedPublisherItemAddButton",
+      "target_element": "StarButton",
+      "target_text": null,
+      "target_resid": "listSuggestedPublisherItemAddButton",
+      "bounds": [
+        315,
+        1886,
+        427,
+        1972
+      ],
+      "exercised": false,
+      "expected_next_page": null
+    },
+    {
+      "action": "Click the listSuggestedPublisherItemAddButton",
+      "target_element": "StarButton",
+      "target_text": null,
+      "target_resid": "listSuggestedPublisherItemAddButton",
+      "bounds": [
+        776,
+        1886,
+        888,
+        1972
+      ],
+      "exercised": false,
+      "expected_next_page": null
+    },
+    {
+      "action": "Click the listSuggestedPublisherItemAddButton",
+      "target_element": "StarButton",
+      "target_text": null,
+      "target_resid": "listSuggestedPublisherItemAddButton",
+      "bounds": [
+        1237,
+        1886,
+        1349,
+        1972
+      ],
+      "exercised": false,
+      "expected_next_page": null
+    },
+    {
+      "action": "Click the Show deals",
+      "target_element": "AppCompatButton",
+      "target_text": "Show deals",
+      "target_resid": "tourButton",
+      "bounds": [
+        56,
+        2168,
+        1384,
+        2336
+      ],
+      "exercised": false,
+      "expected_next_page": null
+    }
+  ],
+  "Page_1": [
+    {
+      "action": "Click the ImageButton",
+      "target_element": "ImageButton",
+      "target_text": null,
+      "target_resid": null,
+      "bounds": [
+        0,
+        84,
+        196,
+        280
+      ],
+      "exercised": false,
+      "expected_next_page": null
+    },
+    {
+      "action": "Click the menu_search",
+      "target_element": "ActionMenuItemView",
+      "target_text": null,
+      "target_resid": "menu_search",
+      "bounds": [
+        1272,
+        98,
+        1440,
+        266
+      ],
+      "exercised": false,
+      "expected_next_page": null
+    },
+    {
+      "action": "Click the gridBrochureItemFavouriteAddButton",
+      "target_element": "StarButton",
+      "target_text": null,
+      "target_resid": "gridBrochureItemFavouriteAddButton",
+      "bounds": [
+        552,
+        1146,
+        706,
+        1300
+      ],
+      "exercised": false,
+      "expected_next_page": null
+    },
+    {
+      "action": "Click the Ace Hardware",
+      "target_element": "AppCompatTextView",
+      "target_text": "Ace Hardware",
+      "target_resid": "gridBrochureItemTitle",
+      "bounds": [
+        98,
+        1146,
+        552,
+        1222
+      ],
+      "exercised": false,
+      "expected_next_page": null
+    },
+    {
+      "action": "Click the 2.43mi",
+      "target_element": "AppCompatTextView",
+      "target_text": "2.43mi",
+      "target_resid": "gridBrochureItemLocationButton",
+      "bounds": [
+        98,
+        1202,
+        496,
+        1292
+      ],
+      "exercised": false,
+      "expected_next_page": null
+    },
+    {
+      "action": "Click the gridBrochureItemFavouriteAddButton",
+      "target_element": "StarButton",
+      "target_text": null,
+      "target_resid": "gridBrochureItemFavouriteAddButton",
+      "bounds": [
+        1244,
+        1146,
+        1398,
+        1300
+      ],
+      "exercised": false,
+      "expected_next_page": null
+    },
+    {
+      "action": "Click the Acer",
+      "target_element": "AppCompatTextView",
+      "target_text": "Acer",
+      "target_resid": "gridBrochureItemTitle",
+      "bounds": [
+        790,
+        1146,
+        1244,
+        1222
+      ],
+      "exercised": false,
+      "expected_next_page": null
+    },
+    {
+      "action": "Click the 15mi",
+      "target_element": "AppCompatTextView",
+      "target_text": "15mi",
+      "target_resid": "gridBrochureItemLocationButton",
+      "bounds": [
+        790,
+        1202,
+        1188,
+        1292
+      ],
+      "exercised": false,
+      "expected_next_page": null
+    },
+    {
+      "action": "Click the gridBrochureItemFavouriteAddButton",
+      "target_element": "StarButton",
+      "target_text": null,
+      "target_resid": "gridBrochureItemFavouriteAddButton",
+      "bounds": [
+        552,
+        2032,
+        706,
+        2186
+      ],
+      "exercised": false,
+      "expected_next_page": null
+    },
+    {
+      "action": "Click the Aeropostale",
+      "target_element": "AppCompatTextView",
+      "target_text": "Aeropostale",
+      "target_resid": "gridBrochureItemTitle",
+      "bounds": [
+        98,
+        2032,
+        552,
+        2108
+      ],
+      "exercised": false,
+      "expected_next_page": null
+    },
+    {
+      "action": "Click the 3.93mi",
+      "target_element": "AppCompatTextView",
+      "target_text": "3.93mi",
+      "target_resid": "gridBrochureItemLocationButton",
+      "bounds": [
+        98,
+        2088,
+        496,
+        2178
+      ],
+      "exercised": false,
+      "expected_next_page": null
+    },
+    {
+      "action": "Click the gridBrochureItemFavouriteAddButton",
+      "target_element": "StarButton",
+      "target_text": null,
+      "target_resid": "gridBrochureItemFavouriteAddButton",
+      "bounds": [
+        1244,
+        2032,
+        1398,
+        2186
+      ],
+      "exercised": false,
+      "expected_next_page": null
+    },
+    {
+      "action": "Click the American Eagle Outfitters",
+      "target_element": "AppCompatTextView",
+      "target_text": "American Eagle Outfitters",
+      "target_resid": "gridBrochureItemTitle",
+      "bounds": [
+        790,
+        2032,
+        1244,
+        2108
+      ],
+      "exercised": false,
+      "expected_next_page": null
+    },
+    {
+      "action": "Click the 3.92mi",
+      "target_element": "AppCompatTextView",
+      "target_text": "3.92mi",
+      "target_resid": "gridBrochureItemLocationButton",
+      "bounds": [
+        790,
+        2088,
+        1188,
+        2178
+      ],
+      "exercised": false,
+      "expected_next_page": null
+    }
+  ],
+  "Page_2": [
+    {
+      "action": "Click the ImageButton",
+      "target_element": "ImageButton",
+      "target_text": null,
+      "target_resid": null,
+      "bounds": [
+        0,
+        84,
+        196,
+        280
+      ],
+      "exercised": false,
+      "expected_next_page": null
+    },
+    {
+      "action": "Click the menu_favorite",
+      "target_element": "ActionMenuItemView",
+      "target_text": null,
+      "target_resid": "menu_favorite",
+      "bounds": [
+        1132,
+        98,
+        1300,
+        266
+      ],
+      "exercised": false,
+      "expected_next_page": null
+    },
+    {
+      "action": "Click the ActionMenuPresenter$OverflowMenuButton",
+      "target_element": "ActionMenuPresenter$OverflowMenuButton",
+      "target_text": null,
+      "target_resid": null,
+      "bounds": [
+        1300,
+        98,
+        1440,
+        266
+      ],
+      "exercised": false,
+      "expected_next_page": null
+    }
+  ],
+  "Page_3": [
+    {
+      "action": "Click the ImageButton",
+      "target_element": "ImageButton",
+      "target_text": null,
+      "target_resid": null,
+      "bounds": [
+        0,
+        84,
+        196,
+        280
+      ],
+      "exercised": false,
+      "expected_next_page": null
+    },
+    {
+      "action": "Click the 2.43mi",
+      "target_element": "AppCompatTextView",
+      "target_text": "2.43mi",
+      "target_resid": "gridBrochureItemLocationButton",
+      "bounds": [
+        94,
+        1102,
+        556,
+        1178
+      ],
+      "exercised": false,
+      "expected_next_page": null
+    },
+    {
+      "action": "Click the gridBrochureItemFavouriteAddButton",
+      "target_element": "StarButton",
+      "target_text": null,
+      "target_resid": "gridBrochureItemFavouriteAddButton",
+      "bounds": [
+        556,
+        970,
+        710,
+        1234
+      ],
+      "exercised": false,
+      "expected_next_page": null
+    },
+    {
+      "action": "Click the 1.81mi",
+      "target_element": "AppCompatTextView",
+      "target_text": "1.81mi",
+      "target_resid": "gridBrochureItemLocationButton",
+      "bounds": [
+        786,
+        1102,
+        1248,
+        1178
+      ],
+      "exercised": false,
+      "expected_next_page": null
+    },
+    {
+      "action": "Click the gridBrochureItemFavouriteAddButton",
+      "target_element": "StarButton",
+      "target_text": null,
+      "target_resid": "gridBrochureItemFavouriteAddButton",
+      "bounds": [
+        1248,
+        970,
+        1402,
+        1234
+      ],
+      "exercised": false,
+      "expected_next_page": null
+    }
+  ]
+}

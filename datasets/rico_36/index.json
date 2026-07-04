@@ -1,0 +1,329 @@
+{
+  "n_cases": 36,
+  "cases": [
+    {
+      "case_id": "UI-01_Finance_everydollar",
+      "category": "Finance",
+      "complexity": "Simple",
+      "n_screens": 3,
+      "n_transitions": 2,
+      "n_clickable_human": 9,
+      "replacement": false
+    },
+    {
+      "case_id": "UI-02_Finance_ecredit",
+      "category": "Finance",
+      "complexity": "Medium",
+      "n_screens": 4,
+      "n_transitions": 3,
+      "n_clickable_human": 6,
+      "replacement": false
+    },
+    {
+      "case_id": "UI-03_Finance_progressive",
+      "category": "Finance",
+      "complexity": "Complex",
+      "n_screens": 8,
+      "n_transitions": 7,
+      "n_clickable_human": 33,
+      "replacement": false
+    },
+    {
+      "case_id": "UI-04_Shopping_retale",
+      "category": "Shopping",
+      "complexity": "Medium",
+      "n_screens": 4,
+      "n_transitions": 3,
+      "n_clickable_human": 37,
+      "replacement": true
+    },
+    {
+      "case_id": "UI-05_Shopping_snipsnapapp",
+      "category": "Shopping",
+      "complexity": "Medium",
+      "n_screens": 4,
+      "n_transitions": 3,
+      "n_clickable_human": 13,
+      "replacement": false
+    },
+    {
+      "case_id": "UI-06_Shopping_kixify",
+      "category": "Shopping",
+      "complexity": "Complex",
+      "n_screens": 5,
+      "n_transitions": 4,
+      "n_clickable_human": 20,
+      "replacement": false
+    },
+    {
+      "case_id": "UI-07_Social_robin",
+      "category": "Social",
+      "complexity": "Simple",
+      "n_screens": 3,
+      "n_transitions": 2,
+      "n_clickable_human": 10,
+      "replacement": false
+    },
+    {
+      "case_id": "UI-08_Social_lovemessageforbf",
+      "category": "Social",
+      "complexity": "Medium",
+      "n_screens": 4,
+      "n_transitions": 3,
+      "n_clickable_human": 25,
+      "replacement": false
+    },
+    {
+      "case_id": "UI-09_Social_aadharlinking",
+      "category": "Social",
+      "complexity": "Complex",
+      "n_screens": 7,
+      "n_transitions": 6,
+      "n_clickable_human": 32,
+      "replacement": false
+    },
+    {
+      "case_id": "UI-10_Communication_viber",
+      "category": "Communication",
+      "complexity": "Simple",
+      "n_screens": 3,
+      "n_transitions": 2,
+      "n_clickable_human": 11,
+      "replacement": true
+    },
+    {
+      "case_id": "UI-11_Communication_whatscall",
+      "category": "Communication",
+      "complexity": "Medium",
+      "n_screens": 4,
+      "n_transitions": 3,
+      "n_clickable_human": 19,
+      "replacement": false
+    },
+    {
+      "case_id": "UI-12_Communication_currentmobiletrack",
+      "category": "Communication",
+      "complexity": "Complex",
+      "n_screens": 5,
+      "n_transitions": 4,
+      "n_clickable_human": 16,
+      "replacement": false
+    },
+    {
+      "case_id": "UI-13_Health_tracker",
+      "category": "Health & Fitness",
+      "complexity": "Simple",
+      "n_screens": 3,
+      "n_transitions": 2,
+      "n_clickable_human": 20,
+      "replacement": false
+    },
+    {
+      "case_id": "UI-14_Health_thermometer",
+      "category": "Health & Fitness",
+      "complexity": "Medium",
+      "n_screens": 3,
+      "n_transitions": 2,
+      "n_clickable_human": 6,
+      "replacement": false
+    },
+    {
+      "case_id": "UI-15_Health_sleeptime",
+      "category": "Health & Fitness",
+      "complexity": "Complex",
+      "n_screens": 7,
+      "n_transitions": 6,
+      "n_clickable_human": 23,
+      "replacement": false
+    },
+    {
+      "case_id": "UI-16_Travel_aroundyou",
+      "category": "Travel & Local",
+      "complexity": "Simple",
+      "n_screens": 3,
+      "n_transitions": 2,
+      "n_clickable_human": 25,
+      "replacement": true
+    },
+    {
+      "case_id": "UI-17_Travel_orderahead",
+      "category": "Travel & Local",
+      "complexity": "Medium",
+      "n_screens": 5,
+      "n_transitions": 4,
+      "n_clickable_human": 43,
+      "replacement": false
+    },
+    {
+      "case_id": "UI-18_Travel_pnr_status",
+      "category": "Travel & Local",
+      "complexity": "Complex",
+      "n_screens": 6,
+      "n_transitions": 5,
+      "n_clickable_human": 41,
+      "replacement": false
+    },
+    {
+      "case_id": "UI-19_Education_raven",
+      "category": "Education",
+      "complexity": "Simple",
+      "n_screens": 3,
+      "n_transitions": 2,
+      "n_clickable_human": 13,
+      "replacement": false
+    },
+    {
+      "case_id": "UI-20_Education_brainpop",
+      "category": "Education",
+      "complexity": "Medium",
+      "n_screens": 4,
+      "n_transitions": 3,
+      "n_clickable_human": 38,
+      "replacement": true
+    },
+    {
+      "case_id": "UI-21_Education_myspelling",
+      "category": "Education",
+      "complexity": "Complex",
+      "n_screens": 7,
+      "n_transitions": 6,
+      "n_clickable_human": 68,
+      "replacement": false
+    },
+    {
+      "case_id": "UI-22_News_cnews",
+      "category": "News & Magazines",
+      "complexity": "Simple",
+      "n_screens": 3,
+      "n_transitions": 2,
+      "n_clickable_human": 25,
+      "replacement": false
+    },
+    {
+      "case_id": "UI-23_News_cibercuba",
+      "category": "News & Magazines",
+      "complexity": "Medium",
+      "n_screens": 3,
+      "n_transitions": 2,
+      "n_clickable_human": 20,
+      "replacement": false
+    },
+    {
+      "case_id": "UI-24_News_issuu",
+      "category": "News & Magazines",
+      "complexity": "Complex",
+      "n_screens": 7,
+      "n_transitions": 6,
+      "n_clickable_human": 29,
+      "replacement": false
+    },
+    {
+      "case_id": "UI-25_Music_radioenergy",
+      "category": "Music & Audio",
+      "complexity": "Simple",
+      "n_screens": 3,
+      "n_transitions": 2,
+      "n_clickable_human": 34,
+      "replacement": true
+    },
+    {
+      "case_id": "UI-26_Music_rhapsody",
+      "category": "Music & Audio",
+      "complexity": "Medium",
+      "n_screens": 4,
+      "n_transitions": 3,
+      "n_clickable_human": 21,
+      "replacement": false
+    },
+    {
+      "case_id": "UI-27_Music_mp3joiner",
+      "category": "Music & Audio",
+      "complexity": "Complex",
+      "n_screens": 4,
+      "n_transitions": 3,
+      "n_clickable_human": 23,
+      "replacement": false
+    },
+    {
+      "case_id": "UI-28_Books_bible",
+      "category": "Books & Reference",
+      "complexity": "Simple",
+      "n_screens": 3,
+      "n_transitions": 2,
+      "n_clickable_human": 22,
+      "replacement": true
+    },
+    {
+      "case_id": "UI-29_Books_quran",
+      "category": "Books & Reference",
+      "complexity": "Simple",
+      "n_screens": 3,
+      "n_transitions": 2,
+      "n_clickable_human": 38,
+      "replacement": true
+    },
+    {
+      "case_id": "UI-30_Books_howtotieknots",
+      "category": "Books & Reference",
+      "complexity": "Complex",
+      "n_screens": 6,
+      "n_transitions": 5,
+      "n_clickable_human": 29,
+      "replacement": false
+    },
+    {
+      "case_id": "UI-31_Business_tinyscanner",
+      "category": "Business",
+      "complexity": "Simple",
+      "n_screens": 3,
+      "n_transitions": 2,
+      "n_clickable_human": 22,
+      "replacement": false
+    },
+    {
+      "case_id": "UI-32_Business_problemio",
+      "category": "Business",
+      "complexity": "Medium",
+      "n_screens": 5,
+      "n_transitions": 4,
+      "n_clickable_human": 45,
+      "replacement": true
+    },
+    {
+      "case_id": "UI-33_Business_invoicegenerator",
+      "category": "Business",
+      "complexity": "Complex",
+      "n_screens": 6,
+      "n_transitions": 5,
+      "n_clickable_human": 34,
+      "replacement": false
+    },
+    {
+      "case_id": "UI-34_Maps_verizonhum",
+      "category": "Maps & Navigation",
+      "complexity": "Simple",
+      "n_screens": 3,
+      "n_transitions": 2,
+      "n_clickable_human": 12,
+      "replacement": false
+    },
+    {
+      "case_id": "UI-35_Maps_findmycarandroidwe",
+      "category": "Maps & Navigation",
+      "complexity": "Medium",
+      "n_screens": 4,
+      "n_transitions": 3,
+      "n_clickable_human": 19,
+      "replacement": false
+    },
+    {
+      "case_id": "UI-36_Maps_septainstant",
+      "category": "Maps & Navigation",
+      "complexity": "Complex",
+      "n_screens": 6,
+      "n_transitions": 5,
+      "n_clickable_human": 49,
+      "replacement": false
+    }
+  ]
+}

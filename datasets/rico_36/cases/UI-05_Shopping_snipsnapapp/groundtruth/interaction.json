@@ -1,0 +1,164 @@
+{
+  "Page_0": [
+    {
+      "action": "Click the button_banner_hiw",
+      "target_element": "Button",
+      "target_text": null,
+      "target_resid": "button_banner_hiw",
+      "bounds": [
+        0,
+        381,
+        1440,
+        731
+      ],
+      "exercised": false,
+      "expected_next_page": null
+    },
+    {
+      "action": "Click the Sign In",
+      "target_element": "ActionMenuItemView",
+      "target_text": "Sign In",
+      "target_resid": "signIn",
+      "bounds": [
+        1188,
+        84,
+        1440,
+        252
+      ],
+      "exercised": false,
+      "expected_next_page": null
+    }
+  ],
+  "Page_1": [
+    {
+      "action": "Click the platform_dialog_webview",
+      "target_element": "BasicWebView",
+      "target_text": null,
+      "target_resid": "platform_dialog_webview",
+      "bounds": [
+        0,
+        84,
+        1440,
+        2392
+      ],
+      "exercised": false,
+      "expected_next_page": null
+    }
+  ],
+  "Page_2": [
+    {
+      "action": "Click the Sign in with Google",
+      "target_element": "tj",
+      "target_text": "Sign in with Google",
+      "target_resid": null,
+      "bounds": [
+        28,
+        515,
+        1412,
+        708
+      ],
+      "exercised": false,
+      "expected_next_page": null
+    },
+    {
+      "action": "Click the text_email",
+      "target_element": "EditText",
+      "target_text": null,
+      "target_resid": "text_email",
+      "bounds": [
+        448,
+        929,
+        1405,
+        1145
+      ],
+      "exercised": false,
+      "expected_next_page": null
+    },
+    {
+      "action": "Click the text_password",
+      "target_element": "EditText",
+      "target_text": null,
+      "target_resid": "text_password",
+      "bounds": [
+        448,
+        1145,
+        1405,
+        1361
+      ],
+      "exercised": false,
+      "expected_next_page": null
+    },
+    {
+      "action": "Click the Forget your password?",
+      "target_element": "TextView",
+      "target_text": "Forget your password?",
+      "target_resid": "text_forgot_your_password",
+      "bounds": [
+        0,
+        1372,
+        1440,
+        1483
+      ],
+      "exercised": false,
+      "expected_next_page": null
+    },
+    {
+      "action": "Click the Sign In",
+      "target_element": "Button",
+      "target_text": "Sign In",
+      "target_resid": "email_sign_in_button",
+      "bounds": [
+        0,
+        2199,
+        1440,
+        2392
+      ],
+      "exercised": false,
+      "expected_next_page": null
+    }
+  ],
+  "Page_3": [
+    {
+      "action": "Click the Know your age range and language",
+      "target_element": "TextView",
+      "target_text": "Know your age range and language",
+      "target_resid": "scope_description_label",
+      "bounds": [
+        302,
+        617,
+        1064,
+        683
+      ],
+      "exercised": false,
+      "expected_next_page": null
+    },
+    {
+      "action": "Click the Deny",
+      "target_element": "Button",
+      "target_text": "Deny",
+      "target_resid": "cancel_button",
+      "bounds": [
+        676,
+        2168,
+        984,
+        2294
+      ],
+      "exercised": false,
+      "expected_next_page": null
+    },
+    {
+      "action": "Click the Allow",
+      "target_element": "Button",
+      "target_text": "Allow",
+      "target_resid": "accept_button",
+      "bounds": [
+        984,
+        2168,
+        1292,
+        2294
+      ],
+      "exercised": false,
+      "expected_next_page": null
+    }
+  ]
+}

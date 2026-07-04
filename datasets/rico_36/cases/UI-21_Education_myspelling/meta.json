@@ -1,0 +1,76 @@
+{
+  "case_id": "UI-21_Education_myspelling",
+  "category": "Education",
+  "complexity": "Complex",
+  "app_package": "com.ananiya.myspelling",
+  "play_store_name": "My Spelling Test",
+  "trace": "trace_0",
+  "entry_page": "Page_2",
+  "n_screens": 7,
+  "dropped_screens": [],
+  "pages": [
+    {
+      "page": "Page_0",
+      "orig_screenshot_id": 142,
+      "activity": "com.ananiya.myspelling/com.ananiya.myspelling.MainActivity4",
+      "is_keyboard": false,
+      "n_elements": 27,
+      "n_clickable": 25,
+      "n_clickable_human": 25
+    },
+    {
+      "page": "Page_1",
+      "orig_screenshot_id": 194,
+      "activity": "com.ananiya.myspelling/com.ananiya.myspelling.MainActivity14",
+      "is_keyboard": false,
+      "n_elements": 7,
+      "n_clickable": 4,
+      "n_clickable_human": 4
+    },
+    {
+      "page": "Page_2",
+      "orig_screenshot_id": 221,
+      "activity": "com.ananiya.myspelling/com.ananiya.myspelling.MainActivity9",
+      "is_keyboard": false,
+      "n_elements": 11,
+      "n_clickable": 8,
+      "n_clickable_human": 9
+    },
+    {
+      "page": "Page_3",
+      "orig_screenshot_id": 342,
+      "activity": "com.ananiya.myspelling/com.ananiya.myspelling.MainActivity10",
+      "is_keyboard": false,
+      "n_elements": 7,
+      "n_clickable": 5,
+      "n_clickable_human": 1
+    },
+    {
+      "page": "Page_4",
+      "orig_screenshot_id": 380,
+      "activity": "com.ananiya.myspelling/com.ananiya.myspelling.MainActivity21",
+      "is_keyboard": false,
+      "n_elements": 6,
+      "n_clickable": 4,
+      "n_clickable_human": 4
+    },
+    {
+      "page": "Page_5",
+      "orig_screenshot_id": 636,
+      "activity": "com.ananiya.myspelling/com.ananiya.myspelling.MainActivity17",
+      "is_keyboard": false,
+      "n_elements": 25,
+      "n_clickable": 23,
+      "n_clickable_human": 22
+    },
+    {
+      "page": "Page_6",
+      "orig_screenshot_id": 648,
+      "activity": "com.ananiya.myspelling/com.ananiya.myspelling.MainActivity20",
+      "is_keyboard": false,
+      "n_elements": 5,
+      "n_clickable": 3,
+      "n_clickable_human": 3
+    }
+  ]
+}

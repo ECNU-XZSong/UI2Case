@@ -1,0 +1,32 @@
+[
+  {
+    "source_page": "Page_0",
+    "target_page": "Page_1",
+    "action": "Click PNR status from your IRCTC account",
+    "needs_review": false
+  },
+  {
+    "source_page": "Page_0",
+    "target_page": "Page_2",
+    "action": "Click Train schedule and running status",
+    "needs_review": false
+  },
+  {
+    "source_page": "Page_0",
+    "target_page": "Page_3",
+    "action": "Click Arrivals and departures",
+    "needs_review": false
+  },
+  {
+    "source_page": "Page_0",
+    "target_page": "Page_4",
+    "action": "Click Fare enquiry",
+    "needs_review": false
+  },
+  {
+    "source_page": "Page_0",
+    "target_page": "Page_5",
+    "action": "Click View saved e-tickets",
+    "needs_review": false
+  }
+]

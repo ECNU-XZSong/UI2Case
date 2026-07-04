@@ -1,0 +1,92 @@
+{
+  "Page_0": [
+    {
+      "action": "Click the Sign in with Facebook",
+      "target_element": "AppCompatButton",
+      "target_text": "Sign in with Facebook",
+      "target_resid": "button1",
+      "bounds": [
+        70,
+        1267,
+        1370,
+        1407
+      ],
+      "exercised": false,
+      "expected_next_page": null
+    },
+    {
+      "action": "Click the Sign in with Google",
+      "target_element": "AppCompatButton",
+      "target_text": "Sign in with Google",
+      "target_resid": "btnGoogleSignin",
+      "bounds": [
+        70,
+        1516,
+        1370,
+        1670
+      ],
+      "exercised": false,
+      "expected_next_page": null
+    },
+    {
+      "action": "Click the Already have an account? Log in",
+      "target_element": "AppCompatButton",
+      "target_text": "Already have an account? Log in",
+      "target_resid": "btnLogin",
+      "bounds": [
+        0,
+        1939,
+        1440,
+        2079
+      ],
+      "exercised": false,
+      "expected_next_page": null
+    },
+    {
+      "action": "Click the By using Swarm, you agree to the Terms, Cookie Policy and Privacy Policy",
+      "target_element": "AppCompatTextView",
+      "target_text": "By using Swarm, you agree to the Terms, Cookie Policy and Privacy Policy",
+      "target_resid": "tvTermsDisclosure",
+      "bounds": [
+        0,
+        2233,
+        1440,
+        2392
+      ],
+      "exercised": false,
+      "expected_next_page": null
+    }
+  ],
+  "Page_1": [
+    {
+      "action": "Click the platform_dialog_webview",
+      "target_element": "BasicWebView",
+      "target_text": null,
+      "target_resid": "platform_dialog_webview",
+      "bounds": [
+        0,
+        84,
+        1440,
+        2392
+      ],
+      "exercised": false,
+      "expected_next_page": null
+    }
+  ],
+  "Page_2": [
+    {
+      "action": "Click the Next",
+      "target_element": "AppCompatButton",
+      "target_text": "Next",
+      "target_resid": "tvEduNext",
+      "bounds": [
+        112,
+        2342,
+        1328,
+        2482
+      ],
+      "exercised": false,
+      "expected_next_page": null
+    }
+  ]
+}

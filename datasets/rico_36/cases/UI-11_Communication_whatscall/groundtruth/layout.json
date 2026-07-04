@@ -1,0 +1,634 @@
+{
+  "Page_1": [
+    {
+      "class": "TextView",
+      "text": "Make free calls worldwide",
+      "resource_id": "b99",
+      "bounds": [
+        159,
+        242,
+        1281,
+        372
+      ],
+      "clickable": false,
+      "semantic_label": null
+    },
+    {
+      "class": "TextView",
+      "text": "Free international and domestic calls to\nover 230 countries",
+      "resource_id": "b9_",
+      "bounds": [
+        157,
+        407,
+        1282,
+        605
+      ],
+      "clickable": false,
+      "semantic_label": null
+    },
+    {
+      "class": "ImageView",
+      "text": null,
+      "resource_id": "b9a",
+      "bounds": [
+        90,
+        605,
+        1350,
+        1590
+      ],
+      "clickable": false,
+      "semantic_label": null
+    },
+    {
+      "class": "TextView",
+      "text": "By tapping Start, I agree to the User Agreement and Privacy Policy",
+      "resource_id": "b93",
+      "bounds": [
+        56,
+        1590,
+        1384,
+        1700
+      ],
+      "clickable": true,
+      "semantic_label": null
+    },
+    {
+      "class": "View",
+      "text": null,
+      "resource_id": null,
+      "bounds": [
+        56,
+        1735,
+        1384,
+        1737
+      ],
+      "clickable": false,
+      "semantic_label": null
+    },
+    {
+      "class": "TextView",
+      "text": "United States",
+      "resource_id": "b94",
+      "bounds": [
+        56,
+        1737,
+        1384,
+        1912
+      ],
+      "clickable": true,
+      "semantic_label": null
+    },
+    {
+      "class": "View",
+      "text": null,
+      "resource_id": null,
+      "bounds": [
+        56,
+        1912,
+        1384,
+        1914
+      ],
+      "clickable": false,
+      "semantic_label": null
+    },
+    {
+      "class": "TextView",
+      "text": "+1",
+      "resource_id": "b96",
+      "bounds": [
+        56,
+        1947,
+        147,
+        2055
+      ],
+      "clickable": true,
+      "semantic_label": null
+    },
+    {
+      "class": "EditText",
+      "text": "4155791638",
+      "resource_id": "b97",
+      "bounds": [
+        165,
+        1921,
+        1384,
+        2082
+      ],
+      "clickable": true,
+      "semantic_label": null
+    },
+    {
+      "class": "View",
+      "text": null,
+      "resource_id": null,
+      "bounds": [
+        56,
+        2089,
+        1384,
+        2091
+      ],
+      "clickable": false,
+      "semantic_label": null
+    },
+    {
+      "class": "Button",
+      "text": "SIGN UP / LOG IN",
+      "resource_id": "b98",
+      "bounds": [
+        56,
+        2147,
+        1384,
+        2322
+      ],
+      "clickable": true,
+      "semantic_label": null
+    }
+  ],
+  "Page_2": [
+    {
+      "class": "Button",
+      "text": null,
+      "resource_id": "q3",
+      "bounds": [
+        44,
+        127,
+        132,
+        204
+      ],
+      "clickable": false,
+      "semantic_label": null
+    },
+    {
+      "class": "TextView",
+      "text": "LOG IN",
+      "resource_id": "bf1",
+      "bounds": [
+        245,
+        112,
+        1195,
+        220
+      ],
+      "clickable": false,
+      "semantic_label": null
+    },
+    {
+      "class": "View",
+      "text": null,
+      "resource_id": "bf5",
+      "bounds": [
+        0,
+        247,
+        1440,
+        249
+      ],
+      "clickable": false,
+      "semantic_label": null
+    },
+    {
+      "class": "TextView",
+      "text": "United States",
+      "resource_id": "p_",
+      "bounds": [
+        56,
+        249,
+        1384,
+        424
+      ],
+      "clickable": true,
+      "semantic_label": null
+    },
+    {
+      "class": "View",
+      "text": null,
+      "resource_id": null,
+      "bounds": [
+        56,
+        424,
+        1384,
+        426
+      ],
+      "clickable": false,
+      "semantic_label": null
+    },
+    {
+      "class": "TextView",
+      "text": "+1",
+      "resource_id": "pb",
+      "bounds": [
+        56,
+        459,
+        147,
+        567
+      ],
+      "clickable": true,
+      "semantic_label": null
+    },
+    {
+      "class": "EditText",
+      "text": "4155791638",
+      "resource_id": "pc",
+      "bounds": [
+        165,
+        433,
+        1384,
+        594
+      ],
+      "clickable": true,
+      "semantic_label": null
+    },
+    {
+      "class": "View",
+      "text": null,
+      "resource_id": null,
+      "bounds": [
+        56,
+        601,
+        1384,
+        603
+      ],
+      "clickable": false,
+      "semantic_label": null
+    },
+    {
+      "class": "EditText",
+      "text": "appcrawler3116",
+      "resource_id": "pd",
+      "bounds": [
+        56,
+        603,
+        1384,
+        778
+      ],
+      "clickable": true,
+      "semantic_label": null
+    },
+    {
+      "class": "View",
+      "text": null,
+      "resource_id": null,
+      "bounds": [
+        56,
+        778,
+        1384,
+        780
+      ],
+      "clickable": false,
+      "semantic_label": null
+    },
+    {
+      "class": "Button",
+      "text": "LOG IN",
+      "resource_id": "pe",
+      "bounds": [
+        56,
+        836,
+        1384,
+        1011
+      ],
+      "clickable": true,
+      "semantic_label": null
+    },
+    {
+      "class": "TextView",
+      "text": "SIGN UP",
+      "resource_id": "pg",
+      "bounds": [
+        56,
+        1081,
+        299,
+        1167
+      ],
+      "clickable": true,
+      "semantic_label": null
+    },
+    {
+      "class": "View",
+      "text": null,
+      "resource_id": null,
+      "bounds": [
+        299,
+        1081,
+        903,
+        2392
+      ],
+      "clickable": false,
+      "semantic_label": null
+    },
+    {
+      "class": "TextView",
+      "text": "Forgot password",
+      "resource_id": "ph",
+      "bounds": [
+        903,
+        1081,
+        1384,
+        1167
+      ],
+      "clickable": true,
+      "semantic_label": null
+    }
+  ],
+  "Page_3": [
+    {
+      "class": "Button",
+      "text": null,
+      "resource_id": "q3",
+      "bounds": [
+        44,
+        127,
+        132,
+        204
+      ],
+      "clickable": false,
+      "semantic_label": null
+    },
+    {
+      "class": "TextView",
+      "text": "Reset password via e-mail",
+      "resource_id": "bf1",
+      "bounds": [
+        245,
+        112,
+        1195,
+        220
+      ],
+      "clickable": false,
+      "semantic_label": null
+    },
+    {
+      "class": "View",
+      "text": null,
+      "resource_id": "bf5",
+      "bounds": [
+        0,
+        247,
+        1440,
+        249
+      ],
+      "clickable": false,
+      "semantic_label": null
+    },
+    {
+      "class": "TextView",
+      "text": "Link e-mail to this account",
+      "resource_id": "b2m",
+      "bounds": [
+        53,
+        337,
+        1387,
+        434
+      ],
+      "clickable": false,
+      "semantic_label": null
+    },
+    {
+      "class": "ClearableEditText",
+      "text": "appcrawler6@gmail.com",
+      "resource_id": "b55",
+      "bounds": [
+        0,
+        497,
+        1440,
+        690
+      ],
+      "clickable": true,
+      "semantic_label": null
+    },
+    {
+      "class": "Button",
+      "text": "Confirm",
+      "resource_id": "b56",
+      "bounds": [
+        53,
+        778,
+        1387,
+        936
+      ],
+      "clickable": true,
+      "semantic_label": null
+    },
+    {
+      "class": "View",
+      "text": null,
+      "resource_id": null,
+      "bounds": [
+        0,
+        936,
+        4,
+        2232
+      ],
+      "clickable": false,
+      "semantic_label": null
+    },
+    {
+      "class": "TextView",
+      "text": "Reset password via SMS",
+      "resource_id": "b57",
+      "bounds": [
+        326,
+        2232,
+        1113,
+        2329
+      ],
+      "clickable": true,
+      "semantic_label": null
+    }
+  ],
+  "Page_4": [
+    {
+      "class": "Button",
+      "text": null,
+      "resource_id": "q3",
+      "bounds": [
+        44,
+        127,
+        132,
+        204
+      ],
+      "clickable": false,
+      "semantic_label": null
+    },
+    {
+      "class": "TextView",
+      "text": "Reset password via SMS",
+      "resource_id": "bf1",
+      "bounds": [
+        315,
+        112,
+        1125,
+        220
+      ],
+      "clickable": false,
+      "semantic_label": null
+    },
+    {
+      "class": "Button",
+      "text": "Next",
+      "resource_id": "bf2",
+      "bounds": [
+        1125,
+        114,
+        1405,
+        219
+      ],
+      "clickable": true,
+      "semantic_label": null
+    },
+    {
+      "class": "View",
+      "text": null,
+      "resource_id": "bf5",
+      "bounds": [
+        0,
+        247,
+        1440,
+        249
+      ],
+      "clickable": false,
+      "semantic_label": null
+    },
+    {
+      "class": "TextView",
+      "text": "Please confirm your phone number",
+      "resource_id": "b2m",
+      "bounds": [
+        0,
+        249,
+        1440,
+        395
+      ],
+      "clickable": false,
+      "semantic_label": null
+    },
+    {
+      "class": "View",
+      "text": null,
+      "resource_id": "b2n",
+      "bounds": [
+        0,
+        395,
+        1440,
+        397
+      ],
+      "clickable": false,
+      "semantic_label": null
+    },
+    {
+      "class": "TextView",
+      "text": "Country/Region",
+      "resource_id": null,
+      "bounds": [
+        0,
+        441,
+        516,
+        527
+      ],
+      "clickable": false,
+      "semantic_label": null
+    },
+    {
+      "class": "ImageView",
+      "text": null,
+      "resource_id": "a43",
+      "bounds": [
+        1370,
+        461,
+        1398,
+        507
+      ],
+      "clickable": false,
+      "semantic_label": null
+    },
+    {
+      "class": "TextView",
+      "text": "United States",
+      "resource_id": "b2p",
+      "bounds": [
+        960,
+        441,
+        1342,
+        527
+      ],
+      "clickable": false,
+      "semantic_label": null
+    },
+    {
+      "class": "TextView",
+      "text": null,
+      "resource_id": null,
+      "bounds": [
+        70,
+        572,
+        1440,
+        574
+      ],
+      "clickable": false,
+      "semantic_label": null
+    },
+    {
+      "class": "TextView",
+      "text": "+1",
+      "resource_id": "arc",
+      "bounds": [
+        0,
+        574,
+        263,
+        749
+      ],
+      "clickable": true,
+      "semantic_label": null
+    },
+    {
+      "class": "TextView",
+      "text": null,
+      "resource_id": "a2g",
+      "bounds": [
+        298,
+        609,
+        302,
+        714
+      ],
+      "clickable": false,
+      "semantic_label": null
+    },
+    {
+      "class": "EditText",
+      "text": "(415) 579-1638",
+      "resource_id": "b2r",
+      "bounds": [
+        299,
+        574,
+        1440,
+        749
+      ],
+      "clickable": true,
+      "semantic_label": null
+    },
+    {
+      "class": "View",
+      "text": null,
+      "resource_id": "b2s",
+      "bounds": [
+        0,
+        749,
+        1440,
+        751
+      ],
+      "clickable": false,
+      "semantic_label": null
+    },
+    {
+      "class": "TextView",
+      "text": "Reset password via e-mail",
+      "resource_id": "b2x",
+      "bounds": [
+        347,
+        2243,
+        1092,
+        2329
+      ],
+      "clickable": true,
+      "semantic_label": null
+    }
+  ]
+}

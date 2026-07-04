@@ -1,0 +1,41 @@
+{
+  "case_id": "UI-16_Travel_aroundyou",
+  "category": "Travel & Local",
+  "complexity": "Simple",
+  "app_package": "com.tag.aroundyou",
+  "play_store_name": "Around You - Find Local Places",
+  "trace": "trace_0",
+  "entry_page": "Page_0",
+  "n_screens": 3,
+  "dropped_screens": [],
+  "pages": [
+    {
+      "page": "Page_0",
+      "orig_screenshot_id": 152,
+      "activity": "com.tag.aroundyou/com.source.allfinder.ui.Dashboard",
+      "is_keyboard": false,
+      "n_elements": 25,
+      "n_clickable": 0,
+      "n_clickable_human": 11
+    },
+    {
+      "page": "Page_1",
+      "orig_screenshot_id": 148,
+      "activity": "com.tag.aroundyou/com.source.allfinder.ui.ListActivity",
+      "is_keyboard": false,
+      "n_elements": 22,
+      "n_clickable": 0,
+      "n_clickable_human": 6
+    },
+    {
+      "page": "Page_2",
+      "orig_screenshot_id": 107,
+      "activity": "com.tag.aroundyou/com.source.allfinder.ui.ListDetailsActivity",
+      "is_keyboard": false,
+      "n_elements": 25,
+      "n_clickable": 1,
+      "n_clickable_human": 8
+    }
+  ],
+  "replacement": true
+}

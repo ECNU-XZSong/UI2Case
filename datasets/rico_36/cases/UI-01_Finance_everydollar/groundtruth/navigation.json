@@ -1,0 +1,14 @@
+[
+  {
+    "source_page": "Page_1",
+    "target_page": "Page_0",
+    "action": "Click Sign In",
+    "needs_review": false
+  },
+  {
+    "source_page": "Page_1",
+    "target_page": "Page_2",
+    "action": "Click SIGN UP (IT'S FREE!)",
+    "needs_review": false
+  }
+]

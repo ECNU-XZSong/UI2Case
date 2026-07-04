@@ -1,0 +1,1572 @@
+{
+  "Page_0": [
+    {
+      "class": "TextView",
+      "text": "Google Play services are updating",
+      "resource_id": null,
+      "bounds": [
+        0,
+        280,
+        1440,
+        893
+      ],
+      "clickable": false,
+      "semantic_label": null
+    },
+    {
+      "class": "AppCompatImageView",
+      "text": null,
+      "resource_id": "map_image",
+      "bounds": [
+        0,
+        280,
+        1440,
+        893
+      ],
+      "clickable": true,
+      "semantic_label": null
+    },
+    {
+      "class": "AppCompatTextView",
+      "text": "Pickup Information",
+      "resource_id": "left_aligned_text",
+      "bounds": [
+        57,
+        935,
+        1365,
+        1061
+      ],
+      "clickable": false,
+      "semantic_label": null
+    },
+    {
+      "class": "AppCompatTextView",
+      "text": null,
+      "resource_id": "right_aligned_text",
+      "bounds": [
+        1365,
+        935,
+        1383,
+        1061
+      ],
+      "clickable": false,
+      "semantic_label": null
+    },
+    {
+      "class": "AppCompatImageView",
+      "text": null,
+      "resource_id": "image_icon",
+      "bounds": [
+        56,
+        1117,
+        112,
+        1173
+      ],
+      "clickable": false,
+      "semantic_label": null
+    },
+    {
+      "class": "AppCompatTextView",
+      "text": "Hours Today",
+      "resource_id": "primary_text",
+      "bounds": [
+        133,
+        1117,
+        797,
+        1179
+      ],
+      "clickable": false,
+      "semantic_label": null
+    },
+    {
+      "class": "AppCompatTextView",
+      "text": "11:00 AM - 9:00 PM",
+      "resource_id": "secondary_text",
+      "bounds": [
+        797,
+        1117,
+        1272,
+        1179
+      ],
+      "clickable": false,
+      "semantic_label": null
+    },
+    {
+      "class": "AppCompatImageView",
+      "text": null,
+      "resource_id": "store_info_chevron",
+      "bounds": [
+        1300,
+        1103,
+        1384,
+        1187
+      ],
+      "clickable": false,
+      "semantic_label": null
+    },
+    {
+      "class": "AppCompatImageView",
+      "text": null,
+      "resource_id": "image_icon",
+      "bounds": [
+        56,
+        1291,
+        112,
+        1347
+      ],
+      "clickable": false,
+      "semantic_label": null
+    },
+    {
+      "class": "AppCompatTextView",
+      "text": "Prepared in 20 mins",
+      "resource_id": "primary_text",
+      "bounds": [
+        133,
+        1291,
+        611,
+        1353
+      ],
+      "clickable": false,
+      "semantic_label": null
+    },
+    {
+      "class": "AppCompatImageView",
+      "text": null,
+      "resource_id": "image_icon",
+      "bounds": [
+        56,
+        1459,
+        112,
+        1515
+      ],
+      "clickable": false,
+      "semantic_label": null
+    },
+    {
+      "class": "AppCompatTextView",
+      "text": "$400 order maximum",
+      "resource_id": "primary_text",
+      "bounds": [
+        133,
+        1459,
+        643,
+        1521
+      ],
+      "clickable": false,
+      "semantic_label": null
+    },
+    {
+      "class": "AppCompatImageView",
+      "text": null,
+      "resource_id": "image_icon",
+      "bounds": [
+        56,
+        1627,
+        112,
+        1683
+      ],
+      "clickable": false,
+      "semantic_label": null
+    },
+    {
+      "class": "AppCompatTextView",
+      "text": "1555 Mission Street",
+      "resource_id": "primary_text",
+      "bounds": [
+        133,
+        1627,
+        613,
+        1689
+      ],
+      "clickable": false,
+      "semantic_label": null
+    },
+    {
+      "class": "AppCompatTextView",
+      "text": "San Francisco, CA 94103",
+      "resource_id": "secondary_text",
+      "bounds": [
+        133,
+        1679,
+        720,
+        1755
+      ],
+      "clickable": false,
+      "semantic_label": null
+    },
+    {
+      "class": "AppCompatButton",
+      "text": "Map",
+      "resource_id": "inline_button",
+      "bounds": [
+        1048,
+        1628,
+        1384,
+        1744
+      ],
+      "clickable": true,
+      "semantic_label": null
+    },
+    {
+      "class": "AppCompatImageView",
+      "text": null,
+      "resource_id": "image_icon",
+      "bounds": [
+        56,
+        1859,
+        112,
+        1915
+      ],
+      "clickable": false,
+      "semantic_label": null
+    },
+    {
+      "class": "AppCompatTextView",
+      "text": "(415) 431-3930",
+      "resource_id": "primary_text",
+      "bounds": [
+        133,
+        1859,
+        505,
+        1921
+      ],
+      "clickable": false,
+      "semantic_label": null
+    },
+    {
+      "class": "AppCompatButton",
+      "text": "Call",
+      "resource_id": "inline_button",
+      "bounds": [
+        1048,
+        1829,
+        1384,
+        1945
+      ],
+      "clickable": true,
+      "semantic_label": null
+    },
+    {
+      "class": "TextView",
+      "text": "Zaoh Restaurant",
+      "resource_id": null,
+      "bounds": [
+        210,
+        135,
+        728,
+        228
+      ],
+      "clickable": false,
+      "semantic_label": null
+    },
+    {
+      "class": "ImageButton",
+      "text": null,
+      "resource_id": null,
+      "bounds": [
+        0,
+        84,
+        196,
+        280
+      ],
+      "clickable": true,
+      "semantic_label": null
+    },
+    {
+      "class": "View",
+      "text": null,
+      "resource_id": "navigationBarBackground",
+      "bounds": [
+        0,
+        2392,
+        1440,
+        2560
+      ],
+      "clickable": false,
+      "semantic_label": null
+    },
+    {
+      "class": "View",
+      "text": null,
+      "resource_id": "statusBarBackground",
+      "bounds": [
+        0,
+        0,
+        1440,
+        84
+      ],
+      "clickable": false,
+      "semantic_label": null
+    }
+  ],
+  "Page_1": [
+    {
+      "class": "AppCompatImageView",
+      "text": null,
+      "resource_id": "store_featured_image",
+      "bounds": [
+        0,
+        84,
+        1440,
+        924
+      ],
+      "clickable": false,
+      "semantic_label": null
+    },
+    {
+      "class": "AppCompatTextView",
+      "text": "Open later 11:00 AM - 9:00 PM",
+      "resource_id": "store_menu_open_hours",
+      "bounds": [
+        56,
+        618,
+        1384,
+        689
+      ],
+      "clickable": false,
+      "semantic_label": null
+    },
+    {
+      "class": "AppCompatTextView",
+      "text": "Zaoh Restaurant",
+      "resource_id": "primary_text",
+      "bounds": [
+        56,
+        689,
+        1384,
+        797
+      ],
+      "clickable": false,
+      "semantic_label": null
+    },
+    {
+      "class": "AppCompatTextView",
+      "text": "1555 Mission Street",
+      "resource_id": "secondary_main_text",
+      "bounds": [
+        685,
+        797,
+        1155,
+        868
+      ],
+      "clickable": false,
+      "semantic_label": null
+    },
+    {
+      "class": "AppCompatTextView",
+      "text": "0.1 mi",
+      "resource_id": "secondary_side_text",
+      "bounds": [
+        1155,
+        797,
+        1384,
+        868
+      ],
+      "clickable": false,
+      "semantic_label": null
+    },
+    {
+      "class": "AppCompatTextView",
+      "text": "Pickup Information",
+      "resource_id": "left_aligned_text",
+      "bounds": [
+        74,
+        994,
+        867,
+        1120
+      ],
+      "clickable": false,
+      "semantic_label": null
+    },
+    {
+      "class": "AppCompatTextView",
+      "text": "Pre-order for 11:20 AM",
+      "resource_id": "right_aligned_text",
+      "bounds": [
+        867,
+        994,
+        1366,
+        1120
+      ],
+      "clickable": false,
+      "semantic_label": null
+    },
+    {
+      "class": "AppCompatImageView",
+      "text": null,
+      "resource_id": "image_icon",
+      "bounds": [
+        84,
+        1176,
+        140,
+        1232
+      ],
+      "clickable": false,
+      "semantic_label": null
+    },
+    {
+      "class": "AppCompatTextView",
+      "text": "ASAP Pre-order (11:20 AM)",
+      "resource_id": "primary_text",
+      "bounds": [
+        168,
+        1173,
+        831,
+        1235
+      ],
+      "clickable": false,
+      "semantic_label": null
+    },
+    {
+      "class": "View",
+      "text": null,
+      "resource_id": "header_divider",
+      "bounds": [
+        74,
+        1330,
+        1366,
+        1358
+      ],
+      "clickable": false,
+      "semantic_label": null
+    },
+    {
+      "class": "AppCompatTextView",
+      "text": "Menu",
+      "resource_id": "left_aligned_text",
+      "bounds": [
+        74,
+        1358,
+        1348,
+        1484
+      ],
+      "clickable": false,
+      "semantic_label": null
+    },
+    {
+      "class": "AppCompatTextView",
+      "text": null,
+      "resource_id": "right_aligned_text",
+      "bounds": [
+        1348,
+        1358,
+        1366,
+        1484
+      ],
+      "clickable": false,
+      "semantic_label": null
+    },
+    {
+      "class": "AppCompatTextView",
+      "text": "Sushi Rolls",
+      "resource_id": "primary_text",
+      "bounds": [
+        74,
+        1532,
+        340,
+        1603
+      ],
+      "clickable": false,
+      "semantic_label": null
+    },
+    {
+      "class": "AppCompatTextView",
+      "text": "Nigiri Sushi",
+      "resource_id": "primary_text",
+      "bounds": [
+        74,
+        1700,
+        349,
+        1771
+      ],
+      "clickable": false,
+      "semantic_label": null
+    },
+    {
+      "class": "AppCompatTextView",
+      "text": "Hand Rolls",
+      "resource_id": "primary_text",
+      "bounds": [
+        74,
+        1868,
+        331,
+        1939
+      ],
+      "clickable": false,
+      "semantic_label": null
+    },
+    {
+      "class": "AppCompatTextView",
+      "text": "Sushi Combos (Lunch)",
+      "resource_id": "primary_text",
+      "bounds": [
+        74,
+        2036,
+        617,
+        2107
+      ],
+      "clickable": false,
+      "semantic_label": null
+    },
+    {
+      "class": "AppCompatButton",
+      "text": null,
+      "resource_id": "cart_button",
+      "bounds": [
+        21,
+        2226,
+        231,
+        2371
+      ],
+      "clickable": true,
+      "semantic_label": null
+    },
+    {
+      "class": "AppCompatTextView",
+      "text": "$0.00 subtotal",
+      "resource_id": "current_total",
+      "bounds": [
+        551,
+        2263,
+        889,
+        2334
+      ],
+      "clickable": false,
+      "semantic_label": null
+    },
+    {
+      "class": "AppCompatButton",
+      "text": "Checkout",
+      "resource_id": "checkout_button",
+      "bounds": [
+        1098,
+        2226,
+        1419,
+        2371
+      ],
+      "clickable": true,
+      "semantic_label": null
+    },
+    {
+      "class": "ImageButton",
+      "text": null,
+      "resource_id": null,
+      "bounds": [
+        0,
+        84,
+        196,
+        280
+      ],
+      "clickable": true,
+      "semantic_label": null
+    },
+    {
+      "class": "ActionMenuItemView",
+      "text": null,
+      "resource_id": "store_info",
+      "bounds": [
+        1272,
+        98,
+        1440,
+        266
+      ],
+      "clickable": true,
+      "semantic_label": null
+    },
+    {
+      "class": "View",
+      "text": null,
+      "resource_id": "navigationBarBackground",
+      "bounds": [
+        0,
+        2392,
+        1440,
+        2560
+      ],
+      "clickable": false,
+      "semantic_label": null
+    },
+    {
+      "class": "View",
+      "text": null,
+      "resource_id": "statusBarBackground",
+      "bounds": [
+        0,
+        0,
+        1440,
+        84
+      ],
+      "clickable": false,
+      "semantic_label": null
+    }
+  ],
+  "Page_2": [
+    {
+      "class": "TextView",
+      "text": "Combinations",
+      "resource_id": null,
+      "bounds": [
+        0,
+        280,
+        84,
+        449
+      ],
+      "clickable": true,
+      "semantic_label": null
+    },
+    {
+      "class": "TextView",
+      "text": "Ramen",
+      "resource_id": null,
+      "bounds": [
+        84,
+        280,
+        342,
+        449
+      ],
+      "clickable": true,
+      "semantic_label": null
+    },
+    {
+      "class": "TextView",
+      "text": "Udon",
+      "resource_id": null,
+      "bounds": [
+        342,
+        280,
+        568,
+        449
+      ],
+      "clickable": true,
+      "semantic_label": null
+    },
+    {
+      "class": "TextView",
+      "text": "Healthy Soba",
+      "resource_id": null,
+      "bounds": [
+        568,
+        280,
+        982,
+        449
+      ],
+      "clickable": true,
+      "semantic_label": null
+    },
+    {
+      "class": "TextView",
+      "text": "Donburi",
+      "resource_id": null,
+      "bounds": [
+        982,
+        280,
+        1274,
+        449
+      ],
+      "clickable": true,
+      "semantic_label": null
+    },
+    {
+      "class": "TextView",
+      "text": "Chef's Specials",
+      "resource_id": null,
+      "bounds": [
+        1274,
+        280,
+        1440,
+        449
+      ],
+      "clickable": true,
+      "semantic_label": null
+    },
+    {
+      "class": "AppCompatTextView",
+      "text": "Chicken Teriyaki Ramen",
+      "resource_id": "primary_text",
+      "bounds": [
+        56,
+        505,
+        1205,
+        576
+      ],
+      "clickable": false,
+      "semantic_label": null
+    },
+    {
+      "class": "AppCompatTextView",
+      "text": "$12.95",
+      "resource_id": "right_aligned_text",
+      "bounds": [
+        1219,
+        505,
+        1384,
+        576
+      ],
+      "clickable": false,
+      "semantic_label": null
+    },
+    {
+      "class": "AppCompatTextView",
+      "text": "Chicken teriyaki ramen.",
+      "resource_id": "secondary_text",
+      "bounds": [
+        56,
+        576,
+        1384,
+        642
+      ],
+      "clickable": false,
+      "semantic_label": null
+    },
+    {
+      "class": "AppCompatTextView",
+      "text": "Beef Teriyaki Ramen",
+      "resource_id": "primary_text",
+      "bounds": [
+        56,
+        698,
+        1205,
+        769
+      ],
+      "clickable": false,
+      "semantic_label": null
+    },
+    {
+      "class": "AppCompatTextView",
+      "text": "$12.95",
+      "resource_id": "right_aligned_text",
+      "bounds": [
+        1219,
+        698,
+        1384,
+        769
+      ],
+      "clickable": false,
+      "semantic_label": null
+    },
+    {
+      "class": "AppCompatTextView",
+      "text": "Beef teriyaki ramen.",
+      "resource_id": "secondary_text",
+      "bounds": [
+        56,
+        769,
+        1384,
+        835
+      ],
+      "clickable": false,
+      "semantic_label": null
+    },
+    {
+      "class": "AppCompatTextView",
+      "text": "Shrimp Tempura Ramen",
+      "resource_id": "primary_text",
+      "bounds": [
+        56,
+        891,
+        1205,
+        962
+      ],
+      "clickable": false,
+      "semantic_label": null
+    },
+    {
+      "class": "AppCompatTextView",
+      "text": "$12.95",
+      "resource_id": "right_aligned_text",
+      "bounds": [
+        1219,
+        891,
+        1384,
+        962
+      ],
+      "clickable": false,
+      "semantic_label": null
+    },
+    {
+      "class": "AppCompatTextView",
+      "text": "Shrimp tempura ramen.",
+      "resource_id": "secondary_text",
+      "bounds": [
+        56,
+        962,
+        1384,
+        1028
+      ],
+      "clickable": false,
+      "semantic_label": null
+    },
+    {
+      "class": "AppCompatButton",
+      "text": null,
+      "resource_id": "cart_button",
+      "bounds": [
+        21,
+        2226,
+        231,
+        2371
+      ],
+      "clickable": true,
+      "semantic_label": null
+    },
+    {
+      "class": "AppCompatTextView",
+      "text": "$0.00 subtotal",
+      "resource_id": "current_total",
+      "bounds": [
+        551,
+        2263,
+        889,
+        2334
+      ],
+      "clickable": false,
+      "semantic_label": null
+    },
+    {
+      "class": "AppCompatButton",
+      "text": "Checkout",
+      "resource_id": "checkout_button",
+      "bounds": [
+        1098,
+        2226,
+        1419,
+        2371
+      ],
+      "clickable": true,
+      "semantic_label": null
+    },
+    {
+      "class": "TextView",
+      "text": "Zaoh Restaurant",
+      "resource_id": null,
+      "bounds": [
+        210,
+        135,
+        728,
+        228
+      ],
+      "clickable": false,
+      "semantic_label": null
+    },
+    {
+      "class": "ImageButton",
+      "text": null,
+      "resource_id": null,
+      "bounds": [
+        0,
+        84,
+        196,
+        280
+      ],
+      "clickable": true,
+      "semantic_label": null
+    },
+    {
+      "class": "View",
+      "text": null,
+      "resource_id": "navigationBarBackground",
+      "bounds": [
+        0,
+        2392,
+        1440,
+        2560
+      ],
+      "clickable": false,
+      "semantic_label": null
+    },
+    {
+      "class": "View",
+      "text": null,
+      "resource_id": "statusBarBackground",
+      "bounds": [
+        0,
+        0,
+        1440,
+        84
+      ],
+      "clickable": false,
+      "semantic_label": null
+    }
+  ],
+  "Page_3": [
+    {
+      "class": "TextView",
+      "text": "OrderAhead",
+      "resource_id": null,
+      "bounds": [
+        210,
+        135,
+        587,
+        228
+      ],
+      "clickable": false,
+      "semantic_label": null
+    },
+    {
+      "class": "ImageButton",
+      "text": null,
+      "resource_id": null,
+      "bounds": [
+        0,
+        84,
+        196,
+        280
+      ],
+      "clickable": true,
+      "semantic_label": null
+    },
+    {
+      "class": "ActionMenuItemView",
+      "text": null,
+      "resource_id": "search",
+      "bounds": [
+        1104,
+        98,
+        1272,
+        266
+      ],
+      "clickable": true,
+      "semantic_label": null
+    },
+    {
+      "class": "ActionMenuItemView",
+      "text": null,
+      "resource_id": "refresh",
+      "bounds": [
+        1272,
+        98,
+        1440,
+        266
+      ],
+      "clickable": true,
+      "semantic_label": null
+    },
+    {
+      "class": "AppCompatTextView",
+      "text": "BY",
+      "resource_id": null,
+      "bounds": [
+        56,
+        333,
+        112,
+        395
+      ],
+      "clickable": false,
+      "semantic_label": null
+    },
+    {
+      "class": "AppCompatTextView",
+      "text": "Current Location",
+      "resource_id": "store_list_search_location",
+      "bounds": [
+        147,
+        328,
+        547,
+        399
+      ],
+      "clickable": false,
+      "semantic_label": null
+    },
+    {
+      "class": "View",
+      "text": null,
+      "resource_id": null,
+      "bounds": [
+        719,
+        308,
+        721,
+        420
+      ],
+      "clickable": false,
+      "semantic_label": null
+    },
+    {
+      "class": "AppCompatTextView",
+      "text": "AT",
+      "resource_id": null,
+      "bounds": [
+        777,
+        333,
+        831,
+        395
+      ],
+      "clickable": false,
+      "semantic_label": null
+    },
+    {
+      "class": "AppCompatTextView",
+      "text": "ASAP",
+      "resource_id": "store_list_ready_time",
+      "bounds": [
+        866,
+        328,
+        1005,
+        399
+      ],
+      "clickable": false,
+      "semantic_label": null
+    },
+    {
+      "class": "AppCompatImageView",
+      "text": null,
+      "resource_id": "logo_image",
+      "bounds": [
+        0,
+        448,
+        1440,
+        1008
+      ],
+      "clickable": false,
+      "semantic_label": null
+    },
+    {
+      "class": "View",
+      "text": null,
+      "resource_id": null,
+      "bounds": [
+        0,
+        798,
+        1440,
+        1008
+      ],
+      "clickable": false,
+      "semantic_label": null
+    },
+    {
+      "class": "AppCompatTextView",
+      "text": "Zaoh Restaurant",
+      "resource_id": "primary_text",
+      "bounds": [
+        53,
+        838,
+        1387,
+        904
+      ],
+      "clickable": false,
+      "semantic_label": null
+    },
+    {
+      "class": "AppCompatImageView",
+      "text": null,
+      "resource_id": "inline_icon",
+      "bounds": [
+        53,
+        921,
+        95,
+        963
+      ],
+      "clickable": false,
+      "semantic_label": null
+    },
+    {
+      "class": "AppCompatTextView",
+      "text": "Opens at 11:00 AM",
+      "resource_id": "secondary_text",
+      "bounds": [
+        106,
+        918,
+        1258,
+        967
+      ],
+      "clickable": false,
+      "semantic_label": null
+    },
+    {
+      "class": "AppCompatTextView",
+      "text": "0.1",
+      "resource_id": "store_mileage",
+      "bounds": [
+        1269,
+        918,
+        1329,
+        967
+      ],
+      "clickable": false,
+      "semantic_label": null
+    },
+    {
+      "class": "AppCompatTextView",
+      "text": "mi",
+      "resource_id": "right_aligned_text",
+      "bounds": [
+        1340,
+        918,
+        1387,
+        967
+      ],
+      "clickable": false,
+      "semantic_label": null
+    },
+    {
+      "class": "AppCompatImageView",
+      "text": null,
+      "resource_id": "logo_image",
+      "bounds": [
+        0,
+        1050,
+        1440,
+        1610
+      ],
+      "clickable": false,
+      "semantic_label": null
+    },
+    {
+      "class": "View",
+      "text": null,
+      "resource_id": null,
+      "bounds": [
+        0,
+        1400,
+        1440,
+        1610
+      ],
+      "clickable": false,
+      "semantic_label": null
+    },
+    {
+      "class": "AppCompatTextView",
+      "text": "Taqueria Cazadores",
+      "resource_id": "primary_text",
+      "bounds": [
+        53,
+        1440,
+        1387,
+        1506
+      ],
+      "clickable": false,
+      "semantic_label": null
+    },
+    {
+      "class": "AppCompatImageView",
+      "text": null,
+      "resource_id": "inline_icon",
+      "bounds": [
+        53,
+        1523,
+        95,
+        1565
+      ],
+      "clickable": false,
+      "semantic_label": null
+    },
+    {
+      "class": "AppCompatTextView",
+      "text": "Opens at 9:00 AM",
+      "resource_id": "secondary_text",
+      "bounds": [
+        106,
+        1520,
+        1258,
+        1569
+      ],
+      "clickable": false,
+      "semantic_label": null
+    },
+    {
+      "class": "AppCompatTextView",
+      "text": "0.1",
+      "resource_id": "store_mileage",
+      "bounds": [
+        1269,
+        1520,
+        1329,
+        1569
+      ],
+      "clickable": false,
+      "semantic_label": null
+    },
+    {
+      "class": "AppCompatTextView",
+      "text": "mi",
+      "resource_id": "right_aligned_text",
+      "bounds": [
+        1340,
+        1520,
+        1387,
+        1569
+      ],
+      "clickable": false,
+      "semantic_label": null
+    },
+    {
+      "class": "AppCompatImageView",
+      "text": null,
+      "resource_id": "logo_image",
+      "bounds": [
+        0,
+        1652,
+        1440,
+        2212
+      ],
+      "clickable": false,
+      "semantic_label": null
+    },
+    {
+      "class": "View",
+      "text": null,
+      "resource_id": null,
+      "bounds": [
+        0,
+        2002,
+        1440,
+        2212
+      ],
+      "clickable": false,
+      "semantic_label": null
+    },
+    {
+      "class": "AppCompatTextView",
+      "text": "Gaslamp Cafe",
+      "resource_id": "primary_text",
+      "bounds": [
+        53,
+        2042,
+        1387,
+        2108
+      ],
+      "clickable": false,
+      "semantic_label": null
+    },
+    {
+      "class": "AppCompatImageView",
+      "text": null,
+      "resource_id": "inline_icon",
+      "bounds": [
+        53,
+        2125,
+        95,
+        2167
+      ],
+      "clickable": false,
+      "semantic_label": null
+    },
+    {
+      "class": "AppCompatTextView",
+      "text": "1599 Howard Street",
+      "resource_id": "secondary_text",
+      "bounds": [
+        106,
+        2122,
+        1258,
+        2171
+      ],
+      "clickable": false,
+      "semantic_label": null
+    },
+    {
+      "class": "AppCompatTextView",
+      "text": "0.2",
+      "resource_id": "store_mileage",
+      "bounds": [
+        1269,
+        2122,
+        1329,
+        2171
+      ],
+      "clickable": false,
+      "semantic_label": null
+    },
+    {
+      "class": "AppCompatTextView",
+      "text": "mi",
+      "resource_id": "right_aligned_text",
+      "bounds": [
+        1340,
+        2122,
+        1387,
+        2171
+      ],
+      "clickable": false,
+      "semantic_label": null
+    },
+    {
+      "class": "AppCompatImageView",
+      "text": null,
+      "resource_id": "logo_image",
+      "bounds": [
+        0,
+        2254,
+        1440,
+        2392
+      ],
+      "clickable": false,
+      "semantic_label": null
+    },
+    {
+      "class": "FrameLayout",
+      "text": null,
+      "resource_id": "search_section_shadow",
+      "bounds": [
+        0,
+        448,
+        1440,
+        460
+      ],
+      "clickable": false,
+      "semantic_label": null
+    },
+    {
+      "class": "AppCompatImageView",
+      "text": null,
+      "resource_id": "icon",
+      "bounds": [
+        56,
+        336,
+        140,
+        420
+      ],
+      "clickable": false,
+      "semantic_label": null
+    },
+    {
+      "class": "AppCompatTextView",
+      "text": "Explore Places",
+      "resource_id": "primary_text",
+      "bounds": [
+        140,
+        340,
+        548,
+        416
+      ],
+      "clickable": false,
+      "semantic_label": null
+    },
+    {
+      "class": "AppCompatImageView",
+      "text": null,
+      "resource_id": "icon",
+      "bounds": [
+        56,
+        476,
+        140,
+        560
+      ],
+      "clickable": false,
+      "semantic_label": null
+    },
+    {
+      "class": "AppCompatTextView",
+      "text": "Sign In",
+      "resource_id": "primary_text",
+      "bounds": [
+        140,
+        480,
+        351,
+        556
+      ],
+      "clickable": false,
+      "semantic_label": null
+    },
+    {
+      "class": "AppCompatImageView",
+      "text": null,
+      "resource_id": "icon",
+      "bounds": [
+        56,
+        616,
+        140,
+        700
+      ],
+      "clickable": false,
+      "semantic_label": null
+    },
+    {
+      "class": "AppCompatTextView",
+      "text": "Sign Up",
+      "resource_id": "primary_text",
+      "bounds": [
+        140,
+        620,
+        372,
+        696
+      ],
+      "clickable": false,
+      "semantic_label": null
+    },
+    {
+      "class": "AppCompatImageView",
+      "text": null,
+      "resource_id": "icon",
+      "bounds": [
+        56,
+        2252,
+        140,
+        2336
+      ],
+      "clickable": false,
+      "semantic_label": null
+    },
+    {
+      "class": "AppCompatTextView",
+      "text": "About / Support",
+      "resource_id": "primary_text",
+      "bounds": [
+        140,
+        2256,
+        578,
+        2332
+      ],
+      "clickable": false,
+      "semantic_label": null
+    },
+    {
+      "class": "View",
+      "text": null,
+      "resource_id": "navigationBarBackground",
+      "bounds": [
+        0,
+        2392,
+        1440,
+        2560
+      ],
+      "clickable": false,
+      "semantic_label": null
+    },
+    {
+      "class": "View",
+      "text": null,
+      "resource_id": "statusBarBackground",
+      "bounds": [
+        0,
+        0,
+        1440,
+        84
+      ],
+      "clickable": false,
+      "semantic_label": null
+    }
+  ],
+  "Page_4": [
+    {
+      "class": "AppCompatEditText",
+      "text": "appcrawler4@gmail.com",
+      "resource_id": "username",
+      "bounds": [
+        53,
+        333,
+        1387,
+        491
+      ],
+      "clickable": true,
+      "semantic_label": null
+    },
+    {
+      "class": "AppCompatEditText",
+      "text": null,
+      "resource_id": "password",
+      "bounds": [
+        53,
+        554,
+        1387,
+        712
+      ],
+      "clickable": true,
+      "semantic_label": null
+    },
+    {
+      "class": "AppCompatEditText",
+      "text": null,
+      "resource_id": "confirm_password",
+      "bounds": [
+        53,
+        747,
+        1387,
+        905
+      ],
+      "clickable": true,
+      "semantic_label": null
+    },
+    {
+      "class": "AppCompatEditText",
+      "text": null,
+      "resource_id": "promo_code",
+      "bounds": [
+        53,
+        968,
+        1387,
+        1126
+      ],
+      "clickable": true,
+      "semantic_label": null
+    },
+    {
+      "class": "AppCompatButton",
+      "text": "Sign Up",
+      "resource_id": "login_button",
+      "bounds": [
+        53,
+        1224,
+        1387,
+        1392
+      ],
+      "clickable": true,
+      "semantic_label": null
+    },
+    {
+      "class": "AppCompatTextView",
+      "text": "By clicking \"Sign Up\", you agree to our Terms of Service and Privacy Policy",
+      "resource_id": "privacy_message",
+      "bounds": [
+        53,
+        1455,
+        1387,
+        1582
+      ],
+      "clickable": true,
+      "semantic_label": null
+    },
+    {
+      "class": "TextView",
+      "text": "Create Account",
+      "resource_id": null,
+      "bounds": [
+        210,
+        135,
+        696,
+        228
+      ],
+      "clickable": false,
+      "semantic_label": null
+    },
+    {
+      "class": "ImageButton",
+      "text": null,
+      "resource_id": null,
+      "bounds": [
+        0,
+        84,
+        196,
+        280
+      ],
+      "clickable": true,
+      "semantic_label": null
+    },
+    {
+      "class": "View",
+      "text": null,
+      "resource_id": "navigationBarBackground",
+      "bounds": [
+        0,
+        2392,
+        1440,
+        2560
+      ],
+      "clickable": false,
+      "semantic_label": null
+    },
+    {
+      "class": "View",
+      "text": null,
+      "resource_id": "statusBarBackground",
+      "bounds": [
+        0,
+        0,
+        1440,
+        84
+      ],
+      "clickable": false,
+      "semantic_label": null
+    }
+  ]
+}

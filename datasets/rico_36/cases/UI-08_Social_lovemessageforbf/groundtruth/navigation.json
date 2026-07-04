@@ -1,0 +1,20 @@
+[
+  {
+    "source_page": "Page_4",
+    "target_page": "Page_2",
+    "action": "Click Love Messages",
+    "needs_review": false
+  },
+  {
+    "source_page": "Page_2",
+    "target_page": "Page_1",
+    "action": "Click the share button",
+    "needs_review": false
+  },
+  {
+    "source_page": "Page_4",
+    "target_page": "Page_3",
+    "action": "Click the like icon",
+    "needs_review": false
+  }
+]

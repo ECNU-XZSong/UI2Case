@@ -1,0 +1,541 @@
+{
+  "Page_0": [
+    {
+      "class": "ListView",
+      "text": null,
+      "resource_id": "list",
+      "bounds": [
+        0,
+        252,
+        1440,
+        2392
+      ],
+      "clickable": true,
+      "semantic_label": null
+    },
+    {
+      "class": "TextView",
+      "text": "Show Tabs",
+      "resource_id": "title",
+      "bounds": [
+        84,
+        288,
+        391,
+        373
+      ],
+      "clickable": false,
+      "semantic_label": null
+    },
+    {
+      "class": "TextView",
+      "text": "View menu tab to navigate across columns",
+      "resource_id": "summary",
+      "bounds": [
+        84,
+        373,
+        1021,
+        439
+      ],
+      "clickable": false,
+      "semantic_label": null
+    },
+    {
+      "class": "CheckBox",
+      "text": null,
+      "resource_id": "checkbox",
+      "bounds": [
+        1209,
+        308,
+        1321,
+        420
+      ],
+      "clickable": false,
+      "semantic_label": null
+    },
+    {
+      "class": "TextView",
+      "text": "Full Screen",
+      "resource_id": "title",
+      "bounds": [
+        84,
+        514,
+        390,
+        599
+      ],
+      "clickable": false,
+      "semantic_label": null
+    },
+    {
+      "class": "TextView",
+      "text": "Show article in fullscreen on scroll",
+      "resource_id": "summary",
+      "bounds": [
+        84,
+        599,
+        831,
+        665
+      ],
+      "clickable": false,
+      "semantic_label": null
+    },
+    {
+      "class": "CheckBox",
+      "text": null,
+      "resource_id": "checkbox",
+      "bounds": [
+        1209,
+        534,
+        1321,
+        646
+      ],
+      "clickable": false,
+      "semantic_label": null
+    },
+    {
+      "class": "TextView",
+      "text": "Night Mode",
+      "resource_id": "title",
+      "bounds": [
+        84,
+        773,
+        411,
+        858
+      ],
+      "clickable": false,
+      "semantic_label": null
+    },
+    {
+      "class": "CheckBox",
+      "text": null,
+      "resource_id": "checkbox",
+      "bounds": [
+        1209,
+        760,
+        1321,
+        872
+      ],
+      "clickable": false,
+      "semantic_label": null
+    },
+    {
+      "class": "TextView",
+      "text": "Show Large Images",
+      "resource_id": "title",
+      "bounds": [
+        84,
+        999,
+        633,
+        1084
+      ],
+      "clickable": false,
+      "semantic_label": null
+    },
+    {
+      "class": "CheckBox",
+      "text": null,
+      "resource_id": "checkbox",
+      "bounds": [
+        1209,
+        986,
+        1321,
+        1098
+      ],
+      "clickable": false,
+      "semantic_label": null
+    },
+    {
+      "class": "TextView",
+      "text": "Show Read/Unread Status",
+      "resource_id": "title",
+      "bounds": [
+        84,
+        1192,
+        818,
+        1277
+      ],
+      "clickable": false,
+      "semantic_label": null
+    },
+    {
+      "class": "TextView",
+      "text": "Tap on [R] for unread",
+      "resource_id": "summary",
+      "bounds": [
+        84,
+        1277,
+        537,
+        1343
+      ],
+      "clickable": false,
+      "semantic_label": null
+    },
+    {
+      "class": "CheckBox",
+      "text": null,
+      "resource_id": "checkbox",
+      "bounds": [
+        1209,
+        1212,
+        1321,
+        1324
+      ],
+      "clickable": false,
+      "semantic_label": null
+    },
+    {
+      "class": "TextView",
+      "text": "Set Headlines View",
+      "resource_id": "title",
+      "bounds": [
+        84,
+        1451,
+        620,
+        1536
+      ],
+      "clickable": false,
+      "semantic_label": null
+    },
+    {
+      "class": "TextView",
+      "text": "Set Article Reading View",
+      "resource_id": "title",
+      "bounds": [
+        84,
+        1677,
+        766,
+        1762
+      ],
+      "clickable": false,
+      "semantic_label": null
+    },
+    {
+      "class": "TextView",
+      "text": "Notification Settings",
+      "resource_id": "title",
+      "bounds": [
+        56,
+        1834,
+        1384,
+        1946
+      ],
+      "clickable": false,
+      "semantic_label": null
+    },
+    {
+      "class": "TextView",
+      "text": "News Push Notification",
+      "resource_id": "title",
+      "bounds": [
+        84,
+        2017,
+        741,
+        2102
+      ],
+      "clickable": false,
+      "semantic_label": null
+    },
+    {
+      "class": "CheckBox",
+      "text": null,
+      "resource_id": "checkbox",
+      "bounds": [
+        1209,
+        2004,
+        1321,
+        2116
+      ],
+      "clickable": false,
+      "semantic_label": null
+    },
+    {
+      "class": "TextView",
+      "text": "Sound On Notification",
+      "resource_id": "title",
+      "bounds": [
+        84,
+        2243,
+        699,
+        2328
+      ],
+      "clickable": false,
+      "semantic_label": null
+    },
+    {
+      "class": "CheckBox",
+      "text": null,
+      "resource_id": "checkbox",
+      "bounds": [
+        1209,
+        2230,
+        1321,
+        2342
+      ],
+      "clickable": false,
+      "semantic_label": null
+    },
+    {
+      "class": "ImageView",
+      "text": null,
+      "resource_id": "home",
+      "bounds": [
+        43,
+        112,
+        155,
+        224
+      ],
+      "clickable": false,
+      "semantic_label": null
+    },
+    {
+      "class": "TextView",
+      "text": "Settings",
+      "resource_id": "action_bar_title",
+      "bounds": [
+        169,
+        125,
+        398,
+        210
+      ],
+      "clickable": false,
+      "semantic_label": null
+    },
+    {
+      "class": "View",
+      "text": null,
+      "resource_id": "navigationBarBackground",
+      "bounds": [
+        0,
+        2392,
+        1440,
+        2560
+      ],
+      "clickable": false,
+      "semantic_label": null
+    },
+    {
+      "class": "View",
+      "text": null,
+      "resource_id": "statusBarBackground",
+      "bounds": [
+        0,
+        0,
+        1440,
+        84
+      ],
+      "clickable": false,
+      "semantic_label": null
+    }
+  ],
+  "Page_1": [
+    {
+      "class": "ObservableWebView",
+      "text": null,
+      "resource_id": null,
+      "bounds": [
+        0,
+        252,
+        1440,
+        2392
+      ],
+      "clickable": true,
+      "semantic_label": null
+    },
+    {
+      "class": "MMWebView",
+      "text": null,
+      "resource_id": null,
+      "bounds": [
+        0,
+        2217,
+        1,
+        2218
+      ],
+      "clickable": true,
+      "semantic_label": null
+    },
+    {
+      "class": "ImageView",
+      "text": null,
+      "resource_id": "home",
+      "bounds": [
+        43,
+        112,
+        155,
+        224
+      ],
+      "clickable": false,
+      "semantic_label": null
+    },
+    {
+      "class": "ActionMenuItemView",
+      "text": null,
+      "resource_id": "webview",
+      "bounds": [
+        848,
+        84,
+        1044,
+        252
+      ],
+      "clickable": true,
+      "semantic_label": null
+    },
+    {
+      "class": "ActionMenuItemView",
+      "text": "A+ / A-",
+      "resource_id": "resize",
+      "bounds": [
+        1046,
+        84,
+        1242,
+        252
+      ],
+      "clickable": true,
+      "semantic_label": null
+    },
+    {
+      "class": "ActionMenuItemView",
+      "text": null,
+      "resource_id": "share",
+      "bounds": [
+        1244,
+        84,
+        1440,
+        252
+      ],
+      "clickable": true,
+      "semantic_label": null
+    },
+    {
+      "class": "View",
+      "text": null,
+      "resource_id": "navigationBarBackground",
+      "bounds": [
+        0,
+        2392,
+        1440,
+        2560
+      ],
+      "clickable": false,
+      "semantic_label": null
+    },
+    {
+      "class": "View",
+      "text": null,
+      "resource_id": "statusBarBackground",
+      "bounds": [
+        0,
+        0,
+        1440,
+        84
+      ],
+      "clickable": false,
+      "semantic_label": null
+    }
+  ],
+  "Page_2": [
+    {
+      "class": "WebView",
+      "text": null,
+      "resource_id": "potrait_hview",
+      "bounds": [
+        0,
+        252,
+        1440,
+        2392
+      ],
+      "clickable": true,
+      "semantic_label": null
+    },
+    {
+      "class": "ImageView",
+      "text": null,
+      "resource_id": "home",
+      "bounds": [
+        43,
+        112,
+        155,
+        224
+      ],
+      "clickable": false,
+      "semantic_label": null
+    },
+    {
+      "class": "TextView",
+      "text": "Drudge",
+      "resource_id": "action_bar_title",
+      "bounds": [
+        169,
+        125,
+        370,
+        210
+      ],
+      "clickable": false,
+      "semantic_label": null
+    },
+    {
+      "class": "ActionMenuItemView",
+      "text": null,
+      "resource_id": "refresh",
+      "bounds": [
+        852,
+        84,
+        1048,
+        252
+      ],
+      "clickable": true,
+      "semantic_label": null
+    },
+    {
+      "class": "ActionMenuItemView",
+      "text": null,
+      "resource_id": "settings",
+      "bounds": [
+        1048,
+        84,
+        1244,
+        252
+      ],
+      "clickable": true,
+      "semantic_label": null
+    },
+    {
+      "class": "ActionMenuPresenter$OverflowMenuButton",
+      "text": null,
+      "resource_id": null,
+      "bounds": [
+        1244,
+        84,
+        1440,
+        252
+      ],
+      "clickable": true,
+      "semantic_label": null
+    },
+    {
+      "class": "View",
+      "text": null,
+      "resource_id": "navigationBarBackground",
+      "bounds": [
+        0,
+        2392,
+        1440,
+        2560
+      ],
+      "clickable": false,
+      "semantic_label": null
+    },
+    {
+      "class": "View",
+      "text": null,
+      "resource_id": "statusBarBackground",
+      "bounds": [
+        0,
+        0,
+        1440,
+        84
+      ],
+      "clickable": false,
+      "semantic_label": null
+    }
+  ]
+}

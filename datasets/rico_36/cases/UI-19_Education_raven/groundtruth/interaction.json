@@ -1,0 +1,190 @@
+{
+  "Page_0": [
+    {
+      "action": "Click the Back",
+      "target_element": "Button",
+      "target_text": "Back",
+      "target_resid": "btnBack",
+      "bounds": [
+        1216,
+        154,
+        1440,
+        322
+      ],
+      "exercised": false,
+      "expected_next_page": null
+    },
+    {
+      "action": "Click the imageButton1",
+      "target_element": "ImageButton",
+      "target_text": null,
+      "target_resid": "imageButton1",
+      "bounds": [
+        22,
+        1199,
+        487,
+        1507
+      ],
+      "exercised": false,
+      "expected_next_page": null
+    },
+    {
+      "action": "Click the imageButton2",
+      "target_element": "ImageButton",
+      "target_text": null,
+      "target_resid": "imageButton2",
+      "bounds": [
+        487,
+        1199,
+        952,
+        1507
+      ],
+      "exercised": false,
+      "expected_next_page": null
+    },
+    {
+      "action": "Click the imageButton3",
+      "target_element": "ImageButton",
+      "target_text": null,
+      "target_resid": "imageButton3",
+      "bounds": [
+        952,
+        1199,
+        1417,
+        1507
+      ],
+      "exercised": false,
+      "expected_next_page": null
+    },
+    {
+      "action": "Click the imageButton4",
+      "target_element": "ImageButton",
+      "target_text": null,
+      "target_resid": "imageButton4",
+      "bounds": [
+        22,
+        1507,
+        487,
+        1815
+      ],
+      "exercised": false,
+      "expected_next_page": null
+    },
+    {
+      "action": "Click the imageButton5",
+      "target_element": "ImageButton",
+      "target_text": null,
+      "target_resid": "imageButton5",
+      "bounds": [
+        487,
+        1507,
+        952,
+        1815
+      ],
+      "exercised": false,
+      "expected_next_page": null
+    },
+    {
+      "action": "Click the imageButton6",
+      "target_element": "ImageButton",
+      "target_text": null,
+      "target_resid": "imageButton6",
+      "bounds": [
+        952,
+        1507,
+        1417,
+        1815
+      ],
+      "exercised": false,
+      "expected_next_page": null
+    },
+    {
+      "action": "Click the Next",
+      "target_element": "Button",
+      "target_text": "Next",
+      "target_resid": "btnNext",
+      "bounds": [
+        1003,
+        1849,
+        1366,
+        2089
+      ],
+      "exercised": false,
+      "expected_next_page": null
+    }
+  ],
+  "Page_1": [
+    {
+      "action": "Click the Back",
+      "target_element": "Button",
+      "target_text": "Back",
+      "target_resid": "btnBack2",
+      "bounds": [
+        1181,
+        2014,
+        1405,
+        2182
+      ],
+      "exercised": false,
+      "expected_next_page": null
+    },
+    {
+      "action": "Click the o",
+      "target_element": "o",
+      "target_text": null,
+      "target_resid": null,
+      "bounds": [
+        160,
+        2217,
+        1280,
+        2392
+      ],
+      "exercised": false,
+      "expected_next_page": null
+    }
+  ],
+  "Page_2": [
+    {
+      "action": "Click the Begin test",
+      "target_element": "Button",
+      "target_text": "Begin test",
+      "target_resid": "btbBegin",
+      "bounds": [
+        538,
+        865,
+        902,
+        1033
+      ],
+      "exercised": false,
+      "expected_next_page": null
+    },
+    {
+      "action": "Click the Top 10 results",
+      "target_element": "Button",
+      "target_text": "Top 10 results",
+      "target_resid": "btnResults",
+      "bounds": [
+        480,
+        1068,
+        960,
+        1236
+      ],
+      "exercised": false,
+      "expected_next_page": null
+    },
+    {
+      "action": "Click the o",
+      "target_element": "o",
+      "target_text": null,
+      "target_resid": null,
+      "bounds": [
+        160,
+        2217,
+        1280,
+        2392
+      ],
+      "exercised": false,
+      "expected_next_page": null
+    }
+  ]
+}

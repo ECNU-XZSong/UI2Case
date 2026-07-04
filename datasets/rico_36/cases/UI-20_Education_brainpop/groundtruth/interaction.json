@@ -1,0 +1,206 @@
+{
+  "Page_0": [
+    {
+      "action": "Click the logo_button",
+      "target_element": "ImageView",
+      "target_text": null,
+      "target_resid": "logo_button",
+      "bounds": [
+        0,
+        84,
+        352,
+        462
+      ],
+      "exercised": false,
+      "expected_next_page": null
+    }
+  ],
+  "Page_1": [
+    {
+      "action": "Click the logo_button",
+      "target_element": "ImageView",
+      "target_text": null,
+      "target_resid": "logo_button",
+      "bounds": [
+        0,
+        84,
+        352,
+        462
+      ],
+      "exercised": false,
+      "expected_next_page": null
+    },
+    {
+      "action": "Click the ImageButton",
+      "target_element": "ImageButton",
+      "target_text": null,
+      "target_resid": null,
+      "bounds": [
+        0,
+        471,
+        714,
+        1008
+      ],
+      "exercised": false,
+      "expected_next_page": null
+    },
+    {
+      "action": "Click the ImageButton",
+      "target_element": "ImageButton",
+      "target_text": null,
+      "target_resid": null,
+      "bounds": [
+        723,
+        471,
+        1439,
+        1008
+      ],
+      "exercised": false,
+      "expected_next_page": null
+    },
+    {
+      "action": "Click the WebView",
+      "target_element": "WebView",
+      "target_text": null,
+      "target_resid": null,
+      "bounds": [
+        48,
+        1185,
+        1392,
+        1953
+      ],
+      "exercised": false,
+      "expected_next_page": null
+    }
+  ],
+  "Page_2": [
+    {
+      "action": "Click the logo_button",
+      "target_element": "ImageView",
+      "target_text": null,
+      "target_resid": "logo_button",
+      "bounds": [
+        0,
+        84,
+        352,
+        462
+      ],
+      "exercised": false,
+      "expected_next_page": null
+    },
+    {
+      "action": "Click the BrowseMoviesActivity$SubjectButton",
+      "target_element": "BrowseMoviesActivity$SubjectButton",
+      "target_text": null,
+      "target_resid": null,
+      "bounds": [
+        31,
+        511,
+        1407,
+        703
+      ],
+      "exercised": false,
+      "expected_next_page": null
+    },
+    {
+      "action": "Click the BrowseMoviesActivity$SubjectButton",
+      "target_element": "BrowseMoviesActivity$SubjectButton",
+      "target_text": null,
+      "target_resid": null,
+      "bounds": [
+        31,
+        722,
+        1407,
+        914
+      ],
+      "exercised": false,
+      "expected_next_page": null
+    },
+    {
+      "action": "Click the BrowseMoviesActivity$SubjectButton",
+      "target_element": "BrowseMoviesActivity$SubjectButton",
+      "target_text": null,
+      "target_resid": null,
+      "bounds": [
+        31,
+        933,
+        1407,
+        1125
+      ],
+      "exercised": false,
+      "expected_next_page": null
+    },
+    {
+      "action": "Click the BrowseMoviesActivity$SubjectButton",
+      "target_element": "BrowseMoviesActivity$SubjectButton",
+      "target_text": null,
+      "target_resid": null,
+      "bounds": [
+        31,
+        1144,
+        1407,
+        1336
+      ],
+      "exercised": false,
+      "expected_next_page": null
+    },
+    {
+      "action": "Click the BrowseMoviesActivity$SubjectButton",
+      "target_element": "BrowseMoviesActivity$SubjectButton",
+      "target_text": null,
+      "target_resid": null,
+      "bounds": [
+        31,
+        1355,
+        1407,
+        1547
+      ],
+      "exercised": false,
+      "expected_next_page": null
+    },
+    {
+      "action": "Click the BrowseMoviesActivity$SubjectButton",
+      "target_element": "BrowseMoviesActivity$SubjectButton",
+      "target_text": null,
+      "target_resid": null,
+      "bounds": [
+        31,
+        1566,
+        1407,
+        1759
+      ],
+      "exercised": false,
+      "expected_next_page": null
+    },
+    {
+      "action": "Click the BrowseMoviesActivity$SubjectButton",
+      "target_element": "BrowseMoviesActivity$SubjectButton",
+      "target_text": null,
+      "target_resid": null,
+      "bounds": [
+        31,
+        1778,
+        1407,
+        1971
+      ],
+      "exercised": false,
+      "expected_next_page": null
+    }
+  ],
+  "Page_3": [
+    {
+      "action": "Click the logo_button",
+      "target_element": "ImageView",
+      "target_text": null,
+      "target_resid": "logo_button",
+      "bounds": [
+        0,
+        84,
+        352,
+        462
+      ],
+      "exercised": false,
+      "expected_next_page": null
+    }
+  ]
+}

@@ -1,0 +1,69 @@
+{
+  "case_id": "UI-36_Maps_septainstant",
+  "category": "Maps & Navigation",
+  "complexity": "Complex",
+  "app_package": "com.staticfish.septainstant",
+  "play_store_name": "SEPTA Instant",
+  "trace": "trace_0",
+  "entry_page": "Page_3",
+  "n_screens": 6,
+  "dropped_screens": [
+    "Page_5"
+  ],
+  "pages": [
+    {
+      "page": "Page_0",
+      "orig_screenshot_id": 12,
+      "activity": "com.staticfish.septainstant/com.staticfish.septainstant.busroutes.activity.RouteListActivity",
+      "is_keyboard": false,
+      "n_elements": 12,
+      "n_clickable": 1,
+      "n_clickable_human": 3
+    },
+    {
+      "page": "Page_1",
+      "orig_screenshot_id": 28,
+      "activity": "com.staticfish.septainstant/com.staticfish.septainstant.busstops.activity.StopListActivity",
+      "is_keyboard": false,
+      "n_elements": 38,
+      "n_clickable": 3,
+      "n_clickable_human": 11
+    },
+    {
+      "page": "Page_2",
+      "orig_screenshot_id": 84,
+      "activity": "com.staticfish.septainstant/com.staticfish.septainstant.busschedules.activity.StopTimesActivity",
+      "is_keyboard": false,
+      "n_elements": 59,
+      "n_clickable": 5,
+      "n_clickable_human": 12
+    },
+    {
+      "page": "Page_3",
+      "orig_screenshot_id": 257,
+      "activity": "com.staticfish.septainstant/com.staticfish.septainstant.main.activities.MainActivity",
+      "is_keyboard": false,
+      "n_elements": 8,
+      "n_clickable": 6,
+      "n_clickable_human": 6
+    },
+    {
+      "page": "Page_4",
+      "orig_screenshot_id": 267,
+      "activity": "com.staticfish.septainstant/com.staticfish.septainstant.regionalrail.activity.RailTimesActivity",
+      "is_keyboard": false,
+      "n_elements": 49,
+      "n_clickable": 3,
+      "n_clickable_human": 10
+    },
+    {
+      "page": "Page_6",
+      "orig_screenshot_id": 346,
+      "activity": "com.staticfish.septainstant/com.staticfish.septainstant.preferences.activity.SettingsActivity",
+      "is_keyboard": false,
+      "n_elements": 19,
+      "n_clickable": 1,
+      "n_clickable_human": 7
+    }
+  ]
+}

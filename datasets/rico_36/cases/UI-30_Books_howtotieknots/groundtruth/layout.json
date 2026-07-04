@@ -1,0 +1,1210 @@
+{
+  "Page_0": [
+    {
+      "class": "ImageView",
+      "text": null,
+      "resource_id": "icon",
+      "bounds": [
+        35,
+        273,
+        315,
+        553
+      ],
+      "clickable": false,
+      "semantic_label": null
+    },
+    {
+      "class": "TextView",
+      "text": "Bends",
+      "resource_id": "firstLine",
+      "bounds": [
+        350,
+        273,
+        1279,
+        553
+      ],
+      "clickable": false,
+      "semantic_label": null
+    },
+    {
+      "class": "TextView",
+      "text": "8",
+      "resource_id": "secondLine",
+      "bounds": [
+        1279,
+        273,
+        1419,
+        553
+      ],
+      "clickable": false,
+      "semantic_label": null
+    },
+    {
+      "class": "ImageView",
+      "text": null,
+      "resource_id": "icon",
+      "bounds": [
+        35,
+        594,
+        315,
+        874
+      ],
+      "clickable": false,
+      "semantic_label": null
+    },
+    {
+      "class": "TextView",
+      "text": "Binding Knots",
+      "resource_id": "firstLine",
+      "bounds": [
+        350,
+        594,
+        1279,
+        874
+      ],
+      "clickable": false,
+      "semantic_label": null
+    },
+    {
+      "class": "TextView",
+      "text": "2",
+      "resource_id": "secondLine",
+      "bounds": [
+        1279,
+        594,
+        1419,
+        874
+      ],
+      "clickable": false,
+      "semantic_label": null
+    },
+    {
+      "class": "ImageView",
+      "text": null,
+      "resource_id": "icon",
+      "bounds": [
+        35,
+        915,
+        315,
+        1195
+      ],
+      "clickable": false,
+      "semantic_label": null
+    },
+    {
+      "class": "TextView",
+      "text": "Friction hitches (Slide & Grip)",
+      "resource_id": "firstLine",
+      "bounds": [
+        350,
+        915,
+        1279,
+        1195
+      ],
+      "clickable": false,
+      "semantic_label": null
+    },
+    {
+      "class": "TextView",
+      "text": "3",
+      "resource_id": "secondLine",
+      "bounds": [
+        1279,
+        915,
+        1419,
+        1195
+      ],
+      "clickable": false,
+      "semantic_label": null
+    },
+    {
+      "class": "ImageView",
+      "text": null,
+      "resource_id": "icon",
+      "bounds": [
+        35,
+        1236,
+        315,
+        1516
+      ],
+      "clickable": false,
+      "semantic_label": null
+    },
+    {
+      "class": "TextView",
+      "text": "Hitches",
+      "resource_id": "firstLine",
+      "bounds": [
+        350,
+        1236,
+        1279,
+        1516
+      ],
+      "clickable": false,
+      "semantic_label": null
+    },
+    {
+      "class": "TextView",
+      "text": "9",
+      "resource_id": "secondLine",
+      "bounds": [
+        1279,
+        1236,
+        1419,
+        1516
+      ],
+      "clickable": false,
+      "semantic_label": null
+    },
+    {
+      "class": "ImageView",
+      "text": null,
+      "resource_id": "icon",
+      "bounds": [
+        35,
+        1557,
+        315,
+        1837
+      ],
+      "clickable": false,
+      "semantic_label": null
+    },
+    {
+      "class": "TextView",
+      "text": "Loops",
+      "resource_id": "firstLine",
+      "bounds": [
+        350,
+        1557,
+        1279,
+        1837
+      ],
+      "clickable": false,
+      "semantic_label": null
+    },
+    {
+      "class": "TextView",
+      "text": "1",
+      "resource_id": "secondLine",
+      "bounds": [
+        1279,
+        1557,
+        1419,
+        1837
+      ],
+      "clickable": false,
+      "semantic_label": null
+    },
+    {
+      "class": "ImageView",
+      "text": null,
+      "resource_id": "icon",
+      "bounds": [
+        35,
+        1878,
+        315,
+        2158
+      ],
+      "clickable": false,
+      "semantic_label": null
+    },
+    {
+      "class": "TextView",
+      "text": "Stoppers",
+      "resource_id": "firstLine",
+      "bounds": [
+        350,
+        1878,
+        1279,
+        2158
+      ],
+      "clickable": false,
+      "semantic_label": null
+    },
+    {
+      "class": "TextView",
+      "text": "2",
+      "resource_id": "secondLine",
+      "bounds": [
+        1279,
+        1878,
+        1419,
+        2158
+      ],
+      "clickable": false,
+      "semantic_label": null
+    },
+    {
+      "class": "ImageView",
+      "text": null,
+      "resource_id": "icon",
+      "bounds": [
+        35,
+        2199,
+        315,
+        2392
+      ],
+      "clickable": false,
+      "semantic_label": null
+    },
+    {
+      "class": "TextView",
+      "text": "Basic",
+      "resource_id": "firstLine",
+      "bounds": [
+        350,
+        2199,
+        1279,
+        2392
+      ],
+      "clickable": false,
+      "semantic_label": null
+    },
+    {
+      "class": "TextView",
+      "text": "13",
+      "resource_id": "secondLine",
+      "bounds": [
+        1279,
+        2199,
+        1419,
+        2392
+      ],
+      "clickable": false,
+      "semantic_label": null
+    },
+    {
+      "class": "ImageView",
+      "text": null,
+      "resource_id": "home",
+      "bounds": [
+        43,
+        112,
+        155,
+        224
+      ],
+      "clickable": false,
+      "semantic_label": null
+    },
+    {
+      "class": "TextView",
+      "text": "Knots",
+      "resource_id": "action_bar_title",
+      "bounds": [
+        169,
+        125,
+        332,
+        210
+      ],
+      "clickable": false,
+      "semantic_label": null
+    },
+    {
+      "class": "ActionMenuPresenter$OverflowMenuButton",
+      "text": null,
+      "resource_id": null,
+      "bounds": [
+        1244,
+        84,
+        1440,
+        252
+      ],
+      "clickable": true,
+      "semantic_label": null
+    }
+  ],
+  "Page_1": [
+    {
+      "class": "ImageView",
+      "text": null,
+      "resource_id": "icon",
+      "bounds": [
+        35,
+        273,
+        315,
+        553
+      ],
+      "clickable": false,
+      "semantic_label": null
+    },
+    {
+      "class": "TextView",
+      "text": "Carrick Bend",
+      "resource_id": "firstLine",
+      "bounds": [
+        350,
+        273,
+        1265,
+        366
+      ],
+      "clickable": false,
+      "semantic_label": null
+    },
+    {
+      "class": "TextView",
+      "text": "Bosun's Knot, Josephine Knot, Pretzel Knot",
+      "resource_id": "secondLine",
+      "bounds": [
+        350,
+        366,
+        1265,
+        489
+      ],
+      "clickable": false,
+      "semantic_label": null
+    },
+    {
+      "class": "ImageView",
+      "text": null,
+      "resource_id": "button",
+      "bounds": [
+        1279,
+        343,
+        1419,
+        483
+      ],
+      "clickable": false,
+      "semantic_label": null
+    },
+    {
+      "class": "ImageView",
+      "text": null,
+      "resource_id": "icon",
+      "bounds": [
+        35,
+        594,
+        315,
+        874
+      ],
+      "clickable": false,
+      "semantic_label": null
+    },
+    {
+      "class": "TextView",
+      "text": "Sheet Bend",
+      "resource_id": "firstLine",
+      "bounds": [
+        350,
+        594,
+        1265,
+        687
+      ],
+      "clickable": false,
+      "semantic_label": null
+    },
+    {
+      "class": "TextView",
+      "text": "Becket bend, Weaver's knot, Weaver's hitch",
+      "resource_id": "secondLine",
+      "bounds": [
+        350,
+        687,
+        1265,
+        810
+      ],
+      "clickable": false,
+      "semantic_label": null
+    },
+    {
+      "class": "ImageView",
+      "text": null,
+      "resource_id": "button",
+      "bounds": [
+        1279,
+        664,
+        1419,
+        804
+      ],
+      "clickable": false,
+      "semantic_label": null
+    },
+    {
+      "class": "ImageView",
+      "text": null,
+      "resource_id": "icon",
+      "bounds": [
+        35,
+        915,
+        315,
+        1195
+      ],
+      "clickable": false,
+      "semantic_label": null
+    },
+    {
+      "class": "TextView",
+      "text": "Surgeon’s Knot",
+      "resource_id": "firstLine",
+      "bounds": [
+        350,
+        915,
+        1265,
+        1008
+      ],
+      "clickable": false,
+      "semantic_label": null
+    },
+    {
+      "class": "TextView",
+      "text": "A modification of a Reef knot with an extra twist at the bottom, used for joining 2 lines. It is not used in climbing or other situations that require high safety. This knot is common for tying suture threads (that’s where the name comes from). It is also applied in fly fishing.",
+      "resource_id": "secondLine",
+      "bounds": [
+        350,
+        1008,
+        1265,
+        1186
+      ],
+      "clickable": false,
+      "semantic_label": null
+    },
+    {
+      "class": "ImageView",
+      "text": null,
+      "resource_id": "button",
+      "bounds": [
+        1279,
+        985,
+        1419,
+        1125
+      ],
+      "clickable": false,
+      "semantic_label": null
+    },
+    {
+      "class": "ImageView",
+      "text": null,
+      "resource_id": "icon",
+      "bounds": [
+        35,
+        1236,
+        315,
+        1516
+      ],
+      "clickable": false,
+      "semantic_label": null
+    },
+    {
+      "class": "TextView",
+      "text": "Flemish Bend",
+      "resource_id": "firstLine",
+      "bounds": [
+        350,
+        1236,
+        1265,
+        1329
+      ],
+      "clickable": false,
+      "semantic_label": null
+    },
+    {
+      "class": "TextView",
+      "text": "Double Figure-8 Bend, Rewoven Figure-8",
+      "resource_id": "secondLine",
+      "bounds": [
+        350,
+        1329,
+        1265,
+        1395
+      ],
+      "clickable": false,
+      "semantic_label": null
+    },
+    {
+      "class": "ImageView",
+      "text": null,
+      "resource_id": "button",
+      "bounds": [
+        1279,
+        1306,
+        1419,
+        1446
+      ],
+      "clickable": false,
+      "semantic_label": null
+    },
+    {
+      "class": "ImageView",
+      "text": null,
+      "resource_id": "icon",
+      "bounds": [
+        35,
+        1557,
+        315,
+        1837
+      ],
+      "clickable": false,
+      "semantic_label": null
+    },
+    {
+      "class": "TextView",
+      "text": "Reef Knot",
+      "resource_id": "firstLine",
+      "bounds": [
+        350,
+        1557,
+        1265,
+        1650
+      ],
+      "clickable": false,
+      "semantic_label": null
+    },
+    {
+      "class": "TextView",
+      "text": "Square knot, Hercules knot",
+      "resource_id": "secondLine",
+      "bounds": [
+        350,
+        1650,
+        1265,
+        1716
+      ],
+      "clickable": false,
+      "semantic_label": null
+    },
+    {
+      "class": "ImageView",
+      "text": null,
+      "resource_id": "button",
+      "bounds": [
+        1279,
+        1627,
+        1419,
+        1767
+      ],
+      "clickable": false,
+      "semantic_label": null
+    },
+    {
+      "class": "ImageView",
+      "text": null,
+      "resource_id": "icon",
+      "bounds": [
+        35,
+        1878,
+        315,
+        2158
+      ],
+      "clickable": false,
+      "semantic_label": null
+    },
+    {
+      "class": "TextView",
+      "text": "Hunter’s Bend",
+      "resource_id": "firstLine",
+      "bounds": [
+        350,
+        1878,
+        1265,
+        1971
+      ],
+      "clickable": false,
+      "semantic_label": null
+    },
+    {
+      "class": "TextView",
+      "text": "Rigger's Bend",
+      "resource_id": "secondLine",
+      "bounds": [
+        350,
+        1971,
+        1265,
+        2037
+      ],
+      "clickable": false,
+      "semantic_label": null
+    },
+    {
+      "class": "ImageView",
+      "text": null,
+      "resource_id": "button",
+      "bounds": [
+        1279,
+        1948,
+        1419,
+        2088
+      ],
+      "clickable": false,
+      "semantic_label": null
+    },
+    {
+      "class": "ImageView",
+      "text": null,
+      "resource_id": "icon",
+      "bounds": [
+        35,
+        2199,
+        315,
+        2392
+      ],
+      "clickable": false,
+      "semantic_label": null
+    },
+    {
+      "class": "TextView",
+      "text": "Ashley's Bend",
+      "resource_id": "firstLine",
+      "bounds": [
+        350,
+        2199,
+        1265,
+        2292
+      ],
+      "clickable": false,
+      "semantic_label": null
+    },
+    {
+      "class": "TextView",
+      "text": "Very strong bend consisting of 2 overhand knots. Ashley’s Bend doesn’t slip even when heavily loaded, but tends to jam and can be very difficult to untie. The knot is very reliable and is extensively used in mountaineering and other extreme situations.",
+      "resource_id": "secondLine",
+      "bounds": [
+        350,
+        2292,
+        1265,
+        2392
+      ],
+      "clickable": false,
+      "semantic_label": null
+    },
+    {
+      "class": "ImageView",
+      "text": null,
+      "resource_id": "button",
+      "bounds": [
+        1279,
+        2269,
+        1419,
+        2392
+      ],
+      "clickable": false,
+      "semantic_label": null
+    },
+    {
+      "class": "ImageView",
+      "text": null,
+      "resource_id": "up",
+      "bounds": [
+        0,
+        140,
+        56,
+        196
+      ],
+      "clickable": false,
+      "semantic_label": null
+    },
+    {
+      "class": "ImageView",
+      "text": null,
+      "resource_id": "home",
+      "bounds": [
+        43,
+        112,
+        155,
+        224
+      ],
+      "clickable": false,
+      "semantic_label": null
+    },
+    {
+      "class": "TextView",
+      "text": "Categories",
+      "resource_id": "action_bar_title",
+      "bounds": [
+        169,
+        125,
+        470,
+        210
+      ],
+      "clickable": false,
+      "semantic_label": null
+    },
+    {
+      "class": "ActionMenuPresenter$OverflowMenuButton",
+      "text": null,
+      "resource_id": null,
+      "bounds": [
+        1244,
+        84,
+        1440,
+        252
+      ],
+      "clickable": true,
+      "semantic_label": null
+    }
+  ],
+  "Page_2": [
+    {
+      "class": "ImageView",
+      "text": null,
+      "resource_id": "item_extra_tech_img",
+      "bounds": [
+        0,
+        0,
+        1440,
+        1440
+      ],
+      "clickable": false,
+      "semantic_label": null
+    },
+    {
+      "class": "TextView",
+      "text": "6 of 7",
+      "resource_id": "steps_counter",
+      "bounds": [
+        35,
+        35,
+        236,
+        139
+      ],
+      "clickable": false,
+      "semantic_label": null
+    },
+    {
+      "class": "TextView",
+      "text": "Carrick Bend",
+      "resource_id": "title",
+      "bounds": [
+        1026,
+        35,
+        1405,
+        139
+      ],
+      "clickable": false,
+      "semantic_label": null
+    },
+    {
+      "class": "TextView",
+      "text": "Tighten the knot.",
+      "resource_id": "description",
+      "bounds": [
+        35,
+        1833,
+        1405,
+        1937
+      ],
+      "clickable": false,
+      "semantic_label": null
+    },
+    {
+      "class": "ImageButton",
+      "text": null,
+      "resource_id": "preview",
+      "bounds": [
+        35,
+        1989,
+        210,
+        2164
+      ],
+      "clickable": true,
+      "semantic_label": null
+    },
+    {
+      "class": "ImageButton",
+      "text": null,
+      "resource_id": "replay",
+      "bounds": [
+        632,
+        1989,
+        807,
+        2164
+      ],
+      "clickable": true,
+      "semantic_label": null
+    },
+    {
+      "class": "ImageButton",
+      "text": null,
+      "resource_id": "next",
+      "bounds": [
+        1230,
+        1989,
+        1405,
+        2164
+      ],
+      "clickable": true,
+      "semantic_label": null
+    },
+    {
+      "class": "o",
+      "text": null,
+      "resource_id": null,
+      "bounds": [
+        0,
+        2217,
+        1440,
+        2392
+      ],
+      "clickable": true,
+      "semantic_label": null
+    }
+  ],
+  "Page_4": [
+    {
+      "class": "LinearLayout",
+      "text": null,
+      "resource_id": null,
+      "bounds": [
+        0,
+        252,
+        1440,
+        2392
+      ],
+      "clickable": false,
+      "semantic_label": null
+    },
+    {
+      "class": "TextView",
+      "text": "Background Sound",
+      "resource_id": "title",
+      "bounds": [
+        84,
+        288,
+        613,
+        373
+      ],
+      "clickable": false,
+      "semantic_label": null
+    },
+    {
+      "class": "TextView",
+      "text": "Turn On/Off background sound",
+      "resource_id": "summary",
+      "bounds": [
+        84,
+        373,
+        761,
+        439
+      ],
+      "clickable": false,
+      "semantic_label": null
+    },
+    {
+      "class": "CheckBox",
+      "text": null,
+      "resource_id": "checkbox",
+      "bounds": [
+        1209,
+        308,
+        1321,
+        420
+      ],
+      "clickable": false,
+      "semantic_label": null
+    },
+    {
+      "class": "TextView",
+      "text": "Animation Speed",
+      "resource_id": "title",
+      "bounds": [
+        84,
+        514,
+        561,
+        599
+      ],
+      "clickable": false,
+      "semantic_label": null
+    },
+    {
+      "class": "TextView",
+      "text": "Set animation speed",
+      "resource_id": "summary",
+      "bounds": [
+        84,
+        599,
+        530,
+        665
+      ],
+      "clickable": false,
+      "semantic_label": null
+    },
+    {
+      "class": "ImageView",
+      "text": null,
+      "resource_id": "home",
+      "bounds": [
+        43,
+        112,
+        155,
+        224
+      ],
+      "clickable": false,
+      "semantic_label": null
+    },
+    {
+      "class": "TextView",
+      "text": "Steps",
+      "resource_id": "action_bar_title",
+      "bounds": [
+        169,
+        125,
+        327,
+        210
+      ],
+      "clickable": false,
+      "semantic_label": null
+    }
+  ],
+  "Page_5": [
+    {
+      "class": "ImageView",
+      "text": null,
+      "resource_id": "img",
+      "bounds": [
+        0,
+        252,
+        1440,
+        1692
+      ],
+      "clickable": false,
+      "semantic_label": null
+    },
+    {
+      "class": "TextView",
+      "text": null,
+      "resource_id": "favorites_bg",
+      "bounds": [
+        1212,
+        287,
+        1405,
+        480
+      ],
+      "clickable": false,
+      "semantic_label": null
+    },
+    {
+      "class": "TextView",
+      "text": null,
+      "resource_id": "process_bg",
+      "bounds": [
+        35,
+        287,
+        228,
+        480
+      ],
+      "clickable": false,
+      "semantic_label": null
+    },
+    {
+      "class": "ImageButton",
+      "text": null,
+      "resource_id": "favorite",
+      "bounds": [
+        1247,
+        322,
+        1370,
+        445
+      ],
+      "clickable": true,
+      "semantic_label": null
+    },
+    {
+      "class": "ImageButton",
+      "text": null,
+      "resource_id": "process",
+      "bounds": [
+        70,
+        322,
+        193,
+        445
+      ],
+      "clickable": true,
+      "semantic_label": null
+    },
+    {
+      "class": "TextView",
+      "text": "Carrick Bend\nThis knot is particularly useful for joining thick and heavy lines. The Carrick Bend doesn’t jam, but it is secure only when the running ends are loaded; otherwise fix them for more safety. The knot is often used for decoration purposes (e.g. in macram&eacute;, or Chinese knotting).",
+      "resource_id": "description",
+      "bounds": [
+        70,
+        1461,
+        1370,
+        1933
+      ],
+      "clickable": false,
+      "semantic_label": null
+    },
+    {
+      "class": "ImageButton",
+      "text": null,
+      "resource_id": "begin",
+      "bounds": [
+        436,
+        1989,
+        1003,
+        2164
+      ],
+      "clickable": true,
+      "semantic_label": null
+    },
+    {
+      "class": "o",
+      "text": null,
+      "resource_id": null,
+      "bounds": [
+        0,
+        2217,
+        1440,
+        2392
+      ],
+      "clickable": true,
+      "semantic_label": null
+    },
+    {
+      "class": "ImageView",
+      "text": null,
+      "resource_id": "up",
+      "bounds": [
+        0,
+        140,
+        56,
+        196
+      ],
+      "clickable": false,
+      "semantic_label": null
+    },
+    {
+      "class": "ImageView",
+      "text": null,
+      "resource_id": "home",
+      "bounds": [
+        43,
+        112,
+        155,
+        224
+      ],
+      "clickable": false,
+      "semantic_label": null
+    },
+    {
+      "class": "TextView",
+      "text": "List",
+      "resource_id": "action_bar_title",
+      "bounds": [
+        169,
+        125,
+        271,
+        210
+      ],
+      "clickable": false,
+      "semantic_label": null
+    },
+    {
+      "class": "ActionMenuPresenter$OverflowMenuButton",
+      "text": null,
+      "resource_id": null,
+      "bounds": [
+        1244,
+        84,
+        1440,
+        252
+      ],
+      "clickable": true,
+      "semantic_label": null
+    }
+  ],
+  "Page_6": [
+    {
+      "class": "ImageView",
+      "text": null,
+      "resource_id": "icon",
+      "bounds": [
+        35,
+        273,
+        315,
+        553
+      ],
+      "clickable": false,
+      "semantic_label": null
+    },
+    {
+      "class": "TextView",
+      "text": "Carrick Bend",
+      "resource_id": "firstLine",
+      "bounds": [
+        350,
+        273,
+        1265,
+        366
+      ],
+      "clickable": false,
+      "semantic_label": null
+    },
+    {
+      "class": "TextView",
+      "text": "This knot is particularly useful for joining thick and heavy lines. The Carrick Bend doesn’t jam, but it is secure only when the running ends are loaded; otherwise fix them for more safety. The knot is often used for decoration purposes (e.g. in macram&eacute;, or Chinese knotting).",
+      "resource_id": "secondLine",
+      "bounds": [
+        350,
+        366,
+        1265,
+        544
+      ],
+      "clickable": false,
+      "semantic_label": null
+    },
+    {
+      "class": "ImageView",
+      "text": null,
+      "resource_id": "button",
+      "bounds": [
+        1279,
+        343,
+        1419,
+        483
+      ],
+      "clickable": false,
+      "semantic_label": null
+    },
+    {
+      "class": "ImageView",
+      "text": null,
+      "resource_id": "up",
+      "bounds": [
+        0,
+        140,
+        56,
+        196
+      ],
+      "clickable": false,
+      "semantic_label": null
+    },
+    {
+      "class": "ImageView",
+      "text": null,
+      "resource_id": "home",
+      "bounds": [
+        43,
+        112,
+        155,
+        224
+      ],
+      "clickable": false,
+      "semantic_label": null
+    },
+    {
+      "class": "TextView",
+      "text": "Favorites",
+      "resource_id": "action_bar_title",
+      "bounds": [
+        169,
+        125,
+        426,
+        210
+      ],
+      "clickable": false,
+      "semantic_label": null
+    },
+    {
+      "class": "ActionMenuPresenter$OverflowMenuButton",
+      "text": null,
+      "resource_id": null,
+      "bounds": [
+        1244,
+        84,
+        1440,
+        252
+      ],
+      "clickable": true,
+      "semantic_label": null
+    }
+  ]
+}

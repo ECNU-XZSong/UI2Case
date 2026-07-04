@@ -1,0 +1,504 @@
+{
+  "Page_0": [
+    {
+      "class": "BasicWebView",
+      "text": null,
+      "resource_id": "platform_dialog_webview",
+      "bounds": [
+        0,
+        84,
+        1440,
+        2392
+      ],
+      "clickable": true,
+      "semantic_label": null
+    },
+    {
+      "class": "View",
+      "text": null,
+      "resource_id": "navigationBarBackground",
+      "bounds": [
+        0,
+        2392,
+        1440,
+        2560
+      ],
+      "clickable": false,
+      "semantic_label": null
+    },
+    {
+      "class": "View",
+      "text": null,
+      "resource_id": "statusBarBackground",
+      "bounds": [
+        0,
+        0,
+        1440,
+        84
+      ],
+      "clickable": false,
+      "semantic_label": null
+    }
+  ],
+  "Page_1": [
+    {
+      "class": "AppCompatImageView",
+      "text": null,
+      "resource_id": null,
+      "bounds": [
+        56,
+        130,
+        438,
+        233
+      ],
+      "clickable": false,
+      "semantic_label": null
+    },
+    {
+      "class": "ActionMenuPresenter$ˋ",
+      "text": null,
+      "resource_id": null,
+      "bounds": [
+        1300,
+        98,
+        1440,
+        266
+      ],
+      "clickable": true,
+      "semantic_label": null
+    },
+    {
+      "class": "AppCompatImageButton",
+      "text": null,
+      "resource_id": null,
+      "bounds": [
+        356,
+        364,
+        1083,
+        532
+      ],
+      "clickable": true,
+      "semantic_label": null
+    },
+    {
+      "class": "AppCompatTextView",
+      "text": "Log in with Facebook",
+      "resource_id": null,
+      "bounds": [
+        471,
+        405,
+        1080,
+        491
+      ],
+      "clickable": false,
+      "semantic_label": null
+    },
+    {
+      "class": "AppCompatImageButton",
+      "text": null,
+      "resource_id": null,
+      "bounds": [
+        356,
+        574,
+        1083,
+        742
+      ],
+      "clickable": true,
+      "semantic_label": null
+    },
+    {
+      "class": "View",
+      "text": null,
+      "resource_id": null,
+      "bounds": [
+        633,
+        838,
+        661,
+        845
+      ],
+      "clickable": false,
+      "semantic_label": null
+    },
+    {
+      "class": "AppCompatTextView",
+      "text": "or",
+      "resource_id": "text1",
+      "bounds": [
+        661,
+        798,
+        779,
+        885
+      ],
+      "clickable": false,
+      "semantic_label": null
+    },
+    {
+      "class": "View",
+      "text": null,
+      "resource_id": null,
+      "bounds": [
+        779,
+        838,
+        807,
+        845
+      ],
+      "clickable": false,
+      "semantic_label": null
+    },
+    {
+      "class": "AppCompatEditText",
+      "text": null,
+      "resource_id": null,
+      "bounds": [
+        84,
+        941,
+        1356,
+        1088
+      ],
+      "clickable": true,
+      "semantic_label": null
+    },
+    {
+      "class": "AppCompatEditText",
+      "text": null,
+      "resource_id": null,
+      "bounds": [
+        84,
+        1130,
+        1356,
+        1277
+      ],
+      "clickable": true,
+      "semantic_label": null
+    },
+    {
+      "class": "RhapsodyShowHideTextView",
+      "text": "",
+      "resource_id": null,
+      "bounds": [
+        1221,
+        1130,
+        1342,
+        1277
+      ],
+      "clickable": true,
+      "semantic_label": null
+    },
+    {
+      "class": "AppCompatButton",
+      "text": "Log in with Email",
+      "resource_id": null,
+      "bounds": [
+        84,
+        1319,
+        1356,
+        1480
+      ],
+      "clickable": true,
+      "semantic_label": null
+    },
+    {
+      "class": "AppCompatTextView",
+      "text": "Forgot your password?",
+      "resource_id": null,
+      "bounds": [
+        436,
+        1536,
+        1003,
+        1612
+      ],
+      "clickable": true,
+      "semantic_label": null
+    },
+    {
+      "class": "AppCompatTextView",
+      "text": "Not a member? Sign up.",
+      "resource_id": null,
+      "bounds": [
+        422,
+        1668,
+        1018,
+        1744
+      ],
+      "clickable": true,
+      "semantic_label": null
+    },
+    {
+      "class": "AppCompatTextView",
+      "text": "Already subscribed through Google Play?",
+      "resource_id": null,
+      "bounds": [
+        210,
+        1800,
+        1230,
+        1876
+      ],
+      "clickable": false,
+      "semantic_label": null
+    },
+    {
+      "class": "AppCompatTextView",
+      "text": "Restore the subscription",
+      "resource_id": null,
+      "bounds": [
+        417,
+        1876,
+        1022,
+        1952
+      ],
+      "clickable": true,
+      "semantic_label": null
+    },
+    {
+      "class": "View",
+      "text": null,
+      "resource_id": "navigationBarBackground",
+      "bounds": [
+        0,
+        2392,
+        1440,
+        2560
+      ],
+      "clickable": false,
+      "semantic_label": null
+    }
+  ],
+  "Page_2": [
+    {
+      "class": "AppCompatImageView",
+      "text": null,
+      "resource_id": null,
+      "bounds": [
+        56,
+        130,
+        438,
+        233
+      ],
+      "clickable": false,
+      "semantic_label": null
+    },
+    {
+      "class": "ActionMenuPresenter$ˋ",
+      "text": null,
+      "resource_id": null,
+      "bounds": [
+        1300,
+        98,
+        1440,
+        266
+      ],
+      "clickable": true,
+      "semantic_label": null
+    },
+    {
+      "class": "AppCompatTextView",
+      "text": "Please log in with your Napster username and password to connect your Facebook account. You will then be able to sign into Napster using your Facebook account.",
+      "resource_id": null,
+      "bounds": [
+        112,
+        392,
+        1328,
+        686
+      ],
+      "clickable": false,
+      "semantic_label": null
+    },
+    {
+      "class": "AppCompatEditText",
+      "text": "appcrawler6@gmail.com",
+      "resource_id": null,
+      "bounds": [
+        112,
+        714,
+        1328,
+        861
+      ],
+      "clickable": true,
+      "semantic_label": null
+    },
+    {
+      "class": "AppCompatEditText",
+      "text": "appcrawler3116",
+      "resource_id": null,
+      "bounds": [
+        112,
+        903,
+        1328,
+        1050
+      ],
+      "clickable": true,
+      "semantic_label": null
+    },
+    {
+      "class": "RhapsodyShowHideTextView",
+      "text": "",
+      "resource_id": null,
+      "bounds": [
+        1193,
+        903,
+        1314,
+        1050
+      ],
+      "clickable": true,
+      "semantic_label": null
+    },
+    {
+      "class": "AppCompatButton",
+      "text": "Log in with Email",
+      "resource_id": null,
+      "bounds": [
+        112,
+        1092,
+        1328,
+        1253
+      ],
+      "clickable": true,
+      "semantic_label": null
+    },
+    {
+      "class": "AppCompatTextView",
+      "text": "Forgot your password?",
+      "resource_id": null,
+      "bounds": [
+        436,
+        1309,
+        1003,
+        1385
+      ],
+      "clickable": true,
+      "semantic_label": null
+    },
+    {
+      "class": "AppCompatTextView",
+      "text": "Not a member? Sign up.",
+      "resource_id": null,
+      "bounds": [
+        422,
+        1441,
+        1018,
+        1517
+      ],
+      "clickable": true,
+      "semantic_label": null
+    },
+    {
+      "class": "View",
+      "text": null,
+      "resource_id": "navigationBarBackground",
+      "bounds": [
+        0,
+        2392,
+        1440,
+        2560
+      ],
+      "clickable": false,
+      "semantic_label": null
+    }
+  ],
+  "Page_3": [
+    {
+      "class": "AppCompatImageView",
+      "text": null,
+      "resource_id": null,
+      "bounds": [
+        0,
+        84,
+        1440,
+        2014
+      ],
+      "clickable": false,
+      "semantic_label": null
+    },
+    {
+      "class": "AppCompatImageView",
+      "text": null,
+      "resource_id": null,
+      "bounds": [
+        518,
+        636,
+        921,
+        1021
+      ],
+      "clickable": false,
+      "semantic_label": null
+    },
+    {
+      "class": "AppCompatTextView",
+      "text": "Your unbelievably big music library, streamed to your phone.",
+      "resource_id": null,
+      "bounds": [
+        112,
+        1133,
+        1328,
+        1462
+      ],
+      "clickable": false,
+      "semantic_label": null
+    },
+    {
+      "class": "CirclePageIndicator",
+      "text": null,
+      "resource_id": null,
+      "bounds": [
+        628,
+        1957,
+        811,
+        2014
+      ],
+      "clickable": false,
+      "semantic_label": null
+    },
+    {
+      "class": "AppCompatButton",
+      "text": "Sign up",
+      "resource_id": null,
+      "bounds": [
+        112,
+        2028,
+        1328,
+        2189
+      ],
+      "clickable": true,
+      "semantic_label": null
+    },
+    {
+      "class": "AppCompatButton",
+      "text": "Log In",
+      "resource_id": null,
+      "bounds": [
+        112,
+        2217,
+        1328,
+        2378
+      ],
+      "clickable": true,
+      "semantic_label": null
+    },
+    {
+      "class": "View",
+      "text": null,
+      "resource_id": "navigationBarBackground",
+      "bounds": [
+        0,
+        2392,
+        1440,
+        2560
+      ],
+      "clickable": false,
+      "semantic_label": null
+    },
+    {
+      "class": "View",
+      "text": null,
+      "resource_id": "statusBarBackground",
+      "bounds": [
+        0,
+        0,
+        1440,
+        84
+      ],
+      "clickable": false,
+      "semantic_label": null
+    }
+  ]
+}

@@ -1,0 +1,614 @@
+{
+  "Page_0": [],
+  "Page_1": [
+    {
+      "action": "Click the IMWebView",
+      "target_element": "IMWebView",
+      "target_text": null,
+      "target_resid": null,
+      "bounds": [
+        160,
+        2217,
+        1280,
+        2392
+      ],
+      "exercised": false,
+      "expected_next_page": null
+    },
+    {
+      "action": "Click the EditText",
+      "target_element": "EditText",
+      "target_text": null,
+      "target_resid": null,
+      "bounds": [
+        0,
+        320,
+        1440,
+        458
+      ],
+      "exercised": false,
+      "expected_next_page": null
+    },
+    {
+      "action": "Click the EditText",
+      "target_element": "EditText",
+      "target_text": null,
+      "target_resid": null,
+      "bounds": [
+        0,
+        528,
+        1440,
+        666
+      ],
+      "exercised": false,
+      "expected_next_page": null
+    },
+    {
+      "action": "Click the Get status of tickets",
+      "target_element": "Button",
+      "target_text": "Get status of tickets",
+      "target_resid": null,
+      "bounds": [
+        0,
+        668,
+        1440,
+        836
+      ],
+      "exercised": false,
+      "expected_next_page": null
+    },
+    {
+      "action": "Click the Save username and password",
+      "target_element": "Button",
+      "target_text": "Save username and password",
+      "target_resid": null,
+      "bounds": [
+        0,
+        838,
+        1440,
+        1006
+      ],
+      "exercised": false,
+      "expected_next_page": null
+    },
+    {
+      "action": "Click the Detailed info",
+      "target_element": "CheckBox",
+      "target_text": "Detailed info",
+      "target_resid": null,
+      "bounds": [
+        0,
+        1008,
+        1440,
+        1120
+      ],
+      "exercised": false,
+      "expected_next_page": null
+    },
+    {
+      "action": "Click the ActionMenuPresenter$OverflowMenuButton",
+      "target_element": "ActionMenuPresenter$OverflowMenuButton",
+      "target_text": null,
+      "target_resid": null,
+      "bounds": [
+        1244,
+        84,
+        1440,
+        252
+      ],
+      "exercised": false,
+      "expected_next_page": null
+    }
+  ],
+  "Page_2": [
+    {
+      "action": "Click the IMWebView",
+      "target_element": "IMWebView",
+      "target_text": null,
+      "target_resid": null,
+      "bounds": [
+        160,
+        2217,
+        1280,
+        2392
+      ],
+      "exercised": false,
+      "expected_next_page": null
+    },
+    {
+      "action": "Click the AutoCompleteTextView",
+      "target_element": "AutoCompleteTextView",
+      "target_text": null,
+      "target_resid": null,
+      "bounds": [
+        0,
+        320,
+        1440,
+        458
+      ],
+      "exercised": false,
+      "expected_next_page": null
+    },
+    {
+      "action": "Click the Jan",
+      "target_element": "NumberPicker$CustomEditText",
+      "target_text": "Jan",
+      "target_resid": "numberpicker_input",
+      "bounds": [
+        28,
+        1062,
+        252,
+        1147
+      ],
+      "exercised": false,
+      "expected_next_page": null
+    },
+    {
+      "action": "Click the 21",
+      "target_element": "NumberPicker$CustomEditText",
+      "target_text": "21",
+      "target_resid": "numberpicker_input",
+      "bounds": [
+        308,
+        1062,
+        532,
+        1147
+      ],
+      "exercised": false,
+      "expected_next_page": null
+    },
+    {
+      "action": "Click the 2017",
+      "target_element": "NumberPicker$CustomEditText",
+      "target_text": "2017",
+      "target_resid": "numberpicker_input",
+      "bounds": [
+        588,
+        1062,
+        613,
+        1147
+      ],
+      "exercised": false,
+      "expected_next_page": null
+    },
+    {
+      "action": "Click the CalendarViewLegacyDelegate$WeekView",
+      "target_element": "CalendarViewLegacyDelegate$WeekView",
+      "target_text": null,
+      "target_resid": null,
+      "bounds": [
+        725,
+        861,
+        1384,
+        868
+      ],
+      "exercised": false,
+      "expected_next_page": null
+    },
+    {
+      "action": "Click the CalendarViewLegacyDelegate$WeekView",
+      "target_element": "CalendarViewLegacyDelegate$WeekView",
+      "target_text": null,
+      "target_resid": null,
+      "bounds": [
+        725,
+        868,
+        1384,
+        990
+      ],
+      "exercised": false,
+      "expected_next_page": null
+    },
+    {
+      "action": "Click the CalendarViewLegacyDelegate$WeekView",
+      "target_element": "CalendarViewLegacyDelegate$WeekView",
+      "target_text": null,
+      "target_resid": null,
+      "bounds": [
+        725,
+        990,
+        1384,
+        1112
+      ],
+      "exercised": false,
+      "expected_next_page": null
+    },
+    {
+      "action": "Click the CalendarViewLegacyDelegate$WeekView",
+      "target_element": "CalendarViewLegacyDelegate$WeekView",
+      "target_text": null,
+      "target_resid": null,
+      "bounds": [
+        725,
+        1112,
+        1384,
+        1234
+      ],
+      "exercised": false,
+      "expected_next_page": null
+    },
+    {
+      "action": "Click the CalendarViewLegacyDelegate$WeekView",
+      "target_element": "CalendarViewLegacyDelegate$WeekView",
+      "target_text": null,
+      "target_resid": null,
+      "bounds": [
+        725,
+        1234,
+        1384,
+        1356
+      ],
+      "exercised": false,
+      "expected_next_page": null
+    },
+    {
+      "action": "Click the CalendarViewLegacyDelegate$WeekView",
+      "target_element": "CalendarViewLegacyDelegate$WeekView",
+      "target_text": null,
+      "target_resid": null,
+      "bounds": [
+        725,
+        1356,
+        1384,
+        1478
+      ],
+      "exercised": false,
+      "expected_next_page": null
+    },
+    {
+      "action": "Click the CalendarViewLegacyDelegate$WeekView",
+      "target_element": "CalendarViewLegacyDelegate$WeekView",
+      "target_text": null,
+      "target_resid": null,
+      "bounds": [
+        725,
+        1478,
+        1384,
+        1595
+      ],
+      "exercised": false,
+      "expected_next_page": null
+    },
+    {
+      "action": "Click the Get train schedule",
+      "target_element": "Button",
+      "target_text": "Get train schedule",
+      "target_resid": null,
+      "bounds": [
+        0,
+        1796,
+        1440,
+        1964
+      ],
+      "exercised": false,
+      "expected_next_page": null
+    },
+    {
+      "action": "Click the Get train running status",
+      "target_element": "Button",
+      "target_text": "Get train running status",
+      "target_resid": null,
+      "bounds": [
+        0,
+        1966,
+        1440,
+        2134
+      ],
+      "exercised": false,
+      "expected_next_page": null
+    },
+    {
+      "action": "Click the ActionMenuPresenter$OverflowMenuButton",
+      "target_element": "ActionMenuPresenter$OverflowMenuButton",
+      "target_text": null,
+      "target_resid": null,
+      "bounds": [
+        1244,
+        84,
+        1440,
+        252
+      ],
+      "exercised": false,
+      "expected_next_page": null
+    }
+  ],
+  "Page_3": [
+    {
+      "action": "Click the IMWebView",
+      "target_element": "IMWebView",
+      "target_text": null,
+      "target_resid": null,
+      "bounds": [
+        160,
+        2217,
+        1280,
+        2392
+      ],
+      "exercised": false,
+      "expected_next_page": null
+    },
+    {
+      "action": "Click the AutoCompleteTextView",
+      "target_element": "AutoCompleteTextView",
+      "target_text": null,
+      "target_resid": null,
+      "bounds": [
+        0,
+        320,
+        1440,
+        458
+      ],
+      "exercised": false,
+      "expected_next_page": null
+    },
+    {
+      "action": "Click the Arrivals/Departures",
+      "target_element": "Button",
+      "target_text": "Arrivals/Departures",
+      "target_resid": null,
+      "bounds": [
+        0,
+        460,
+        1440,
+        628
+      ],
+      "exercised": false,
+      "expected_next_page": null
+    },
+    {
+      "action": "Click the Clear page",
+      "target_element": "Button",
+      "target_text": "Clear page",
+      "target_resid": null,
+      "bounds": [
+        0,
+        630,
+        1440,
+        798
+      ],
+      "exercised": false,
+      "expected_next_page": null
+    },
+    {
+      "action": "Click the Exclude local trains",
+      "target_element": "CheckBox",
+      "target_text": "Exclude local trains",
+      "target_resid": null,
+      "bounds": [
+        0,
+        800,
+        1440,
+        912
+      ],
+      "exercised": false,
+      "expected_next_page": null
+    },
+    {
+      "action": "Click the ActionMenuPresenter$OverflowMenuButton",
+      "target_element": "ActionMenuPresenter$OverflowMenuButton",
+      "target_text": null,
+      "target_resid": null,
+      "bounds": [
+        1244,
+        84,
+        1440,
+        252
+      ],
+      "exercised": false,
+      "expected_next_page": null
+    }
+  ],
+  "Page_4": [
+    {
+      "action": "Click the IMWebView",
+      "target_element": "IMWebView",
+      "target_text": null,
+      "target_resid": null,
+      "bounds": [
+        160,
+        2217,
+        1280,
+        2392
+      ],
+      "exercised": false,
+      "expected_next_page": null
+    },
+    {
+      "action": "Click the AutoCompleteTextView",
+      "target_element": "AutoCompleteTextView",
+      "target_text": null,
+      "target_resid": null,
+      "bounds": [
+        0,
+        318,
+        1440,
+        456
+      ],
+      "exercised": false,
+      "expected_next_page": null
+    },
+    {
+      "action": "Click the AutoCompleteTextView",
+      "target_element": "AutoCompleteTextView",
+      "target_text": null,
+      "target_resid": null,
+      "bounds": [
+        0,
+        522,
+        1440,
+        660
+      ],
+      "exercised": false,
+      "expected_next_page": null
+    },
+    {
+      "action": "Click the AutoCompleteTextView",
+      "target_element": "AutoCompleteTextView",
+      "target_text": null,
+      "target_resid": null,
+      "bounds": [
+        0,
+        726,
+        1440,
+        864
+      ],
+      "exercised": false,
+      "expected_next_page": null
+    },
+    {
+      "action": "Click the Jan",
+      "target_element": "NumberPicker$CustomEditText",
+      "target_text": "Jan",
+      "target_resid": "numberpicker_input",
+      "bounds": [
+        28,
+        1657,
+        252,
+        1742
+      ],
+      "exercised": false,
+      "expected_next_page": null
+    },
+    {
+      "action": "Click the 21",
+      "target_element": "NumberPicker$CustomEditText",
+      "target_text": "21",
+      "target_resid": "numberpicker_input",
+      "bounds": [
+        308,
+        1657,
+        532,
+        1742
+      ],
+      "exercised": false,
+      "expected_next_page": null
+    },
+    {
+      "action": "Click the 2017",
+      "target_element": "NumberPicker$CustomEditText",
+      "target_text": "2017",
+      "target_resid": "numberpicker_input",
+      "bounds": [
+        588,
+        1657,
+        613,
+        1742
+      ],
+      "exercised": false,
+      "expected_next_page": null
+    },
+    {
+      "action": "Click the CalendarViewLegacyDelegate$WeekView",
+      "target_element": "CalendarViewLegacyDelegate$WeekView",
+      "target_text": null,
+      "target_resid": null,
+      "bounds": [
+        725,
+        1456,
+        1384,
+        1463
+      ],
+      "exercised": false,
+      "expected_next_page": null
+    },
+    {
+      "action": "Click the CalendarViewLegacyDelegate$WeekView",
+      "target_element": "CalendarViewLegacyDelegate$WeekView",
+      "target_text": null,
+      "target_resid": null,
+      "bounds": [
+        725,
+        1463,
+        1384,
+        1585
+      ],
+      "exercised": false,
+      "expected_next_page": null
+    },
+    {
+      "action": "Click the CalendarViewLegacyDelegate$WeekView",
+      "target_element": "CalendarViewLegacyDelegate$WeekView",
+      "target_text": null,
+      "target_resid": null,
+      "bounds": [
+        725,
+        1585,
+        1384,
+        1707
+      ],
+      "exercised": false,
+      "expected_next_page": null
+    },
+    {
+      "action": "Click the CalendarViewLegacyDelegate$WeekView",
+      "target_element": "CalendarViewLegacyDelegate$WeekView",
+      "target_text": null,
+      "target_resid": null,
+      "bounds": [
+        725,
+        1707,
+        1384,
+        1829
+      ],
+      "exercised": false,
+      "expected_next_page": null
+    },
+    {
+      "action": "Click the CalendarViewLegacyDelegate$WeekView",
+      "target_element": "CalendarViewLegacyDelegate$WeekView",
+      "target_text": null,
+      "target_resid": null,
+      "bounds": [
+        725,
+        1829,
+        1384,
+        1951
+      ],
+      "exercised": false,
+      "expected_next_page": null
+    },
+    {
+      "action": "Click the CalendarViewLegacyDelegate$WeekView",
+      "target_element": "CalendarViewLegacyDelegate$WeekView",
+      "target_text": null,
+      "target_resid": null,
+      "bounds": [
+        725,
+        1951,
+        1384,
+        2073
+      ],
+      "exercised": false,
+      "expected_next_page": null
+    },
+    {
+      "action": "Click the CalendarViewLegacyDelegate$WeekView",
+      "target_element": "CalendarViewLegacyDelegate$WeekView",
+      "target_text": null,
+      "target_resid": null,
+      "bounds": [
+        725,
+        2073,
+        1384,
+        2190
+      ],
+      "exercised": false,
+      "expected_next_page": null
+    },
+    {
+      "action": "Click the ActionMenuPresenter$OverflowMenuButton",
+      "target_element": "ActionMenuPresenter$OverflowMenuButton",
+      "target_text": null,
+      "target_resid": null,
+      "bounds": [
+        1244,
+        84,
+        1440,
+        252
+      ],
+      "exercised": false,
+      "expected_next_page": null
+    }
+  ],
+  "Page_5": []
+}

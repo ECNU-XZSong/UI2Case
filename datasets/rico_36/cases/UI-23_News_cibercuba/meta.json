@@ -1,0 +1,42 @@
+{
+  "case_id": "UI-23_News_cibercuba",
+  "category": "News & Magazines",
+  "complexity": "Medium",
+  "app_package": "com.goodbarber.cibercuba",
+  "play_store_name": "CiberCuba - Noticias de Cuba",
+  "trace": "trace_0",
+  "entry_page": "Page_0",
+  "n_screens": 3,
+  "dropped_screens": [
+    "Page_1"
+  ],
+  "pages": [
+    {
+      "page": "Page_0",
+      "orig_screenshot_id": 186,
+      "activity": "com.goodbarber.cibercuba/com.goodbarber.v2.core.roots.activities.SwipeActivity",
+      "is_keyboard": false,
+      "n_elements": 35,
+      "n_clickable": 14,
+      "n_clickable_human": 11
+    },
+    {
+      "page": "Page_2",
+      "orig_screenshot_id": 487,
+      "activity": "com.goodbarber.cibercuba/com.goodbarber.v2.core.articles.detail.activities.ArticleDetailClassicActivity",
+      "is_keyboard": false,
+      "n_elements": 12,
+      "n_clickable": 5,
+      "n_clickable_human": 5
+    },
+    {
+      "page": "Page_3",
+      "orig_screenshot_id": 509,
+      "activity": "com.android.browser/com.android.browser.BrowserActivity",
+      "is_keyboard": false,
+      "n_elements": 5,
+      "n_clickable": 4,
+      "n_clickable_human": 4
+    }
+  ]
+}

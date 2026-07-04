@@ -1,0 +1,20 @@
+[
+  {
+    "source_page": "Page_0",
+    "target_page": "Page_1",
+    "action": "Click 공인인증서 가져오기 (Import certificate)",
+    "needs_review": false
+  },
+  {
+    "source_page": "Page_1",
+    "target_page": "Page_2",
+    "action": "Click 인증번호 가져오기 (Get auth number)",
+    "needs_review": false
+  },
+  {
+    "source_page": "Page_2",
+    "target_page": "Page_3",
+    "action": "Input 인증서 비밀번호 and click 확인",
+    "needs_review": false
+  }
+]

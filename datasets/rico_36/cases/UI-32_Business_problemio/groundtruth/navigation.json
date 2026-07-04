@@ -1,0 +1,26 @@
+[
+  {
+    "source_page": "Page_0",
+    "target_page": "Page_1",
+    "action": "Click Plan Your Business",
+    "needs_review": false
+  },
+  {
+    "source_page": "Page_0",
+    "target_page": "Page_2",
+    "action": "Click Businesses You Are Planning",
+    "needs_review": false
+  },
+  {
+    "source_page": "Page_0",
+    "target_page": "Page_3",
+    "action": "Click the Learn tab",
+    "needs_review": false
+  },
+  {
+    "source_page": "Page_0",
+    "target_page": "Page_4",
+    "action": "Click the Ask tab",
+    "needs_review": false
+  }
+]

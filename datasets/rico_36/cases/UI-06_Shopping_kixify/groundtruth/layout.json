@@ -1,0 +1,610 @@
+{
+  "Page_0": [
+    {
+      "class": "BasicWebView",
+      "text": null,
+      "resource_id": "platform_dialog_webview",
+      "bounds": [
+        0,
+        84,
+        1440,
+        2392
+      ],
+      "clickable": true,
+      "semantic_label": null
+    },
+    {
+      "class": "View",
+      "text": null,
+      "resource_id": "navigationBarBackground",
+      "bounds": [
+        0,
+        2392,
+        1440,
+        2560
+      ],
+      "clickable": false,
+      "semantic_label": null
+    },
+    {
+      "class": "View",
+      "text": null,
+      "resource_id": "statusBarBackground",
+      "bounds": [
+        0,
+        0,
+        1440,
+        84
+      ],
+      "clickable": false,
+      "semantic_label": null
+    }
+  ],
+  "Page_3": [
+    {
+      "class": "RecyclingImageView",
+      "text": null,
+      "resource_id": "img_back_sec_login",
+      "bounds": [
+        0,
+        84,
+        168,
+        252
+      ],
+      "clickable": true,
+      "semantic_label": null
+    },
+    {
+      "class": "AppCompatTextView",
+      "text": "FACEBOOK CONNECT",
+      "resource_id": "titles_sec_login",
+      "bounds": [
+        256,
+        84,
+        1222,
+        277
+      ],
+      "clickable": false,
+      "semantic_label": null
+    },
+    {
+      "class": "View",
+      "text": null,
+      "resource_id": "Seperator23",
+      "bounds": [
+        0,
+        277,
+        1440,
+        281
+      ],
+      "clickable": false,
+      "semantic_label": null
+    },
+    {
+      "class": "AppCompatTextView",
+      "text": "The Name associated with your Facebook account is already in our system. You've got two options:",
+      "resource_id": "fb_notice",
+      "bounds": [
+        53,
+        846,
+        1387,
+        964
+      ],
+      "clickable": false,
+      "semantic_label": null
+    },
+    {
+      "class": "AppCompatButton",
+      "text": "CONNECT TO EXISTING ACCOUNT",
+      "resource_id": "btn_account",
+      "bounds": [
+        53,
+        1052,
+        1387,
+        1220
+      ],
+      "clickable": true,
+      "semantic_label": null
+    },
+    {
+      "class": "AppCompatTextView",
+      "text": "Your Facebook account will be connected with your existing kixify account.(Recommanded)",
+      "resource_id": "fb_notice1",
+      "bounds": [
+        53,
+        1255,
+        1387,
+        1373
+      ],
+      "clickable": false,
+      "semantic_label": null
+    },
+    {
+      "class": "AppCompatButton",
+      "text": "CREATE NEW KIXIFY ACCOUNT",
+      "resource_id": "btn_new_account",
+      "bounds": [
+        53,
+        1461,
+        1387,
+        1629
+      ],
+      "clickable": true,
+      "semantic_label": null
+    },
+    {
+      "class": "View",
+      "text": null,
+      "resource_id": "navigationBarBackground",
+      "bounds": [
+        0,
+        2392,
+        1440,
+        2560
+      ],
+      "clickable": false,
+      "semantic_label": null
+    },
+    {
+      "class": "View",
+      "text": null,
+      "resource_id": "statusBarBackground",
+      "bounds": [
+        0,
+        0,
+        1440,
+        84
+      ],
+      "clickable": false,
+      "semantic_label": null
+    }
+  ],
+  "Page_4": [
+    {
+      "class": "AppCompatTextView",
+      "text": "NEW ACCOUNT",
+      "resource_id": "titlefor",
+      "bounds": [
+        466,
+        84,
+        973,
+        259
+      ],
+      "clickable": false,
+      "semantic_label": null
+    },
+    {
+      "class": "AppCompatTextView",
+      "text": "Cancel",
+      "resource_id": "savetitle",
+      "bounds": [
+        35,
+        142,
+        244,
+        201
+      ],
+      "clickable": true,
+      "semantic_label": null
+    },
+    {
+      "class": "AppCompatEditText",
+      "text": null,
+      "resource_id": "edtUserName_forgot",
+      "bounds": [
+        53,
+        312,
+        1387,
+        452
+      ],
+      "clickable": true,
+      "semantic_label": null
+    },
+    {
+      "class": "AppCompatButton",
+      "text": "CREATE ACCOUNT",
+      "resource_id": "reset_pass",
+      "bounds": [
+        70,
+        2154,
+        1370,
+        2322
+      ],
+      "clickable": true,
+      "semantic_label": null
+    },
+    {
+      "class": "View",
+      "text": null,
+      "resource_id": "navigationBarBackground",
+      "bounds": [
+        0,
+        2392,
+        1440,
+        2560
+      ],
+      "clickable": false,
+      "semantic_label": null
+    },
+    {
+      "class": "View",
+      "text": null,
+      "resource_id": "statusBarBackground",
+      "bounds": [
+        0,
+        0,
+        1440,
+        84
+      ],
+      "clickable": false,
+      "semantic_label": null
+    }
+  ],
+  "Page_5": [
+    {
+      "class": "RecyclingImageView",
+      "text": null,
+      "resource_id": "imgProfilePic",
+      "bounds": [
+        370,
+        312,
+        1070,
+        496
+      ],
+      "clickable": false,
+      "semantic_label": null
+    },
+    {
+      "class": "AppCompatButton",
+      "text": null,
+      "resource_id": "login_button",
+      "bounds": [
+        163,
+        584,
+        1277,
+        764
+      ],
+      "clickable": true,
+      "semantic_label": null
+    },
+    {
+      "class": "TwitterLoginButton",
+      "text": null,
+      "resource_id": "twitter_login_button",
+      "bounds": [
+        163,
+        834,
+        1277,
+        1014
+      ],
+      "clickable": true,
+      "semantic_label": null
+    },
+    {
+      "class": "RecyclingImageView",
+      "text": null,
+      "resource_id": "ids",
+      "bounds": [
+        0,
+        1084,
+        1260,
+        1109
+      ],
+      "clickable": false,
+      "semantic_label": null
+    },
+    {
+      "class": "AppCompatEditText",
+      "text": null,
+      "resource_id": "edtEmail",
+      "bounds": [
+        242,
+        1179,
+        1197,
+        1337
+      ],
+      "clickable": true,
+      "semantic_label": null
+    },
+    {
+      "class": "View",
+      "text": null,
+      "resource_id": null,
+      "bounds": [
+        242,
+        1337,
+        1197,
+        1341
+      ],
+      "clickable": false,
+      "semantic_label": null
+    },
+    {
+      "class": "AppCompatEditText",
+      "text": null,
+      "resource_id": "edtPassword",
+      "bounds": [
+        242,
+        1341,
+        1197,
+        1499
+      ],
+      "clickable": true,
+      "semantic_label": null
+    },
+    {
+      "class": "RecyclingImageView",
+      "text": null,
+      "resource_id": "imgSign",
+      "bounds": [
+        163,
+        1569,
+        1277,
+        1749
+      ],
+      "clickable": true,
+      "semantic_label": null
+    },
+    {
+      "class": "AppCompatTextView",
+      "text": "FORGOT PASSWORD",
+      "resource_id": "txtForgotPassword",
+      "bounds": [
+        260,
+        2262,
+        632,
+        2374
+      ],
+      "clickable": true,
+      "semantic_label": null
+    },
+    {
+      "class": "AppCompatTextView",
+      "text": "NEW HERE?",
+      "resource_id": "txtNewHere",
+      "bounds": [
+        689,
+        2262,
+        904,
+        2374
+      ],
+      "clickable": false,
+      "semantic_label": null
+    },
+    {
+      "class": "AppCompatTextView",
+      "text": "SIGN UP NOW!",
+      "resource_id": "txtSignUp",
+      "bounds": [
+        904,
+        2262,
+        1179,
+        2374
+      ],
+      "clickable": true,
+      "semantic_label": null
+    },
+    {
+      "class": "View",
+      "text": null,
+      "resource_id": "navigationBarBackground",
+      "bounds": [
+        0,
+        2392,
+        1440,
+        2560
+      ],
+      "clickable": false,
+      "semantic_label": null
+    },
+    {
+      "class": "View",
+      "text": null,
+      "resource_id": "statusBarBackground",
+      "bounds": [
+        0,
+        0,
+        1440,
+        84
+      ],
+      "clickable": false,
+      "semantic_label": null
+    }
+  ],
+  "Page_2": [
+    {
+      "class": "RecyclingImageView",
+      "text": null,
+      "resource_id": "back_cancels",
+      "bounds": [
+        0,
+        84,
+        168,
+        252
+      ],
+      "clickable": true,
+      "semantic_label": null
+    },
+    {
+      "class": "AppCompatTextView",
+      "text": "SIGN UP",
+      "resource_id": "titless",
+      "bounds": [
+        168,
+        84,
+        1272,
+        277
+      ],
+      "clickable": false,
+      "semantic_label": null
+    },
+    {
+      "class": "View",
+      "text": null,
+      "resource_id": "Seperator",
+      "bounds": [
+        0,
+        277,
+        1440,
+        279
+      ],
+      "clickable": false,
+      "semantic_label": null
+    },
+    {
+      "class": "RecyclingImageView",
+      "text": null,
+      "resource_id": "imgProfilePic",
+      "bounds": [
+        0,
+        507,
+        1440,
+        691
+      ],
+      "clickable": false,
+      "semantic_label": null
+    },
+    {
+      "class": "AppCompatEditText",
+      "text": "Sam Brown",
+      "resource_id": "edtUserName_sec_fl",
+      "bounds": [
+        242,
+        796,
+        1197,
+        936
+      ],
+      "clickable": true,
+      "semantic_label": null
+    },
+    {
+      "class": "View",
+      "text": null,
+      "resource_id": null,
+      "bounds": [
+        242,
+        936,
+        1197,
+        940
+      ],
+      "clickable": false,
+      "semantic_label": null
+    },
+    {
+      "class": "AppCompatEditText",
+      "text": "Crowd3116",
+      "resource_id": "edtPassword_sec_fl",
+      "bounds": [
+        242,
+        940,
+        1197,
+        1080
+      ],
+      "clickable": true,
+      "semantic_label": null
+    },
+    {
+      "class": "View",
+      "text": null,
+      "resource_id": null,
+      "bounds": [
+        242,
+        1080,
+        1197,
+        1084
+      ],
+      "clickable": false,
+      "semantic_label": null
+    },
+    {
+      "class": "AppCompatEditText",
+      "text": "Crowd3116",
+      "resource_id": "edtConfirmPassword_sec_fl",
+      "bounds": [
+        242,
+        1084,
+        1197,
+        1224
+      ],
+      "clickable": true,
+      "semantic_label": null
+    },
+    {
+      "class": "View",
+      "text": null,
+      "resource_id": null,
+      "bounds": [
+        242,
+        1224,
+        1197,
+        1228
+      ],
+      "clickable": false,
+      "semantic_label": null
+    },
+    {
+      "class": "AppCompatEditText",
+      "text": "appcrawler5@gmail.com",
+      "resource_id": "edtEmail_sec_fl",
+      "bounds": [
+        242,
+        1228,
+        1197,
+        1368
+      ],
+      "clickable": true,
+      "semantic_label": null
+    },
+    {
+      "class": "RecyclingImageView",
+      "text": null,
+      "resource_id": "imgSignUp_sec_fl",
+      "bounds": [
+        163,
+        1438,
+        1277,
+        1618
+      ],
+      "clickable": true,
+      "semantic_label": null
+    },
+    {
+      "class": "AppCompatTextView",
+      "text": null,
+      "resource_id": "txtTermsCondition",
+      "bounds": [
+        70,
+        2275,
+        1370,
+        2392
+      ],
+      "clickable": false,
+      "semantic_label": null
+    },
+    {
+      "class": "View",
+      "text": null,
+      "resource_id": "navigationBarBackground",
+      "bounds": [
+        0,
+        2392,
+        1440,
+        2560
+      ],
+      "clickable": false,
+      "semantic_label": null
+    },
+    {
+      "class": "View",
+      "text": null,
+      "resource_id": "statusBarBackground",
+      "bounds": [
+        0,
+        0,
+        1440,
+        84
+      ],
+      "clickable": false,
+      "semantic_label": null
+    }
+  ]
+}

@@ -1,0 +1,162 @@
+{
+  "Page_0": [
+    {
+      "action": "Click the ActionMenuPresenter$OverflowMenuButton",
+      "target_element": "ActionMenuPresenter$OverflowMenuButton",
+      "target_text": null,
+      "target_resid": null,
+      "bounds": [
+        1244,
+        84,
+        1440,
+        252
+      ],
+      "exercised": false,
+      "expected_next_page": null
+    }
+  ],
+  "Page_1": [
+    {
+      "action": "Click the txtSearch",
+      "target_element": "EditText",
+      "target_text": null,
+      "target_resid": "txtSearch",
+      "bounds": [
+        0,
+        252,
+        1440,
+        375
+      ],
+      "exercised": false,
+      "expected_next_page": null
+    },
+    {
+      "action": "Click the ActionMenuPresenter$OverflowMenuButton",
+      "target_element": "ActionMenuPresenter$OverflowMenuButton",
+      "target_text": null,
+      "target_resid": null,
+      "bounds": [
+        1244,
+        84,
+        1440,
+        252
+      ],
+      "exercised": false,
+      "expected_next_page": null
+    }
+  ],
+  "Page_2": [
+    {
+      "action": "Click the btnRepeat",
+      "target_element": "ImageView",
+      "target_text": null,
+      "target_resid": "btnRepeat",
+      "bounds": [
+        540,
+        731,
+        720,
+        876
+      ],
+      "exercised": false,
+      "expected_next_page": null
+    },
+    {
+      "action": "Click the btnShuffle",
+      "target_element": "ImageView",
+      "target_text": null,
+      "target_resid": "btnShuffle",
+      "bounds": [
+        720,
+        731,
+        900,
+        876
+      ],
+      "exercised": false,
+      "expected_next_page": null
+    },
+    {
+      "action": "Click the btnPrevious",
+      "target_element": "ImageView",
+      "target_text": null,
+      "target_resid": "btnPrevious",
+      "bounds": [
+        334,
+        1016,
+        463,
+        1145
+      ],
+      "exercised": false,
+      "expected_next_page": null
+    },
+    {
+      "action": "Click the btnRewind",
+      "target_element": "ImageView",
+      "target_text": null,
+      "target_resid": "btnRewind",
+      "bounds": [
+        463,
+        1016,
+        592,
+        1145
+      ],
+      "exercised": false,
+      "expected_next_page": null
+    },
+    {
+      "action": "Click the btnPlayPause",
+      "target_element": "ImageView",
+      "target_text": null,
+      "target_resid": "btnPlayPause",
+      "bounds": [
+        610,
+        964,
+        829,
+        1183
+      ],
+      "exercised": false,
+      "expected_next_page": null
+    },
+    {
+      "action": "Click the btnForward",
+      "target_element": "ImageView",
+      "target_text": null,
+      "target_resid": "btnForward",
+      "bounds": [
+        847,
+        1016,
+        976,
+        1145
+      ],
+      "exercised": false,
+      "expected_next_page": null
+    },
+    {
+      "action": "Click the btnNext",
+      "target_element": "ImageView",
+      "target_text": null,
+      "target_resid": "btnNext",
+      "bounds": [
+        976,
+        1016,
+        1105,
+        1145
+      ],
+      "exercised": false,
+      "expected_next_page": null
+    },
+    {
+      "action": "Click the ActionMenuPresenter$OverflowMenuButton",
+      "target_element": "ActionMenuPresenter$OverflowMenuButton",
+      "target_text": null,
+      "target_resid": null,
+      "bounds": [
+        1244,
+        84,
+        1440,
+        252
+      ],
+      "exercised": false,
+      "expected_next_page": null
+    }
+  ]
+}

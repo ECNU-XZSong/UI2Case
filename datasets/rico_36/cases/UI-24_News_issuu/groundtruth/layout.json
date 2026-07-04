@@ -1,0 +1,861 @@
+{
+  "Page_0": [
+    {
+      "class": "AppCompatImageView",
+      "text": null,
+      "resource_id": null,
+      "bounds": [
+        0,
+        84,
+        1440,
+        2392
+      ],
+      "clickable": false,
+      "semantic_label": null
+    },
+    {
+      "class": "AppCompatImageView",
+      "text": null,
+      "resource_id": null,
+      "bounds": [
+        525,
+        435,
+        914,
+        526
+      ],
+      "clickable": false,
+      "semantic_label": null
+    },
+    {
+      "class": "AppCompatTextView",
+      "text": "Get lost in millions of\n magazines for free.",
+      "resource_id": "text_view_authentication_welcome",
+      "bounds": [
+        381,
+        610,
+        1059,
+        799
+      ],
+      "clickable": true,
+      "semantic_label": null
+    },
+    {
+      "class": "AppCompatImageButton",
+      "text": null,
+      "resource_id": "button_connect_with_google_plus",
+      "bounds": [
+        286,
+        1392,
+        1154,
+        1546
+      ],
+      "clickable": true,
+      "semantic_label": null
+    },
+    {
+      "class": "AppCompatImageButton",
+      "text": null,
+      "resource_id": "button_connect_with_facebook",
+      "bounds": [
+        286,
+        1560,
+        1154,
+        1714
+      ],
+      "clickable": true,
+      "semantic_label": null
+    },
+    {
+      "class": "AppCompatTextView",
+      "text": "more options",
+      "resource_id": "more_options",
+      "bounds": [
+        483,
+        1721,
+        956,
+        1923
+      ],
+      "clickable": true,
+      "semantic_label": null
+    },
+    {
+      "class": "AppCompatTextView",
+      "text": "Sign Up",
+      "resource_id": "sign_up_button",
+      "bounds": [
+        0,
+        2158,
+        355,
+        2392
+      ],
+      "clickable": true,
+      "semantic_label": null
+    },
+    {
+      "class": "AppCompatTextView",
+      "text": "skip",
+      "resource_id": "image_view_close_login_screen",
+      "bounds": [
+        1166,
+        2158,
+        1440,
+        2392
+      ],
+      "clickable": true,
+      "semantic_label": null
+    },
+    {
+      "class": "View",
+      "text": null,
+      "resource_id": "navigationBarBackground",
+      "bounds": [
+        0,
+        2392,
+        1440,
+        2560
+      ],
+      "clickable": false,
+      "semantic_label": null
+    },
+    {
+      "class": "View",
+      "text": null,
+      "resource_id": "statusBarBackground",
+      "bounds": [
+        0,
+        0,
+        1440,
+        84
+      ],
+      "clickable": false,
+      "semantic_label": null
+    }
+  ],
+  "Page_1": [
+    {
+      "class": "BasicWebView",
+      "text": null,
+      "resource_id": "platform_dialog_webview",
+      "bounds": [
+        0,
+        84,
+        1440,
+        2392
+      ],
+      "clickable": true,
+      "semantic_label": null
+    },
+    {
+      "class": "View",
+      "text": null,
+      "resource_id": "navigationBarBackground",
+      "bounds": [
+        0,
+        2392,
+        1440,
+        2560
+      ],
+      "clickable": false,
+      "semantic_label": null
+    },
+    {
+      "class": "View",
+      "text": null,
+      "resource_id": "statusBarBackground",
+      "bounds": [
+        0,
+        0,
+        1440,
+        84
+      ],
+      "clickable": false,
+      "semantic_label": null
+    }
+  ],
+  "Page_2": [
+    {
+      "class": "AppCompatButton",
+      "text": "Shop Now",
+      "resource_id": "home_native_ad_action_button",
+      "bounds": [
+        960,
+        84,
+        1352,
+        209
+      ],
+      "clickable": true,
+      "semantic_label": null
+    },
+    {
+      "class": "AppCompatTextView",
+      "text": "NEW PIONEER AVH-X5800BHS 7\" LCD DOUBLE DIN BLUETOOTH DVD (Replaced AVH-X5700BHS)",
+      "resource_id": "facebook_native_ad_title",
+      "bounds": [
+        88,
+        84,
+        932,
+        209
+      ],
+      "clickable": true,
+      "semantic_label": null
+    },
+    {
+      "class": "AppCompatTextView",
+      "text": "Just for you",
+      "resource_id": "home_collection_item_title",
+      "bounds": [
+        56,
+        409,
+        1384,
+        485
+      ],
+      "clickable": false,
+      "semantic_label": null
+    },
+    {
+      "class": "FixedRatioImageView",
+      "text": null,
+      "resource_id": "publication_item_image",
+      "bounds": [
+        67,
+        563,
+        681,
+        1357
+      ],
+      "clickable": true,
+      "semantic_label": null
+    },
+    {
+      "class": "FixedRatioImageView",
+      "text": null,
+      "resource_id": "publication_item_image",
+      "bounds": [
+        759,
+        556,
+        1373,
+        1357
+      ],
+      "clickable": true,
+      "semantic_label": null
+    },
+    {
+      "class": "FixedRatioImageView",
+      "text": null,
+      "resource_id": "publication_item_image",
+      "bounds": [
+        67,
+        1443,
+        681,
+        2261
+      ],
+      "clickable": true,
+      "semantic_label": null
+    },
+    {
+      "class": "FixedRatioImageView",
+      "text": null,
+      "resource_id": "publication_item_image",
+      "bounds": [
+        759,
+        1454,
+        1373,
+        2261
+      ],
+      "clickable": true,
+      "semantic_label": null
+    },
+    {
+      "class": "AppCompatTextView",
+      "text": "Show More",
+      "resource_id": "home_collection_item_footer",
+      "bounds": [
+        56,
+        2304,
+        1384,
+        2392
+      ],
+      "clickable": true,
+      "semantic_label": null
+    },
+    {
+      "class": "View",
+      "text": null,
+      "resource_id": "navigationBarBackground",
+      "bounds": [
+        0,
+        2392,
+        1440,
+        2560
+      ],
+      "clickable": false,
+      "semantic_label": null
+    }
+  ],
+  "Page_3": [
+    {
+      "class": "AppCompatTextView",
+      "text": "Using Issuu Clip",
+      "resource_id": "title",
+      "bounds": [
+        279,
+        733,
+        777,
+        826
+      ],
+      "clickable": false,
+      "semantic_label": null
+    },
+    {
+      "class": "AppCompatTextView",
+      "text": "Saving and sharing any part of a publication with your social networks is easy using Issuu clip.\n\nSelect the create Clip icon from the upper right corner of the page, select the area you want to save and voila!, you're a Clip pro.",
+      "resource_id": null,
+      "bounds": [
+        195,
+        910,
+        1245,
+        1546
+      ],
+      "clickable": true,
+      "semantic_label": null
+    },
+    {
+      "class": "AppCompatButton",
+      "text": "Later",
+      "resource_id": "negative_button",
+      "bounds": [
+        614,
+        1658,
+        838,
+        1784
+      ],
+      "clickable": true,
+      "semantic_label": null
+    },
+    {
+      "class": "AppCompatButton",
+      "text": "Create clip",
+      "resource_id": "positive_button",
+      "bounds": [
+        866,
+        1658,
+        1217,
+        1784
+      ],
+      "clickable": true,
+      "semantic_label": null
+    },
+    {
+      "class": "AppCompatImageView",
+      "text": null,
+      "resource_id": null,
+      "bounds": [
+        1042,
+        649,
+        1245,
+        852
+      ],
+      "clickable": false,
+      "semantic_label": null
+    }
+  ],
+  "Page_4": [
+    {
+      "class": "PhotoView",
+      "text": null,
+      "resource_id": null,
+      "bounds": [
+        0,
+        84,
+        1440,
+        2392
+      ],
+      "clickable": false,
+      "semantic_label": null
+    },
+    {
+      "class": "ImageView",
+      "text": null,
+      "resource_id": "clips_drawable_overlay",
+      "bounds": [
+        0,
+        84,
+        1440,
+        2392
+      ],
+      "clickable": false,
+      "semantic_label": null
+    },
+    {
+      "class": "AppCompatImageButton",
+      "text": null,
+      "resource_id": "image_button_create_clip",
+      "bounds": [
+        1272,
+        112,
+        1412,
+        252
+      ],
+      "clickable": true,
+      "semantic_label": null
+    },
+    {
+      "class": "FrameLayout",
+      "text": null,
+      "resource_id": "article_list_container",
+      "bounds": [
+        0,
+        84,
+        1440,
+        2392
+      ],
+      "clickable": false,
+      "semantic_label": null
+    },
+    {
+      "class": "View",
+      "text": null,
+      "resource_id": "navigationBarBackground",
+      "bounds": [
+        0,
+        2392,
+        1440,
+        2560
+      ],
+      "clickable": false,
+      "semantic_label": null
+    }
+  ],
+  "Page_5": [
+    {
+      "class": "PhotoView",
+      "text": null,
+      "resource_id": null,
+      "bounds": [
+        0,
+        84,
+        1440,
+        2392
+      ],
+      "clickable": false,
+      "semantic_label": null
+    },
+    {
+      "class": "ImageView",
+      "text": null,
+      "resource_id": "clips_drawable_overlay",
+      "bounds": [
+        0,
+        84,
+        1440,
+        2392
+      ],
+      "clickable": false,
+      "semantic_label": null
+    },
+    {
+      "class": "DimmedView",
+      "text": null,
+      "resource_id": null,
+      "bounds": [
+        0,
+        84,
+        1440,
+        2392
+      ],
+      "clickable": false,
+      "semantic_label": null
+    },
+    {
+      "class": "RelativeLayout",
+      "text": null,
+      "resource_id": "layout_region",
+      "bounds": [
+        0,
+        581,
+        1338,
+        2049
+      ],
+      "clickable": false,
+      "semantic_label": null
+    },
+    {
+      "class": "AppCompatImageView",
+      "text": null,
+      "resource_id": null,
+      "bounds": [
+        594,
+        1240,
+        743,
+        1389
+      ],
+      "clickable": false,
+      "semantic_label": null
+    },
+    {
+      "class": "CornerView",
+      "text": null,
+      "resource_id": "view_resizer_top_left",
+      "bounds": [
+        0,
+        539,
+        98,
+        679
+      ],
+      "clickable": false,
+      "semantic_label": null
+    },
+    {
+      "class": "View",
+      "text": null,
+      "resource_id": "view_resizer_top",
+      "bounds": [
+        98,
+        539,
+        1240,
+        644
+      ],
+      "clickable": false,
+      "semantic_label": null
+    },
+    {
+      "class": "CornerView",
+      "text": null,
+      "resource_id": "view_resizer_top_right",
+      "bounds": [
+        1240,
+        539,
+        1380,
+        679
+      ],
+      "clickable": false,
+      "semantic_label": null
+    },
+    {
+      "class": "View",
+      "text": null,
+      "resource_id": "view_resizer_left",
+      "bounds": [
+        0,
+        679,
+        63,
+        1951
+      ],
+      "clickable": false,
+      "semantic_label": null
+    },
+    {
+      "class": "View",
+      "text": null,
+      "resource_id": "view_resizer_right",
+      "bounds": [
+        1275,
+        679,
+        1380,
+        1951
+      ],
+      "clickable": false,
+      "semantic_label": null
+    },
+    {
+      "class": "CornerView",
+      "text": null,
+      "resource_id": "view_resizer_bottom_left",
+      "bounds": [
+        0,
+        1951,
+        98,
+        2091
+      ],
+      "clickable": false,
+      "semantic_label": null
+    },
+    {
+      "class": "View",
+      "text": null,
+      "resource_id": "view_resizer_bottom",
+      "bounds": [
+        98,
+        1986,
+        1240,
+        2091
+      ],
+      "clickable": false,
+      "semantic_label": null
+    },
+    {
+      "class": "CornerView",
+      "text": null,
+      "resource_id": "view_resizer_bottom_right",
+      "bounds": [
+        1240,
+        1951,
+        1380,
+        2091
+      ],
+      "clickable": false,
+      "semantic_label": null
+    },
+    {
+      "class": "TextView",
+      "text": "Clip it",
+      "resource_id": null,
+      "bounds": [
+        210,
+        135,
+        389,
+        228
+      ],
+      "clickable": false,
+      "semantic_label": null
+    },
+    {
+      "class": "ImageButton",
+      "text": null,
+      "resource_id": null,
+      "bounds": [
+        0,
+        84,
+        196,
+        280
+      ],
+      "clickable": true,
+      "semantic_label": null
+    },
+    {
+      "class": "ActionMenuItemView",
+      "text": null,
+      "resource_id": "menu_cancel",
+      "bounds": [
+        1104,
+        98,
+        1272,
+        266
+      ],
+      "clickable": true,
+      "semantic_label": null
+    },
+    {
+      "class": "ActionMenuItemView",
+      "text": null,
+      "resource_id": "menu_done",
+      "bounds": [
+        1272,
+        98,
+        1440,
+        266
+      ],
+      "clickable": true,
+      "semantic_label": null
+    },
+    {
+      "class": "FrameLayout",
+      "text": null,
+      "resource_id": "fragment_container",
+      "bounds": [
+        0,
+        84,
+        1440,
+        2392
+      ],
+      "clickable": false,
+      "semantic_label": null
+    },
+    {
+      "class": "View",
+      "text": null,
+      "resource_id": "navigationBarBackground",
+      "bounds": [
+        0,
+        2392,
+        1440,
+        2560
+      ],
+      "clickable": false,
+      "semantic_label": null
+    }
+  ],
+  "Page_6": [
+    {
+      "class": "TextView",
+      "text": "Share",
+      "resource_id": "title",
+      "bounds": [
+        56,
+        1234,
+        1440,
+        1384
+      ],
+      "clickable": false,
+      "semantic_label": null
+    },
+    {
+      "class": "ImageView",
+      "text": null,
+      "resource_id": "icon",
+      "bounds": [
+        138,
+        1440,
+        306,
+        1608
+      ],
+      "clickable": false,
+      "semantic_label": null
+    },
+    {
+      "class": "TextView",
+      "text": "Bluetooth",
+      "resource_id": "text1",
+      "bounds": [
+        142,
+        1647,
+        301,
+        1753
+      ],
+      "clickable": false,
+      "semantic_label": null
+    },
+    {
+      "class": "ImageView",
+      "text": null,
+      "resource_id": "icon",
+      "bounds": [
+        470,
+        1440,
+        638,
+        1608
+      ],
+      "clickable": false,
+      "semantic_label": null
+    },
+    {
+      "class": "TextView",
+      "text": "Messaging",
+      "resource_id": "text1",
+      "bounds": [
+        463,
+        1647,
+        645,
+        1753
+      ],
+      "clickable": false,
+      "semantic_label": null
+    },
+    {
+      "class": "ImageView",
+      "text": null,
+      "resource_id": "icon",
+      "bounds": [
+        802,
+        1440,
+        970,
+        1608
+      ],
+      "clickable": false,
+      "semantic_label": null
+    },
+    {
+      "class": "TextView",
+      "text": "Email",
+      "resource_id": "text1",
+      "bounds": [
+        839,
+        1647,
+        932,
+        1753
+      ],
+      "clickable": false,
+      "semantic_label": null
+    },
+    {
+      "class": "ImageView",
+      "text": null,
+      "resource_id": "icon",
+      "bounds": [
+        1134,
+        1440,
+        1302,
+        1608
+      ],
+      "clickable": false,
+      "semantic_label": null
+    },
+    {
+      "class": "TextView",
+      "text": "Android Beam",
+      "resource_id": "text1",
+      "bounds": [
+        1100,
+        1647,
+        1335,
+        1753
+      ],
+      "clickable": false,
+      "semantic_label": null
+    },
+    {
+      "class": "ImageView",
+      "text": null,
+      "resource_id": "icon",
+      "bounds": [
+        138,
+        1865,
+        306,
+        2033
+      ],
+      "clickable": false,
+      "semantic_label": null
+    },
+    {
+      "class": "TextView",
+      "text": "Fake GPS - Search location",
+      "resource_id": "text1",
+      "bounds": [
+        70,
+        2072,
+        374,
+        2178
+      ],
+      "clickable": false,
+      "semantic_label": null
+    },
+    {
+      "class": "ImageView",
+      "text": null,
+      "resource_id": "icon",
+      "bounds": [
+        470,
+        1865,
+        638,
+        2033
+      ],
+      "clickable": false,
+      "semantic_label": null
+    },
+    {
+      "class": "TextView",
+      "text": "Facebook",
+      "resource_id": "text1",
+      "bounds": [
+        474,
+        2072,
+        634,
+        2178
+      ],
+      "clickable": false,
+      "semantic_label": null
+    },
+    {
+      "class": "ImageView",
+      "text": null,
+      "resource_id": "icon",
+      "bounds": [
+        138,
+        2290,
+        306,
+        2392
+      ],
+      "clickable": false,
+      "semantic_label": null
+    }
+  ]
+}

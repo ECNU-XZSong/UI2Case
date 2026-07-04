@@ -1,0 +1,60 @@
+{
+  "case_id": "UI-06_Shopping_kixify",
+  "category": "Shopping",
+  "complexity": "Complex",
+  "app_package": "com.kixify",
+  "play_store_name": "Kixify - Buy & Sell Sneakers",
+  "trace": "trace_0",
+  "entry_page": "Page_5",
+  "n_screens": 5,
+  "dropped_screens": [
+    "#725 (news)"
+  ],
+  "pages": [
+    {
+      "page": "Page_0",
+      "orig_screenshot_id": 42,
+      "activity": "com.facebook.katana/com.facebook.katana.gdp.ProxyAuthDialog",
+      "is_keyboard": false,
+      "n_elements": 3,
+      "n_clickable": 1,
+      "n_clickable_human": 3
+    },
+    {
+      "page": "Page_2",
+      "orig_screenshot_id": 341,
+      "activity": "com.kixify/com.kixify.ui.SecondSignUpActivity",
+      "is_keyboard": false,
+      "n_elements": 15,
+      "n_clickable": 6,
+      "n_clickable_human": 6
+    },
+    {
+      "page": "Page_3",
+      "orig_screenshot_id": 779,
+      "activity": "com.kixify/com.kixify.ui.SecondFlowActivity",
+      "is_keyboard": false,
+      "n_elements": 9,
+      "n_clickable": 3,
+      "n_clickable_human": 2
+    },
+    {
+      "page": "Page_4",
+      "orig_screenshot_id": 825,
+      "activity": "com.kixify/com.kixify.ui.OpenTwitterEmialDialog",
+      "is_keyboard": false,
+      "n_elements": 6,
+      "n_clickable": 3,
+      "n_clickable_human": 3
+    },
+    {
+      "page": "Page_5",
+      "orig_screenshot_id": 835,
+      "activity": "com.kixify/com.kixify.ui.LoginActivity",
+      "is_keyboard": false,
+      "n_elements": 13,
+      "n_clickable": 7,
+      "n_clickable_human": 6
+    }
+  ]
+}

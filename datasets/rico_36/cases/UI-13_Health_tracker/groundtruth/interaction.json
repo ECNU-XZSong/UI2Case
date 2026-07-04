@@ -1,0 +1,260 @@
+{
+  "Page_0": [
+    {
+      "action": "Click the Log in with Facebook",
+      "target_element": "FacebookTypefaceButton",
+      "target_text": "Log in with Facebook",
+      "target_resid": "facebook_login_button",
+      "bounds": [
+        56,
+        1594,
+        1384,
+        1762
+      ],
+      "exercised": false,
+      "expected_next_page": null
+    },
+    {
+      "action": "Click the Log In with email",
+      "target_element": "TypefaceButton",
+      "target_text": "Log In with email",
+      "target_resid": "log_in_btn",
+      "bounds": [
+        56,
+        1944,
+        1384,
+        2112
+      ],
+      "exercised": false,
+      "expected_next_page": null
+    },
+    {
+      "action": "Click the Sign Up",
+      "target_element": "TypefaceButton",
+      "target_text": "Sign Up",
+      "target_resid": "sign_up_btn",
+      "bounds": [
+        56,
+        2168,
+        1384,
+        2336
+      ],
+      "exercised": false,
+      "expected_next_page": null
+    }
+  ],
+  "Page_1": [
+    {
+      "action": "Click the user_name_input",
+      "target_element": "TypefaceEditText",
+      "target_text": null,
+      "target_resid": "user_name_input",
+      "bounds": [
+        56,
+        374,
+        1384,
+        571
+      ],
+      "exercised": false,
+      "expected_next_page": null
+    },
+    {
+      "action": "Click the password_input",
+      "target_element": "TypefaceEditText",
+      "target_text": null,
+      "target_resid": "password_input",
+      "bounds": [
+        56,
+        609,
+        1384,
+        806
+      ],
+      "exercised": false,
+      "expected_next_page": null
+    },
+    {
+      "action": "Click the Forgot password?",
+      "target_element": "TypefaceTextView",
+      "target_text": "Forgot password?",
+      "target_resid": "forgot_password_btn",
+      "bounds": [
+        0,
+        806,
+        550,
+        966
+      ],
+      "exercised": false,
+      "expected_next_page": null
+    },
+    {
+      "action": "Click the Need an account? SIGN UP",
+      "target_element": "TypefaceButton",
+      "target_text": "Need an account? SIGN UP",
+      "target_resid": "need_account_btn",
+      "bounds": [
+        0,
+        966,
+        1440,
+        1190
+      ],
+      "exercised": false,
+      "expected_next_page": null
+    },
+    {
+      "action": "Click the By continuing, I agree to the\nPrivacy Policy and Terms of Service",
+      "target_element": "PolicyTermsTextView",
+      "target_text": "By continuing, I agree to the\nPrivacy Policy and Terms of Service",
+      "target_resid": "policy_tos_tv",
+      "bounds": [
+        0,
+        2194,
+        1440,
+        2336
+      ],
+      "exercised": false,
+      "expected_next_page": null
+    },
+    {
+      "action": "Click the ImageButton",
+      "target_element": "ImageButton",
+      "target_text": null,
+      "target_resid": null,
+      "bounds": [
+        0,
+        84,
+        196,
+        280
+      ],
+      "exercised": false,
+      "expected_next_page": null
+    },
+    {
+      "action": "Click the action_login",
+      "target_element": "ActionMenuItemView",
+      "target_text": null,
+      "target_resid": "action_login",
+      "bounds": [
+        1272,
+        98,
+        1440,
+        266
+      ],
+      "exercised": false,
+      "expected_next_page": null
+    }
+  ],
+  "Page_2": [
+    {
+      "action": "Click the editTextUserName",
+      "target_element": "TypefaceEditText",
+      "target_text": null,
+      "target_resid": "editTextUserName",
+      "bounds": [
+        56,
+        374,
+        1384,
+        571
+      ],
+      "exercised": false,
+      "expected_next_page": null
+    },
+    {
+      "action": "Click the editTextEmail",
+      "target_element": "TypefaceEditText",
+      "target_text": null,
+      "target_resid": "editTextEmail",
+      "bounds": [
+        56,
+        609,
+        1384,
+        806
+      ],
+      "exercised": false,
+      "expected_next_page": null
+    },
+    {
+      "action": "Click the editTextPassword",
+      "target_element": "TypefaceEditText",
+      "target_text": null,
+      "target_resid": "editTextPassword",
+      "bounds": [
+        56,
+        844,
+        1384,
+        1041
+      ],
+      "exercised": false,
+      "expected_next_page": null
+    },
+    {
+      "action": "Click the switch_newsletter",
+      "target_element": "SwitchCompat",
+      "target_text": null,
+      "target_resid": "switch_newsletter",
+      "bounds": [
+        1218,
+        1105,
+        1384,
+        1200
+      ],
+      "exercised": false,
+      "expected_next_page": null
+    },
+    {
+      "action": "Click the Already have an account? LOG IN",
+      "target_element": "TypefaceButton",
+      "target_text": "Already have an account? LOG IN",
+      "target_resid": "already_have_account_btn",
+      "bounds": [
+        0,
+        1265,
+        1440,
+        1489
+      ],
+      "exercised": false,
+      "expected_next_page": null
+    },
+    {
+      "action": "Click the By continuing, I agree to the\nPrivacy Policy and Terms of Service",
+      "target_element": "PolicyTermsTextView",
+      "target_text": "By continuing, I agree to the\nPrivacy Policy and Terms of Service",
+      "target_resid": "policy_tos_tv",
+      "bounds": [
+        0,
+        2194,
+        1440,
+        2336
+      ],
+      "exercised": false,
+      "expected_next_page": null
+    },
+    {
+      "action": "Click the ImageButton",
+      "target_element": "ImageButton",
+      "target_text": null,
+      "target_resid": null,
+      "bounds": [
+        0,
+        84,
+        196,
+        280
+      ],
+      "exercised": false,
+      "expected_next_page": null
+    },
+    {
+      "action": "Click the action_register",
+      "target_element": "ActionMenuItemView",
+      "target_text": null,
+      "target_resid": "action_register",
+      "bounds": [
+        1272,
+        98,
+        1440,
+        266
+      ],
+      "exercised": false,
+      "expected_next_page": null
+    }
+  ]
+}

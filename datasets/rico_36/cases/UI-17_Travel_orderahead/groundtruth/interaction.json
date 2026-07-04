@@ -1,0 +1,390 @@
+{
+  "Page_0": [
+    {
+      "action": "Click the map_image",
+      "target_element": "AppCompatImageView",
+      "target_text": null,
+      "target_resid": "map_image",
+      "bounds": [
+        0,
+        280,
+        1440,
+        893
+      ],
+      "exercised": false,
+      "expected_next_page": null
+    },
+    {
+      "action": "Click the Map",
+      "target_element": "AppCompatButton",
+      "target_text": "Map",
+      "target_resid": "inline_button",
+      "bounds": [
+        1048,
+        1628,
+        1384,
+        1744
+      ],
+      "exercised": false,
+      "expected_next_page": null
+    },
+    {
+      "action": "Click the Call",
+      "target_element": "AppCompatButton",
+      "target_text": "Call",
+      "target_resid": "inline_button",
+      "bounds": [
+        1048,
+        1829,
+        1384,
+        1945
+      ],
+      "exercised": false,
+      "expected_next_page": null
+    },
+    {
+      "action": "Click the ImageButton",
+      "target_element": "ImageButton",
+      "target_text": null,
+      "target_resid": null,
+      "bounds": [
+        0,
+        84,
+        196,
+        280
+      ],
+      "exercised": false,
+      "expected_next_page": null
+    }
+  ],
+  "Page_1": [
+    {
+      "action": "Click the cart_button",
+      "target_element": "AppCompatButton",
+      "target_text": null,
+      "target_resid": "cart_button",
+      "bounds": [
+        21,
+        2226,
+        231,
+        2371
+      ],
+      "exercised": false,
+      "expected_next_page": null
+    },
+    {
+      "action": "Click the Checkout",
+      "target_element": "AppCompatButton",
+      "target_text": "Checkout",
+      "target_resid": "checkout_button",
+      "bounds": [
+        1098,
+        2226,
+        1419,
+        2371
+      ],
+      "exercised": false,
+      "expected_next_page": null
+    },
+    {
+      "action": "Click the ImageButton",
+      "target_element": "ImageButton",
+      "target_text": null,
+      "target_resid": null,
+      "bounds": [
+        0,
+        84,
+        196,
+        280
+      ],
+      "exercised": false,
+      "expected_next_page": null
+    },
+    {
+      "action": "Click the store_info",
+      "target_element": "ActionMenuItemView",
+      "target_text": null,
+      "target_resid": "store_info",
+      "bounds": [
+        1272,
+        98,
+        1440,
+        266
+      ],
+      "exercised": false,
+      "expected_next_page": null
+    }
+  ],
+  "Page_2": [
+    {
+      "action": "Click the Combinations",
+      "target_element": "TextView",
+      "target_text": "Combinations",
+      "target_resid": null,
+      "bounds": [
+        0,
+        280,
+        84,
+        449
+      ],
+      "exercised": false,
+      "expected_next_page": null
+    },
+    {
+      "action": "Click the Ramen",
+      "target_element": "TextView",
+      "target_text": "Ramen",
+      "target_resid": null,
+      "bounds": [
+        84,
+        280,
+        342,
+        449
+      ],
+      "exercised": false,
+      "expected_next_page": null
+    },
+    {
+      "action": "Click the Udon",
+      "target_element": "TextView",
+      "target_text": "Udon",
+      "target_resid": null,
+      "bounds": [
+        342,
+        280,
+        568,
+        449
+      ],
+      "exercised": false,
+      "expected_next_page": null
+    },
+    {
+      "action": "Click the Healthy Soba",
+      "target_element": "TextView",
+      "target_text": "Healthy Soba",
+      "target_resid": null,
+      "bounds": [
+        568,
+        280,
+        982,
+        449
+      ],
+      "exercised": false,
+      "expected_next_page": null
+    },
+    {
+      "action": "Click the Donburi",
+      "target_element": "TextView",
+      "target_text": "Donburi",
+      "target_resid": null,
+      "bounds": [
+        982,
+        280,
+        1274,
+        449
+      ],
+      "exercised": false,
+      "expected_next_page": null
+    },
+    {
+      "action": "Click the Chef's Specials",
+      "target_element": "TextView",
+      "target_text": "Chef's Specials",
+      "target_resid": null,
+      "bounds": [
+        1274,
+        280,
+        1440,
+        449
+      ],
+      "exercised": false,
+      "expected_next_page": null
+    },
+    {
+      "action": "Click the cart_button",
+      "target_element": "AppCompatButton",
+      "target_text": null,
+      "target_resid": "cart_button",
+      "bounds": [
+        21,
+        2226,
+        231,
+        2371
+      ],
+      "exercised": false,
+      "expected_next_page": null
+    },
+    {
+      "action": "Click the Checkout",
+      "target_element": "AppCompatButton",
+      "target_text": "Checkout",
+      "target_resid": "checkout_button",
+      "bounds": [
+        1098,
+        2226,
+        1419,
+        2371
+      ],
+      "exercised": false,
+      "expected_next_page": null
+    },
+    {
+      "action": "Click the ImageButton",
+      "target_element": "ImageButton",
+      "target_text": null,
+      "target_resid": null,
+      "bounds": [
+        0,
+        84,
+        196,
+        280
+      ],
+      "exercised": false,
+      "expected_next_page": null
+    }
+  ],
+  "Page_3": [
+    {
+      "action": "Click the ImageButton",
+      "target_element": "ImageButton",
+      "target_text": null,
+      "target_resid": null,
+      "bounds": [
+        0,
+        84,
+        196,
+        280
+      ],
+      "exercised": false,
+      "expected_next_page": null
+    },
+    {
+      "action": "Click the search",
+      "target_element": "ActionMenuItemView",
+      "target_text": null,
+      "target_resid": "search",
+      "bounds": [
+        1104,
+        98,
+        1272,
+        266
+      ],
+      "exercised": false,
+      "expected_next_page": null
+    },
+    {
+      "action": "Click the refresh",
+      "target_element": "ActionMenuItemView",
+      "target_text": null,
+      "target_resid": "refresh",
+      "bounds": [
+        1272,
+        98,
+        1440,
+        266
+      ],
+      "exercised": false,
+      "expected_next_page": null
+    }
+  ],
+  "Page_4": [
+    {
+      "action": "Click the appcrawler4@gmail.com",
+      "target_element": "AppCompatEditText",
+      "target_text": "appcrawler4@gmail.com",
+      "target_resid": "username",
+      "bounds": [
+        53,
+        333,
+        1387,
+        491
+      ],
+      "exercised": false,
+      "expected_next_page": null
+    },
+    {
+      "action": "Click the password",
+      "target_element": "AppCompatEditText",
+      "target_text": null,
+      "target_resid": "password",
+      "bounds": [
+        53,
+        554,
+        1387,
+        712
+      ],
+      "exercised": false,
+      "expected_next_page": null
+    },
+    {
+      "action": "Click the confirm_password",
+      "target_element": "AppCompatEditText",
+      "target_text": null,
+      "target_resid": "confirm_password",
+      "bounds": [
+        53,
+        747,
+        1387,
+        905
+      ],
+      "exercised": false,
+      "expected_next_page": null
+    },
+    {
+      "action": "Click the promo_code",
+      "target_element": "AppCompatEditText",
+      "target_text": null,
+      "target_resid": "promo_code",
+      "bounds": [
+        53,
+        968,
+        1387,
+        1126
+      ],
+      "exercised": false,
+      "expected_next_page": null
+    },
+    {
+      "action": "Click the Sign Up",
+      "target_element": "AppCompatButton",
+      "target_text": "Sign Up",
+      "target_resid": "login_button",
+      "bounds": [
+        53,
+        1224,
+        1387,
+        1392
+      ],
+      "exercised": false,
+      "expected_next_page": null
+    },
+    {
+      "action": "Click the By clicking \"Sign Up\", you agree to our Terms of Service and Privacy Policy",
+      "target_element": "AppCompatTextView",
+      "target_text": "By clicking \"Sign Up\", you agree to our Terms of Service and Privacy Policy",
+      "target_resid": "privacy_message",
+      "bounds": [
+        53,
+        1455,
+        1387,
+        1582
+      ],
+      "exercised": false,
+      "expected_next_page": null
+    },
+    {
+      "action": "Click the ImageButton",
+      "target_element": "ImageButton",
+      "target_text": null,
+      "target_resid": null,
+      "bounds": [
+        0,
+        84,
+        196,
+        280
+      ],
+      "exercised": false,
+      "expected_next_page": null
+    }
+  ]
+}

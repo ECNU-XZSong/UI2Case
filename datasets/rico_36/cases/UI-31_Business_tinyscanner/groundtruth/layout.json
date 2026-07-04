@@ -1,0 +1,684 @@
+{
+  "Page_0": [
+    {
+      "class": "ImageView",
+      "text": null,
+      "resource_id": "mainlogo",
+      "bounds": [
+        35,
+        120,
+        149,
+        244
+      ],
+      "clickable": false,
+      "semantic_label": null
+    },
+    {
+      "class": "MyImageView",
+      "text": null,
+      "resource_id": "main_setlist",
+      "bounds": [
+        163,
+        84,
+        614,
+        280
+      ],
+      "clickable": true,
+      "semantic_label": null
+    },
+    {
+      "class": "ImageView",
+      "text": null,
+      "resource_id": "image1_showfaxlink",
+      "bounds": [
+        1048,
+        84,
+        1244,
+        280
+      ],
+      "clickable": true,
+      "semantic_label": null
+    },
+    {
+      "class": "ImageView",
+      "text": null,
+      "resource_id": "main_more",
+      "bounds": [
+        1244,
+        84,
+        1440,
+        280
+      ],
+      "clickable": true,
+      "semantic_label": null
+    },
+    {
+      "class": "ImageView",
+      "text": null,
+      "resource_id": "main_camera",
+      "bounds": [
+        482,
+        2164,
+        720,
+        2336
+      ],
+      "clickable": true,
+      "semantic_label": null
+    },
+    {
+      "class": "ImageView",
+      "text": null,
+      "resource_id": "main_gallery",
+      "bounds": [
+        720,
+        2164,
+        958,
+        2336
+      ],
+      "clickable": true,
+      "semantic_label": null
+    },
+    {
+      "class": "LinearLayout",
+      "text": null,
+      "resource_id": null,
+      "bounds": [
+        719,
+        2215,
+        720,
+        2285
+      ],
+      "clickable": false,
+      "semantic_label": null
+    },
+    {
+      "class": "View",
+      "text": null,
+      "resource_id": "navigationBarBackground",
+      "bounds": [
+        0,
+        2392,
+        1440,
+        2560
+      ],
+      "clickable": false,
+      "semantic_label": null
+    },
+    {
+      "class": "View",
+      "text": null,
+      "resource_id": "statusBarBackground",
+      "bounds": [
+        0,
+        0,
+        1440,
+        84
+      ],
+      "clickable": false,
+      "semantic_label": null
+    }
+  ],
+  "Page_1": [
+    {
+      "class": "ImageView",
+      "text": null,
+      "resource_id": "set_back",
+      "bounds": [
+        0,
+        84,
+        196,
+        280
+      ],
+      "clickable": true,
+      "semantic_label": null
+    },
+    {
+      "class": "TextView",
+      "text": "Settings",
+      "resource_id": null,
+      "bounds": [
+        196,
+        139,
+        425,
+        224
+      ],
+      "clickable": false,
+      "semantic_label": null
+    },
+    {
+      "class": "ImageView",
+      "text": null,
+      "resource_id": "set_shadow",
+      "bounds": [
+        0,
+        280,
+        1440,
+        287
+      ],
+      "clickable": false,
+      "semantic_label": null
+    },
+    {
+      "class": "TextView",
+      "text": "GENERAL",
+      "resource_id": null,
+      "bounds": [
+        84,
+        305,
+        327,
+        381
+      ],
+      "clickable": false,
+      "semantic_label": null
+    },
+    {
+      "class": "LinearLayout",
+      "text": null,
+      "resource_id": null,
+      "bounds": [
+        56,
+        381,
+        1384,
+        382
+      ],
+      "clickable": false,
+      "semantic_label": null
+    },
+    {
+      "class": "TextView",
+      "text": "My Email",
+      "resource_id": "set_me_text",
+      "bounds": [
+        84,
+        382,
+        313,
+        504
+      ],
+      "clickable": false,
+      "semantic_label": null
+    },
+    {
+      "class": "LinearLayout",
+      "text": null,
+      "resource_id": null,
+      "bounds": [
+        56,
+        616,
+        1384,
+        617
+      ],
+      "clickable": false,
+      "semantic_label": null
+    },
+    {
+      "class": "TextView",
+      "text": "Default Page Size",
+      "resource_id": "set_size_text",
+      "bounds": [
+        84,
+        617,
+        522,
+        739
+      ],
+      "clickable": false,
+      "semantic_label": null
+    },
+    {
+      "class": "TextView",
+      "text": "A4",
+      "resource_id": "set_size_text2",
+      "bounds": [
+        84,
+        739,
+        144,
+        851
+      ],
+      "clickable": false,
+      "semantic_label": null
+    },
+    {
+      "class": "LinearLayout",
+      "text": null,
+      "resource_id": null,
+      "bounds": [
+        56,
+        851,
+        1384,
+        852
+      ],
+      "clickable": false,
+      "semantic_label": null
+    },
+    {
+      "class": "TextView",
+      "text": "Default Process",
+      "resource_id": "set_process_text",
+      "bounds": [
+        84,
+        852,
+        479,
+        974
+      ],
+      "clickable": false,
+      "semantic_label": null
+    },
+    {
+      "class": "TextView",
+      "text": "B&W",
+      "resource_id": "set_process_text2",
+      "bounds": [
+        84,
+        974,
+        188,
+        1086
+      ],
+      "clickable": false,
+      "semantic_label": null
+    },
+    {
+      "class": "LinearLayout",
+      "text": null,
+      "resource_id": null,
+      "bounds": [
+        56,
+        1086,
+        1384,
+        1087
+      ],
+      "clickable": false,
+      "semantic_label": null
+    },
+    {
+      "class": "TextView",
+      "text": "Passcode",
+      "resource_id": "set_pass",
+      "bounds": [
+        84,
+        1153,
+        330,
+        1229
+      ],
+      "clickable": false,
+      "semantic_label": null
+    },
+    {
+      "class": "Switch",
+      "text": null,
+      "resource_id": "set_sb",
+      "bounds": [
+        1218,
+        1143,
+        1384,
+        1238
+      ],
+      "clickable": true,
+      "semantic_label": null
+    },
+    {
+      "class": "LinearLayout",
+      "text": null,
+      "resource_id": "linea",
+      "bounds": [
+        56,
+        1295,
+        1384,
+        1341
+      ],
+      "clickable": false,
+      "semantic_label": null
+    },
+    {
+      "class": "TextView",
+      "text": "Wi-Fi Driver",
+      "resource_id": null,
+      "bounds": [
+        84,
+        1341,
+        368,
+        1417
+      ],
+      "clickable": false,
+      "semantic_label": null
+    },
+    {
+      "class": "LinearLayout",
+      "text": null,
+      "resource_id": null,
+      "bounds": [
+        56,
+        1435,
+        1384,
+        1442
+      ],
+      "clickable": false,
+      "semantic_label": null
+    },
+    {
+      "class": "TextView",
+      "text": "Wi-Fi Driver",
+      "resource_id": "set_wifi",
+      "bounds": [
+        84,
+        1508,
+        368,
+        1584
+      ],
+      "clickable": false,
+      "semantic_label": null
+    },
+    {
+      "class": "Switch",
+      "text": null,
+      "resource_id": "set_wifi_sb",
+      "bounds": [
+        1218,
+        1498,
+        1384,
+        1593
+      ],
+      "clickable": true,
+      "semantic_label": null
+    },
+    {
+      "class": "LinearLayout",
+      "text": null,
+      "resource_id": null,
+      "bounds": [
+        56,
+        1650,
+        1384,
+        1651
+      ],
+      "clickable": false,
+      "semantic_label": null
+    },
+    {
+      "class": "TextView",
+      "text": "Wi-Fi Driver Help",
+      "resource_id": "set_wifi_text",
+      "bounds": [
+        84,
+        1651,
+        497,
+        1773
+      ],
+      "clickable": false,
+      "semantic_label": null
+    },
+    {
+      "class": "LinearLayout",
+      "text": null,
+      "resource_id": "linearlayout2",
+      "bounds": [
+        56,
+        1885,
+        1384,
+        1931
+      ],
+      "clickable": false,
+      "semantic_label": null
+    },
+    {
+      "class": "TextView",
+      "text": "SUPPORT",
+      "resource_id": null,
+      "bounds": [
+        84,
+        1984,
+        327,
+        2060
+      ],
+      "clickable": false,
+      "semantic_label": null
+    },
+    {
+      "class": "LinearLayout",
+      "text": null,
+      "resource_id": null,
+      "bounds": [
+        56,
+        2078,
+        1384,
+        2085
+      ],
+      "clickable": false,
+      "semantic_label": null
+    },
+    {
+      "class": "TextView",
+      "text": "Help",
+      "resource_id": "set_faq",
+      "bounds": [
+        84,
+        2085,
+        199,
+        2253
+      ],
+      "clickable": false,
+      "semantic_label": null
+    },
+    {
+      "class": "LinearLayout",
+      "text": null,
+      "resource_id": null,
+      "bounds": [
+        56,
+        2253,
+        1384,
+        2254
+      ],
+      "clickable": false,
+      "semantic_label": null
+    },
+    {
+      "class": "TextView",
+      "text": "FAQ",
+      "resource_id": null,
+      "bounds": [
+        84,
+        2254,
+        186,
+        2392
+      ],
+      "clickable": false,
+      "semantic_label": null
+    },
+    {
+      "class": "View",
+      "text": null,
+      "resource_id": "navigationBarBackground",
+      "bounds": [
+        0,
+        2392,
+        1440,
+        2560
+      ],
+      "clickable": false,
+      "semantic_label": null
+    },
+    {
+      "class": "View",
+      "text": null,
+      "resource_id": "statusBarBackground",
+      "bounds": [
+        0,
+        0,
+        1440,
+        84
+      ],
+      "clickable": false,
+      "semantic_label": null
+    }
+  ],
+  "Page_2": [
+    {
+      "class": "ImageView",
+      "text": null,
+      "resource_id": "faq_back",
+      "bounds": [
+        0,
+        84,
+        196,
+        280
+      ],
+      "clickable": true,
+      "semantic_label": null
+    },
+    {
+      "class": "TextView",
+      "text": "FAQ",
+      "resource_id": null,
+      "bounds": [
+        196,
+        132,
+        330,
+        232
+      ],
+      "clickable": false,
+      "semantic_label": null
+    },
+    {
+      "class": "ImageView",
+      "text": null,
+      "resource_id": "set_shadow",
+      "bounds": [
+        0,
+        280,
+        1440,
+        287
+      ],
+      "clickable": false,
+      "semantic_label": null
+    },
+    {
+      "class": "TextView",
+      "text": "How to scan documents",
+      "resource_id": "folder_name",
+      "bounds": [
+        56,
+        287,
+        1384,
+        455
+      ],
+      "clickable": false,
+      "semantic_label": null
+    },
+    {
+      "class": "TextView",
+      "text": "How to improve the quality of scan",
+      "resource_id": "folder_name",
+      "bounds": [
+        56,
+        459,
+        1384,
+        627
+      ],
+      "clickable": false,
+      "semantic_label": null
+    },
+    {
+      "class": "TextView",
+      "text": "How to manually adjust the border",
+      "resource_id": "folder_name",
+      "bounds": [
+        56,
+        631,
+        1384,
+        799
+      ],
+      "clickable": false,
+      "semantic_label": null
+    },
+    {
+      "class": "TextView",
+      "text": "How to choose a process mode",
+      "resource_id": "folder_name",
+      "bounds": [
+        56,
+        803,
+        1384,
+        971
+      ],
+      "clickable": false,
+      "semantic_label": null
+    },
+    {
+      "class": "TextView",
+      "text": "How to manage documents in home screen",
+      "resource_id": "folder_name",
+      "bounds": [
+        56,
+        975,
+        1384,
+        1143
+      ],
+      "clickable": false,
+      "semantic_label": null
+    },
+    {
+      "class": "TextView",
+      "text": "How to manage pages in a document view",
+      "resource_id": "folder_name",
+      "bounds": [
+        56,
+        1147,
+        1384,
+        1315
+      ],
+      "clickable": false,
+      "semantic_label": null
+    },
+    {
+      "class": "TextView",
+      "text": "How to choose page size",
+      "resource_id": "folder_name",
+      "bounds": [
+        56,
+        1319,
+        1384,
+        1487
+      ],
+      "clickable": false,
+      "semantic_label": null
+    },
+    {
+      "class": "TextView",
+      "text": "Why the email cannot be received",
+      "resource_id": "folder_name",
+      "bounds": [
+        56,
+        1491,
+        1384,
+        1659
+      ],
+      "clickable": false,
+      "semantic_label": null
+    },
+    {
+      "class": "View",
+      "text": null,
+      "resource_id": "navigationBarBackground",
+      "bounds": [
+        0,
+        2392,
+        1440,
+        2560
+      ],
+      "clickable": false,
+      "semantic_label": null
+    },
+    {
+      "class": "View",
+      "text": null,
+      "resource_id": "statusBarBackground",
+      "bounds": [
+        0,
+        0,
+        1440,
+        84
+      ],
+      "clickable": false,
+      "semantic_label": null
+    }
+  ]
+}

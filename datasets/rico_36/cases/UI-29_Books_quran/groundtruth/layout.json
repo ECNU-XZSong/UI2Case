@@ -1,0 +1,1204 @@
+{
+  "Page_0": [
+    {
+      "class": "ImageView",
+      "text": null,
+      "resource_id": "list_image",
+      "bounds": [
+        29,
+        281,
+        204,
+        456
+      ],
+      "clickable": false,
+      "semantic_label": null
+    },
+    {
+      "class": "TextView",
+      "text": "Maher Al Mueaqly",
+      "resource_id": "title",
+      "bounds": [
+        233,
+        281,
+        665,
+        352
+      ],
+      "clickable": false,
+      "semantic_label": null
+    },
+    {
+      "class": "TextView",
+      "text": "The imam of the Grand Mosque in the holy city of Mecca.",
+      "resource_id": "artist",
+      "bounds": [
+        233,
+        356,
+        1387,
+        403
+      ],
+      "clickable": false,
+      "semantic_label": null
+    },
+    {
+      "class": "ImageView",
+      "text": null,
+      "resource_id": null,
+      "bounds": [
+        1385,
+        350,
+        1422,
+        387
+      ],
+      "clickable": false,
+      "semantic_label": null
+    },
+    {
+      "class": "ImageView",
+      "text": null,
+      "resource_id": "list_image",
+      "bounds": [
+        29,
+        516,
+        204,
+        691
+      ],
+      "clickable": false,
+      "semantic_label": null
+    },
+    {
+      "class": "TextView",
+      "text": "Saad Al Ghamdi",
+      "resource_id": "title",
+      "bounds": [
+        233,
+        516,
+        612,
+        587
+      ],
+      "clickable": false,
+      "semantic_label": null
+    },
+    {
+      "class": "TextView",
+      "text": "A Quran reciter from Dammam, an eastern province of Saudi Arabia.",
+      "resource_id": "artist",
+      "bounds": [
+        233,
+        591,
+        1387,
+        638
+      ],
+      "clickable": false,
+      "semantic_label": null
+    },
+    {
+      "class": "ImageView",
+      "text": null,
+      "resource_id": null,
+      "bounds": [
+        1385,
+        585,
+        1422,
+        622
+      ],
+      "clickable": false,
+      "semantic_label": null
+    },
+    {
+      "class": "ImageView",
+      "text": null,
+      "resource_id": "list_image",
+      "bounds": [
+        29,
+        751,
+        204,
+        926
+      ],
+      "clickable": false,
+      "semantic_label": null
+    },
+    {
+      "class": "TextView",
+      "text": "Hafiz Danish",
+      "resource_id": "title",
+      "bounds": [
+        233,
+        751,
+        533,
+        822
+      ],
+      "clickable": false,
+      "semantic_label": null
+    },
+    {
+      "class": "TextView",
+      "text": "A Quran reciter from Turkey.",
+      "resource_id": "artist",
+      "bounds": [
+        233,
+        826,
+        1387,
+        873
+      ],
+      "clickable": false,
+      "semantic_label": null
+    },
+    {
+      "class": "ImageView",
+      "text": null,
+      "resource_id": null,
+      "bounds": [
+        1385,
+        820,
+        1422,
+        857
+      ],
+      "clickable": false,
+      "semantic_label": null
+    },
+    {
+      "class": "ImageView",
+      "text": null,
+      "resource_id": "list_image",
+      "bounds": [
+        29,
+        986,
+        204,
+        1161
+      ],
+      "clickable": false,
+      "semantic_label": null
+    },
+    {
+      "class": "TextView",
+      "text": "Ahmad Al-Ajmi",
+      "resource_id": "title",
+      "bounds": [
+        233,
+        986,
+        597,
+        1057
+      ],
+      "clickable": false,
+      "semantic_label": null
+    },
+    {
+      "class": "TextView",
+      "text": "A Quran reciter from Khobar, an eastern province of Saudi Arabia.",
+      "resource_id": "artist",
+      "bounds": [
+        233,
+        1061,
+        1387,
+        1108
+      ],
+      "clickable": false,
+      "semantic_label": null
+    },
+    {
+      "class": "ImageView",
+      "text": null,
+      "resource_id": null,
+      "bounds": [
+        1385,
+        1055,
+        1422,
+        1092
+      ],
+      "clickable": false,
+      "semantic_label": null
+    },
+    {
+      "class": "ImageView",
+      "text": null,
+      "resource_id": "list_image",
+      "bounds": [
+        29,
+        1221,
+        204,
+        1396
+      ],
+      "clickable": false,
+      "semantic_label": null
+    },
+    {
+      "class": "TextView",
+      "text": "Abdul Basit Abdus Samad",
+      "resource_id": "title",
+      "bounds": [
+        233,
+        1221,
+        851,
+        1292
+      ],
+      "clickable": false,
+      "semantic_label": null
+    },
+    {
+      "class": "TextView",
+      "text": "A famous Quran reciter from Egypt, passed away in 1988.",
+      "resource_id": "artist",
+      "bounds": [
+        233,
+        1296,
+        1387,
+        1343
+      ],
+      "clickable": false,
+      "semantic_label": null
+    },
+    {
+      "class": "ImageView",
+      "text": null,
+      "resource_id": null,
+      "bounds": [
+        1385,
+        1290,
+        1422,
+        1327
+      ],
+      "clickable": false,
+      "semantic_label": null
+    },
+    {
+      "class": "ImageView",
+      "text": null,
+      "resource_id": "list_image",
+      "bounds": [
+        29,
+        1456,
+        204,
+        1631
+      ],
+      "clickable": false,
+      "semantic_label": null
+    },
+    {
+      "class": "TextView",
+      "text": "Salah Bu-Khatir",
+      "resource_id": "title",
+      "bounds": [
+        233,
+        1456,
+        607,
+        1527
+      ],
+      "clickable": false,
+      "semantic_label": null
+    },
+    {
+      "class": "TextView",
+      "text": "A Quran reciter from United Arab Emirates.",
+      "resource_id": "artist",
+      "bounds": [
+        233,
+        1531,
+        1387,
+        1578
+      ],
+      "clickable": false,
+      "semantic_label": null
+    },
+    {
+      "class": "ImageView",
+      "text": null,
+      "resource_id": null,
+      "bounds": [
+        1385,
+        1525,
+        1422,
+        1562
+      ],
+      "clickable": false,
+      "semantic_label": null
+    },
+    {
+      "class": "ImageView",
+      "text": null,
+      "resource_id": "list_image",
+      "bounds": [
+        29,
+        1691,
+        204,
+        1866
+      ],
+      "clickable": false,
+      "semantic_label": null
+    },
+    {
+      "class": "TextView",
+      "text": "Mahmoud Al-Hussary",
+      "resource_id": "title",
+      "bounds": [
+        233,
+        1691,
+        752,
+        1762
+      ],
+      "clickable": false,
+      "semantic_label": null
+    },
+    {
+      "class": "TextView",
+      "text": "A famous Quran reciter from Egypt, passed away in 1980.",
+      "resource_id": "artist",
+      "bounds": [
+        233,
+        1766,
+        1387,
+        1813
+      ],
+      "clickable": false,
+      "semantic_label": null
+    },
+    {
+      "class": "ImageView",
+      "text": null,
+      "resource_id": null,
+      "bounds": [
+        1385,
+        1760,
+        1422,
+        1797
+      ],
+      "clickable": false,
+      "semantic_label": null
+    },
+    {
+      "class": "ImageView",
+      "text": null,
+      "resource_id": "list_image",
+      "bounds": [
+        29,
+        1926,
+        204,
+        2101
+      ],
+      "clickable": false,
+      "semantic_label": null
+    },
+    {
+      "class": "TextView",
+      "text": "Sheikh Al-Shatri",
+      "resource_id": "title",
+      "bounds": [
+        233,
+        1926,
+        623,
+        1997
+      ],
+      "clickable": false,
+      "semantic_label": null
+    },
+    {
+      "class": "TextView",
+      "text": "A Quran reciter and The Imam of Furqan Mosque in Jeddah in Saudi Arabia.",
+      "resource_id": "artist",
+      "bounds": [
+        233,
+        2001,
+        1387,
+        2089
+      ],
+      "clickable": false,
+      "semantic_label": null
+    },
+    {
+      "class": "ImageView",
+      "text": null,
+      "resource_id": null,
+      "bounds": [
+        1385,
+        1995,
+        1422,
+        2032
+      ],
+      "clickable": false,
+      "semantic_label": null
+    },
+    {
+      "class": "ImageView",
+      "text": null,
+      "resource_id": "list_image",
+      "bounds": [
+        29,
+        2161,
+        204,
+        2336
+      ],
+      "clickable": false,
+      "semantic_label": null
+    },
+    {
+      "class": "TextView",
+      "text": "Yaser Al-Dosari",
+      "resource_id": "title",
+      "bounds": [
+        233,
+        2161,
+        603,
+        2232
+      ],
+      "clickable": false,
+      "semantic_label": null
+    },
+    {
+      "class": "TextView",
+      "text": "A Quran reciter and The Imam of Dakhil‎ Mosque in Riyadh in Saudi Arabia.",
+      "resource_id": "artist",
+      "bounds": [
+        233,
+        2236,
+        1387,
+        2324
+      ],
+      "clickable": false,
+      "semantic_label": null
+    },
+    {
+      "class": "ImageView",
+      "text": null,
+      "resource_id": null,
+      "bounds": [
+        1385,
+        2230,
+        1422,
+        2267
+      ],
+      "clickable": false,
+      "semantic_label": null
+    },
+    {
+      "class": "ImageView",
+      "text": null,
+      "resource_id": "home",
+      "bounds": [
+        43,
+        112,
+        155,
+        224
+      ],
+      "clickable": false,
+      "semantic_label": null
+    },
+    {
+      "class": "TextView",
+      "text": "Holy Quran (HD)",
+      "resource_id": "action_bar_title",
+      "bounds": [
+        169,
+        125,
+        624,
+        210
+      ],
+      "clickable": false,
+      "semantic_label": null
+    },
+    {
+      "class": "ActionMenuPresenter$OverflowMenuButton",
+      "text": null,
+      "resource_id": null,
+      "bounds": [
+        1244,
+        84,
+        1440,
+        252
+      ],
+      "clickable": true,
+      "semantic_label": null
+    }
+  ],
+  "Page_1": [
+    {
+      "class": "EditText",
+      "text": null,
+      "resource_id": "txtSearch",
+      "bounds": [
+        0,
+        252,
+        1440,
+        375
+      ],
+      "clickable": true,
+      "semantic_label": null
+    },
+    {
+      "class": "TextView",
+      "text": "Al-Fatiha",
+      "resource_id": "title",
+      "bounds": [
+        18,
+        404,
+        235,
+        475
+      ],
+      "clickable": false,
+      "semantic_label": null
+    },
+    {
+      "class": "ImageView",
+      "text": null,
+      "resource_id": null,
+      "bounds": [
+        1353,
+        415,
+        1390,
+        452
+      ],
+      "clickable": false,
+      "semantic_label": null
+    },
+    {
+      "class": "TextView",
+      "text": "Al-Baqara",
+      "resource_id": "title",
+      "bounds": [
+        18,
+        524,
+        255,
+        595
+      ],
+      "clickable": false,
+      "semantic_label": null
+    },
+    {
+      "class": "ImageView",
+      "text": null,
+      "resource_id": null,
+      "bounds": [
+        1353,
+        535,
+        1390,
+        572
+      ],
+      "clickable": false,
+      "semantic_label": null
+    },
+    {
+      "class": "TextView",
+      "text": "Al Imran",
+      "resource_id": "title",
+      "bounds": [
+        18,
+        644,
+        218,
+        715
+      ],
+      "clickable": false,
+      "semantic_label": null
+    },
+    {
+      "class": "ImageView",
+      "text": null,
+      "resource_id": null,
+      "bounds": [
+        1353,
+        655,
+        1390,
+        692
+      ],
+      "clickable": false,
+      "semantic_label": null
+    },
+    {
+      "class": "TextView",
+      "text": "An-Nisa'",
+      "resource_id": "title",
+      "bounds": [
+        18,
+        764,
+        219,
+        835
+      ],
+      "clickable": false,
+      "semantic_label": null
+    },
+    {
+      "class": "ImageView",
+      "text": null,
+      "resource_id": null,
+      "bounds": [
+        1353,
+        775,
+        1390,
+        812
+      ],
+      "clickable": false,
+      "semantic_label": null
+    },
+    {
+      "class": "TextView",
+      "text": "Al-Ma'ida",
+      "resource_id": "title",
+      "bounds": [
+        18,
+        884,
+        244,
+        955
+      ],
+      "clickable": false,
+      "semantic_label": null
+    },
+    {
+      "class": "ImageView",
+      "text": null,
+      "resource_id": null,
+      "bounds": [
+        1353,
+        895,
+        1390,
+        932
+      ],
+      "clickable": false,
+      "semantic_label": null
+    },
+    {
+      "class": "TextView",
+      "text": "Al-An'am",
+      "resource_id": "title",
+      "bounds": [
+        18,
+        1004,
+        234,
+        1075
+      ],
+      "clickable": false,
+      "semantic_label": null
+    },
+    {
+      "class": "ImageView",
+      "text": null,
+      "resource_id": null,
+      "bounds": [
+        1353,
+        1015,
+        1390,
+        1052
+      ],
+      "clickable": false,
+      "semantic_label": null
+    },
+    {
+      "class": "TextView",
+      "text": "Al-A'raf",
+      "resource_id": "title",
+      "bounds": [
+        18,
+        1124,
+        196,
+        1195
+      ],
+      "clickable": false,
+      "semantic_label": null
+    },
+    {
+      "class": "ImageView",
+      "text": null,
+      "resource_id": null,
+      "bounds": [
+        1353,
+        1135,
+        1390,
+        1172
+      ],
+      "clickable": false,
+      "semantic_label": null
+    },
+    {
+      "class": "TextView",
+      "text": "Al-Anfal",
+      "resource_id": "title",
+      "bounds": [
+        18,
+        1244,
+        215,
+        1315
+      ],
+      "clickable": false,
+      "semantic_label": null
+    },
+    {
+      "class": "ImageView",
+      "text": null,
+      "resource_id": null,
+      "bounds": [
+        1353,
+        1255,
+        1390,
+        1292
+      ],
+      "clickable": false,
+      "semantic_label": null
+    },
+    {
+      "class": "TextView",
+      "text": "At-Tawba",
+      "resource_id": "title",
+      "bounds": [
+        18,
+        1364,
+        247,
+        1435
+      ],
+      "clickable": false,
+      "semantic_label": null
+    },
+    {
+      "class": "ImageView",
+      "text": null,
+      "resource_id": null,
+      "bounds": [
+        1353,
+        1375,
+        1390,
+        1412
+      ],
+      "clickable": false,
+      "semantic_label": null
+    },
+    {
+      "class": "TextView",
+      "text": "Yunus",
+      "resource_id": "title",
+      "bounds": [
+        18,
+        1484,
+        167,
+        1555
+      ],
+      "clickable": false,
+      "semantic_label": null
+    },
+    {
+      "class": "ImageView",
+      "text": null,
+      "resource_id": null,
+      "bounds": [
+        1353,
+        1495,
+        1390,
+        1532
+      ],
+      "clickable": false,
+      "semantic_label": null
+    },
+    {
+      "class": "TextView",
+      "text": "Hud",
+      "resource_id": "title",
+      "bounds": [
+        18,
+        1604,
+        115,
+        1675
+      ],
+      "clickable": false,
+      "semantic_label": null
+    },
+    {
+      "class": "ImageView",
+      "text": null,
+      "resource_id": null,
+      "bounds": [
+        1353,
+        1615,
+        1390,
+        1652
+      ],
+      "clickable": false,
+      "semantic_label": null
+    },
+    {
+      "class": "TextView",
+      "text": "Yusuf",
+      "resource_id": "title",
+      "bounds": [
+        18,
+        1724,
+        156,
+        1795
+      ],
+      "clickable": false,
+      "semantic_label": null
+    },
+    {
+      "class": "ImageView",
+      "text": null,
+      "resource_id": null,
+      "bounds": [
+        1353,
+        1735,
+        1390,
+        1772
+      ],
+      "clickable": false,
+      "semantic_label": null
+    },
+    {
+      "class": "TextView",
+      "text": "Ar-Ra'd",
+      "resource_id": "title",
+      "bounds": [
+        18,
+        1844,
+        193,
+        1915
+      ],
+      "clickable": false,
+      "semantic_label": null
+    },
+    {
+      "class": "ImageView",
+      "text": null,
+      "resource_id": null,
+      "bounds": [
+        1353,
+        1855,
+        1390,
+        1892
+      ],
+      "clickable": false,
+      "semantic_label": null
+    },
+    {
+      "class": "TextView",
+      "text": "Ibrahim",
+      "resource_id": "title",
+      "bounds": [
+        18,
+        1964,
+        199,
+        2035
+      ],
+      "clickable": false,
+      "semantic_label": null
+    },
+    {
+      "class": "ImageView",
+      "text": null,
+      "resource_id": null,
+      "bounds": [
+        1353,
+        1975,
+        1390,
+        2012
+      ],
+      "clickable": false,
+      "semantic_label": null
+    },
+    {
+      "class": "TextView",
+      "text": "Al-Hijr",
+      "resource_id": "title",
+      "bounds": [
+        18,
+        2084,
+        173,
+        2155
+      ],
+      "clickable": false,
+      "semantic_label": null
+    },
+    {
+      "class": "ImageView",
+      "text": null,
+      "resource_id": null,
+      "bounds": [
+        1353,
+        2095,
+        1390,
+        2132
+      ],
+      "clickable": false,
+      "semantic_label": null
+    },
+    {
+      "class": "TextView",
+      "text": "An-Nahl",
+      "resource_id": "title",
+      "bounds": [
+        18,
+        2204,
+        213,
+        2275
+      ],
+      "clickable": false,
+      "semantic_label": null
+    },
+    {
+      "class": "ImageView",
+      "text": null,
+      "resource_id": null,
+      "bounds": [
+        1353,
+        2215,
+        1390,
+        2252
+      ],
+      "clickable": false,
+      "semantic_label": null
+    },
+    {
+      "class": "TextView",
+      "text": "Al-Isra",
+      "resource_id": "title",
+      "bounds": [
+        18,
+        2324,
+        177,
+        2392
+      ],
+      "clickable": false,
+      "semantic_label": null
+    },
+    {
+      "class": "ImageView",
+      "text": null,
+      "resource_id": null,
+      "bounds": [
+        1353,
+        2335,
+        1390,
+        2372
+      ],
+      "clickable": false,
+      "semantic_label": null
+    },
+    {
+      "class": "ImageView",
+      "text": null,
+      "resource_id": "home",
+      "bounds": [
+        43,
+        112,
+        155,
+        224
+      ],
+      "clickable": false,
+      "semantic_label": null
+    },
+    {
+      "class": "TextView",
+      "text": "Maher Al Mueaqly",
+      "resource_id": "action_bar_title",
+      "bounds": [
+        169,
+        125,
+        673,
+        210
+      ],
+      "clickable": false,
+      "semantic_label": null
+    },
+    {
+      "class": "ActionMenuPresenter$OverflowMenuButton",
+      "text": null,
+      "resource_id": null,
+      "bounds": [
+        1244,
+        84,
+        1440,
+        252
+      ],
+      "clickable": true,
+      "semantic_label": null
+    }
+  ],
+  "Page_2": [
+    {
+      "class": "TextView",
+      "text": "Al-Baqara",
+      "resource_id": "SurahName",
+      "bounds": [
+        485,
+        305,
+        955,
+        445
+      ],
+      "clickable": false,
+      "semantic_label": null
+    },
+    {
+      "class": "TextView",
+      "text": "Maher Al Mueaqly",
+      "resource_id": "ReciterName",
+      "bounds": [
+        439,
+        533,
+        1000,
+        626
+      ],
+      "clickable": false,
+      "semantic_label": null
+    },
+    {
+      "class": "ImageView",
+      "text": null,
+      "resource_id": "btnRepeat",
+      "bounds": [
+        540,
+        731,
+        720,
+        876
+      ],
+      "clickable": true,
+      "semantic_label": null
+    },
+    {
+      "class": "ImageView",
+      "text": null,
+      "resource_id": "btnShuffle",
+      "bounds": [
+        720,
+        731,
+        900,
+        876
+      ],
+      "clickable": true,
+      "semantic_label": null
+    },
+    {
+      "class": "ImageView",
+      "text": null,
+      "resource_id": "btnPrevious",
+      "bounds": [
+        334,
+        1016,
+        463,
+        1145
+      ],
+      "clickable": true,
+      "semantic_label": null
+    },
+    {
+      "class": "ImageView",
+      "text": null,
+      "resource_id": "btnRewind",
+      "bounds": [
+        463,
+        1016,
+        592,
+        1145
+      ],
+      "clickable": true,
+      "semantic_label": null
+    },
+    {
+      "class": "ImageView",
+      "text": null,
+      "resource_id": "btnPlayPause",
+      "bounds": [
+        610,
+        964,
+        829,
+        1183
+      ],
+      "clickable": true,
+      "semantic_label": null
+    },
+    {
+      "class": "ImageView",
+      "text": null,
+      "resource_id": "btnForward",
+      "bounds": [
+        847,
+        1016,
+        976,
+        1145
+      ],
+      "clickable": true,
+      "semantic_label": null
+    },
+    {
+      "class": "ImageView",
+      "text": null,
+      "resource_id": "btnNext",
+      "bounds": [
+        976,
+        1016,
+        1105,
+        1145
+      ],
+      "clickable": true,
+      "semantic_label": null
+    },
+    {
+      "class": "SeekBar",
+      "text": null,
+      "resource_id": "seekBarProgress",
+      "bounds": [
+        0,
+        1289,
+        1440,
+        1401
+      ],
+      "clickable": false,
+      "semantic_label": null
+    },
+    {
+      "class": "TextView",
+      "text": "00:00:34",
+      "resource_id": "currentTime",
+      "bounds": [
+        35,
+        1436,
+        227,
+        1502
+      ],
+      "clickable": false,
+      "semantic_label": null
+    },
+    {
+      "class": "TextView",
+      "text": "01:54:44",
+      "resource_id": "totalTime",
+      "bounds": [
+        1213,
+        1436,
+        1405,
+        1502
+      ],
+      "clickable": false,
+      "semantic_label": null
+    },
+    {
+      "class": "ImageView",
+      "text": null,
+      "resource_id": "home",
+      "bounds": [
+        43,
+        112,
+        155,
+        224
+      ],
+      "clickable": false,
+      "semantic_label": null
+    },
+    {
+      "class": "TextView",
+      "text": "Al-Baqara - Maher Al Mueaqly",
+      "resource_id": "action_bar_title",
+      "bounds": [
+        169,
+        125,
+        992,
+        210
+      ],
+      "clickable": false,
+      "semantic_label": null
+    },
+    {
+      "class": "ActionMenuPresenter$OverflowMenuButton",
+      "text": null,
+      "resource_id": null,
+      "bounds": [
+        1244,
+        84,
+        1440,
+        252
+      ],
+      "clickable": true,
+      "semantic_label": null
+    }
+  ]
+}

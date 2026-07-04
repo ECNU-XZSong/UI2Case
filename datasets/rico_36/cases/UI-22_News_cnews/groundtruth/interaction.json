@@ -1,0 +1,148 @@
+{
+  "Page_0": [
+    {
+      "action": "Click the list",
+      "target_element": "ListView",
+      "target_text": null,
+      "target_resid": "list",
+      "bounds": [
+        0,
+        252,
+        1440,
+        2392
+      ],
+      "exercised": false,
+      "expected_next_page": null
+    }
+  ],
+  "Page_1": [
+    {
+      "action": "Click the ObservableWebView",
+      "target_element": "ObservableWebView",
+      "target_text": null,
+      "target_resid": null,
+      "bounds": [
+        0,
+        252,
+        1440,
+        2392
+      ],
+      "exercised": false,
+      "expected_next_page": null
+    },
+    {
+      "action": "Click the MMWebView",
+      "target_element": "MMWebView",
+      "target_text": null,
+      "target_resid": null,
+      "bounds": [
+        0,
+        2217,
+        1,
+        2218
+      ],
+      "exercised": false,
+      "expected_next_page": null
+    },
+    {
+      "action": "Click the webview",
+      "target_element": "ActionMenuItemView",
+      "target_text": null,
+      "target_resid": "webview",
+      "bounds": [
+        848,
+        84,
+        1044,
+        252
+      ],
+      "exercised": false,
+      "expected_next_page": null
+    },
+    {
+      "action": "Click the A+ / A-",
+      "target_element": "ActionMenuItemView",
+      "target_text": "A+ / A-",
+      "target_resid": "resize",
+      "bounds": [
+        1046,
+        84,
+        1242,
+        252
+      ],
+      "exercised": false,
+      "expected_next_page": null
+    },
+    {
+      "action": "Click the share",
+      "target_element": "ActionMenuItemView",
+      "target_text": null,
+      "target_resid": "share",
+      "bounds": [
+        1244,
+        84,
+        1440,
+        252
+      ],
+      "exercised": false,
+      "expected_next_page": null
+    }
+  ],
+  "Page_2": [
+    {
+      "action": "Click the potrait_hview",
+      "target_element": "WebView",
+      "target_text": null,
+      "target_resid": "potrait_hview",
+      "bounds": [
+        0,
+        252,
+        1440,
+        2392
+      ],
+      "exercised": false,
+      "expected_next_page": null
+    },
+    {
+      "action": "Click the refresh",
+      "target_element": "ActionMenuItemView",
+      "target_text": null,
+      "target_resid": "refresh",
+      "bounds": [
+        852,
+        84,
+        1048,
+        252
+      ],
+      "exercised": false,
+      "expected_next_page": null
+    },
+    {
+      "action": "Click the settings",
+      "target_element": "ActionMenuItemView",
+      "target_text": null,
+      "target_resid": "settings",
+      "bounds": [
+        1048,
+        84,
+        1244,
+        252
+      ],
+      "exercised": false,
+      "expected_next_page": null
+    },
+    {
+      "action": "Click the ActionMenuPresenter$OverflowMenuButton",
+      "target_element": "ActionMenuPresenter$OverflowMenuButton",
+      "target_text": null,
+      "target_resid": null,
+      "bounds": [
+        1244,
+        84,
+        1440,
+        252
+      ],
+      "exercised": false,
+      "expected_next_page": null
+    }
+  ]
+}

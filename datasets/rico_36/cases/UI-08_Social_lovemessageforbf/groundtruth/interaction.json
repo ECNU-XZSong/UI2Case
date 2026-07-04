@@ -1,0 +1,331 @@
+{
+  "Page_1": [],
+  "Page_2": [
+    {
+      "action": "Click the copy",
+      "target_element": "ImageView",
+      "target_text": null,
+      "target_resid": "copy",
+      "bounds": [
+        46,
+        280,
+        383,
+        294
+      ],
+      "exercised": false,
+      "expected_next_page": null
+    },
+    {
+      "action": "Click the save",
+      "target_element": "ImageView",
+      "target_text": null,
+      "target_resid": "save",
+      "bounds": [
+        383,
+        280,
+        720,
+        294
+      ],
+      "exercised": false,
+      "expected_next_page": null
+    },
+    {
+      "action": "Click the share",
+      "target_element": "ImageView",
+      "target_text": null,
+      "target_resid": "share",
+      "bounds": [
+        720,
+        280,
+        1057,
+        294
+      ],
+      "exercised": false,
+      "expected_next_page": null
+    },
+    {
+      "action": "Click the fav",
+      "target_element": "ImageView",
+      "target_text": null,
+      "target_resid": "fav",
+      "bounds": [
+        1057,
+        280,
+        1394,
+        294
+      ],
+      "exercised": false,
+      "expected_next_page": null
+    },
+    {
+      "action": "Click the copy",
+      "target_element": "ImageView",
+      "target_text": null,
+      "target_resid": "copy",
+      "bounds": [
+        46,
+        1700,
+        383,
+        1823
+      ],
+      "exercised": false,
+      "expected_next_page": null
+    },
+    {
+      "action": "Click the save",
+      "target_element": "ImageView",
+      "target_text": null,
+      "target_resid": "save",
+      "bounds": [
+        383,
+        1700,
+        720,
+        1823
+      ],
+      "exercised": false,
+      "expected_next_page": null
+    },
+    {
+      "action": "Click the share",
+      "target_element": "ImageView",
+      "target_text": null,
+      "target_resid": "share",
+      "bounds": [
+        720,
+        1700,
+        1057,
+        1823
+      ],
+      "exercised": false,
+      "expected_next_page": null
+    },
+    {
+      "action": "Click the fav",
+      "target_element": "ImageView",
+      "target_text": null,
+      "target_resid": "fav",
+      "bounds": [
+        1057,
+        1700,
+        1394,
+        1823
+      ],
+      "exercised": false,
+      "expected_next_page": null
+    },
+    {
+      "action": "Click the o",
+      "target_element": "o",
+      "target_text": null,
+      "target_resid": null,
+      "bounds": [
+        0,
+        2217,
+        1440,
+        2392
+      ],
+      "exercised": false,
+      "expected_next_page": null
+    },
+    {
+      "action": "Click the ImageButton",
+      "target_element": "ImageButton",
+      "target_text": null,
+      "target_resid": null,
+      "bounds": [
+        0,
+        84,
+        196,
+        280
+      ],
+      "exercised": false,
+      "expected_next_page": null
+    },
+    {
+      "action": "Click the favmenu",
+      "target_element": "ActionMenuItemView",
+      "target_text": null,
+      "target_resid": "favmenu",
+      "bounds": [
+        1244,
+        98,
+        1440,
+        266
+      ],
+      "exercised": false,
+      "expected_next_page": null
+    }
+  ],
+  "Page_3": [
+    {
+      "action": "Click the copy",
+      "target_element": "ImageView",
+      "target_text": null,
+      "target_resid": "copy",
+      "bounds": [
+        46,
+        1565,
+        383,
+        1688
+      ],
+      "exercised": false,
+      "expected_next_page": null
+    },
+    {
+      "action": "Click the save",
+      "target_element": "ImageView",
+      "target_text": null,
+      "target_resid": "save",
+      "bounds": [
+        383,
+        1565,
+        720,
+        1688
+      ],
+      "exercised": false,
+      "expected_next_page": null
+    },
+    {
+      "action": "Click the share",
+      "target_element": "ImageView",
+      "target_text": null,
+      "target_resid": "share",
+      "bounds": [
+        720,
+        1565,
+        1057,
+        1688
+      ],
+      "exercised": false,
+      "expected_next_page": null
+    },
+    {
+      "action": "Click the fav",
+      "target_element": "ImageView",
+      "target_text": null,
+      "target_resid": "fav",
+      "bounds": [
+        1057,
+        1565,
+        1394,
+        1688
+      ],
+      "exercised": false,
+      "expected_next_page": null
+    },
+    {
+      "action": "Click the o",
+      "target_element": "o",
+      "target_text": null,
+      "target_resid": null,
+      "bounds": [
+        0,
+        2217,
+        1440,
+        2392
+      ],
+      "exercised": false,
+      "expected_next_page": null
+    },
+    {
+      "action": "Click the ImageButton",
+      "target_element": "ImageButton",
+      "target_text": null,
+      "target_resid": null,
+      "bounds": [
+        0,
+        84,
+        196,
+        280
+      ],
+      "exercised": false,
+      "expected_next_page": null
+    }
+  ],
+  "Page_4": [
+    {
+      "action": "Click the o",
+      "target_element": "o",
+      "target_text": null,
+      "target_resid": null,
+      "bounds": [
+        0,
+        2217,
+        1440,
+        2392
+      ],
+      "exercised": false,
+      "expected_next_page": null
+    },
+    {
+      "action": "Click the image1",
+      "target_element": "ImageView",
+      "target_text": null,
+      "target_resid": "image1",
+      "bounds": [
+        0,
+        280,
+        1440,
+        782
+      ],
+      "exercised": false,
+      "expected_next_page": null
+    },
+    {
+      "action": "Click the image1",
+      "target_element": "ImageView",
+      "target_text": null,
+      "target_resid": "image1",
+      "bounds": [
+        0,
+        789,
+        1440,
+        1291
+      ],
+      "exercised": false,
+      "expected_next_page": null
+    },
+    {
+      "action": "Click the image1",
+      "target_element": "ImageView",
+      "target_text": null,
+      "target_resid": "image1",
+      "bounds": [
+        0,
+        1298,
+        1440,
+        1800
+      ],
+      "exercised": false,
+      "expected_next_page": null
+    },
+    {
+      "action": "Click the image1",
+      "target_element": "ImageView",
+      "target_text": null,
+      "target_resid": "image1",
+      "bounds": [
+        0,
+        1807,
+        1440,
+        2217
+      ],
+      "exercised": false,
+      "expected_next_page": null
+    },
+    {
+      "action": "Click the favmenu",
+      "target_element": "ActionMenuItemView",
+      "target_text": null,
+      "target_resid": "favmenu",
+      "bounds": [
+        1244,
+        98,
+        1440,
+        266
+      ],
+      "exercised": false,
+      "expected_next_page": null
+    }
+  ]
+}

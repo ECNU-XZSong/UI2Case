@@ -1,0 +1,51 @@
+{
+  "case_id": "UI-11_Communication_whatscall",
+  "category": "Communication",
+  "complexity": "Medium",
+  "app_package": "com.cmcm.whatscall",
+  "play_store_name": "WhatsCall - Free Global Calls",
+  "trace": "trace_0",
+  "entry_page": "Page_1",
+  "n_screens": 4,
+  "dropped_screens": [
+    "Page_0"
+  ],
+  "pages": [
+    {
+      "page": "Page_1",
+      "orig_screenshot_id": 223,
+      "activity": "com.cmcm.whatscall/com.cmcm.user.ui.GuideActivity",
+      "is_keyboard": false,
+      "n_elements": 11,
+      "n_clickable": 5,
+      "n_clickable_human": 3
+    },
+    {
+      "page": "Page_2",
+      "orig_screenshot_id": 482,
+      "activity": "com.cmcm.whatscall/com.yy.iheima.login.LoginActivity",
+      "is_keyboard": false,
+      "n_elements": 14,
+      "n_clickable": 7,
+      "n_clickable_human": 7
+    },
+    {
+      "page": "Page_3",
+      "orig_screenshot_id": 570,
+      "activity": "com.cmcm.whatscall/com.yy.iheima.login.ResetPwByEmailActivity",
+      "is_keyboard": false,
+      "n_elements": 8,
+      "n_clickable": 3,
+      "n_clickable_human": 4
+    },
+    {
+      "page": "Page_4",
+      "orig_screenshot_id": 588,
+      "activity": "com.cmcm.whatscall/com.yy.iheima.login.FillPhoneNumberActivity",
+      "is_keyboard": false,
+      "n_elements": 15,
+      "n_clickable": 4,
+      "n_clickable_human": 5
+    }
+  ]
+}

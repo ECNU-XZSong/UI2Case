@@ -1,0 +1,14 @@
+[
+  {
+    "source_page": "Page_2",
+    "target_page": "Page_0",
+    "action": "Click Begin test",
+    "needs_review": false
+  },
+  {
+    "source_page": "Page_2",
+    "target_page": "Page_1",
+    "action": "Click Top 10 results",
+    "needs_review": false
+  }
+]

@@ -1,0 +1,506 @@
+{
+  "Page_0": [
+    {
+      "class": "AppCompatButton",
+      "text": "Start",
+      "resource_id": "getstart",
+      "bounds": [
+        210,
+        2049,
+        1230,
+        2217
+      ],
+      "clickable": true,
+      "semantic_label": null
+    },
+    {
+      "class": "AppCompatTextView",
+      "text": "By continuing you accept Privacy Policy",
+      "resource_id": "myprivacytext",
+      "bounds": [
+        352,
+        2265,
+        1087,
+        2322
+      ],
+      "clickable": true,
+      "semantic_label": null
+    },
+    {
+      "class": "AppCompatTextView",
+      "text": "Mobile Location Tracker",
+      "resource_id": null,
+      "bounds": [
+        56,
+        135,
+        815,
+        228
+      ],
+      "clickable": false,
+      "semantic_label": null
+    },
+    {
+      "class": "View",
+      "text": null,
+      "resource_id": "navigationBarBackground",
+      "bounds": [
+        0,
+        2392,
+        1440,
+        2560
+      ],
+      "clickable": false,
+      "semantic_label": null
+    },
+    {
+      "class": "View",
+      "text": null,
+      "resource_id": "statusBarBackground",
+      "bounds": [
+        0,
+        0,
+        1440,
+        84
+      ],
+      "clickable": false,
+      "semantic_label": null
+    }
+  ],
+  "Page_1": [
+    {
+      "class": "o",
+      "text": null,
+      "resource_id": null,
+      "bounds": [
+        0,
+        280,
+        1440,
+        455
+      ],
+      "clickable": true,
+      "semantic_label": null
+    },
+    {
+      "class": "AppCompatImageView",
+      "text": null,
+      "resource_id": "imageView1",
+      "bounds": [
+        596,
+        532,
+        843,
+        901
+      ],
+      "clickable": false,
+      "semantic_label": null
+    },
+    {
+      "class": "AppCompatTextView",
+      "text": "YOU ARE AT",
+      "resource_id": "textView1",
+      "bounds": [
+        447,
+        961,
+        993,
+        1092
+      ],
+      "clickable": false,
+      "semantic_label": null
+    },
+    {
+      "class": "AppCompatTextView",
+      "text": "Unable to Locate your Current Address, Please Check Internet, and try again...",
+      "resource_id": "showaddress",
+      "bounds": [
+        0,
+        1141,
+        1440,
+        1736
+      ],
+      "clickable": false,
+      "semantic_label": null
+    },
+    {
+      "class": "AppCompatButton",
+      "text": null,
+      "resource_id": "sharemysoul",
+      "bounds": [
+        0,
+        2224,
+        720,
+        2392
+      ],
+      "clickable": true,
+      "semantic_label": null
+    },
+    {
+      "class": "AppCompatButton",
+      "text": null,
+      "resource_id": "mapclick",
+      "bounds": [
+        720,
+        2224,
+        1440,
+        2392
+      ],
+      "clickable": true,
+      "semantic_label": null
+    },
+    {
+      "class": "AppCompatTextView",
+      "text": "Mobile Location Tracker",
+      "resource_id": null,
+      "bounds": [
+        56,
+        135,
+        815,
+        228
+      ],
+      "clickable": false,
+      "semantic_label": null
+    },
+    {
+      "class": "View",
+      "text": null,
+      "resource_id": "navigationBarBackground",
+      "bounds": [
+        0,
+        2392,
+        1440,
+        2560
+      ],
+      "clickable": false,
+      "semantic_label": null
+    },
+    {
+      "class": "View",
+      "text": null,
+      "resource_id": "statusBarBackground",
+      "bounds": [
+        0,
+        0,
+        1440,
+        84
+      ],
+      "clickable": false,
+      "semantic_label": null
+    }
+  ],
+  "Page_2": [
+    {
+      "class": "AppCompatButton",
+      "text": null,
+      "resource_id": "liveloc",
+      "bounds": [
+        264,
+        940,
+        1176,
+        1204
+      ],
+      "clickable": true,
+      "semantic_label": null
+    },
+    {
+      "class": "AppCompatButton",
+      "text": null,
+      "resource_id": "addfinder",
+      "bounds": [
+        264,
+        1204,
+        1176,
+        1468
+      ],
+      "clickable": true,
+      "semantic_label": null
+    },
+    {
+      "class": "AppCompatButton",
+      "text": null,
+      "resource_id": "mobinfo",
+      "bounds": [
+        264,
+        1468,
+        1176,
+        1732
+      ],
+      "clickable": true,
+      "semantic_label": null
+    },
+    {
+      "class": "o",
+      "text": null,
+      "resource_id": null,
+      "bounds": [
+        0,
+        2217,
+        1440,
+        2392
+      ],
+      "clickable": true,
+      "semantic_label": null
+    },
+    {
+      "class": "AppCompatTextView",
+      "text": "Mobile Location Tracker",
+      "resource_id": null,
+      "bounds": [
+        56,
+        135,
+        815,
+        228
+      ],
+      "clickable": false,
+      "semantic_label": null
+    },
+    {
+      "class": "ActionMenuItemView",
+      "text": null,
+      "resource_id": "action_share",
+      "bounds": [
+        1244,
+        98,
+        1440,
+        266
+      ],
+      "clickable": true,
+      "semantic_label": null
+    },
+    {
+      "class": "View",
+      "text": null,
+      "resource_id": "navigationBarBackground",
+      "bounds": [
+        0,
+        2392,
+        1440,
+        2560
+      ],
+      "clickable": false,
+      "semantic_label": null
+    },
+    {
+      "class": "View",
+      "text": null,
+      "resource_id": "statusBarBackground",
+      "bounds": [
+        0,
+        0,
+        1440,
+        84
+      ],
+      "clickable": false,
+      "semantic_label": null
+    }
+  ],
+  "Page_4": [
+    {
+      "class": "AppCompatEditText",
+      "text": "2674395082",
+      "resource_id": "editTxt",
+      "bounds": [
+        189,
+        385,
+        1099,
+        537
+      ],
+      "clickable": true,
+      "semantic_label": null
+    },
+    {
+      "class": "AppCompatImageView",
+      "text": null,
+      "resource_id": "contactpicker",
+      "bounds": [
+        1099,
+        385,
+        1251,
+        537
+      ],
+      "clickable": true,
+      "semantic_label": null
+    },
+    {
+      "class": "AppCompatImageView",
+      "text": null,
+      "resource_id": "btn",
+      "bounds": [
+        414,
+        572,
+        1025,
+        735
+      ],
+      "clickable": true,
+      "semantic_label": null
+    },
+    {
+      "class": "AppCompatTextView",
+      "text": "Mobile Number:2674395082\nNumber is not added in database,Please email us to update data",
+      "resource_id": "txtLocation",
+      "bounds": [
+        0,
+        1291,
+        1440,
+        1496
+      ],
+      "clickable": false,
+      "semantic_label": null
+    },
+    {
+      "class": "AppCompatImageView",
+      "text": null,
+      "resource_id": "simtypeicon",
+      "bounds": [
+        719,
+        1549,
+        720,
+        1550
+      ],
+      "clickable": false,
+      "semantic_label": null
+    },
+    {
+      "class": "AppCompatTextView",
+      "text": "Mobile Location Tracker",
+      "resource_id": null,
+      "bounds": [
+        56,
+        135,
+        815,
+        228
+      ],
+      "clickable": false,
+      "semantic_label": null
+    },
+    {
+      "class": "View",
+      "text": null,
+      "resource_id": "navigationBarBackground",
+      "bounds": [
+        0,
+        2392,
+        1440,
+        2560
+      ],
+      "clickable": false,
+      "semantic_label": null
+    },
+    {
+      "class": "View",
+      "text": null,
+      "resource_id": "statusBarBackground",
+      "bounds": [
+        0,
+        0,
+        1440,
+        84
+      ],
+      "clickable": false,
+      "semantic_label": null
+    }
+  ],
+  "Page_5": [
+    {
+      "class": "z",
+      "text": null,
+      "resource_id": null,
+      "bounds": [
+        0,
+        280,
+        1440,
+        2392
+      ],
+      "clickable": true,
+      "semantic_label": null
+    },
+    {
+      "class": "ImageView",
+      "text": null,
+      "resource_id": null,
+      "bounds": [
+        18,
+        2297,
+        228,
+        2374
+      ],
+      "clickable": false,
+      "semantic_label": null
+    },
+    {
+      "class": "ImageView",
+      "text": null,
+      "resource_id": null,
+      "bounds": [
+        1258,
+        315,
+        1405,
+        462
+      ],
+      "clickable": true,
+      "semantic_label": null
+    },
+    {
+      "class": "ImageView",
+      "text": null,
+      "resource_id": null,
+      "bounds": [
+        1258,
+        2059,
+        1405,
+        2197
+      ],
+      "clickable": true,
+      "semantic_label": null
+    },
+    {
+      "class": "ImageView",
+      "text": null,
+      "resource_id": null,
+      "bounds": [
+        1258,
+        2197,
+        1405,
+        2339
+      ],
+      "clickable": true,
+      "semantic_label": null
+    },
+    {
+      "class": "AppCompatTextView",
+      "text": "Mobile Location Tracker",
+      "resource_id": null,
+      "bounds": [
+        56,
+        135,
+        815,
+        228
+      ],
+      "clickable": false,
+      "semantic_label": null
+    },
+    {
+      "class": "View",
+      "text": null,
+      "resource_id": "navigationBarBackground",
+      "bounds": [
+        0,
+        2392,
+        1440,
+        2560
+      ],
+      "clickable": false,
+      "semantic_label": null
+    },
+    {
+      "class": "View",
+      "text": null,
+      "resource_id": "statusBarBackground",
+      "bounds": [
+        0,
+        0,
+        1440,
+        84
+      ],
+      "clickable": false,
+      "semantic_label": null
+    }
+  ]
+}

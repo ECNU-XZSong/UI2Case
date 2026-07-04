@@ -1,0 +1,20 @@
+[
+  {
+    "source_page": "Page_1",
+    "target_page": "Page_2",
+    "action": "Click SIGN UP / LOG IN",
+    "needs_review": false
+  },
+  {
+    "source_page": "Page_2",
+    "target_page": "Page_3",
+    "action": "Click Forgot password",
+    "needs_review": false
+  },
+  {
+    "source_page": "Page_3",
+    "target_page": "Page_4",
+    "action": "Click Reset password via SMS",
+    "needs_review": false
+  }
+]

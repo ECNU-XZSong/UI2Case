@@ -1,0 +1,790 @@
+{
+  "Page_0": [
+    {
+      "class": "AppCompatTextView",
+      "text": "Find My Parked Car",
+      "resource_id": "title",
+      "bounds": [
+        178,
+        0,
+        1262,
+        591
+      ],
+      "clickable": false,
+      "semantic_label": null
+    },
+    {
+      "class": "AppCompatImageView",
+      "text": null,
+      "resource_id": "image",
+      "bounds": [
+        152,
+        591,
+        1288,
+        1576
+      ],
+      "clickable": false,
+      "semantic_label": null
+    },
+    {
+      "class": "AppCompatTextView",
+      "text": "Never forget your parking location again",
+      "resource_id": "description",
+      "bounds": [
+        72,
+        1834,
+        1368,
+        1910
+      ],
+      "clickable": false,
+      "semantic_label": null
+    },
+    {
+      "class": "AppCompatTextView",
+      "text": null,
+      "resource_id": "bottom_separator",
+      "bounds": [
+        0,
+        2168,
+        1440,
+        2169
+      ],
+      "clickable": false,
+      "semantic_label": null
+    },
+    {
+      "class": "ImageView",
+      "text": null,
+      "resource_id": null,
+      "bounds": [
+        585,
+        2251,
+        630,
+        2310
+      ],
+      "clickable": false,
+      "semantic_label": null
+    },
+    {
+      "class": "ImageView",
+      "text": null,
+      "resource_id": null,
+      "bounds": [
+        630,
+        2251,
+        675,
+        2310
+      ],
+      "clickable": false,
+      "semantic_label": null
+    },
+    {
+      "class": "ImageView",
+      "text": null,
+      "resource_id": null,
+      "bounds": [
+        675,
+        2251,
+        720,
+        2310
+      ],
+      "clickable": false,
+      "semantic_label": null
+    },
+    {
+      "class": "ImageView",
+      "text": null,
+      "resource_id": null,
+      "bounds": [
+        720,
+        2251,
+        765,
+        2310
+      ],
+      "clickable": false,
+      "semantic_label": null
+    },
+    {
+      "class": "ImageView",
+      "text": null,
+      "resource_id": null,
+      "bounds": [
+        765,
+        2251,
+        810,
+        2310
+      ],
+      "clickable": false,
+      "semantic_label": null
+    },
+    {
+      "class": "ImageView",
+      "text": null,
+      "resource_id": null,
+      "bounds": [
+        810,
+        2251,
+        855,
+        2310
+      ],
+      "clickable": false,
+      "semantic_label": null
+    },
+    {
+      "class": "AppCompatButton",
+      "text": "Skip",
+      "resource_id": "skip",
+      "bounds": [
+        28,
+        2169,
+        378,
+        2392
+      ],
+      "clickable": true,
+      "semantic_label": null
+    },
+    {
+      "class": "AppCompatImageButton",
+      "text": null,
+      "resource_id": "next",
+      "bounds": [
+        1062,
+        2169,
+        1412,
+        2392
+      ],
+      "clickable": true,
+      "semantic_label": null
+    },
+    {
+      "class": "View",
+      "text": null,
+      "resource_id": "navigationBarBackground",
+      "bounds": [
+        0,
+        2392,
+        1440,
+        2560
+      ],
+      "clickable": false,
+      "semantic_label": null
+    },
+    {
+      "class": "View",
+      "text": null,
+      "resource_id": "statusBarBackground",
+      "bounds": [
+        0,
+        0,
+        1440,
+        84
+      ],
+      "clickable": false,
+      "semantic_label": null
+    }
+  ],
+  "Page_1": [
+    {
+      "class": "AppCompatTextView",
+      "text": "Settings",
+      "resource_id": null,
+      "bounds": [
+        252,
+        135,
+        511,
+        228
+      ],
+      "clickable": false,
+      "semantic_label": null
+    },
+    {
+      "class": "AppCompatImageButton",
+      "text": null,
+      "resource_id": null,
+      "bounds": [
+        0,
+        84,
+        196,
+        280
+      ],
+      "clickable": true,
+      "semantic_label": null
+    },
+    {
+      "class": "AppCompatTextView",
+      "text": "Automatic Parking Detection",
+      "resource_id": null,
+      "bounds": [
+        53,
+        333,
+        1387,
+        399
+      ],
+      "clickable": false,
+      "semantic_label": null
+    },
+    {
+      "class": "SwitchCompat",
+      "text": "Automatically detect parking location",
+      "resource_id": "parkingRemindersSwitch",
+      "bounds": [
+        53,
+        469,
+        1387,
+        564
+      ],
+      "clickable": true,
+      "semantic_label": null
+    },
+    {
+      "class": "SwitchCompat",
+      "text": "Disable detection near home",
+      "resource_id": "homeSwitch",
+      "bounds": [
+        53,
+        669,
+        1387,
+        764
+      ],
+      "clickable": true,
+      "semantic_label": null
+    },
+    {
+      "class": "SwitchCompat",
+      "text": "Disable detection near work",
+      "resource_id": "workSwitch",
+      "bounds": [
+        53,
+        869,
+        1387,
+        964
+      ],
+      "clickable": true,
+      "semantic_label": null
+    },
+    {
+      "class": "SwitchCompat",
+      "text": "Use Bluetooth detection",
+      "resource_id": "bluetoothSwitch",
+      "bounds": [
+        53,
+        1069,
+        1387,
+        1164
+      ],
+      "clickable": true,
+      "semantic_label": null
+    },
+    {
+      "class": "AppCompatTextView",
+      "text": "Notification settings",
+      "resource_id": "notificationsTextView",
+      "bounds": [
+        53,
+        1273,
+        1314,
+        1349
+      ],
+      "clickable": true,
+      "semantic_label": null
+    },
+    {
+      "class": "AppCompatImageButton",
+      "text": null,
+      "resource_id": "notificationsButton",
+      "bounds": [
+        1314,
+        1269,
+        1387,
+        1353
+      ],
+      "clickable": true,
+      "semantic_label": null
+    },
+    {
+      "class": "AppCompatTextView",
+      "text": "Miscellaneous",
+      "resource_id": null,
+      "bounds": [
+        53,
+        1529,
+        1387,
+        1595
+      ],
+      "clickable": false,
+      "semantic_label": null
+    },
+    {
+      "class": "SwitchCompat",
+      "text": "Save parking history",
+      "resource_id": "historySwitch",
+      "bounds": [
+        53,
+        1665,
+        1387,
+        1760
+      ],
+      "clickable": true,
+      "semantic_label": null
+    },
+    {
+      "class": "SwitchCompat",
+      "text": "Use Google Maps for walking navigation",
+      "resource_id": "mapsSwitch",
+      "bounds": [
+        53,
+        1865,
+        1387,
+        1960
+      ],
+      "clickable": true,
+      "semantic_label": null
+    },
+    {
+      "class": "AppCompatButton",
+      "text": "Send feedback",
+      "resource_id": "feedbackButton",
+      "bounds": [
+        499,
+        2118,
+        941,
+        2276
+      ],
+      "clickable": true,
+      "semantic_label": null
+    },
+    {
+      "class": "AppCompatButton",
+      "text": "About",
+      "resource_id": "settingsButton",
+      "bounds": [
+        566,
+        2364,
+        874,
+        2392
+      ],
+      "clickable": true,
+      "semantic_label": null
+    },
+    {
+      "class": "View",
+      "text": null,
+      "resource_id": "navigationBarBackground",
+      "bounds": [
+        0,
+        2392,
+        1440,
+        2560
+      ],
+      "clickable": false,
+      "semantic_label": null
+    },
+    {
+      "class": "View",
+      "text": null,
+      "resource_id": "statusBarBackground",
+      "bounds": [
+        0,
+        0,
+        1440,
+        84
+      ],
+      "clickable": false,
+      "semantic_label": null
+    }
+  ],
+  "Page_2": [
+    {
+      "class": "AppCompatTextView",
+      "text": "Find My Parked Car Plus",
+      "resource_id": "titleTextView",
+      "bounds": [
+        35,
+        140,
+        1405,
+        257
+      ],
+      "clickable": false,
+      "semantic_label": null
+    },
+    {
+      "class": "AppCompatImageView",
+      "text": null,
+      "resource_id": null,
+      "bounds": [
+        0,
+        282,
+        1440,
+        562
+      ],
+      "clickable": false,
+      "semantic_label": null
+    },
+    {
+      "class": "AppCompatImageView",
+      "text": null,
+      "resource_id": null,
+      "bounds": [
+        70,
+        712,
+        245,
+        887
+      ],
+      "clickable": false,
+      "semantic_label": null
+    },
+    {
+      "class": "AppCompatTextView",
+      "text": "Bluetooth Detection",
+      "resource_id": null,
+      "bounds": [
+        298,
+        667,
+        1370,
+        738
+      ],
+      "clickable": false,
+      "semantic_label": null
+    },
+    {
+      "class": "AppCompatTextView",
+      "text": "Automatically detect your parking location by monitoring the Bluetooth connection of your car. You can pair unlimited Bluetooth devices.",
+      "resource_id": null,
+      "bounds": [
+        298,
+        738,
+        1370,
+        933
+      ],
+      "clickable": false,
+      "semantic_label": null
+    },
+    {
+      "class": "AppCompatImageView",
+      "text": null,
+      "resource_id": null,
+      "bounds": [
+        70,
+        1038,
+        245,
+        1213
+      ],
+      "clickable": false,
+      "semantic_label": null
+    },
+    {
+      "class": "AppCompatTextView",
+      "text": "Parking History",
+      "resource_id": null,
+      "bounds": [
+        298,
+        1038,
+        1370,
+        1109
+      ],
+      "clickable": false,
+      "semantic_label": null
+    },
+    {
+      "class": "AppCompatTextView",
+      "text": "View your last 20 parking locations.",
+      "resource_id": null,
+      "bounds": [
+        298,
+        1109,
+        1370,
+        1180
+      ],
+      "clickable": false,
+      "semantic_label": null
+    },
+    {
+      "class": "AppCompatImageView",
+      "text": null,
+      "resource_id": null,
+      "bounds": [
+        70,
+        1332,
+        245,
+        1507
+      ],
+      "clickable": false,
+      "semantic_label": null
+    },
+    {
+      "class": "AppCompatTextView",
+      "text": "Exclude Home and Work",
+      "resource_id": null,
+      "bounds": [
+        298,
+        1318,
+        1370,
+        1389
+      ],
+      "clickable": false,
+      "semantic_label": null
+    },
+    {
+      "class": "AppCompatTextView",
+      "text": "Disable parking notifications near home and work.",
+      "resource_id": null,
+      "bounds": [
+        298,
+        1389,
+        1370,
+        1522
+      ],
+      "clickable": false,
+      "semantic_label": null
+    },
+    {
+      "class": "AppCompatImageView",
+      "text": null,
+      "resource_id": null,
+      "bounds": [
+        70,
+        1641,
+        245,
+        1816
+      ],
+      "clickable": false,
+      "semantic_label": null
+    },
+    {
+      "class": "AppCompatTextView",
+      "text": "Notification Settings",
+      "resource_id": null,
+      "bounds": [
+        298,
+        1627,
+        1370,
+        1698
+      ],
+      "clickable": false,
+      "semantic_label": null
+    },
+    {
+      "class": "AppCompatTextView",
+      "text": "Customize when you receive notifications, their vibration, sound, and light color.",
+      "resource_id": null,
+      "bounds": [
+        298,
+        1698,
+        1370,
+        1831
+      ],
+      "clickable": false,
+      "semantic_label": null
+    },
+    {
+      "class": "AppCompatImageView",
+      "text": null,
+      "resource_id": null,
+      "bounds": [
+        70,
+        1936,
+        245,
+        2111
+      ],
+      "clickable": false,
+      "semantic_label": null
+    },
+    {
+      "class": "AppCompatTextView",
+      "text": "Remove Ads",
+      "resource_id": null,
+      "bounds": [
+        298,
+        1936,
+        1370,
+        2007
+      ],
+      "clickable": false,
+      "semantic_label": null
+    },
+    {
+      "class": "AppCompatTextView",
+      "text": "Disables all advertisements in the app.",
+      "resource_id": null,
+      "bounds": [
+        298,
+        2007,
+        1370,
+        2078
+      ],
+      "clickable": false,
+      "semantic_label": null
+    },
+    {
+      "class": "AppCompatButton",
+      "text": "Buy",
+      "resource_id": "buyButton",
+      "bounds": [
+        0,
+        2196,
+        1440,
+        2392
+      ],
+      "clickable": true,
+      "semantic_label": null
+    },
+    {
+      "class": "View",
+      "text": null,
+      "resource_id": "navigationBarBackground",
+      "bounds": [
+        0,
+        2392,
+        1440,
+        2560
+      ],
+      "clickable": false,
+      "semantic_label": null
+    },
+    {
+      "class": "View",
+      "text": null,
+      "resource_id": "statusBarBackground",
+      "bounds": [
+        0,
+        0,
+        1440,
+        84
+      ],
+      "clickable": false,
+      "semantic_label": null
+    }
+  ],
+  "Page_3": [
+    {
+      "class": "AutofitTextView",
+      "text": "Find My Car",
+      "resource_id": "appNameTextView",
+      "bounds": [
+        0,
+        84,
+        655,
+        280
+      ],
+      "clickable": false,
+      "semantic_label": null
+    },
+    {
+      "class": "AppCompatImageButton",
+      "text": null,
+      "resource_id": "mapViewButton",
+      "bounds": [
+        655,
+        84,
+        982,
+        280
+      ],
+      "clickable": true,
+      "semantic_label": null
+    },
+    {
+      "class": "AppCompatImageButton",
+      "text": null,
+      "resource_id": "locatePhoneButton",
+      "bounds": [
+        982,
+        84,
+        1310,
+        280
+      ],
+      "clickable": true,
+      "semantic_label": null
+    },
+    {
+      "class": "AppCompatImageButton",
+      "text": null,
+      "resource_id": "menuButton",
+      "bounds": [
+        1310,
+        84,
+        1440,
+        280
+      ],
+      "clickable": true,
+      "semantic_label": null
+    },
+    {
+      "class": "z",
+      "text": null,
+      "resource_id": null,
+      "bounds": [
+        0,
+        280,
+        1440,
+        2217
+      ],
+      "clickable": true,
+      "semantic_label": null
+    },
+    {
+      "class": "ImageView",
+      "text": null,
+      "resource_id": null,
+      "bounds": [
+        18,
+        2122,
+        228,
+        2199
+      ],
+      "clickable": false,
+      "semantic_label": null
+    },
+    {
+      "class": "FloatingActionButton",
+      "text": null,
+      "resource_id": "removeAdsButton",
+      "bounds": [
+        35,
+        1052,
+        231,
+        1248
+      ],
+      "clickable": true,
+      "semantic_label": null
+    },
+    {
+      "class": "o",
+      "text": null,
+      "resource_id": null,
+      "bounds": [
+        0,
+        2217,
+        1440,
+        2392
+      ],
+      "clickable": true,
+      "semantic_label": null
+    },
+    {
+      "class": "View",
+      "text": null,
+      "resource_id": "navigationBarBackground",
+      "bounds": [
+        0,
+        2392,
+        1440,
+        2560
+      ],
+      "clickable": false,
+      "semantic_label": null
+    },
+    {
+      "class": "View",
+      "text": null,
+      "resource_id": "statusBarBackground",
+      "bounds": [
+        0,
+        0,
+        1440,
+        84
+      ],
+      "clickable": false,
+      "semantic_label": null
+    }
+  ]
+}

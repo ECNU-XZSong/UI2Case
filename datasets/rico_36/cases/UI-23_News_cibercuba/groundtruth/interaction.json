@@ -1,0 +1,330 @@
+{
+  "Page_0": [
+    {
+      "action": "Click the o",
+      "target_element": "o",
+      "target_text": null,
+      "target_resid": null,
+      "bounds": [
+        160,
+        2199,
+        1280,
+        2374
+      ],
+      "exercised": false,
+      "expected_next_page": null
+    },
+    {
+      "action": "Click the article_icon",
+      "target_element": "ImageView",
+      "target_text": null,
+      "target_resid": "article_icon",
+      "bounds": [
+        4,
+        1411,
+        1436,
+        2076
+      ],
+      "exercised": false,
+      "expected_next_page": null
+    },
+    {
+      "action": "Click the Summer is Coming - Register for Camp at Gymtime",
+      "target_element": "TextView",
+      "target_text": "Summer is Coming - Register for Camp at Gymtime",
+      "target_resid": "article_title",
+      "bounds": [
+        4,
+        2076,
+        1115,
+        2199
+      ],
+      "exercised": false,
+      "expected_next_page": null
+    },
+    {
+      "action": "Click the Learn More",
+      "target_element": "TextView",
+      "target_text": "Learn More",
+      "target_resid": "article_cta",
+      "bounds": [
+        1115,
+        2101,
+        1411,
+        2199
+      ],
+      "exercised": false,
+      "expected_next_page": null
+    },
+    {
+      "action": "Click the arrow",
+      "target_element": "ImageView",
+      "target_text": null,
+      "target_resid": "arrow",
+      "bounds": [
+        4,
+        2030,
+        169,
+        2076
+      ],
+      "exercised": false,
+      "expected_next_page": null
+    },
+    {
+      "action": "Click the border_top",
+      "target_element": "View",
+      "target_text": null,
+      "target_resid": "border_top",
+      "bounds": [
+        0,
+        1407,
+        1440,
+        1411
+      ],
+      "exercised": false,
+      "expected_next_page": null
+    },
+    {
+      "action": "Click the border_left",
+      "target_element": "View",
+      "target_text": null,
+      "target_resid": "border_left",
+      "bounds": [
+        0,
+        1407,
+        4,
+        2199
+      ],
+      "exercised": false,
+      "expected_next_page": null
+    },
+    {
+      "action": "Click the border_right",
+      "target_element": "View",
+      "target_text": null,
+      "target_resid": "border_right",
+      "bounds": [
+        1436,
+        1407,
+        1440,
+        2199
+      ],
+      "exercised": false,
+      "expected_next_page": null
+    },
+    {
+      "action": "Click the Todo",
+      "target_element": "CircleBandItem",
+      "target_text": "Todo",
+      "target_resid": null,
+      "bounds": [
+        0,
+        252,
+        245,
+        399
+      ],
+      "exercised": false,
+      "expected_next_page": null
+    },
+    {
+      "action": "Click the Política",
+      "target_element": "CircleBandItem",
+      "target_text": "Política",
+      "target_resid": null,
+      "bounds": [
+        246,
+        252,
+        491,
+        399
+      ],
+      "exercised": false,
+      "expected_next_page": null
+    },
+    {
+      "action": "Click the Cultura",
+      "target_element": "CircleBandItem",
+      "target_text": "Cultura",
+      "target_resid": null,
+      "bounds": [
+        492,
+        252,
+        737,
+        399
+      ],
+      "exercised": false,
+      "expected_next_page": null
+    },
+    {
+      "action": "Click the Turismo",
+      "target_element": "CircleBandItem",
+      "target_text": "Turismo",
+      "target_resid": null,
+      "bounds": [
+        738,
+        252,
+        983,
+        399
+      ],
+      "exercised": false,
+      "expected_next_page": null
+    },
+    {
+      "action": "Click the Opinión",
+      "target_element": "CircleBandItem",
+      "target_text": "Opinión",
+      "target_resid": null,
+      "bounds": [
+        984,
+        252,
+        1229,
+        399
+      ],
+      "exercised": false,
+      "expected_next_page": null
+    },
+    {
+      "action": "Click the Sociedad",
+      "target_element": "CircleBandItem",
+      "target_text": "Sociedad",
+      "target_resid": null,
+      "bounds": [
+        1230,
+        252,
+        1440,
+        399
+      ],
+      "exercised": false,
+      "expected_next_page": null
+    }
+  ],
+  "Page_2": [
+    {
+      "action": "Click the o",
+      "target_element": "o",
+      "target_text": null,
+      "target_resid": null,
+      "bounds": [
+        160,
+        2006,
+        1280,
+        2181
+      ],
+      "exercised": false,
+      "expected_next_page": null
+    },
+    {
+      "action": "Click the article_webview",
+      "target_element": "ObservableWebView",
+      "target_text": null,
+      "target_resid": "article_webview",
+      "bounds": [
+        0,
+        84,
+        1440,
+        2006
+      ],
+      "exercised": false,
+      "expected_next_page": null
+    },
+    {
+      "action": "Click the image_header",
+      "target_element": "ImageView",
+      "target_text": null,
+      "target_resid": "image_header",
+      "bounds": [
+        0,
+        84,
+        1440,
+        959
+      ],
+      "exercised": false,
+      "expected_next_page": null
+    },
+    {
+      "action": "Click the toolbar_item",
+      "target_element": "ImageButton",
+      "target_text": null,
+      "target_resid": "toolbar_item",
+      "bounds": [
+        0,
+        2199,
+        720,
+        2392
+      ],
+      "exercised": false,
+      "expected_next_page": null
+    },
+    {
+      "action": "Click the toolbar_item",
+      "target_element": "ImageButton",
+      "target_text": null,
+      "target_resid": "toolbar_item",
+      "bounds": [
+        720,
+        2199,
+        1440,
+        2392
+      ],
+      "exercised": false,
+      "expected_next_page": null
+    }
+  ],
+  "Page_3": [
+    {
+      "action": "Click the https://m.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fjamar.mobley.3%2Fvideos%2F1838493693071980%2F&show_text=0&width=560",
+      "target_element": "UrlInputView",
+      "target_text": "https://m.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fjamar.mobley.3%2Fvideos%2F1838493693071980%2F&show_text=0&width=560",
+      "target_resid": "url",
+      "bounds": [
+        187,
+        84,
+        1072,
+        266
+      ],
+      "exercised": false,
+      "expected_next_page": null
+    },
+    {
+      "action": "Click the tab_switcher",
+      "target_element": "ImageButton",
+      "target_text": null,
+      "target_resid": "tab_switcher",
+      "bounds": [
+        1104,
+        84,
+        1272,
+        266
+      ],
+      "exercised": false,
+      "expected_next_page": null
+    },
+    {
+      "action": "Click the more",
+      "target_element": "ImageButton",
+      "target_text": null,
+      "target_resid": "more",
+      "bounds": [
+        1272,
+        84,
+        1440,
+        266
+      ],
+      "exercised": false,
+      "expected_next_page": null
+    },
+    {
+      "action": "Click the BrowserWebView",
+      "target_element": "BrowserWebView",
+      "target_text": null,
+      "target_resid": null,
+      "bounds": [
+        0,
+        266,
+        1440,
+        2392
+      ],
+      "exercised": false,
+      "expected_next_page": null
+    }
+  ]
+}

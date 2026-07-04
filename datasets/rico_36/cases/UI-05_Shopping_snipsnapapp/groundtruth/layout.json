@@ -1,0 +1,621 @@
+{
+  "Page_0": [
+    {
+      "class": "TextView",
+      "text": "Sign Up",
+      "resource_id": null,
+      "bounds": [
+        46,
+        2239,
+        1396,
+        2360
+      ],
+      "clickable": false,
+      "semantic_label": null
+    },
+    {
+      "class": "ImageView",
+      "text": null,
+      "resource_id": "imageViewVideo",
+      "bounds": [
+        0,
+        256,
+        1440,
+        856
+      ],
+      "clickable": false,
+      "semantic_label": null
+    },
+    {
+      "class": "Button",
+      "text": null,
+      "resource_id": "button_banner_hiw",
+      "bounds": [
+        0,
+        381,
+        1440,
+        731
+      ],
+      "clickable": true,
+      "semantic_label": null
+    },
+    {
+      "class": "LinearLayout",
+      "text": null,
+      "resource_id": null,
+      "bounds": [
+        0,
+        856,
+        1440,
+        868
+      ],
+      "clickable": false,
+      "semantic_label": null
+    },
+    {
+      "class": "ImageView",
+      "text": null,
+      "resource_id": "imageView5",
+      "bounds": [
+        0,
+        882,
+        532,
+        1257
+      ],
+      "clickable": false,
+      "semantic_label": null
+    },
+    {
+      "class": "TextView",
+      "text": "Snap to Save",
+      "resource_id": "text_sync_devices",
+      "bounds": [
+        567,
+        941,
+        902,
+        1017
+      ],
+      "clickable": false,
+      "semantic_label": null
+    },
+    {
+      "class": "TextView",
+      "text": "Use your camera to magically turn any* offer into a mobile coupon.",
+      "resource_id": "text_sync_devices_subtext",
+      "bounds": [
+        567,
+        1017,
+        1405,
+        1110
+      ],
+      "clickable": false,
+      "semantic_label": null
+    },
+    {
+      "class": "TextView",
+      "text": "*SnipSnap does not yet support manufacturer  coupons, though we will in a future update.",
+      "resource_id": null,
+      "bounds": [
+        567,
+        1117,
+        1405,
+        1198
+      ],
+      "clickable": false,
+      "semantic_label": null
+    },
+    {
+      "class": "ImageView",
+      "text": null,
+      "resource_id": null,
+      "bounds": [
+        0,
+        1275,
+        1440,
+        1284
+      ],
+      "clickable": false,
+      "semantic_label": null
+    },
+    {
+      "class": "ImageView",
+      "text": null,
+      "resource_id": "imageView6",
+      "bounds": [
+        908,
+        1298,
+        1440,
+        1673
+      ],
+      "clickable": false,
+      "semantic_label": null
+    },
+    {
+      "class": "TextView",
+      "text": "Never Forget a Coupon",
+      "resource_id": "text_organize_savings",
+      "bounds": [
+        35,
+        1401,
+        643,
+        1477
+      ],
+      "clickable": false,
+      "semantic_label": null
+    },
+    {
+      "class": "TextView",
+      "text": "Get expiration alerts and location reminders, so you remember your coupons at the store.",
+      "resource_id": "text_organize_savings_subtext",
+      "bounds": [
+        35,
+        1477,
+        873,
+        1570
+      ],
+      "clickable": false,
+      "semantic_label": null
+    },
+    {
+      "class": "FrameLayout",
+      "text": null,
+      "resource_id": "imageView4",
+      "bounds": [
+        0,
+        1691,
+        1440,
+        1700
+      ],
+      "clickable": false,
+      "semantic_label": null
+    },
+    {
+      "class": "ImageView",
+      "text": null,
+      "resource_id": "imageView7",
+      "bounds": [
+        0,
+        1714,
+        532,
+        2089
+      ],
+      "clickable": false,
+      "semantic_label": null
+    },
+    {
+      "class": "TextView",
+      "text": "Scan to Redeem",
+      "resource_id": "text_share_follow_discover",
+      "bounds": [
+        567,
+        1817,
+        992,
+        1893
+      ],
+      "clickable": false,
+      "semantic_label": null
+    },
+    {
+      "class": "TextView",
+      "text": "Present the coupon barcode, promo code, or image at checkout.",
+      "resource_id": "text_share_follow_discover_subtext",
+      "bounds": [
+        567,
+        1893,
+        1405,
+        1986
+      ],
+      "clickable": false,
+      "semantic_label": null
+    },
+    {
+      "class": "FrameLayout",
+      "text": null,
+      "resource_id": null,
+      "bounds": [
+        0,
+        2107,
+        1440,
+        2116
+      ],
+      "clickable": false,
+      "semantic_label": null
+    },
+    {
+      "class": "ImageView",
+      "text": null,
+      "resource_id": "imageView8",
+      "bounds": [
+        873,
+        2130,
+        1405,
+        2209
+      ],
+      "clickable": false,
+      "semantic_label": null
+    },
+    {
+      "class": "ImageView",
+      "text": null,
+      "resource_id": "home",
+      "bounds": [
+        43,
+        112,
+        505,
+        224
+      ],
+      "clickable": false,
+      "semantic_label": null
+    },
+    {
+      "class": "ActionMenuItemView",
+      "text": "Sign In",
+      "resource_id": "signIn",
+      "bounds": [
+        1188,
+        84,
+        1440,
+        252
+      ],
+      "clickable": true,
+      "semantic_label": null
+    }
+  ],
+  "Page_1": [
+    {
+      "class": "BasicWebView",
+      "text": null,
+      "resource_id": "platform_dialog_webview",
+      "bounds": [
+        0,
+        84,
+        1440,
+        2392
+      ],
+      "clickable": true,
+      "semantic_label": null
+    },
+    {
+      "class": "View",
+      "text": null,
+      "resource_id": "navigationBarBackground",
+      "bounds": [
+        0,
+        2392,
+        1440,
+        2560
+      ],
+      "clickable": false,
+      "semantic_label": null
+    },
+    {
+      "class": "View",
+      "text": null,
+      "resource_id": "statusBarBackground",
+      "bounds": [
+        0,
+        0,
+        1440,
+        84
+      ],
+      "clickable": false,
+      "semantic_label": null
+    }
+  ],
+  "Page_2": [
+    {
+      "class": "ImageView",
+      "text": null,
+      "resource_id": null,
+      "bounds": [
+        72,
+        376,
+        184,
+        460
+      ],
+      "clickable": false,
+      "semantic_label": null
+    },
+    {
+      "class": "View",
+      "text": null,
+      "resource_id": null,
+      "bounds": [
+        184,
+        336,
+        185,
+        501
+      ],
+      "clickable": false,
+      "semantic_label": null
+    },
+    {
+      "class": "TextView",
+      "text": "Sign in with Facebook",
+      "resource_id": null,
+      "bounds": [
+        206,
+        336,
+        1372,
+        501
+      ],
+      "clickable": false,
+      "semantic_label": null
+    },
+    {
+      "class": "tj",
+      "text": "Sign in with Google",
+      "resource_id": null,
+      "bounds": [
+        28,
+        515,
+        1412,
+        708
+      ],
+      "clickable": true,
+      "semantic_label": null
+    },
+    {
+      "class": "TextView",
+      "text": "or",
+      "resource_id": "text_or",
+      "bounds": [
+        0,
+        743,
+        1440,
+        869
+      ],
+      "clickable": false,
+      "semantic_label": null
+    },
+    {
+      "class": "TextView",
+      "text": "Email Address",
+      "resource_id": "text1",
+      "bounds": [
+        35,
+        929,
+        448,
+        1145
+      ],
+      "clickable": false,
+      "semantic_label": null
+    },
+    {
+      "class": "EditText",
+      "text": null,
+      "resource_id": "text_email",
+      "bounds": [
+        448,
+        929,
+        1405,
+        1145
+      ],
+      "clickable": true,
+      "semantic_label": null
+    },
+    {
+      "class": "View",
+      "text": null,
+      "resource_id": null,
+      "bounds": [
+        35,
+        1145,
+        1405,
+        1146
+      ],
+      "clickable": false,
+      "semantic_label": null
+    },
+    {
+      "class": "TextView",
+      "text": "Password",
+      "resource_id": "text2",
+      "bounds": [
+        35,
+        1145,
+        448,
+        1361
+      ],
+      "clickable": false,
+      "semantic_label": null
+    },
+    {
+      "class": "EditText",
+      "text": null,
+      "resource_id": "text_password",
+      "bounds": [
+        448,
+        1145,
+        1405,
+        1361
+      ],
+      "clickable": true,
+      "semantic_label": null
+    },
+    {
+      "class": "TextView",
+      "text": "Forget your password?",
+      "resource_id": "text_forgot_your_password",
+      "bounds": [
+        0,
+        1372,
+        1440,
+        1483
+      ],
+      "clickable": true,
+      "semantic_label": null
+    },
+    {
+      "class": "Button",
+      "text": "Sign In",
+      "resource_id": "email_sign_in_button",
+      "bounds": [
+        0,
+        2199,
+        1440,
+        2392
+      ],
+      "clickable": true,
+      "semantic_label": null
+    },
+    {
+      "class": "ImageView",
+      "text": null,
+      "resource_id": "up",
+      "bounds": [
+        0,
+        140,
+        56,
+        196
+      ],
+      "clickable": false,
+      "semantic_label": null
+    },
+    {
+      "class": "ImageView",
+      "text": null,
+      "resource_id": "home",
+      "bounds": [
+        43,
+        112,
+        155,
+        224
+      ],
+      "clickable": false,
+      "semantic_label": null
+    },
+    {
+      "class": "TextView",
+      "text": "Sign In",
+      "resource_id": "action_bar_title",
+      "bounds": [
+        169,
+        125,
+        359,
+        210
+      ],
+      "clickable": false,
+      "semantic_label": null
+    }
+  ],
+  "Page_3": [
+    {
+      "class": "ImageView",
+      "text": null,
+      "resource_id": "account_profile_picture",
+      "bounds": [
+        176,
+        182,
+        316,
+        322
+      ],
+      "clickable": false,
+      "semantic_label": null
+    },
+    {
+      "class": "TextView",
+      "text": "App Crawler",
+      "resource_id": "account_display_name",
+      "bounds": [
+        372,
+        182,
+        674,
+        258
+      ],
+      "clickable": false,
+      "semantic_label": null
+    },
+    {
+      "class": "TextView",
+      "text": "appcrawler5@gmail.com",
+      "resource_id": "account_name",
+      "bounds": [
+        372,
+        258,
+        839,
+        315
+      ],
+      "clickable": false,
+      "semantic_label": null
+    },
+    {
+      "class": "TextView",
+      "text": "SnipSnap would like to:",
+      "resource_id": "app_name",
+      "bounds": [
+        176,
+        448,
+        1264,
+        533
+      ],
+      "clickable": false,
+      "semantic_label": null
+    },
+    {
+      "class": "ImageView",
+      "text": null,
+      "resource_id": "scope_icon",
+      "bounds": [
+        176,
+        617,
+        260,
+        701
+      ],
+      "clickable": false,
+      "semantic_label": null
+    },
+    {
+      "class": "TextView",
+      "text": "Know your age range and language",
+      "resource_id": "scope_description_label",
+      "bounds": [
+        302,
+        617,
+        1064,
+        683
+      ],
+      "clickable": true,
+      "semantic_label": null
+    },
+    {
+      "class": "TextView",
+      "text": "By continuing, you allow this app and Google to use your information in accordance with their respective terms of service and privacy policies.",
+      "resource_id": "footnote",
+      "bounds": [
+        176,
+        743,
+        1264,
+        940
+      ],
+      "clickable": false,
+      "semantic_label": null
+    },
+    {
+      "class": "Button",
+      "text": "Deny",
+      "resource_id": "cancel_button",
+      "bounds": [
+        676,
+        2168,
+        984,
+        2294
+      ],
+      "clickable": true,
+      "semantic_label": null
+    },
+    {
+      "class": "Button",
+      "text": "Allow",
+      "resource_id": "accept_button",
+      "bounds": [
+        984,
+        2168,
+        1292,
+        2294
+      ],
+      "clickable": true,
+      "semantic_label": null
+    }
+  ]
+}

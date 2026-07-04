@@ -1,0 +1,309 @@
+{
+  "Page_0": [
+    {
+      "action": "Click the Get lost in millions of\n magazines for free.",
+      "target_element": "AppCompatTextView",
+      "target_text": "Get lost in millions of\n magazines for free.",
+      "target_resid": "text_view_authentication_welcome",
+      "bounds": [
+        381,
+        610,
+        1059,
+        799
+      ],
+      "exercised": false,
+      "expected_next_page": null
+    },
+    {
+      "action": "Click the button_connect_with_google_plus",
+      "target_element": "AppCompatImageButton",
+      "target_text": null,
+      "target_resid": "button_connect_with_google_plus",
+      "bounds": [
+        286,
+        1392,
+        1154,
+        1546
+      ],
+      "exercised": false,
+      "expected_next_page": null
+    },
+    {
+      "action": "Click the button_connect_with_facebook",
+      "target_element": "AppCompatImageButton",
+      "target_text": null,
+      "target_resid": "button_connect_with_facebook",
+      "bounds": [
+        286,
+        1560,
+        1154,
+        1714
+      ],
+      "exercised": false,
+      "expected_next_page": null
+    },
+    {
+      "action": "Click the more options",
+      "target_element": "AppCompatTextView",
+      "target_text": "more options",
+      "target_resid": "more_options",
+      "bounds": [
+        483,
+        1721,
+        956,
+        1923
+      ],
+      "exercised": false,
+      "expected_next_page": null
+    },
+    {
+      "action": "Click the Sign Up",
+      "target_element": "AppCompatTextView",
+      "target_text": "Sign Up",
+      "target_resid": "sign_up_button",
+      "bounds": [
+        0,
+        2158,
+        355,
+        2392
+      ],
+      "exercised": false,
+      "expected_next_page": null
+    },
+    {
+      "action": "Click the skip",
+      "target_element": "AppCompatTextView",
+      "target_text": "skip",
+      "target_resid": "image_view_close_login_screen",
+      "bounds": [
+        1166,
+        2158,
+        1440,
+        2392
+      ],
+      "exercised": false,
+      "expected_next_page": null
+    }
+  ],
+  "Page_1": [
+    {
+      "action": "Click the platform_dialog_webview",
+      "target_element": "BasicWebView",
+      "target_text": null,
+      "target_resid": "platform_dialog_webview",
+      "bounds": [
+        0,
+        84,
+        1440,
+        2392
+      ],
+      "exercised": false,
+      "expected_next_page": null
+    }
+  ],
+  "Page_2": [
+    {
+      "action": "Click the Shop Now",
+      "target_element": "AppCompatButton",
+      "target_text": "Shop Now",
+      "target_resid": "home_native_ad_action_button",
+      "bounds": [
+        960,
+        84,
+        1352,
+        209
+      ],
+      "exercised": false,
+      "expected_next_page": null
+    },
+    {
+      "action": "Click the NEW PIONEER AVH-X5800BHS 7\" LCD DOUBLE DIN BLUETOOTH DVD (Replaced AVH-X5700BHS)",
+      "target_element": "AppCompatTextView",
+      "target_text": "NEW PIONEER AVH-X5800BHS 7\" LCD DOUBLE DIN BLUETOOTH DVD (Replaced AVH-X5700BHS)",
+      "target_resid": "facebook_native_ad_title",
+      "bounds": [
+        88,
+        84,
+        932,
+        209
+      ],
+      "exercised": false,
+      "expected_next_page": null
+    },
+    {
+      "action": "Click the publication_item_image",
+      "target_element": "FixedRatioImageView",
+      "target_text": null,
+      "target_resid": "publication_item_image",
+      "bounds": [
+        67,
+        563,
+        681,
+        1357
+      ],
+      "exercised": false,
+      "expected_next_page": null
+    },
+    {
+      "action": "Click the publication_item_image",
+      "target_element": "FixedRatioImageView",
+      "target_text": null,
+      "target_resid": "publication_item_image",
+      "bounds": [
+        759,
+        556,
+        1373,
+        1357
+      ],
+      "exercised": false,
+      "expected_next_page": null
+    },
+    {
+      "action": "Click the publication_item_image",
+      "target_element": "FixedRatioImageView",
+      "target_text": null,
+      "target_resid": "publication_item_image",
+      "bounds": [
+        67,
+        1443,
+        681,
+        2261
+      ],
+      "exercised": false,
+      "expected_next_page": null
+    },
+    {
+      "action": "Click the publication_item_image",
+      "target_element": "FixedRatioImageView",
+      "target_text": null,
+      "target_resid": "publication_item_image",
+      "bounds": [
+        759,
+        1454,
+        1373,
+        2261
+      ],
+      "exercised": false,
+      "expected_next_page": null
+    },
+    {
+      "action": "Click the Show More",
+      "target_element": "AppCompatTextView",
+      "target_text": "Show More",
+      "target_resid": "home_collection_item_footer",
+      "bounds": [
+        56,
+        2304,
+        1384,
+        2392
+      ],
+      "exercised": false,
+      "expected_next_page": null
+    }
+  ],
+  "Page_3": [
+    {
+      "action": "Click the Saving and sharing any part of a publication with your social networks is easy using Issuu clip.\n\nSelect the create Clip icon from the upper right corner of the page, select the area you want to save and voila!, you're a Clip pro.",
+      "target_element": "AppCompatTextView",
+      "target_text": "Saving and sharing any part of a publication with your social networks is easy using Issuu clip.\n\nSelect the create Clip icon from the upper right corner of the page, select the area you want to save and voila!, you're a Clip pro.",
+      "target_resid": null,
+      "bounds": [
+        195,
+        910,
+        1245,
+        1546
+      ],
+      "exercised": false,
+      "expected_next_page": null
+    },
+    {
+      "action": "Click the Later",
+      "target_element": "AppCompatButton",
+      "target_text": "Later",
+      "target_resid": "negative_button",
+      "bounds": [
+        614,
+        1658,
+        838,
+        1784
+      ],
+      "exercised": false,
+      "expected_next_page": null
+    },
+    {
+      "action": "Click the Create clip",
+      "target_element": "AppCompatButton",
+      "target_text": "Create clip",
+      "target_resid": "positive_button",
+      "bounds": [
+        866,
+        1658,
+        1217,
+        1784
+      ],
+      "exercised": false,
+      "expected_next_page": null
+    }
+  ],
+  "Page_4": [
+    {
+      "action": "Click the image_button_create_clip",
+      "target_element": "AppCompatImageButton",
+      "target_text": null,
+      "target_resid": "image_button_create_clip",
+      "bounds": [
+        1272,
+        112,
+        1412,
+        252
+      ],
+      "exercised": false,
+      "expected_next_page": null
+    }
+  ],
+  "Page_5": [
+    {
+      "action": "Click the ImageButton",
+      "target_element": "ImageButton",
+      "target_text": null,
+      "target_resid": null,
+      "bounds": [
+        0,
+        84,
+        196,
+        280
+      ],
+      "exercised": false,
+      "expected_next_page": null
+    },
+    {
+      "action": "Click the menu_cancel",
+      "target_element": "ActionMenuItemView",
+      "target_text": null,
+      "target_resid": "menu_cancel",
+      "bounds": [
+        1104,
+        98,
+        1272,
+        266
+      ],
+      "exercised": false,
+      "expected_next_page": null
+    },
+    {
+      "action": "Click the menu_done",
+      "target_element": "ActionMenuItemView",
+      "target_text": null,
+      "target_resid": "menu_done",
+      "bounds": [
+        1272,
+        98,
+        1440,
+        266
+      ],
+      "exercised": false,
+      "expected_next_page": null
+    }
+  ],
+  "Page_6": []
+}

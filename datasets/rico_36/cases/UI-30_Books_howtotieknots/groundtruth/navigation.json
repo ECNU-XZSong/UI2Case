@@ -1,0 +1,32 @@
+[
+  {
+    "source_page": "Page_0",
+    "target_page": "Page_1",
+    "action": "Click Bends",
+    "needs_review": false
+  },
+  {
+    "source_page": "Page_1",
+    "target_page": "Page_5",
+    "action": "Click Carrick Bend",
+    "needs_review": false
+  },
+  {
+    "source_page": "Page_5",
+    "target_page": "Page_2",
+    "action": "Click Begin",
+    "needs_review": false
+  },
+  {
+    "source_page": "Page_5",
+    "target_page": "Page_4",
+    "action": "Click the settings gear",
+    "needs_review": false
+  },
+  {
+    "source_page": "Page_5",
+    "target_page": "Page_6",
+    "action": "Click the star (Favorites)",
+    "needs_review": false
+  }
+]

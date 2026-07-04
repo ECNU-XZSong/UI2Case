@@ -1,0 +1,20 @@
+[
+  {
+    "source_page": "Page_3",
+    "target_page": "Page_1",
+    "action": "Click Log In",
+    "needs_review": false
+  },
+  {
+    "source_page": "Page_1",
+    "target_page": "Page_0",
+    "action": "Click Log in with Facebook",
+    "needs_review": false
+  },
+  {
+    "source_page": "Page_1",
+    "target_page": "Page_2",
+    "action": "Click connect Facebook account",
+    "needs_review": false
+  }
+]

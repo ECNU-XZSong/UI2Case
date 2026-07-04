@@ -1,0 +1,352 @@
+{
+  "Page_0": [
+    {
+      "action": "Click the Next",
+      "target_element": "AppCompatButton",
+      "target_text": "Next",
+      "target_resid": "nextbtn",
+      "bounds": [
+        70,
+        2129,
+        1370,
+        2287
+      ],
+      "exercised": false,
+      "expected_next_page": null
+    }
+  ],
+  "Page_1": [
+    {
+      "action": "Click the Next",
+      "target_element": "AppCompatButton",
+      "target_text": "Next",
+      "target_resid": "nextbtn",
+      "bounds": [
+        70,
+        2129,
+        1370,
+        2287
+      ],
+      "exercised": false,
+      "expected_next_page": null
+    }
+  ],
+  "Page_2": [
+    {
+      "action": "Click the icon_code",
+      "target_element": "CenteredCustomFontView",
+      "target_text": null,
+      "target_resid": "icon_code",
+      "bounds": [
+        88,
+        1074,
+        246,
+        1232
+      ],
+      "exercised": false,
+      "expected_next_page": null
+    },
+    {
+      "action": "Click the icon_code",
+      "target_element": "CenteredCustomFontView",
+      "target_text": null,
+      "target_resid": "icon_code",
+      "bounds": [
+        88,
+        1354,
+        246,
+        1512
+      ],
+      "exercised": false,
+      "expected_next_page": null
+    },
+    {
+      "action": "Click the icon_code",
+      "target_element": "CenteredCustomFontView",
+      "target_text": null,
+      "target_resid": "icon_code",
+      "bounds": [
+        88,
+        1634,
+        246,
+        1792
+      ],
+      "exercised": false,
+      "expected_next_page": null
+    },
+    {
+      "action": "Click the GET MY PLAN NOW",
+      "target_element": "AppCompatButton",
+      "target_text": "GET MY PLAN NOW",
+      "target_resid": "getPlan",
+      "bounds": [
+        105,
+        2076,
+        1335,
+        2244
+      ],
+      "exercised": false,
+      "expected_next_page": null
+    },
+    {
+      "action": "Click the NO THANKS, START FOR FREE",
+      "target_element": "AppCompatTextView",
+      "target_text": "NO THANKS, START FOR FREE",
+      "target_resid": "startFree",
+      "bounds": [
+        386,
+        2314,
+        1053,
+        2415
+      ],
+      "exercised": false,
+      "expected_next_page": null
+    }
+  ],
+  "Page_3": [
+    {
+      "action": "Click the webView",
+      "target_element": "WebView",
+      "target_text": null,
+      "target_resid": "webView",
+      "bounds": [
+        0,
+        84,
+        1440,
+        2392
+      ],
+      "exercised": false,
+      "expected_next_page": null
+    },
+    {
+      "action": "Click the cross",
+      "target_element": "CenteredCustomFontView",
+      "target_text": null,
+      "target_resid": "cross",
+      "bounds": [
+        18,
+        172,
+        158,
+        277
+      ],
+      "exercised": false,
+      "expected_next_page": null
+    }
+  ],
+  "Page_4": [
+    {
+      "action": "Click the cross",
+      "target_element": "CenteredCustomFontView",
+      "target_text": null,
+      "target_resid": "cross",
+      "bounds": [
+        18,
+        172,
+        158,
+        277
+      ],
+      "exercised": false,
+      "expected_next_page": null
+    },
+    {
+      "action": "Click the I'm ready to commit!",
+      "target_element": "AppCompatButton",
+      "target_text": "I'm ready to commit!",
+      "target_resid": "commitbtn",
+      "bounds": [
+        195,
+        1728,
+        1245,
+        1903
+      ],
+      "exercised": false,
+      "expected_next_page": null
+    }
+  ],
+  "Page_5": [
+    {
+      "action": "Click the activity_with_fragment_arrow",
+      "target_element": "CenteredCustomFontView",
+      "target_text": null,
+      "target_resid": "activity_with_fragment_arrow",
+      "bounds": [
+        56,
+        84,
+        161,
+        280
+      ],
+      "exercised": false,
+      "expected_next_page": null
+    },
+    {
+      "action": "Click the activity_sleeptimeinfo_go_premium",
+      "target_element": "CenteredCustomFontView",
+      "target_text": null,
+      "target_resid": "activity_sleeptimeinfo_go_premium",
+      "bounds": [
+        1177,
+        84,
+        1387,
+        280
+      ],
+      "exercised": false,
+      "expected_next_page": null
+    },
+    {
+      "action": "Click the Get Started",
+      "target_element": "AppCompatButton",
+      "target_text": "Get Started",
+      "target_resid": "btnStarted",
+      "bounds": [
+        35,
+        2189,
+        1405,
+        2357
+      ],
+      "exercised": false,
+      "expected_next_page": null
+    }
+  ],
+  "Page_6": [
+    {
+      "action": "Click the Alarm",
+      "target_element": "XMLTypefaceTextView",
+      "target_text": "Alarm",
+      "target_resid": null,
+      "bounds": [
+        56,
+        84,
+        590,
+        280
+      ],
+      "exercised": false,
+      "expected_next_page": null
+    },
+    {
+      "action": "Click the Insights",
+      "target_element": "XMLTypefaceTextView",
+      "target_text": "Insights",
+      "target_resid": null,
+      "bounds": [
+        590,
+        84,
+        1124,
+        280
+      ],
+      "exercised": false,
+      "expected_next_page": null
+    },
+    {
+      "action": "Click the action_wp",
+      "target_element": "CenteredCustomFontView",
+      "target_text": null,
+      "target_resid": "action_wp",
+      "bounds": [
+        1124,
+        112,
+        1282,
+        252
+      ],
+      "exercised": false,
+      "expected_next_page": null
+    },
+    {
+      "action": "Click the action_settings",
+      "target_element": "AppCompatImageButton",
+      "target_text": null,
+      "target_resid": "action_settings",
+      "bounds": [
+        1282,
+        112,
+        1422,
+        252
+      ],
+      "exercised": false,
+      "expected_next_page": null
+    },
+    {
+      "action": "Click the image_button_info",
+      "target_element": "AppCompatImageButton",
+      "target_text": null,
+      "target_resid": "image_button_info",
+      "bounds": [
+        1160,
+        280,
+        1384,
+        504
+      ],
+      "exercised": false,
+      "expected_next_page": null
+    },
+    {
+      "action": "Click the image_go_premium",
+      "target_element": "CenteredCustomFontView",
+      "target_text": null,
+      "target_resid": "image_go_premium",
+      "bounds": [
+        1153,
+        455,
+        1363,
+        665
+      ],
+      "exercised": false,
+      "expected_next_page": null
+    },
+    {
+      "action": "Click the image_button_settings",
+      "target_element": "AppCompatImageButton",
+      "target_text": null,
+      "target_resid": "image_button_settings",
+      "bounds": [
+        56,
+        280,
+        280,
+        504
+      ],
+      "exercised": false,
+      "expected_next_page": null
+    },
+    {
+      "action": "Click the action_alarmclock_start",
+      "target_element": "AppCompatButton",
+      "target_text": null,
+      "target_resid": "action_alarmclock_start",
+      "bounds": [
+        1065,
+        1840,
+        1328,
+        2103
+      ],
+      "exercised": false,
+      "expected_next_page": null
+    },
+    {
+      "action": "Click the m",
+      "target_element": "m",
+      "target_text": null,
+      "target_resid": null,
+      "bounds": [
+        160,
+        2217,
+        1280,
+        2392
+      ],
+      "exercised": false,
+      "expected_next_page": null
+    },
+    {
+      "action": "Click the ad_view_banner_close",
+      "target_element": "AppCompatImageButton",
+      "target_text": null,
+      "target_resid": "ad_view_banner_close",
+      "bounds": [
+        1247,
+        2217,
+        1387,
+        2392
+      ],
+      "exercised": false,
+      "expected_next_page": null
+    }
+  ]
+}
